@@ -26,6 +26,35 @@
 .quick-nav{position:fixed;left:50%;transform:translateX(-50%);bottom:10px;z-index:100;width:min(680px,calc(100% - 20px));display:grid;grid-template-columns:repeat(4,1fr);gap:7px;padding:7px;border:1px solid var(--line);border-radius:18px;background:rgba(255,255,255,.96);backdrop-filter:blur(8px);box-shadow:0 6px 24px rgba(0,0,0,.12)}.quick-nav a{text-align:center;text-decoration:none;padding:10px 4px;border-radius:12px;font-size:13px;font-weight:800}.quick-nav a:active{background:var(--accent-soft)}.anchor{scroll-margin-top:10px}.tradingview-widget-container,.tradingview-widget-container__widget{width:100%!important}
 @media(max-width:820px){.wrap{padding:11px;padding-bottom:88px}header{display:block}.status-box{width:100%;min-width:0;margin-top:10px}.span-8,.span-6,.span-4{grid-column:span 12}.card{padding:14px;border-radius:16px}.section-title{font-size:21px}.section-note{font-size:14px}.quote-shell{min-height:185px}.chart-shell{height:490px}.tech-shell{min-height:500px}.news-shell,.calendar-shell{height:680px}.memo-grid{grid-template-columns:1fr}.memo-field input,textarea{font-size:16px}}
 @media(max-width:420px){.chart-shell{height:450px}.news-shell,.calendar-shell{height:640px}.quick-nav a{font-size:12px}}
+
+.jp-list{display:grid;gap:11px;padding:12px}
+.jp-item{border:1px solid var(--line);border-radius:14px;padding:13px;background:#fff}
+.jp-meta{display:flex;flex-wrap:wrap;gap:7px;align-items:center;margin-bottom:7px}
+.jp-badge{display:inline-flex;align-items:center;border-radius:999px;padding:3px 8px;font-size:11px;font-weight:800;background:var(--accent-soft);color:var(--accent)}
+.jp-date{font-size:12px;color:var(--muted)}
+.jp-title{display:block;font-size:16px;line-height:1.55;font-weight:800;text-decoration:none;margin-bottom:5px}
+.jp-source{font-size:12px;color:var(--muted)}
+.jp-loading{padding:28px 16px;text-align:center;color:var(--muted)}
+.jp-error{padding:18px}
+.jp-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.jp-link{display:inline-flex;text-decoration:none;border:1px solid var(--line);border-radius:11px;padding:9px 11px;background:#fff;font-size:13px;font-weight:800}
+.calendar-row{display:grid;grid-template-columns:88px 1fr;gap:11px;align-items:start}
+.calendar-time{border-radius:12px;background:var(--accent-soft);color:var(--accent);padding:9px 7px;text-align:center;font-weight:800;line-height:1.35}
+.calendar-country{font-size:12px;color:var(--muted);margin-bottom:3px}
+.calendar-values{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:8px}
+.calendar-value{background:var(--soft);border-radius:9px;padding:7px;font-size:11px}
+.calendar-value strong{display:block;font-size:12px;color:var(--ink)}
+.importance-high{background:#fdecec;color:#8f2d2d}
+.importance-medium{background:#fff4df;color:#8a5a0b}
+.importance-low{background:#eaf2f8;color:#315e81}
+@media(max-width:820px){
+  .jp-list{padding:8px}
+  .jp-item{padding:14px}
+  .jp-title{font-size:18px}
+  .calendar-row{grid-template-columns:82px 1fr}
+  .calendar-values{grid-template-columns:1fr}
+}
+
 </style>
 </head>
 <body>
@@ -35,8 +64,20 @@
 <section class="card span-12 anchor" id="quote"><div class="live-pill"><span class="live-dot"></span>開くたびに市場データを読み込み</div><h2 class="section-title">ドル円の現在値</h2><div class="section-note">現在値・前日比・騰落率はTradingViewから表示します。</div><div class="widget-shell quote-shell"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/USDJPY/" rel="noopener nofollow" target="_blank">USD/JPY market data by TradingView</a></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>{"symbol":"FX:USDJPY","width":"100%","locale":"ja","colorTheme":"light","isTransparent":true}</script></div></div></section>
 <section class="card span-8 anchor" id="chart"><h2 class="section-title">ライブチャート</h2><div class="section-note">時間足や日足へ切り替えられます。最新データはページを開くたびに再取得されます。</div><div class="widget-shell chart-shell"><div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:calc(100% - 28px);width:100%"></div><div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/USDJPY/" rel="noopener nofollow" target="_blank">USD/JPY chart by TradingView</a></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>{"autosize":true,"symbol":"FX:USDJPY","interval":"60","timezone":"Asia/Tokyo","theme":"light","style":"1","locale":"ja","allow_symbol_change":false,"calendar":false,"hide_side_toolbar":true,"hide_volume":true,"withdateranges":true,"save_image":false,"support_host":"https://www.tradingview.com"}</script></div></div></section>
 <section class="card span-4"><h2 class="section-title">テクニカル判定</h2><div class="section-note">1分足から日足まで切り替えて確認できます。</div><div class="widget-shell tech-shell"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/USDJPY/technicals/" rel="noopener nofollow" target="_blank">USD/JPY technicals by TradingView</a></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>{"interval":"1h","width":"100%","height":465,"isTransparent":true,"symbol":"FX:USDJPY","showIntervalTabs":true,"displayMode":"single","locale":"ja","colorTheme":"light"}</script></div></div></section>
-<section class="card span-6 anchor" id="news"><h2 class="section-title">ドル円関連ニュース</h2><div class="section-note">固定記事ではなく、ドル円に関連する最新ニュースを読み込みます。</div><div class="widget-shell news-shell"><div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:calc(100% - 28px);width:100%"></div><div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/news/" rel="noopener nofollow" target="_blank">Market news by TradingView</a></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-timeline.js" async>{"feedMode":"symbol","symbol":"FX:USDJPY","isTransparent":true,"displayMode":"regular","width":"100%","height":"100%","colorTheme":"light","locale":"ja"}</script></div></div></section>
-<section class="card span-6 anchor" id="calendar"><h2 class="section-title">関連する経済日程</h2><div class="section-note">日本と米国の経済指標・金融政策イベントを最新日程で表示します。</div><div class="widget-shell calendar-shell"><div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:calc(100% - 28px);width:100%"></div><div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/economic-calendar/" rel="noopener nofollow" target="_blank">Economic calendar by TradingView</a></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>{"colorTheme":"light","isTransparent":true,"locale":"ja","countryFilter":"jp,us","importanceFilter":"-1,0,1","width":"100%","height":"100%"}</script></div></div></section>
+<section class="card span-6 anchor" id="news">
+  <h2 class="section-title">ドル円関連ニュース</h2>
+  <div class="section-note">日本語の報道機関・日本語版ニュースから最新見出しを読み込みます。</div>
+  <div class="widget-shell news-shell" style="overflow:auto">
+    <div id="jpNews" class="jp-loading">日本語ニュースを読み込んでいます…</div>
+  </div>
+</section>
+<section class="card span-6 anchor" id="calendar">
+  <h2 class="section-title">関連する経済日程</h2>
+  <div class="section-note">日本・米国の重要指標を日本時間・日本語名で表示します。</div>
+  <div class="widget-shell calendar-shell" style="overflow:auto">
+    <div id="jpCalendar" class="jp-loading">日本語の経済日程を読み込んでいます…</div>
+  </div>
+</section>
 <section class="card span-12 anchor" id="memo"><h2 class="section-title">売買メモ</h2><div class="section-note">内容はこのスマホのブラウザ内だけに保存されます。</div><div class="memo-grid"><div class="memo-field"><label for="memoDate">記入日</label><input id="memoDate" type="date"></div><div class="memo-field"><label for="memoPrice">注目レート</label><input id="memoPrice" type="text" placeholder="例：157.50円"></div><div class="memo-field"><label for="memoAction">売買方針</label><input id="memoAction" type="text" placeholder="例：重要指標前は見送る"></div></div><div class="memo-field"><label for="memoText">判断理由・損切り・利確条件</label><textarea id="memoText" placeholder="売買前に、根拠・損切り価格・利確条件を記入してください。"></textarea></div><div class="memo-actions"><button class="save-btn" type="button" onclick="saveMemo()">この端末に保存</button><button class="secondary-btn" type="button" onclick="clearMemo()">メモを消去</button><span class="memo-status" id="memoStatus"></span></div></section>
 <section class="card span-12"><div class="info"><strong>更新方法：</strong>公開ページを新しく開くと、現在値・チャート・ニュース・経済日程をその時点で読み込みます。表示したまま長時間経過した場合は、上部の「最新情報を再読み込み」を押してください。</div><div class="footer">データはTradingView提供です。市場・配信元によって遅延や価格差が生じる場合があります。本ページは情報整理用で、売買推奨ではありません。</div></section>
 </div></div>
@@ -47,6 +88,202 @@ function refreshDashboard(){const base=location.origin+location.pathname;locatio
 function saveMemo(){const memo={date:document.getElementById('memoDate').value,price:document.getElementById('memoPrice').value,action:document.getElementById('memoAction').value,text:document.getElementById('memoText').value};localStorage.setItem('usdjpyTradeMemo',JSON.stringify(memo));const s=document.getElementById('memoStatus');s.textContent='保存しました';setTimeout(()=>s.textContent='',1800)}
 function clearMemo(){localStorage.removeItem('usdjpyTradeMemo');document.getElementById('memoDate').value='';document.getElementById('memoPrice').value='';document.getElementById('memoAction').value='';document.getElementById('memoText').value='';const s=document.getElementById('memoStatus');s.textContent='消去しました';setTimeout(()=>s.textContent='',1800)}
 function loadMemo(){const saved=localStorage.getItem('usdjpyTradeMemo');if(saved){try{const m=JSON.parse(saved);document.getElementById('memoDate').value=m.date||'';document.getElementById('memoPrice').value=m.price||'';document.getElementById('memoAction').value=m.action||'';document.getElementById('memoText').value=m.text||'';return}catch(e){}}const today=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tokyo'}).format(new Date());document.getElementById('memoDate').value=today}
-window.addEventListener('pageshow',function(event){updateOpenedAt();if(event.persisted){setTimeout(()=>refreshDashboard(),50)}});updateOpenedAt();loadMemo();
+
+function escapeHtml(value){
+  return String(value ?? '').replace(/[&<>"']/g, ch => ({
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'
+  }[ch]));
+}
+
+async function fetchTextWithProxy(url){
+  const candidates = [
+    url,
+    'https://api.allorigins.win/raw?url=' + encodeURIComponent(url)
+  ];
+  let lastError;
+  for(const candidate of candidates){
+    try{
+      const res = await fetch(candidate, {cache:'no-store'});
+      if(!res.ok) throw new Error('HTTP ' + res.status);
+      return await res.text();
+    }catch(e){
+      lastError = e;
+    }
+  }
+  throw lastError || new Error('取得できませんでした');
+}
+
+function japaneseDate(dateValue){
+  const d = new Date(dateValue);
+  if(Number.isNaN(d.getTime())) return '';
+  return new Intl.DateTimeFormat('ja-JP',{
+    timeZone:'Asia/Tokyo',
+    month:'numeric',day:'numeric',weekday:'short',
+    hour:'2-digit',minute:'2-digit'
+  }).format(d);
+}
+
+async function loadJapaneseNews(){
+  const box = document.getElementById('jpNews');
+  const query = encodeURIComponent('ドル円 OR 円安 OR 円高 OR 日本銀行 OR FOMC');
+  const rss = `https://news.google.com/rss/search?q=${query}&hl=ja&gl=JP&ceid=JP:ja`;
+  try{
+    const xmlText = await fetchTextWithProxy(rss);
+    const xml = new DOMParser().parseFromString(xmlText, 'text/xml');
+    const items = [...xml.querySelectorAll('item')].slice(0, 10);
+    if(!items.length) throw new Error('記事がありません');
+    box.className = 'jp-list';
+    box.innerHTML = items.map(item => {
+      const title = item.querySelector('title')?.textContent?.trim() || 'ドル円関連ニュース';
+      const link = item.querySelector('link')?.textContent?.trim() || '#';
+      const pubDate = item.querySelector('pubDate')?.textContent || '';
+      const source = item.querySelector('source')?.textContent?.trim() || 'Google ニュース';
+      return `
+        <article class="jp-item">
+          <div class="jp-meta">
+            <span class="jp-badge">日本語ニュース</span>
+            <span class="jp-date">${escapeHtml(japaneseDate(pubDate))}</span>
+          </div>
+          <a class="jp-title" href="${escapeHtml(link)}" target="_blank" rel="noopener">${escapeHtml(title)}</a>
+          <div class="jp-source">配信元：${escapeHtml(source)}</div>
+        </article>`;
+    }).join('');
+  }catch(e){
+    box.className = 'jp-error';
+    box.innerHTML = `
+      <strong>日本語ニュースを自動取得できませんでした。</strong>
+      <p class="section-note" style="margin-top:7px">通信状況や配信元の制限による場合があります。下の日本語ページから確認できます。</p>
+      <div class="jp-actions">
+        <a class="jp-link" href="https://news.google.com/search?q=%E3%83%89%E3%83%AB%E5%86%86&hl=ja&gl=JP&ceid=JP%3Aja" target="_blank" rel="noopener">Googleニュースでドル円を見る</a>
+        <a class="jp-link" href="https://finance.yahoo.co.jp/quote/USDJPY=FX" target="_blank" rel="noopener">Yahoo!ファイナンスを見る</a>
+      </div>`;
+  }
+}
+
+function translateEventTitle(title){
+  let t = String(title || '');
+  const rules = [
+    [/BoJ.*Interest Rate Decision|Interest Rate Decision.*BoJ/i,'日銀 政策金利発表'],
+    [/Fed.*Interest Rate Decision|Federal Reserve.*Interest Rate Decision/i,'FOMC 政策金利発表'],
+    [/FOMC Minutes/i,'FOMC議事要旨'],
+    [/FOMC/i,'米連邦公開市場委員会（FOMC）'],
+    [/Nonfarm Payrolls/i,'米国 非農業部門雇用者数'],
+    [/ADP Employment Change/i,'米国 ADP雇用者数'],
+    [/JOLTS Job Openings/i,'米国 JOLTS求人件数'],
+    [/Initial Jobless Claims/i,'米国 新規失業保険申請件数'],
+    [/Continuing Jobless Claims/i,'米国 失業保険継続受給者数'],
+    [/Unemployment Rate/i,'失業率'],
+    [/Core CPI/i,'コア消費者物価指数'],
+    [/Consumer Price Index|CPI/i,'消費者物価指数（CPI）'],
+    [/Core PCE Price Index/i,'コアPCE物価指数'],
+    [/PCE Price Index/i,'PCE物価指数'],
+    [/Producer Price Index|PPI/i,'生産者物価指数（PPI）'],
+    [/GDP Growth Rate|Gross Domestic Product|GDP/i,'国内総生産（GDP）'],
+    [/Retail Sales/i,'小売売上高'],
+    [/Industrial Production/i,'鉱工業生産'],
+    [/Trade Balance/i,'貿易収支'],
+    [/Current Account/i,'経常収支'],
+    [/Durable Goods Orders/i,'耐久財受注'],
+    [/Consumer Confidence/i,'消費者信頼感指数'],
+    [/Michigan Consumer Sentiment/i,'ミシガン大学 消費者態度指数'],
+    [/ISM Manufacturing PMI/i,'ISM製造業景況指数'],
+    [/ISM Services PMI/i,'ISM非製造業景況指数'],
+    [/Manufacturing PMI/i,'製造業PMI'],
+    [/Services PMI/i,'サービス業PMI'],
+    [/Composite PMI/i,'総合PMI'],
+    [/Existing Home Sales/i,'中古住宅販売件数'],
+    [/New Home Sales/i,'新築住宅販売件数'],
+    [/Housing Starts/i,'住宅着工件数'],
+    [/Building Permits/i,'建築許可件数'],
+    [/Personal Income/i,'個人所得'],
+    [/Personal Spending/i,'個人消費支出'],
+    [/Average Hourly Earnings/i,'平均時給'],
+    [/Employment Cost Index/i,'雇用コスト指数'],
+    [/Tankan/i,'日銀短観'],
+    [/Tokyo CPI/i,'東京都区部 消費者物価指数'],
+    [/Machinery Orders/i,'機械受注'],
+    [/Household Spending/i,'家計調査・消費支出'],
+    [/Leading Economic Index/i,'景気先行指数'],
+    [/Coincident Index/i,'景気一致指数'],
+    [/Exports/i,'輸出'],
+    [/Imports/i,'輸入'],
+    [/Treasury.*Auction/i,'米国債入札'],
+    [/Bill Auction/i,'米国短期国債入札']
+  ];
+  for(const [pattern, jp] of rules){
+    if(pattern.test(t)) return jp;
+  }
+  return t
+    .replace(/\bYoY\b/gi,'前年比')
+    .replace(/\bMoM\b/gi,'前月比')
+    .replace(/\bQoQ\b/gi,'前期比')
+    .replace(/\bFinal\b/gi,'確報値')
+    .replace(/\bPreliminary\b/gi,'速報値');
+}
+
+function importanceInfo(value){
+  const n = Number(value);
+  if(n >= 1) return ['重要度：高','importance-high'];
+  if(n === 0) return ['重要度：中','importance-medium'];
+  return ['重要度：低','importance-low'];
+}
+
+async function loadJapaneseCalendar(){
+  const box = document.getElementById('jpCalendar');
+  const from = new Date();
+  from.setHours(0,0,0,0);
+  const to = new Date(from);
+  to.setDate(to.getDate() + 14);
+  const endpoint = 'https://economic-calendar.tradingview.com/events?' +
+    new URLSearchParams({
+      from: from.toISOString(),
+      to: to.toISOString(),
+      countries: 'JP,US'
+    }).toString();
+  try{
+    const raw = await fetchTextWithProxy(endpoint);
+    const json = JSON.parse(raw);
+    const rows = (json.result || [])
+      .filter(x => x && x.date)
+      .sort((a,b) => new Date(a.date) - new Date(b.date))
+      .slice(0, 18);
+    if(!rows.length) throw new Error('日程がありません');
+    box.className = 'jp-list';
+    box.innerHTML = rows.map(row => {
+      const [importanceText, importanceClass] = importanceInfo(row.importance);
+      const country = row.country === 'JP' ? '🇯🇵 日本' : row.country === 'US' ? '🇺🇸 米国' : row.country;
+      const actual = row.actual ?? '-';
+      const forecast = row.forecast ?? '-';
+      const previous = row.previous ?? '-';
+      return `
+        <article class="jp-item calendar-row">
+          <div class="calendar-time">${escapeHtml(japaneseDate(row.date))}</div>
+          <div>
+            <div class="jp-meta">
+              <span class="jp-badge ${importanceClass}">${importanceText}</span>
+            </div>
+            <div class="calendar-country">${escapeHtml(country)}</div>
+            <div class="jp-title" style="margin:0">${escapeHtml(translateEventTitle(row.title))}</div>
+            <div class="calendar-values">
+              <div class="calendar-value">結果<strong>${escapeHtml(actual)}</strong></div>
+              <div class="calendar-value">市場予想<strong>${escapeHtml(forecast)}</strong></div>
+              <div class="calendar-value">前回<strong>${escapeHtml(previous)}</strong></div>
+            </div>
+          </div>
+        </article>`;
+    }).join('');
+  }catch(e){
+    box.className = 'jp-error';
+    box.innerHTML = `
+      <strong>日本語の経済日程を自動取得できませんでした。</strong>
+      <p class="section-note" style="margin-top:7px">通信状況や配信元の制限による場合があります。下の日本語ページから確認できます。</p>
+      <div class="jp-actions">
+        <a class="jp-link" href="https://jp.tradingview.com/economic-calendar/" target="_blank" rel="noopener">日本語の経済カレンダー</a>
+        <a class="jp-link" href="https://www.boj.or.jp/about/calendar/" target="_blank" rel="noopener">日本銀行の予定</a>
+      </div>`;
+  }
+}
+
+window.addEventListener('pageshow',function(event){updateOpenedAt();if(event.persisted){setTimeout(()=>refreshDashboard(),50)}});updateOpenedAt();loadMemo();loadJapaneseNews();loadJapaneseCalendar();
 </script>
 </body></html>
