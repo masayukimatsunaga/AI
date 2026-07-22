@@ -61,25 +61,25 @@
 <div class="wrap">
 <header><div><h1>ドル円ダッシュボード</h1><div class="sub">USD/JPY｜現在値・ライブチャート・ニュース・経済日程</div></div><div class="status-box"><div class="status-label">このページを開いた時刻</div><div class="status-time" id="openedAt">読み込み中...</div><button class="refresh-btn" type="button" onclick="refreshDashboard()">最新情報を再読み込み</button></div></header>
 <div class="grid">
-<section class="card span-12 anchor" id="quote"><div class="live-pill"><span class="live-dot"></span>開くたびに市場データを読み込み</div><h2 class="section-title">ドル円の現在値</h2><div class="section-note">現在値・前日比・騰落率はTradingViewから表示します。</div><div class="widget-shell quote-shell"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/USDJPY/" rel="noopener nofollow" target="_blank">USD/JPY market data by TradingView</a></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>{"symbol":"FX:USDJPY","width":"100%","locale":"ja","colorTheme":"light","isTransparent":true}</script></div></div></section>
-<section class="card span-8 anchor" id="chart"><h2 class="section-title">ライブチャート</h2><div class="section-note">時間足や日足へ切り替えられます。最新データはページを開くたびに再取得されます。</div><div class="widget-shell chart-shell"><div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:calc(100% - 28px);width:100%"></div><div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/USDJPY/" rel="noopener nofollow" target="_blank">USD/JPY chart by TradingView</a></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>{"autosize":true,"symbol":"FX:USDJPY","interval":"60","timezone":"Asia/Tokyo","theme":"light","style":"1","locale":"ja","allow_symbol_change":false,"calendar":false,"hide_side_toolbar":true,"hide_volume":true,"withdateranges":true,"save_image":false,"support_host":"https://www.tradingview.com"}</script></div></div></section>
-<section class="card span-4"><h2 class="section-title">テクニカル判定</h2><div class="section-note">1分足から日足まで切り替えて確認できます。</div><div class="widget-shell tech-shell"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/USDJPY/technicals/" rel="noopener nofollow" target="_blank">USD/JPY technicals by TradingView</a></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>{"interval":"1h","width":"100%","height":465,"isTransparent":true,"symbol":"FX:USDJPY","showIntervalTabs":true,"displayMode":"single","locale":"ja","colorTheme":"light"}</script></div></div></section>
+<section class="card span-12 anchor" id="quote"><div class="live-pill"><span class="live-dot"></span>開くたびに市場データを読み込み</div><h2 class="section-title">ドル円の現在値</h2><div class="section-note">現在値・前日比・騰落率はTradingViewから表示します。</div><div class="widget-shell quote-shell"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/USDJPY/" rel="noopener nofollow" target="_blank">TradingViewでドル円の現在値を見る</a></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>{"symbol":"FX:USDJPY","width":"100%","locale":"ja","colorTheme":"light","isTransparent":true}</script></div></div></section>
+<section class="card span-8 anchor" id="chart"><h2 class="section-title">ライブチャート</h2><div class="section-note">時間足や日足へ切り替えられます。最新データはページを開くたびに再取得されます。</div><div class="widget-shell chart-shell"><div class="tradingview-widget-container" style="height:100%;width:100%"><div class="tradingview-widget-container__widget" style="height:calc(100% - 28px);width:100%"></div><div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/USDJPY/" rel="noopener nofollow" target="_blank">TradingViewでドル円チャートを見る</a></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>{"autosize":true,"symbol":"FX:USDJPY","interval":"60","timezone":"Asia/Tokyo","theme":"light","style":"1","locale":"ja","allow_symbol_change":false,"calendar":false,"hide_side_toolbar":true,"hide_volume":true,"withdateranges":true,"save_image":false,"support_host":"https://www.tradingview.com"}</script></div></div></section>
+<section class="card span-4"><h2 class="section-title">テクニカル判定</h2><div class="section-note">1分足から日足まで切り替えて確認できます。</div><div class="widget-shell tech-shell"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/USDJPY/technicals/" rel="noopener nofollow" target="_blank">TradingViewでテクニカル分析を見る</a></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>{"interval":"1h","width":"100%","height":465,"isTransparent":true,"symbol":"FX:USDJPY","showIntervalTabs":true,"displayMode":"single","locale":"ja","colorTheme":"light"}</script></div></div></section>
 <section class="card span-6 anchor" id="news">
   <h2 class="section-title">ドル円関連ニュース</h2>
-  <div class="section-note">日本語の報道機関・日本語版ニュースから最新見出しを読み込みます。</div>
+  <div class="section-note">日本語の見出しだけを表示します。英語記事は一覧から除外します。</div>
   <div class="widget-shell news-shell" style="overflow:auto">
     <div id="jpNews" class="jp-loading">日本語ニュースを読み込んでいます…</div>
   </div>
 </section>
 <section class="card span-6 anchor" id="calendar">
   <h2 class="section-title">関連する経済日程</h2>
-  <div class="section-note">日本・米国の重要指標を日本時間・日本語名で表示します。</div>
+  <div class="section-note">日銀・FOMCなど、ドル円に重要な公式日程を日本語で表示します。</div>
   <div class="widget-shell calendar-shell" style="overflow:auto">
     <div id="jpCalendar" class="jp-loading">日本語の経済日程を読み込んでいます…</div>
   </div>
 </section>
 <section class="card span-12 anchor" id="memo"><h2 class="section-title">売買メモ</h2><div class="section-note">内容はこのスマホのブラウザ内だけに保存されます。</div><div class="memo-grid"><div class="memo-field"><label for="memoDate">記入日</label><input id="memoDate" type="date"></div><div class="memo-field"><label for="memoPrice">注目レート</label><input id="memoPrice" type="text" placeholder="例：157.50円"></div><div class="memo-field"><label for="memoAction">売買方針</label><input id="memoAction" type="text" placeholder="例：重要指標前は見送る"></div></div><div class="memo-field"><label for="memoText">判断理由・損切り・利確条件</label><textarea id="memoText" placeholder="売買前に、根拠・損切り価格・利確条件を記入してください。"></textarea></div><div class="memo-actions"><button class="save-btn" type="button" onclick="saveMemo()">この端末に保存</button><button class="secondary-btn" type="button" onclick="clearMemo()">メモを消去</button><span class="memo-status" id="memoStatus"></span></div></section>
-<section class="card span-12"><div class="info"><strong>更新方法：</strong>公開ページを新しく開くと、現在値・チャート・ニュース・経済日程をその時点で読み込みます。表示したまま長時間経過した場合は、上部の「最新情報を再読み込み」を押してください。</div><div class="footer">データはTradingView提供です。市場・配信元によって遅延や価格差が生じる場合があります。本ページは情報整理用で、売買推奨ではありません。</div></section>
+<section class="card span-12"><div class="info"><strong>更新方法：</strong>公開ページを新しく開くと、現在値・チャート・ニュース・経済日程をその時点で読み込みます。表示したまま長時間経過した場合は、上部の「最新情報を再読み込み」を押してください。</div><div class="footer">現在値とチャートはTradingView、ニュースは日本語版Googleニュース、重要日程は日本銀行・米連邦準備制度の公表日程を基に表示します。市場・配信元によって遅延や価格差が生じる場合があります。本ページは情報整理用で、売買推奨ではありません。</div></section>
 </div></div>
 <nav class="quick-nav" aria-label="画面内移動"><a href="#quote">現在値</a><a href="#chart">チャート</a><a href="#news">ニュース</a><a href="#calendar">日程</a></nav>
 <script>
@@ -123,165 +123,370 @@ function japaneseDate(dateValue){
   }).format(d);
 }
 
+
+function hasJapanese(text){
+  return /[\u3040-\u30ff\u3400-\u9fff]/.test(String(text || ''));
+}
+
+function cleanNewsTitle(title){
+  let value = String(title || '').trim();
+  value = value.replace(/\s+-\s+(Reuters|Bloomberg|CNBC|MarketWatch|Investing\.com|Yahoo Finance|The Wall Street Journal|Financial Times|BBC|AP News)\s*$/i,'');
+  value = value.replace(/\s+[|｜]\s+(Reuters|Bloomberg|CNBC|MarketWatch|Investing\.com|Yahoo Finance)\s*$/i,'');
+  return value;
+}
+
+function japaneseSourceName(source){
+  const value = String(source || '').trim();
+  const map = [
+    [/Reuters/i,'ロイター'],
+    [/Bloomberg/i,'ブルームバーグ'],
+    [/Nikkei|日本経済新聞/i,'日本経済新聞'],
+    [/NHK/i,'NHK'],
+    [/Yahoo/i,'Yahoo!ニュース'],
+    [/Jiji|時事/i,'時事通信'],
+    [/Kyodo|共同/i,'共同通信'],
+    [/Asahi|朝日/i,'朝日新聞'],
+    [/Mainichi|毎日/i,'毎日新聞'],
+    [/Yomiuri|読売/i,'読売新聞'],
+    [/TBS/i,'TBS NEWS DIG'],
+    [/FNN|Fuji News/i,'FNNプライムオンライン'],
+    [/ANN|TV Asahi/i,'テレビ朝日'],
+    [/MBS/i,'MBSニュース'],
+  ];
+  for(const [pattern, name] of map){
+    if(pattern.test(value)) return name;
+  }
+  return hasJapanese(value) ? value : '報道機関';
+}
+
+async function fetchJapaneseRssItems(rssUrl){
+  const endpoints = [
+    'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(rssUrl),
+    'https://api.allorigins.win/raw?url=' + encodeURIComponent(rssUrl)
+  ];
+  let lastError;
+  for(const endpoint of endpoints){
+    try{
+      const response = await fetch(endpoint, {cache:'no-store'});
+      if(!response.ok) throw new Error('HTTP ' + response.status);
+      const body = await response.text();
+
+      // rss2json形式
+      try{
+        const json = JSON.parse(body);
+        if(Array.isArray(json.items)){
+          return json.items.map(item => ({
+            title:item.title || '',
+            link:item.link || '',
+            pubDate:item.pubDate || '',
+            source:item.author || item.feed?.title || ''
+          }));
+        }
+      }catch(e){}
+
+      // RSS/XML形式
+      const xml = new DOMParser().parseFromString(body, 'text/xml');
+      const items = [...xml.querySelectorAll('item')].map(item => ({
+        title:item.querySelector('title')?.textContent || '',
+        link:item.querySelector('link')?.textContent || '',
+        pubDate:item.querySelector('pubDate')?.textContent || '',
+        source:item.querySelector('source')?.textContent || ''
+      }));
+      if(items.length) return items;
+    }catch(e){
+      lastError = e;
+    }
+  }
+  throw lastError || new Error('ニュースを取得できませんでした');
+}
+
 async function loadJapaneseNews(){
   const box = document.getElementById('jpNews');
-  const query = encodeURIComponent('ドル円 OR 円安 OR 円高 OR 日本銀行 OR FOMC');
-  const rss = `https://news.google.com/rss/search?q=${query}&hl=ja&gl=JP&ceid=JP:ja`;
+  const queries = [
+    'ドル円 OR 円相場 OR 円安 OR 円高 OR 日本銀行 為替',
+    'ドル円 日銀 FOMC 米国金利'
+  ];
+
   try{
-    const xmlText = await fetchTextWithProxy(rss);
-    const xml = new DOMParser().parseFromString(xmlText, 'text/xml');
-    const items = [...xml.querySelectorAll('item')].slice(0, 10);
-    if(!items.length) throw new Error('記事がありません');
+    const collected = [];
+    for(const query of queries){
+      const rss = 'https://news.google.com/rss/search?q=' +
+        encodeURIComponent(query) + '&hl=ja&gl=JP&ceid=JP:ja';
+      const rows = await fetchJapaneseRssItems(rss);
+      collected.push(...rows);
+    }
+
+    const used = new Set();
+    const japaneseItems = collected
+      .map(item => ({...item, title:cleanNewsTitle(item.title)}))
+      .filter(item => hasJapanese(item.title))
+      .filter(item => {
+        const key = item.title.replace(/\s+/g,'');
+        if(used.has(key)) return false;
+        used.add(key);
+        return true;
+      })
+      .slice(0, 10);
+
+    if(!japaneseItems.length) throw new Error('日本語記事がありません');
+
     box.className = 'jp-list';
-    box.innerHTML = items.map(item => {
-      const title = item.querySelector('title')?.textContent?.trim() || 'ドル円関連ニュース';
-      const link = item.querySelector('link')?.textContent?.trim() || '#';
-      const pubDate = item.querySelector('pubDate')?.textContent || '';
-      const source = item.querySelector('source')?.textContent?.trim() || 'Google ニュース';
-      return `
-        <article class="jp-item">
-          <div class="jp-meta">
-            <span class="jp-badge">日本語ニュース</span>
-            <span class="jp-date">${escapeHtml(japaneseDate(pubDate))}</span>
-          </div>
-          <a class="jp-title" href="${escapeHtml(link)}" target="_blank" rel="noopener">${escapeHtml(title)}</a>
-          <div class="jp-source">配信元：${escapeHtml(source)}</div>
-        </article>`;
-    }).join('');
+    box.innerHTML = japaneseItems.map(item => `
+      <article class="jp-item">
+        <div class="jp-meta">
+          <span class="jp-badge">日本語ニュース</span>
+          <span class="jp-date">${escapeHtml(japaneseDate(item.pubDate))}</span>
+        </div>
+        <a class="jp-title" href="${escapeHtml(item.link)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a>
+        <div class="jp-source">配信元：${escapeHtml(japaneseSourceName(item.source))}</div>
+      </article>
+    `).join('');
   }catch(e){
     box.className = 'jp-error';
     box.innerHTML = `
-      <strong>日本語ニュースを自動取得できませんでした。</strong>
-      <p class="section-note" style="margin-top:7px">通信状況や配信元の制限による場合があります。下の日本語ページから確認できます。</p>
+      <strong>日本語ニュースの自動取得が一時的にできません。</strong>
+      <p class="section-note" style="margin-top:7px">英語記事は表示せず、日本語ニュースの確認先だけを表示しています。</p>
       <div class="jp-actions">
         <a class="jp-link" href="https://news.google.com/search?q=%E3%83%89%E3%83%AB%E5%86%86&hl=ja&gl=JP&ceid=JP%3Aja" target="_blank" rel="noopener">Googleニュースでドル円を見る</a>
-        <a class="jp-link" href="https://finance.yahoo.co.jp/quote/USDJPY=FX" target="_blank" rel="noopener">Yahoo!ファイナンスを見る</a>
+        <a class="jp-link" href="https://finance.yahoo.co.jp/quote/USDJPY=FX/news" target="_blank" rel="noopener">Yahoo!ファイナンスのニュース</a>
       </div>`;
   }
 }
 
-function translateEventTitle(title){
-  let t = String(title || '');
-  const rules = [
-    [/BoJ.*Interest Rate Decision|Interest Rate Decision.*BoJ/i,'日銀 政策金利発表'],
-    [/Fed.*Interest Rate Decision|Federal Reserve.*Interest Rate Decision/i,'FOMC 政策金利発表'],
-    [/FOMC Minutes/i,'FOMC議事要旨'],
-    [/FOMC/i,'米連邦公開市場委員会（FOMC）'],
-    [/Nonfarm Payrolls/i,'米国 非農業部門雇用者数'],
-    [/ADP Employment Change/i,'米国 ADP雇用者数'],
-    [/JOLTS Job Openings/i,'米国 JOLTS求人件数'],
-    [/Initial Jobless Claims/i,'米国 新規失業保険申請件数'],
-    [/Continuing Jobless Claims/i,'米国 失業保険継続受給者数'],
-    [/Unemployment Rate/i,'失業率'],
-    [/Core CPI/i,'コア消費者物価指数'],
-    [/Consumer Price Index|CPI/i,'消費者物価指数（CPI）'],
-    [/Core PCE Price Index/i,'コアPCE物価指数'],
-    [/PCE Price Index/i,'PCE物価指数'],
-    [/Producer Price Index|PPI/i,'生産者物価指数（PPI）'],
-    [/GDP Growth Rate|Gross Domestic Product|GDP/i,'国内総生産（GDP）'],
-    [/Retail Sales/i,'小売売上高'],
-    [/Industrial Production/i,'鉱工業生産'],
-    [/Trade Balance/i,'貿易収支'],
-    [/Current Account/i,'経常収支'],
-    [/Durable Goods Orders/i,'耐久財受注'],
-    [/Consumer Confidence/i,'消費者信頼感指数'],
-    [/Michigan Consumer Sentiment/i,'ミシガン大学 消費者態度指数'],
-    [/ISM Manufacturing PMI/i,'ISM製造業景況指数'],
-    [/ISM Services PMI/i,'ISM非製造業景況指数'],
-    [/Manufacturing PMI/i,'製造業PMI'],
-    [/Services PMI/i,'サービス業PMI'],
-    [/Composite PMI/i,'総合PMI'],
-    [/Existing Home Sales/i,'中古住宅販売件数'],
-    [/New Home Sales/i,'新築住宅販売件数'],
-    [/Housing Starts/i,'住宅着工件数'],
-    [/Building Permits/i,'建築許可件数'],
-    [/Personal Income/i,'個人所得'],
-    [/Personal Spending/i,'個人消費支出'],
-    [/Average Hourly Earnings/i,'平均時給'],
-    [/Employment Cost Index/i,'雇用コスト指数'],
-    [/Tankan/i,'日銀短観'],
-    [/Tokyo CPI/i,'東京都区部 消費者物価指数'],
-    [/Machinery Orders/i,'機械受注'],
-    [/Household Spending/i,'家計調査・消費支出'],
-    [/Leading Economic Index/i,'景気先行指数'],
-    [/Coincident Index/i,'景気一致指数'],
-    [/Exports/i,'輸出'],
-    [/Imports/i,'輸入'],
-    [/Treasury.*Auction/i,'米国債入札'],
-    [/Bill Auction/i,'米国短期国債入札']
-  ];
-  for(const [pattern, jp] of rules){
-    if(pattern.test(t)) return jp;
+const JAPANESE_KEY_EVENTS = [
+  {
+    sort:'2026-07-23T16:00:00+09:00',
+    date:'7月23日',
+    time:'16:00頃',
+    country:'🇯🇵 日本',
+    level:'中',
+    title:'日銀：実質輸出・実質輸入の動向',
+    effect:'貿易と外需の基調を確認する資料です。',
+    url:'https://www.boj.or.jp/about/calendar/'
+  },
+  {
+    sort:'2026-07-27T08:50:00+09:00',
+    date:'7月27日',
+    time:'8:50',
+    country:'🇯🇵 日本',
+    level:'中',
+    title:'日銀：企業向けサービス価格指数',
+    effect:'サービス価格の上昇圧力を確認します。',
+    url:'https://www.boj.or.jp/about/calendar/'
+  },
+  {
+    sort:'2026-07-28T14:00:00+09:00',
+    date:'7月28日',
+    time:'14:00',
+    country:'🇯🇵 日本',
+    level:'高',
+    title:'日銀：基調的なインフレ率を捕捉するための指標',
+    effect:'物価の基調が強ければ、追加利上げ観測が高まりやすくなります。',
+    url:'https://www.boj.or.jp/about/calendar/'
+  },
+  {
+    sort:'2026-07-28T20:00:00+09:00',
+    date:'7月28日〜29日',
+    time:'米国時間',
+    country:'🇺🇸 米国',
+    level:'高',
+    title:'米連邦公開市場委員会（FOMC）',
+    effect:'米国金利の方向性を決める最重要イベントです。',
+    url:'https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm'
+  },
+  {
+    sort:'2026-07-29T08:50:00+09:00',
+    date:'7月29日',
+    time:'8:50',
+    country:'🇯🇵 日本',
+    level:'中',
+    title:'日銀：貸出約定平均金利',
+    effect:'国内金利の波及状況を確認します。',
+    url:'https://www.boj.or.jp/about/calendar/'
+  },
+  {
+    sort:'2026-07-30T09:00:00+09:00',
+    date:'7月30日〜31日',
+    time:'2日間',
+    country:'🇯🇵 日本',
+    level:'高',
+    title:'日銀金融政策決定会合',
+    effect:'政策金利、国債買入れ、円安への評価が焦点です。',
+    url:'https://www.boj.or.jp/mopo/mpmsche_minu/'
+  },
+  {
+    sort:'2026-07-31T15:30:00+09:00',
+    date:'7月31日',
+    time:'15:30',
+    country:'🇯🇵 日本',
+    level:'高',
+    title:'日銀総裁記者会見',
+    effect:'追加利上げと円安への発言で、ドル円が大きく動く可能性があります。',
+    url:'https://www.boj.or.jp/about/calendar/'
+  },
+  {
+    sort:'2026-08-03T14:00:00+09:00',
+    date:'8月3日',
+    time:'14:00',
+    country:'🇯🇵 日本',
+    level:'中',
+    title:'日銀：経済・物価情勢の展望（全文）',
+    effect:'日銀の景気・物価見通しを詳しく確認できます。',
+    url:'https://www.boj.or.jp/about/calendar/'
+  },
+  {
+    sort:'2026-08-04T08:50:00+09:00',
+    date:'8月4日',
+    time:'8:50',
+    country:'🇯🇵 日本',
+    level:'低',
+    title:'日銀：マネタリーベース',
+    effect:'市中に供給されている資金量を確認します。',
+    url:'https://www.boj.or.jp/about/calendar/'
+  },
+  {
+    sort:'2026-08-05T08:50:00+09:00',
+    date:'8月5日',
+    time:'8:50',
+    country:'🇯🇵 日本',
+    level:'中',
+    title:'日銀金融政策決定会合の議事要旨',
+    effect:'6月会合での政策委員の議論を確認します。',
+    url:'https://www.boj.or.jp/mopo/mpmsche_minu/'
+  },
+  {
+    sort:'2026-08-07T14:00:00+09:00',
+    date:'8月7日',
+    time:'14:00頃',
+    country:'🇯🇵 日本',
+    level:'中',
+    title:'日銀：消費活動指数',
+    effect:'個人消費の実勢を確認します。',
+    url:'https://www.boj.or.jp/about/calendar/'
+  },
+  {
+    sort:'2026-08-10T08:50:00+09:00',
+    date:'8月10日',
+    time:'8:50',
+    country:'🇯🇵 日本',
+    level:'高',
+    title:'日銀金融政策決定会合における主な意見',
+    effect:'7月会合での政策委員の見方が公表されます。',
+    url:'https://www.boj.or.jp/mopo/mpmsche_minu/'
+  },
+  {
+    sort:'2026-08-19T15:00:00-04:00',
+    date:'8月20日',
+    time:'3:00頃（日本時間）',
+    country:'🇺🇸 米国',
+    level:'高',
+    title:'FOMC議事要旨',
+    effect:'7月会合の議論が公表され、米金利とドル円に影響する可能性があります。',
+    url:'https://www.federalreserve.gov/monetarypolicy.htm'
+  },
+  {
+    sort:'2026-09-15T20:00:00+09:00',
+    date:'9月15日〜16日',
+    time:'米国時間',
+    country:'🇺🇸 米国',
+    level:'高',
+    title:'米連邦公開市場委員会（FOMC）',
+    effect:'経済見通しと政策金利見通しが公表される予定です。',
+    url:'https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm'
+  },
+  {
+    sort:'2026-09-17T09:00:00+09:00',
+    date:'9月17日〜18日',
+    time:'2日間',
+    country:'🇯🇵 日本',
+    level:'高',
+    title:'日銀金融政策決定会合',
+    effect:'政策金利と景気・物価判断を確認します。',
+    url:'https://www.boj.or.jp/mopo/mpmsche_minu/'
+  },
+  {
+    sort:'2026-10-27T20:00:00+09:00',
+    date:'10月27日〜28日',
+    time:'米国時間',
+    country:'🇺🇸 米国',
+    level:'高',
+    title:'米連邦公開市場委員会（FOMC）',
+    effect:'米国の金融政策方針を確認します。',
+    url:'https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm'
+  },
+  {
+    sort:'2026-10-29T09:00:00+09:00',
+    date:'10月29日〜30日',
+    time:'2日間',
+    country:'🇯🇵 日本',
+    level:'高',
+    title:'日銀金融政策決定会合',
+    effect:'展望レポートと政策判断が公表されます。',
+    url:'https://www.boj.or.jp/mopo/mpmsche_minu/'
+  },
+  {
+    sort:'2026-12-08T20:00:00+09:00',
+    date:'12月8日〜9日',
+    time:'米国時間',
+    country:'🇺🇸 米国',
+    level:'高',
+    title:'米連邦公開市場委員会（FOMC）',
+    effect:'年末の政策金利判断と翌年の見通しに注目です。',
+    url:'https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm'
+  },
+  {
+    sort:'2026-12-17T09:00:00+09:00',
+    date:'12月17日〜18日',
+    time:'2日間',
+    country:'🇯🇵 日本',
+    level:'高',
+    title:'日銀金融政策決定会合',
+    effect:'年内最後の政策決定会合です。',
+    url:'https://www.boj.or.jp/mopo/mpmsche_minu/'
   }
-  return t
-    .replace(/\bYoY\b/gi,'前年比')
-    .replace(/\bMoM\b/gi,'前月比')
-    .replace(/\bQoQ\b/gi,'前期比')
-    .replace(/\bFinal\b/gi,'確報値')
-    .replace(/\bPreliminary\b/gi,'速報値');
+];
+
+function levelClass(level){
+  if(level === '高') return 'importance-high';
+  if(level === '中') return 'importance-medium';
+  return 'importance-low';
 }
 
-function importanceInfo(value){
-  const n = Number(value);
-  if(n >= 1) return ['重要度：高','importance-high'];
-  if(n === 0) return ['重要度：中','importance-medium'];
-  return ['重要度：低','importance-low'];
-}
-
-async function loadJapaneseCalendar(){
+function loadJapaneseCalendar(){
   const box = document.getElementById('jpCalendar');
-  const from = new Date();
-  from.setHours(0,0,0,0);
-  const to = new Date(from);
-  to.setDate(to.getDate() + 14);
-  const endpoint = 'https://economic-calendar.tradingview.com/events?' +
-    new URLSearchParams({
-      from: from.toISOString(),
-      to: to.toISOString(),
-      countries: 'JP,US'
-    }).toString();
-  try{
-    const raw = await fetchTextWithProxy(endpoint);
-    const json = JSON.parse(raw);
-    const rows = (json.result || [])
-      .filter(x => x && x.date)
-      .sort((a,b) => new Date(a.date) - new Date(b.date))
-      .slice(0, 18);
-    if(!rows.length) throw new Error('日程がありません');
-    box.className = 'jp-list';
-    box.innerHTML = rows.map(row => {
-      const [importanceText, importanceClass] = importanceInfo(row.importance);
-      const country = row.country === 'JP' ? '🇯🇵 日本' : row.country === 'US' ? '🇺🇸 米国' : row.country;
-      const actual = row.actual ?? '-';
-      const forecast = row.forecast ?? '-';
-      const previous = row.previous ?? '-';
-      return `
-        <article class="jp-item calendar-row">
-          <div class="calendar-time">${escapeHtml(japaneseDate(row.date))}</div>
-          <div>
-            <div class="jp-meta">
-              <span class="jp-badge ${importanceClass}">${importanceText}</span>
-            </div>
-            <div class="calendar-country">${escapeHtml(country)}</div>
-            <div class="jp-title" style="margin:0">${escapeHtml(translateEventTitle(row.title))}</div>
-            <div class="calendar-values">
-              <div class="calendar-value">結果<strong>${escapeHtml(actual)}</strong></div>
-              <div class="calendar-value">市場予想<strong>${escapeHtml(forecast)}</strong></div>
-              <div class="calendar-value">前回<strong>${escapeHtml(previous)}</strong></div>
-            </div>
-          </div>
-        </article>`;
-    }).join('');
-  }catch(e){
+  const now = new Date();
+  const grace = new Date(now.getTime() - 24 * 60 * 60 * 1000);
+
+  const rows = JAPANESE_KEY_EVENTS
+    .filter(event => new Date(event.sort) >= grace)
+    .sort((a,b) => new Date(a.sort) - new Date(b.sort))
+    .slice(0, 14);
+
+  if(!rows.length){
     box.className = 'jp-error';
     box.innerHTML = `
-      <strong>日本語の経済日程を自動取得できませんでした。</strong>
-      <p class="section-note" style="margin-top:7px">通信状況や配信元の制限による場合があります。下の日本語ページから確認できます。</p>
+      <strong>登録済みの日程は終了しました。</strong>
       <div class="jp-actions">
-        <a class="jp-link" href="https://jp.tradingview.com/economic-calendar/" target="_blank" rel="noopener">日本語の経済カレンダー</a>
-        <a class="jp-link" href="https://www.boj.or.jp/about/calendar/" target="_blank" rel="noopener">日本銀行の予定</a>
+        <a class="jp-link" href="https://www.boj.or.jp/about/calendar/" target="_blank" rel="noopener">日本銀行の最新予定を見る</a>
+        <a class="jp-link" href="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm" target="_blank" rel="noopener">FOMCの最新予定を見る</a>
       </div>`;
+    return;
   }
+
+  box.className = 'jp-list';
+  box.innerHTML = rows.map(event => `
+    <article class="jp-item calendar-row">
+      <div class="calendar-time">${escapeHtml(event.date)}<br><small>${escapeHtml(event.time)}</small></div>
+      <div>
+        <div class="jp-meta">
+          <span class="jp-badge ${levelClass(event.level)}">重要度：${escapeHtml(event.level)}</span>
+        </div>
+        <div class="calendar-country">${escapeHtml(event.country)}</div>
+        <a class="jp-title" href="${escapeHtml(event.url)}" target="_blank" rel="noopener">${escapeHtml(event.title)}</a>
+        <div class="jp-source">${escapeHtml(event.effect)}</div>
+      </div>
+    </article>
+  `).join('');
 }
 
 window.addEventListener('pageshow',function(event){updateOpenedAt();if(event.persisted){setTimeout(()=>refreshDashboard(),50)}});updateOpenedAt();loadMemo();loadJapaneseNews();loadJapaneseCalendar();
