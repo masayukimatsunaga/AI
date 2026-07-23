@@ -34,6 +34,8 @@
 .jp-date{font-size:12px;color:var(--muted)}
 .jp-title{display:block;font-size:16px;line-height:1.55;font-weight:800;text-decoration:none;margin-bottom:5px}
 .jp-source{font-size:12px;color:var(--muted)}
+.jp-news-status{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;padding:2px 2px 0;color:var(--muted);font-size:12px}
+.jp-news-status strong{color:var(--ink)}
 .jp-loading{padding:28px 16px;text-align:center;color:var(--muted)}
 .jp-error{padding:18px}
 .jp-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
@@ -66,7 +68,7 @@
 <section class="card span-4"><h2 class="section-title">テクニカル判定</h2><div class="section-note">1分足から日足まで切り替えて確認できます。</div><div class="widget-shell tech-shell"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/USDJPY/technicals/" rel="noopener nofollow" target="_blank">TradingViewでテクニカル分析を見る</a></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>{"interval":"1h","width":"100%","height":465,"isTransparent":true,"symbol":"FX:USDJPY","showIntervalTabs":true,"displayMode":"single","locale":"ja","colorTheme":"light"}</script></div></div></section>
 <section class="card span-6 anchor" id="news">
   <h2 class="section-title">ドル円関連ニュース</h2>
-  <div class="section-note">日本語の見出しだけを表示します。英語記事は一覧から除外します。</div>
+  <div class="section-note">日本語の為替ニュースを直接取得します。通信不良時は同一サイト内の予備データか、端末に保存した直近の一覧を使います。</div>
   <div class="widget-shell news-shell" style="overflow:auto">
     <div id="jpNews" class="jp-loading">日本語ニュースを読み込んでいます…</div>
   </div>
@@ -79,7 +81,7 @@
   </div>
 </section>
 <section class="card span-12 anchor" id="memo"><h2 class="section-title">売買メモ</h2><div class="section-note">内容はこのスマホのブラウザ内だけに保存されます。</div><div class="memo-grid"><div class="memo-field"><label for="memoDate">記入日</label><input id="memoDate" type="date"></div><div class="memo-field"><label for="memoPrice">注目レート</label><input id="memoPrice" type="text" placeholder="例：157.50円"></div><div class="memo-field"><label for="memoAction">売買方針</label><input id="memoAction" type="text" placeholder="例：重要指標前は見送る"></div></div><div class="memo-field"><label for="memoText">判断理由・損切り・利確条件</label><textarea id="memoText" placeholder="売買前に、根拠・損切り価格・利確条件を記入してください。"></textarea></div><div class="memo-actions"><button class="save-btn" type="button" onclick="saveMemo()">この端末に保存</button><button class="secondary-btn" type="button" onclick="clearMemo()">メモを消去</button><span class="memo-status" id="memoStatus"></span></div></section>
-<section class="card span-12"><div class="info"><strong>更新方法：</strong>公開ページを新しく開くと、現在値・チャート・ニュース・経済日程をその時点で読み込みます。表示したまま長時間経過した場合は、上部の「最新情報を再読み込み」を押してください。</div><div class="footer">現在値とチャートはTradingView、ニュースは日本語版Googleニュース、重要日程は日本銀行・米連邦準備制度の公表日程を基に表示します。市場・配信元によって遅延や価格差が生じる場合があります。本ページは情報整理用で、売買推奨ではありません。</div></section>
+<section class="card span-12"><div class="info"><strong>更新方法：</strong>公開ページを新しく開くと、現在値・チャート・ニュース・経済日程をその時点で読み込みます。表示したまま長時間経過した場合は、上部の「最新情報を再読み込み」を押してください。</div><div class="footer">現在値とチャートはTradingView、ニュースは日本語の為替ニュースフィードとGoogleニュースを基に定期更新、重要日程は日本銀行・米連邦準備制度の公表日程を基に表示します。市場・配信元によって遅延や価格差が生じる場合があります。本ページは情報整理用で、売買推奨ではありません。</div></section>
 </div></div>
 <nav class="quick-nav" aria-label="画面内移動"><a href="#quote">現在値</a><a href="#chart">チャート</a><a href="#news">ニュース</a><a href="#calendar">日程</a></nav>
 <script>
@@ -93,24 +95,6 @@ function escapeHtml(value){
   return String(value ?? '').replace(/[&<>"']/g, ch => ({
     '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'
   }[ch]));
-}
-
-async function fetchTextWithProxy(url){
-  const candidates = [
-    url,
-    'https://api.allorigins.win/raw?url=' + encodeURIComponent(url)
-  ];
-  let lastError;
-  for(const candidate of candidates){
-    try{
-      const res = await fetch(candidate, {cache:'no-store'});
-      if(!res.ok) throw new Error('HTTP ' + res.status);
-      return await res.text();
-    }catch(e){
-      lastError = e;
-    }
-  }
-  throw lastError || new Error('取得できませんでした');
 }
 
 function japaneseDate(dateValue){
@@ -159,98 +143,186 @@ function japaneseSourceName(source){
   return hasJapanese(value) ? value : '報道機関';
 }
 
-async function fetchJapaneseRssItems(rssUrl){
-  const endpoints = [
-    'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(rssUrl),
-    'https://api.allorigins.win/raw?url=' + encodeURIComponent(rssUrl)
-  ];
-  let lastError;
-  for(const endpoint of endpoints){
-    try{
-      const response = await fetch(endpoint, {cache:'no-store'});
-      if(!response.ok) throw new Error('HTTP ' + response.status);
-      const body = await response.text();
+const NEWS_CACHE_KEY = 'usdjpyJapaneseNewsV2';
+const MARKET_NEWS_URL = 'https://nikkei225jp.com/_data/_nfsDATA/rss/News_9.js';
+const RELEVANT_NEWS = /((?:米ドル|ドル)[/／・\s-]*円|USD.?JPY|円相場|円安|円高|対ドル|外国為替|外為|為替介入|FOMC|FRB|米(?:国)?(?:長期)?金利|日銀.*(?:円|為替|利上げ)|(?:円|為替).*(?:日銀|財務相|政府))/i;
+const USDJPY_NEWS = /(?:米ドル|ドル)[/／・\s-]*円|USD.?JPY/i;
+const OTHER_CURRENCY = /(豪ドル|NZドル|カナダドル|香港ドル|台湾ドル|ユーロ|英ポンド|ポンド|ランド)/gi;
+const OTHER_YEN_PAIR = /(豪ドル|NZドル|カナダドル|香港ドル|台湾ドル|ユーロ|英ポンド|ポンド|ランド).{0,10}円/i;
+const STOCK_YEN_MOVE = /[0-9０-９][0-9０-９,，]*円(?:高|安)/;
 
-      // rss2json形式
-      try{
-        const json = JSON.parse(body);
-        if(Array.isArray(json.items)){
-          return json.items.map(item => ({
-            title:item.title || '',
-            link:item.link || '',
-            pubDate:item.pubDate || '',
-            source:item.author || item.feed?.title || ''
-          }));
-        }
-      }catch(e){}
-
-      // RSS/XML形式
-      const xml = new DOMParser().parseFromString(body, 'text/xml');
-      const items = [...xml.querySelectorAll('item')].map(item => ({
-        title:item.querySelector('title')?.textContent || '',
-        link:item.querySelector('link')?.textContent || '',
-        pubDate:item.querySelector('pubDate')?.textContent || '',
-        source:item.querySelector('source')?.textContent || ''
-      }));
-      if(items.length) return items;
-    }catch(e){
-      lastError = e;
-    }
-  }
-  throw lastError || new Error('ニュースを取得できませんでした');
+function isRelevantNews(title){
+  const value = String(title || '');
+  if(STOCK_YEN_MOVE.test(value)) return false;
+  if(OTHER_YEN_PAIR.test(value) && !USDJPY_NEWS.test(value.replace(OTHER_CURRENCY,''))) return false;
+  return RELEVANT_NEWS.test(value);
 }
 
-async function loadJapaneseNews(){
-  const box = document.getElementById('jpNews');
-  const queries = [
-    'ドル円 OR 円相場 OR 円安 OR 円高 OR 日本銀行 為替',
-    'ドル円 日銀 FOMC 米国金利'
-  ];
-
+function safeHttpUrl(value){
   try{
-    const collected = [];
-    for(const query of queries){
-      const rss = 'https://news.google.com/rss/search?q=' +
-        encodeURIComponent(query) + '&hl=ja&gl=JP&ceid=JP:ja';
-      const rows = await fetchJapaneseRssItems(rss);
-      collected.push(...rows);
-    }
+    const url = new URL(String(value || ''), location.href);
+    return /^https?:$/.test(url.protocol) ? url.href : '';
+  }catch(e){
+    return '';
+  }
+}
 
-    const used = new Set();
-    const japaneseItems = collected
-      .map(item => ({...item, title:cleanNewsTitle(item.title)}))
-      .filter(item => hasJapanese(item.title))
-      .filter(item => {
-        const key = item.title.replace(/\s+/g,'');
-        if(used.has(key)) return false;
-        used.add(key);
-        return true;
-      })
-      .slice(0, 10);
+function normalizeNewsItems(rows){
+  const used = new Set();
+  return (Array.isArray(rows) ? rows : [])
+    .map(item => ({
+      title:cleanNewsTitle(item?.title),
+      link:safeHttpUrl(item?.link),
+      pubDate:item?.pubDate || '',
+      source:String(item?.source || '').trim()
+    }))
+    .filter(item => hasJapanese(item.title) && item.link)
+    .filter(item => {
+      const key = item.title.replace(/\s+/g,'');
+      if(used.has(key)) return false;
+      used.add(key);
+      return true;
+    })
+    .sort((a,b) => (new Date(b.pubDate).getTime() || 0) - (new Date(a.pubDate).getTime() || 0))
+    .slice(0, 10);
+}
 
-    if(!japaneseItems.length) throw new Error('日本語記事がありません');
+function readCachedNews(){
+  try{
+    const cached = JSON.parse(localStorage.getItem(NEWS_CACHE_KEY));
+    const items = normalizeNewsItems(cached?.items);
+    return items.length ? {...cached, items} : null;
+  }catch(e){
+    return null;
+  }
+}
 
-    box.className = 'jp-list';
-    box.innerHTML = japaneseItems.map(item => `
+function saveCachedNews(payload){
+  try{
+    localStorage.setItem(NEWS_CACHE_KEY, JSON.stringify(payload));
+  }catch(e){}
+}
+
+function renderJapaneseNews(items, meta = {}){
+  const box = document.getElementById('jpNews');
+  const label = meta.state === 'saved' ? '端末に保存したニュース' :
+    meta.state === 'direct' ? '日本語為替ニュース' : '同一サイト内の予備データ';
+  const updated = japaneseDate(meta.updatedAt);
+  const note = meta.note ? `<span>${escapeHtml(meta.note)}</span>` : '';
+  box.className = 'jp-list';
+  box.innerHTML = `
+    <div class="jp-news-status" role="status"><strong>${escapeHtml(label)}</strong>${updated ? `<span>更新：${escapeHtml(updated)} JST</span>` : ''}${note}</div>
+    ${items.map(item => `
       <article class="jp-item">
         <div class="jp-meta">
           <span class="jp-badge">日本語ニュース</span>
           <span class="jp-date">${escapeHtml(japaneseDate(item.pubDate))}</span>
         </div>
-        <a class="jp-title" href="${escapeHtml(item.link)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a>
+        <a class="jp-title" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
         <div class="jp-source">配信元：${escapeHtml(japaneseSourceName(item.source))}</div>
       </article>
-    `).join('');
-  }catch(e){
-    box.className = 'jp-error';
-    box.innerHTML = `
-      <strong>日本語ニュースの自動取得が一時的にできません。</strong>
-      <p class="section-note" style="margin-top:7px">英語記事は表示せず、日本語ニュースの確認先だけを表示しています。</p>
-      <div class="jp-actions">
-        <a class="jp-link" href="https://news.google.com/search?q=%E3%83%89%E3%83%AB%E5%86%86&hl=ja&gl=JP&ceid=JP%3Aja" target="_blank" rel="noopener">Googleニュースでドル円を見る</a>
-        <a class="jp-link" href="https://finance.yahoo.co.jp/quote/USDJPY=FX/news" target="_blank" rel="noopener">Yahoo!ファイナンスのニュース</a>
-      </div>`;
+    `).join('')}`;
+}
+
+async function fetchNewsSnapshot(){
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 8000);
+  try{
+    const response = await fetch('./news.json?updated=' + Date.now(), {
+      cache:'no-store',
+      signal:controller.signal
+    });
+    if(!response.ok) throw new Error('HTTP ' + response.status);
+    const payload = await response.json();
+    const items = normalizeNewsItems(payload.items);
+    if(!items.length) throw new Error('日本語記事がありません');
+    return {updatedAt:payload.updatedAt || new Date().toISOString(), items};
+  }finally{
+    clearTimeout(timeout);
   }
+}
+
+function marketNewsDate(value){
+  const match = String(value || '').match(/^(\d{4})\/(\d{2})\/(\d{2})\s+(\d{2}):(\d{2})$/);
+  return match ? `${match[1]}-${match[2]}-${match[3]}T${match[4]}:${match[5]}:00+09:00` : '';
+}
+
+function parseMarketNews(rows){
+  return normalizeNewsItems((Array.isArray(rows) ? rows : []).map(row => {
+    const fields = String(row || '').split('__');
+    return fields.length >= 8 ? {
+      pubDate:marketNewsDate(fields[1]),
+      source:fields[5],
+      link:fields[6],
+      title:fields[7]
+    } : null;
+  }).filter(item => item && isRelevantNews(item.title)));
+}
+
+function fetchMarketNewsFeed(){
+  return new Promise((resolve,reject) => {
+    const script = document.createElement('script');
+    const timeout = setTimeout(() => {
+      script.remove();
+      reject(new Error('予備フィードがタイムアウトしました'));
+    }, 8000);
+    script.async = true;
+    script.src = MARKET_NEWS_URL + '?updated=' + Date.now();
+    script.onload = () => {
+      clearTimeout(timeout);
+      script.remove();
+      const items = parseMarketNews(window.News);
+      if(items.length) resolve({updatedAt:new Date().toISOString(), items});
+      else reject(new Error('予備フィードに関連記事がありません'));
+    };
+    script.onerror = () => {
+      clearTimeout(timeout);
+      script.remove();
+      reject(new Error('予備フィードを取得できませんでした'));
+    };
+    document.head.appendChild(script);
+  });
+}
+
+function renderNewsError(){
+  const box = document.getElementById('jpNews');
+  box.className = 'jp-error';
+  box.innerHTML = `
+    <strong>日本語ニュースの自動取得が一時的にできません。</strong>
+    <p class="section-note" style="margin-top:7px">英語記事は表示せず、日本語ニュースの確認先だけを表示しています。</p>
+    <div class="jp-actions">
+      <a class="jp-link" href="https://news.google.com/search?q=%E3%83%89%E3%83%AB%E5%86%86&hl=ja&gl=JP&ceid=JP%3Aja" target="_blank" rel="noopener noreferrer">Googleニュースでドル円を見る</a>
+      <a class="jp-link" href="https://finance.yahoo.co.jp/quote/USDJPY=FX/news" target="_blank" rel="noopener noreferrer">Yahoo!ファイナンスのニュース</a>
+    </div>`;
+}
+
+async function loadJapaneseNews(){
+  const cached = readCachedNews();
+  if(cached) renderJapaneseNews(cached.items, {updatedAt:cached.updatedAt, state:'saved'});
+
+  try{
+    const latest = await fetchMarketNewsFeed();
+    renderJapaneseNews(latest.items, {updatedAt:latest.updatedAt, state:'direct'});
+    saveCachedNews(latest);
+    return;
+  }catch(e){}
+
+  try{
+    const snapshot = await fetchNewsSnapshot();
+    renderJapaneseNews(snapshot.items, {updatedAt:snapshot.updatedAt, state:'latest'});
+    saveCachedNews(snapshot);
+    return;
+  }catch(e){}
+
+  if(cached){
+    renderJapaneseNews(cached.items, {
+      updatedAt:cached.updatedAt,
+      state:'saved',
+      note:'自動更新に失敗したため、直近の一覧を表示しています。'
+    });
+    return;
+  }
+  renderNewsError();
 }
 
 const JAPANESE_KEY_EVENTS = [
