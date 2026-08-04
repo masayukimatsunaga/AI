@@ -1,9 +1,51 @@
 {
-  "updatedAt": "2026-08-04T21:30:28+09:00",
+  "updatedAt": "2026-08-05T00:11:04+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル円、売り一服 157.37円付近で推移(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdUd6cUQ5UkR0SzFKWmNfclVHaUwxVHRsd1g4OG8wbGlCMTNnaHB6dXduaW1Md3RjdDh4TzNIQkV6WWhUVldfblFvLTcxanN0MmRyTVVYbzNrTW1QRkpzNzJ0bzgxS3Rkb09PTWRvY3NPUFZycVpBVVVsNnFCcEFJWk5LMjFkT2s?oc=5",
+      "pubDate": "2026-08-04T23:07:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "円安是正へ日本の政策改善が必要 米財務長官「植田総裁が対応」",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5feHpLeTVKZUpFQldxM0ZXZkxINUJwRHRjM043QWs3TUNYNmktMm9oQkltQWZrR3dDY1NDdzg2RTc1b19NMURiMHlzYlZvdWY1ZlJYMld0Rnl5SlVZaHZSaWxwRmw2YTQ0?oc=5",
+      "pubDate": "2026-08-04T22:34:59+09:00",
+      "source": "毎日新聞"
+    },
+    {
+      "title": "ドル円、ベッセント長官の発言で円買い戻し＝ＮＹ為替序盤",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96UlloTlNVUUU1M1o2NFVzaDhoTEV3YmpQSDVrMEg1WVR6Y0NDRzM0RFhMbmdSZXpTMlI3RGxXQU8welc0bk9JYQ?oc=5",
+      "pubDate": "2026-08-04T22:15:40+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "NY円、157円台半ば 為替介入に警戒感強く",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rVHoxTnd1bEZtVzlHc2xSd1hUeG9ONzdTUVFYVE5RVVM4OWplQWkwekVUOC1FYUVjY2MtTmhzWGFrdHctdGZ2anE0VW5tSEhFLW1EcWlBa3pfbVhldy1NbEtGYw?oc=5",
+      "pubDate": "2026-08-04T22:08:03+09:00",
+      "source": "nippon.com"
+    },
+    {
+      "title": "ＮＹ円、１５７円台半ば 為替介入に警戒感強く",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lVUxNRHY4M0JBMjdXa1I3b1M3N1IxYkswdW9rTWFqVk9sZk52c1VIbHVQZ0xLQlJfemI0eTZXUmwtaXpHX2REa0U5eWRGUnhoRjBXSFhTNVppQTFIN3c?oc=5",
+      "pubDate": "2026-08-04T22:07:29+09:00",
+      "source": "okinawatimes.co.jp"
+    },
+    {
+      "title": "ドル円のピボットは１５７．５４円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjMHdpTUhsTFAwZ09OeUdOaEszQl9ZcWRLVGJSVE1jS0lrRmZqRVRLcG1GU0VFN2ltSFJqNnd0R1l1aG1jU0hlZA?oc=5",
+      "pubDate": "2026-08-04T22:00:40+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "【速報】ドル・円157.54円、ドルじり高、米貿易赤字は縮小(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeUQ1SXdZRkJzWWc4d05VdlY0bFVlSHFZbnZHc3c5VEliazRtcWtzNEJWN0o3T0JFaV9oZ3JaR0MxT2JLczRQSnBVMWRhV1VSOEFaSVkydXMydU9JSkFkZ0F4ZmpqX2FldlFNc3BvZE5zNzhJVnA5SFJZNGd0QnRVTVlGTlB5Qm8?oc=5",
+      "pubDate": "2026-08-04T21:34:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "〔決算〕マツダ、4～6月期は黒字転換＝円安影響、米関税減(時事通信)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVkhaSWZubjhOalVTbkxmbjZMenNaWkdpemNWRjlQM3pWSFk0UFExV09obTBLM0hwSF9DSXJtcXkwN2pzQVg3ZzEyRkcwbXh4d0ZCZHRSazVlYTlCajROVG9iQ0liRGxvTVBKTUxCU2RkRWdoQzVBeTMzNmxCOWJXQmc5d3NVUGs?oc=5",
@@ -15,12 +57,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Ca3M2V2RvRExBejNmb3VIcURpVmhvR2RBOU5nVG80Um9vWFBoTEJCcFFmb1daeE9KZ2ItY3pBMlpQd0QxeWI2TA?oc=5",
       "pubDate": "2026-08-04T21:08:39+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "円安効果で売上高過去最高 トヨタ4～6月期決算：ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TNG52RnJHa19YSnlHbkJ6TXRPaUxNcWNpUExFZGRGYnp3SUlITGlPcFlkVTJjS1BZVG9tdThod3p1dXUtZkFnVGdSUWgyWHAzX3JTOGRwSVJkdGFNdktz?oc=5",
-      "pubDate": "2026-08-04T20:50:55+09:00",
-      "source": "中日BIZナビ"
     },
     {
       "title": "ドル円 157円半ば、米財務長官の発言も重しに伸び悩む(トレーダーズ・ウェブ)",
@@ -47,46 +83,10 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "欧州外国為替市場概況・20時 ドル円、買い一服(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQU1fNVN6eTB5U2JtdVR3Y2hXU3dFUzVMV1VaUHdPal81dmpHNXlzZDJMU0ctTjNhdjhHdkh0WUFJYjYweFBvMjZZWEo1UkF2NWtmWnBfMnMwdVp6Qk5JNzdHcXdjMTFpbnJienpBbmpnVm9HcTA5XzRnY1JhREdBMHBXOTFZc3M?oc=5",
-      "pubDate": "2026-08-04T20:06:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "日経平均株価は為替介入による円高が上値圧迫要因となり、5日移動平均線を割れば急落リスクも！ いまは円高が追い風になる内需系の大型バリュー株を狙おう",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DbF90RjZMc2pOTllkTWI5SU9DUHNXUkpBS1o5cXd6cUNSTG95dlh5RUZlQTdtSl9WNDFnRVVRTHlOV3BDTjhjeERUVllOdW1TeFY0?oc=5",
-      "pubDate": "2026-08-04T20:05:00+09:00",
-      "source": "ダイヤモンド・オンライン"
-    },
-    {
-      "title": "円売り優勢、ドル円は１５８円に迫る 今週はまだ介入の動き見られず＝ロンドン為替概況 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FUENSaW0yTHNuQ3gwMzd4N1gtaUZJaVd6R0x0d0N0ZnZUbndIeFhaOXpTZF9sQWEwYXpBNVhPQ2QzclhVVktHNw?oc=5",
-      "pubDate": "2026-08-04T20:00:40+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年8月4日）",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yT3JpUGlVemFzZFNwcWw5aXNFWkxPS0oxRkxyNWRBc3ZUbFdNOWQ2MGhSM0xCY1c1WjJwY0tVRTVNWUc4T0VxWWV0TjRoN195VVFYSXpMTjhMM2NuVlBLdU42OA?oc=5",
-      "pubDate": "2026-08-04T20:00:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "3日午前の円急騰、「為替介入でない可能性も」 短資会社が推計（毎日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vN2tvWi1mdDNMNzVIRS1uVGZ6MFBzNklMdFFDWDNzc1c4UnMwQk5SQWJ5eW9sdGJKaTd4eHo4aThzZm5yVnI0Qnd1S3NOY0tuczVpTVVQZTBaLWhLSVh3UmVNUGxwSlFreFNxc1Jma3BkeGV2SU92Z05oRl9zWDA?oc=5",
-      "pubDate": "2026-08-04T19:54:41+09:00",
-      "source": "news.yahoo.co.jp"
-    },
-    {
-      "title": "円安・中東情勢の影響緩和…トヨタ上方修正 苦戦中国どう巻き返す",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhTlpyWkw1c2E5c1BJbjVza0pSZ3ZaX0FDV1pUUDhXX0cxRnBYN1h6ZFdubUZXbi1YQXhrZ0lOVkJOYmpKRFpmT1B3SzA2bmxYTGRVWWN5SkZmQjZESGp3cEFTRkFKbTA?oc=5",
-      "pubDate": "2026-08-04T19:52:14+09:00",
-      "source": "朝日新聞"
-    },
-    {
-      "title": "円がじり安、ドル円一時１５７．９６レベル、クロス円も本日高値伸ばす＝ロンドン為替 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OcEhWaGk1QTh0N3cxT2VKTjhHWDUwSG96WDRwXzZUSXFPeGt1M1FFV05uZUJOdzdDamgyUnlDbE56R01vaEZaYQ?oc=5",
-      "pubDate": "2026-08-04T19:27:39+09:00",
-      "source": "みんかぶ FX/為替"
+      "title": "【日本経済を考える】日米共同為替介入の意味：米国が円買いの協調介入を行ったした“本当の理由”(2)（中岡望） - エキスパート",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFhlZkxDLWhWVFFEa1ZPNmg5UlFKYXZqTmJzSGQzUlU3d3FWenQ0b2ZENXFjN3JYajhjZ3h0c1N3cnZ4eXQ2UjhHaFd6SDNWMkpUTmJDZ3R4YTV3dmFweHdHbVNjZkY2UDU2RUJxM3luZUU1WERVV29OaktfQldZMUR3TUZ2c2dM?oc=5",
+      "pubDate": "2026-08-04T20:34:41+09:00",
+      "source": "Yahoo!ニュース"
     }
   ]
 }
