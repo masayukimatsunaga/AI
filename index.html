@@ -70,7 +70,7 @@
 <section class="card span-4"><h2 class="section-title">テクニカル判定</h2><div class="section-note">1分足から日足まで切り替えて確認できます。</div><div class="widget-shell tech-shell"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/USDJPY/technicals/" rel="noopener nofollow" target="_blank">TradingViewでテクニカル分析を見る</a></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>{"interval":"1h","width":"100%","height":465,"isTransparent":true,"symbol":"FX:USDJPY","showIntervalTabs":true,"displayMode":"single","locale":"ja","colorTheme":"light"}</script></div></div></section>
 <section class="card span-6 anchor" id="news">
   <h2 class="section-title">ドル円関連ニュース</h2>
-  <div class="section-note">日本語の為替ニュースを直接取得します。通信不良時は同一サイト内の予備データか、端末に保存した直近の一覧を使います。</div>
+  <div class="section-note">日本語の為替ニュースを同一サイト内で定期更新します。更新に失敗した場合は、端末に保存した直近の一覧を使います。</div>
   <div class="widget-shell news-shell" style="overflow:auto">
     <div id="jpNews" class="jp-loading">日本語ニュースを読み込んでいます…</div>
   </div>
@@ -221,8 +221,8 @@ function isStaleNews(items, updatedAt){
 function renderJapaneseNews(items, meta = {}){
   const box = document.getElementById('jpNews');
   const stale = isStaleNews(items, meta.updatedAt);
-  const label = stale ? '古い予備データ（更新停止）' : meta.state === 'saved' ? '端末に保存したニュース' :
-    meta.state === 'direct' ? '日本語為替ニュース' : '同一サイト内の予備データ';
+  const label = stale ? '古いニュース（更新停止）' : meta.state === 'saved' ? '端末に保存したニュース' :
+    meta.state === 'direct' ? '日本語為替ニュース' : '自動更新ニュース';
   const updated = japaneseDate(meta.updatedAt);
   const staleNote = stale ? '最終記事が3日以上前です。最新ニュースとして使用しないでください。' : '';
   const note = staleNote || meta.note ? `<span>${escapeHtml(staleNote || meta.note)}</span>` : '';
@@ -322,24 +322,24 @@ async function loadJapaneseNews(){
   if(cached) renderJapaneseNews(cached.items, {updatedAt:cached.updatedAt, state:'saved'});
 
   try{
-    const latest = await fetchMarketNewsFeed();
-    renderJapaneseNews(latest.items, {updatedAt:latest.updatedAt, state:'direct'});
-    saveCachedNews(latest);
-    return;
-  }catch(e){}
-
-  try{
     const snapshot = await fetchNewsSnapshot();
     if(cached && latestNewsTimestamp(cached.items, cached.updatedAt) > latestNewsTimestamp(snapshot.items, snapshot.updatedAt)){
       renderJapaneseNews(cached.items, {
         updatedAt:cached.updatedAt,
         state:'saved',
-        note:'同一サイト内の予備データより新しい、端末保存済みの一覧を表示しています。'
+        note:'自動更新データより新しい、端末保存済みの一覧を表示しています。'
       });
       return;
     }
-    renderJapaneseNews(snapshot.items, {updatedAt:snapshot.updatedAt, state:'latest'});
+    renderJapaneseNews(snapshot.items, {updatedAt:snapshot.updatedAt, state:'snapshot'});
     if(!isStaleNews(snapshot.items, snapshot.updatedAt)) saveCachedNews(snapshot);
+    return;
+  }catch(e){}
+
+  try{
+    const latest = await fetchMarketNewsFeed();
+    renderJapaneseNews(latest.items, {updatedAt:latest.updatedAt, state:'direct'});
+    saveCachedNews(latest);
     return;
   }catch(e){}
 
