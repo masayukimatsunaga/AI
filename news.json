@@ -1,7 +1,6 @@
 {
-  "updatedAt": "2026-08-04T16:38:21+09:00",
+  "updatedAt": "2026-08-04T16:42:32+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
@@ -9,19 +8,19 @@
       "title": "【FX】ライブトレード 欧州タイムを攻略だ！「ドル/円、157円台へ持ち直しも4日連続での為替介入が警戒される」ドル円分析＆取引 2026/8/4 17:00",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpVmJwaURGTHJVdGxpNEtzQk00V1RCQlFnR0xyZFhseV9JbUJKRzFWYnRGbHpvaWdTV0QzTGZkc09ZY1hGWUVXbm9rdUhmNExIRXVHRFdCMW91SlpJYkdBZ0JrMA?oc=5",
       "pubDate": "2026-08-04T16:30:00+09:00",
-      "source": "外為どっとコム"
+      "source": "gaitame.com"
     },
     {
       "title": "国民玉木氏、日米協調介入を評価 「円安是正に整合的な金融政策を」",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rZjR6VGdGa1FsMFU4T2Fhcmh2c2RCcmVmR0RGT2Y5N0tXd1l6eGU3bUtRQUVrQnlSYzB6TEVKeWFpYVhEWGE4OFpkRVRJWUQ4QmFnMjIweGhRTl9jNldYcWIzZ0xEWnJBU3o4Rg?oc=5",
       "pubDate": "2026-08-04T16:30:00+09:00",
-      "source": "日本経済新聞"
+      "source": "nikkei.com"
     },
     {
       "title": "【ドル/円、今夜の見通し】ドル/円、157円台後半を回復…4日連続で為替介入はあるのか！？＿2026/8/4",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIMUlFOEM2RmZERHFYcXIyVUtnWDJRSXE0V3JOUVhsNlJ6SjE4X1h3XzRCQ1l3YlpaTzU0ZERuTmpHR2thekR3Q1JocVhCS3U1dUVsLXBnQUQyaC1xbndRSDlvaw?oc=5",
       "pubDate": "2026-08-04T16:27:00+09:00",
-      "source": "外為どっとコム"
+      "source": "gaitame.com"
     },
     {
       "title": "〔JPX貴金属〕金、円安受け反発＝NY眺めじり高（4日）(時事通信)",
@@ -42,18 +41,6 @@
       "source": "Reuters"
     },
     {
-      "title": "東京外為市場・15時=ドル157円半ば、押し目買いで下値堅い 介入警戒感くすぶる",
-      "link": "https://jp.reuters.com/opinion/3DY7SS4HP5K7HHT3CRBCVFZ7YE-2026-08-04/",
-      "pubDate": "2026-08-04T16:05:00+09:00",
-      "source": "reuters"
-    },
-    {
-      "title": "15年ぶり〈為替介入〉でドル円に変化の兆し?円高の恩恵を受けやすい「配当利回り3.5%以上」の注目銘柄5選",
-      "link": "https://media.rakuten-sec.net/articles/-/53095",
-      "pubDate": "2026-08-04T16:00:00+09:00",
-      "source": "toshiru"
-    },
-    {
       "title": "社説：弱い円と為替介入 構造的な問題の是正が必要",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0WHNvR2ZsZVdBbmV0UXVfS28wX1BqUlBjZkZST1JUa2pHWmJGUTNSQnBiNGVzNHpVbnF5OFhLUW9FSVoydGVabVZIN0RCMENfcExrd0ZZc3g?oc=5",
       "pubDate": "2026-08-04T16:00:00+09:00",
@@ -72,22 +59,34 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "東京為替:ドル・円は小じっかり、上昇ペースは緩やか",
-      "link": "https://www.zaikei.co.jp/article/20260804/864350.html",
-      "pubDate": "2026-08-04T15:53:00+09:00",
-      "source": "財経新聞"
-    },
-    {
       "title": "トヨタ株、業績見通し上方修正で一進一退 円高リスクが急浮上",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kSmpHRXRVUzNWMm8yeGlNa0VnMy1SWkxGcjctbGJlMUt2aF9CWUZPdzNkLVVBYWpRVFU5QS1UR29McGRMb3lNQzZySkxwOWxZUWRwTGtZeGt0WjBaRFQtQnFHclJyVEU3bkRjcw?oc=5",
       "pubDate": "2026-08-04T15:50:02+09:00",
-      "source": "日本経済新聞"
+      "source": "nikkei.com"
     },
     {
-      "title": "東京為替:ドル・円は膠着、材料待ち",
-      "link": "https://www.zaikei.co.jp/article/20260804/864347.html",
-      "pubDate": "2026-08-04T15:39:00+09:00",
-      "source": "財経新聞"
+      "title": "４日の東京外国為替市場＝ドル・円、１５７円台後半で推移 速報",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PaG5vejZVSlV1ZHpLYkZLS1pxemxQRmpla1k3U2lnVUI5dUUtelY1Sy1iakhGaFhIc0hVa2lQaG5La3M2ai1j?oc=5",
+      "pubDate": "2026-08-04T15:32:00+09:00",
+      "source": "kabushiki.jp"
+    },
+    {
+      "title": "【これからの見通し】協調介入受けた直接的な円高の動きは一巡、当局の次の行動待ちに -",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3N0FTaEwtR3VJYjMtajBGUUlCeEhaZTlpTmx1bm95VHM5VWNySGJOLS1JTEY4V0RmUFg5VVBUenNMVGZDRElKTg?oc=5",
+      "pubDate": "2026-08-04T15:25:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "決算:トヨタ純利益16％減に上方修正 27年3月期、想定為替レート円安見直し",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5ZU1XSmdIVGkzUGNFU1NSQmg1M3o4QVJJaXBOM0l4RlFrMDB2aW11OGFOQ3JkVndYbF9xaXBrM2ppQWpIWjB1YzFQckZUdmFZT1h4enJjY2JwejJPT25uaHN1WV95Tk92VlgzbQ?oc=5",
+      "pubDate": "2026-08-04T15:10:04+09:00",
+      "source": "nikkei.com"
+    },
+    {
+      "title": "トヨタ、通期純利益を上方修正 ３・２兆円、円安で押し上げ効果",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMV1F1Z2JxTlNybVViUzJNSHV6X0h3ZlZDd3c3djBwSVEzclkxYU9kSGlSQ0RJYVdfMEt4NC15N1ZNN2JLVkRUd1BMSkk5LUFSeW5r?oc=5",
+      "pubDate": "2026-08-04T15:04:00+09:00",
+      "source": "東京新聞デジタル"
     }
   ]
 }
