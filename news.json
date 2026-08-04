@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-05T00:11:04+09:00",
+  "updatedAt": "2026-08-05T02:04:44+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "トヨタ、２７年３月期の最終利益予想を３兆２５００億円に上方修正…堅調なＨＶ需要と円安で押し上げ",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ueElyOUNLWkFiajJMWHQ2QU9NZnJkY2hTNHZkUVk3NXNmZ1VQMU9xRG1wbVR0TWUtMjhMRnloWTYxM0F4b2hvaTJiT0dqZ0ZENkdhQ29zT3RMUHFCUXZVcFppVHo?oc=5",
+      "pubDate": "2026-08-05T00:50:00+09:00",
+      "source": "読売新聞"
+    },
     {
       "title": "ドル円、売り一服 157.37円付近で推移(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdUd6cUQ5UkR0SzFKWmNfclVHaUwxVHRsd1g4OG8wbGlCMTNnaHB6dXduaW1Md3RjdDh4TzNIQkV6WWhUVldfblFvLTcxanN0MmRyTVVYbzNrTW1QRkpzNzJ0bzgxS3Rkb09PTWRvY3NPUFZycVpBVVVsNnFCcEFJWk5LMjFkT2s?oc=5",
@@ -14,7 +20,19 @@
       "title": "円安是正へ日本の政策改善が必要 米財務長官「植田総裁が対応」",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5feHpLeTVKZUpFQldxM0ZXZkxINUJwRHRjM043QWs3TUNYNmktMm9oQkltQWZrR3dDY1NDdzg2RTc1b19NMURiMHlzYlZvdWY1ZlJYMld0Rnl5SlVZaHZSaWxwRmw2YTQ0?oc=5",
       "pubDate": "2026-08-04T22:34:59+09:00",
-      "source": "毎日新聞"
+      "source": "mainichi.jp"
+    },
+    {
+      "title": "円安是正へ日本の政策必要 ベセント長官、利上げ要求を示唆（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSdXlYU0hsVm5yRUI5eVVKT1pjRTZQSS1wdEN6QmI1ZDYwRHRFby0ycDJqcThRUnduaG1WM25mOWRwZDVUUnlkajFMTkE3UGFuTDNVQ0RxTDNsNElsSTF1ODBMLVNsTnc0eDJPSDZ4ZmROYzhvdS1HcnJLTmI1OGs?oc=5",
+      "pubDate": "2026-08-04T22:24:07+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "円安是正へ日本の政策必要",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45Z2prTG9QWlFlcWVCQllBVjN6OUl4aW0wYzhsNjlUTERsUFdlZ1dNVUFmMGlsSXYtaVJCd0hidXZFUlZyUWZXaXBQdTk2YWJkSVdldDdVRzgtVkVodzVIbnZDWDZ0ZncwTUpIYUJ6aUZmc2w3M1E?oc=5",
+      "pubDate": "2026-08-04T22:24:06+09:00",
+      "source": "OANDA証券"
     },
     {
       "title": "ドル円、ベッセント長官の発言で円買い戻し＝ＮＹ為替序盤",
@@ -29,10 +47,10 @@
       "source": "nippon.com"
     },
     {
-      "title": "ＮＹ円、１５７円台半ば 為替介入に警戒感強く",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lVUxNRHY4M0JBMjdXa1I3b1M3N1IxYkswdW9rTWFqVk9sZk52c1VIbHVQZ0xLQlJfemI0eTZXUmwtaXpHX2REa0U5eWRGUnhoRjBXSFhTNVppQTFIN3c?oc=5",
+      "title": "NY円、157円台半ば 為替介入に警戒感強く（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhVm1STGVrbkNfS3FRTjF2dE1oVF8tNEpkX3U0Z21yU0FIaUJNN1JEdXJOaW5KblhWdHhUZ0pCblJ6RUI0RDN3UlZpZXppcVVXY2FjemRSVUhQNmZkVXUxcG9TaWoyLVU0RTZKUzcweFo4ZmhhZGVsMDdGbTZzSXc?oc=5",
       "pubDate": "2026-08-04T22:07:29+09:00",
-      "source": "okinawatimes.co.jp"
+      "source": "Yahoo!ニュース"
     },
     {
       "title": "ドル円のピボットは１５７．５４円付近＝ＮＹ為替",
@@ -69,24 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GUWlQQmZ3R0RFcEZUTFZ1OGk2LVE4VThiVVY5SDBsRUV1X0lCR25xeDRWcVlMSW5tMkZXYXhGWFJtM1ZnekFDSw?oc=5",
       "pubDate": "2026-08-04T20:42:40+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【要人発言】米財務長官「日本は円安を食い止めるための努力を行っている」(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMEJZekEyYUxvbWdsVWRHQXV4MmhGUmdXNXlLc0g4NFVyZlRhMUpRSklORGUtYTF6U3BwcndWVWlMRE9JSllSQWRidXRkbmlsT29qMVZteWlVUkFuVzdTS1UwbjBFUUtVblBoa0F2UXdkV2xXSzhlQlRfX2luWkF4eWZLWFkzQ1U?oc=5",
-      "pubDate": "2026-08-04T20:36:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円１５７．７０近辺、ユーロドル１．１５２０近辺＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NSi14MWtieXB3RkVnYzZvT2p5c0diVk94TjF5aFpsZTlFUU1CWmc4akh6M1E4M0RISmhJMFNwYVAzNElpN0dVSw?oc=5",
-      "pubDate": "2026-08-04T20:35:39+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【日本経済を考える】日米共同為替介入の意味：米国が円買いの協調介入を行ったした“本当の理由”(2)（中岡望） - エキスパート",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFhlZkxDLWhWVFFEa1ZPNmg5UlFKYXZqTmJzSGQzUlU3d3FWenQ0b2ZENXFjN3JYajhjZ3h0c1N3cnZ4eXQ2UjhHaFd6SDNWMkpUTmJDZ3R4YTV3dmFweHdHbVNjZkY2UDU2RUJxM3luZUU1WERVV29OaktfQldZMUR3TUZ2c2dM?oc=5",
-      "pubDate": "2026-08-04T20:34:41+09:00",
-      "source": "Yahoo!ニュース"
     }
   ]
 }
