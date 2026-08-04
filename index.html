@@ -293,7 +293,6 @@ async function fetchMarketNewsFeed(){
   const timeout = setTimeout(() => controller.abort(), 8000);
   try{
     const response = await fetch(MARKET_NEWS_URL, {
-      cache:'no-store',
       mode:'cors',
       signal:controller.signal
     });
