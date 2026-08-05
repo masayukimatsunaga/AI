@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-08-06T05:40:34+09:00",
+  "updatedAt": "2026-08-06T06:57:43+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "５日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Zb01lQjAyLWVPZHhCSU1razV4WlgyZGZfMGRFRmFmZXQxczdxenpJUkZVcjFFbDFvYmdGemYyYjRhN1lGQ0s0SQ?oc=5",
+      "pubDate": "2026-08-06T06:20:40+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "協調介入が「効果的」なワケ、円安トレンドの反転を狙う「最後の切り札」…持続性に限界も",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93MHcwUFVKVW1hQk9EQnNFUm1NNWNIVWY2WFVmTm5PQndZOENYRWdOMjVpYktLYldqZ3h4SzZ4TWtTVlBZQ0VQYnpza19ubmlCQk1WRmJR?oc=5",
+      "pubDate": "2026-08-06T06:00:00+09:00",
+      "source": "JBpress"
+    },
     {
       "title": "円安是正、日本の政策必要　米長官発言　「植田総裁が対応」｜四国新聞WEB朝刊",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqc0l2UGhLNEt2aDJHVG95NGd5Z2xyZVo1bjFfMnBLeE1ick9Jb0JMSWVOM3RMQ3JfT3lyQlVyOHNQVm5ReUNDdXV0VkhQcXUxNjhoT253dHVwNlRMT2ZWLS1qbF9JUFd6TG5nZS1ZQjlBUHczQ2pR0gF8QVVfeXFMT3I0SU1UbmF0TkRQTnZfMXpyeFN6d0hEejQzcUlKR3lYUU5PTmxzaDRCZzNQRnNsV0p5RDQ4VW13c3A2ejg4RU42cldtZlM4ZnpFNm92eER3cllPSTlQUWRpVGlieHdlb0paY3dkdVlzZ05Wd25ucWZMZG05SA?oc=5",
@@ -14,13 +26,13 @@
       "title": "スズキ、通期上方修正 売上高9.6％増 円安・世界販売が堅調",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jeEFPLXQ0NWVfM2ZKQ0dtZXZhanBCbkdUc1RoMEp0WkNZX0ZDXzdtVEFwYmxZU1RCMUVYWnNsWHpFWGxJd2dVY0ZHZmREZHA0SmNESkVFMElwNk0?oc=5",
       "pubDate": "2026-08-06T05:02:46+09:00",
-      "source": "日刊工業新聞"
+      "source": "nikkan.co.jp"
     },
     {
       "title": "ホンダの通期見通し、営業黒字6500億円 円安反映で上方修正",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mb1VJaG1nRzA2QTN4c3hIYmNyOFp3R3NvemZNREV2QzhyS1g1enVrZEZuZE8xb0QtaDdyRTdRVUZXNTEtbF9YcjEtS0lvZGo1c3IyeUdnS0JVSDA?oc=5",
       "pubDate": "2026-08-06T05:00:39+09:00",
-      "source": "日刊工業新聞"
+      "source": "nikkan.co.jp"
     },
     {
       "title": "円安を食い止められるのは日銀だけ",
@@ -41,10 +53,16 @@
       "source": "みんかぶ FX/為替"
     },
     {
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円、買い一服(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUXMzTnFLMFBlUWZ6b3BtZE9WaDVXQ3RNdjhzejNuRzlwWVp1UHZxbTJZQWhtZEJWWGtKY0lBclFoZDFNZGR3WWY1QjRMYlZYRkphVDRNRmZnR3ZybkMwTmpNYnlGd0stQmhYTWlRZEdyNndpMXlENU8zZ0Q2LUZpb2JVanVKUDA?oc=5",
+      "pubDate": "2026-08-06T04:07:08+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
       "title": "米、日銀に利上げ注文 円安是正「極めて重要」",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1telViR0VWOUZsZndHSVRfMUxEWEExNFhKNjVFeXJwSWdteHprakRCWEcwZzROVGtVUTZRRTBHTnkxbWFxWG9YR2RUQkFYVklHZHg0aFNTVVREanVlU0E?oc=5",
       "pubDate": "2026-08-06T03:58:00+09:00",
-      "source": "沖縄タイムス社"
+      "source": "okinawatimes.co.jp"
     },
     {
       "title": "ニューヨーク外国為替市場概況･2時 ドル円、買い戻し｜FX・為替ニュース",
@@ -65,28 +83,10 @@
       "source": "日本経済新聞"
     },
     {
-      "title": "ホンダ再建、中国がブレーキ 今期4000億円黒字、円安で上振れ EV含め四輪落ち込む",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rV3B5UUt6Qk5LSkw2ODRSUjVud2FZZWpKZzJweGo0TElxcGtKMjQ1WHpudFNoVXVnOGtUSW8yOW9ybVJNZkhtUDgzZmdSNmVNWUxHa29pNlNMSnpCN29ua1FLWVdxV09HVmdlag?oc=5",
-      "pubDate": "2026-08-06T02:00:00+09:00",
-      "source": "日本経済新聞"
-    },
-    {
       "title": "ドル円、売り一服 本日安値付近で下値を確認(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnNqaVUwTlFIUmNLY0lha0RxVFZwMms3T2RCbDRjcFFIM19BXzF3WmpwYzdUQ0hqVG51SlJMZDlmWkV1TFN2YTRZUUhsYUhMNmI2N1lDTjVjb3MxUEQ1QkdKWG5RaTlQNUVkY3VydVZrUnFsOEhCNjJsTDgtVXZpNkE3cExNclU?oc=5",
       "pubDate": "2026-08-05T23:36:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "為替介入「長期の効果はまれ」",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZWW05TmotNmpZUFpBbDFEUDQ2U2lnMVJSS1pVT2pNRnBSMmgxeTFqLTRPcWNUNUsyMEVmalhoNDUxSTlCdW5NUENGcGRqQlpkU3RLR3EzNXFaYUVkNU5wN0I0LUpVSXlRWVlObjZPVkVxNU9kelE?oc=5",
-      "pubDate": "2026-08-05T23:23:00+09:00",
-      "source": "OANDA証券"
-    },
-    {
-      "title": "ドル円、先行きに方向感を定め切れないでいる＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43R2ZNOS1fTFA5Qld6cWN0S0ZhLUlPT290aExzSlJMOWFTWm92VzNBNEdJdzE2ck10d3lvNDlUdEt4RWN4U3FVRg?oc=5",
-      "pubDate": "2026-08-05T23:21:39+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
