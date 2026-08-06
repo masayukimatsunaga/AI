@@ -1,9 +1,57 @@
 {
-  "updatedAt": "2026-08-06T21:30:51+09:00",
+  "updatedAt": "2026-08-07T00:00:41+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル円、１５８円台を回復 ２００日線回復を試す動き＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xNnJmZHQyV1BrYTBEeDN1WEMtWWdLdUxmQTRXbnZVSy1CVjIxRy1aYlJOYW9hdm93NGJON3hWNnQtajNyWklCdw?oc=5",
+      "pubDate": "2026-08-06T23:20:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル円、一時158.26円まで急伸 ストップ買い誘発｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWQnZ6akNrQnVKNjRIbUJqX2o0UlFsSVRxMEVpYVN3eVhTYks1Nl9UUHpkWFZsNV9TWXJpejFGWFhBU3ZvR3BHMXZNeVFDRWo5ZHc?oc=5",
+      "pubDate": "2026-08-06T23:13:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、一時158.26円まで急伸 ストップ買い誘発(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUzBYbXF1bUV6UUtnWmtoTnpHLTZ4ckVEQ2lTSFEzeG85T0k5Z3hNZ3ZDaUFjY25XLXNZbXczZ3Q5dlF3QUJEaHNMQS1FTlBETDlGa1RuWC1QUDBwRzdFMjZWSzNZZHZlQk56NTRfTXJWUE1IQW9XZWpMbEN2N3dwdHFaSXdIRlE?oc=5",
+      "pubDate": "2026-08-06T23:13:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、１５８円手前で小動き 明日の米雇用統計待ちのムードも＝ＮＹ為替序盤",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zZEFZUlRLU09MZVIyc05kMThMOWJUWHFiMm5EeUg3ei1JQnhhOUkwNmFYSHZyNTRaZnZSRDF4MlA0dGdRVnBHZw?oc=5",
+      "pubDate": "2026-08-06T22:22:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "欧州外国為替市場概況・22時 ドル円、底堅い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNmk0QWRoSVc4MmFZVFBTNWVTWmcwQ2cyUnppSDBlbXJYWU9zQ3lnVmt6R3RTMmNiZDNYNElmRHVOcXdHdzlrSEw2WU4yRnQ4bUxYcDlRd09RaG9iQV85R1R3R19vdXZ3Um4zSzB6a2wxNUlMQjBoN1g3SGFNeHJWeXVYQ2hrTEE?oc=5",
+      "pubDate": "2026-08-06T22:09:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円のピボットは１５７．８０円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82OWxaT3dFU1JqaXVsRXdyQTJ0WkZObkdLbVVvZTcyOEl4VjFIU0RnY2tCMUk0dnpTU2ZvQUhPZnJwQ1o2TzZHcQ?oc=5",
+      "pubDate": "2026-08-06T22:00:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "〔決算〕ソフトバンクG、純利益17．7％減＝円安響き為替差損膨らむ―4～6月期(時事通信)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM09MSlNySmxXWElxWlNCUGFkQ3pHa1VjcThxSnlNYlVFNlA4SnlEVElXT2pMbW5YX0gtT0U2QXgyeVM2WVZ4WEdkQ1FlUHUtVWQ0d1FaNmJSdzA5QThEVFJHc2tvakhqcjFwV3RUWXFBTWxjRkNZWmROLVlISkRVMU5UZ1I2UUk?oc=5",
+      "pubDate": "2026-08-06T21:49:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【速報】ドル・円157.89円、ドル堅調、米先週分新規失業保険申請件数は予想下振れ、 Q2非農業部門労働生産性速報は予想",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeHRJcDdfVFdXWUJiM1cyV25JUG1SVzlQR1ZrUDJFNU9uNHI3OTc2RzJuNkF5eC1vRHNudURBSmFtVW1Nc2puOG5nOHhySjR3eDN0T3JWZXhobGdjVENzLUZ1cHByNDRINjlfbDBYNDNkZFA5V3p4OUYwNUViTXZORE9XVVUxZnc?oc=5",
+      "pubDate": "2026-08-06T21:36:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "ドル円１５７．８０台に反落、円売り続かず＝ロンドン為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9odV9QQ3lXWDV1ek94R183UmxTcGlTNTVSaWhJUGE4WWZVOWRmbzcyNjJreURaUVJXYWp0djNUTWplRDczTVh4eA?oc=5",
@@ -35,58 +83,10 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ソフトバンクＧ、純利益１７．７％減＝円安響き、為替差損膨らむ―４～６月期",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFUmJMVnZnNExfMllXMzZhRE9wZHQtOUh5aHNScUdSUG9KRzZsbENPcVV6b0txbVo5QnZzNmppRUViT1dvMXNEX3pkb0Q0cWdlQU1GdV9LWWRqcGZNd0hPSFpkb1d4dEFIU1lZZ1plWQ?oc=5",
-      "pubDate": "2026-08-06T19:53:03+09:00",
-      "source": "iJAMPポータル"
-    },
-    {
-      "title": "NY為替見通し＝ドル円、明日に米雇用統計控え方向感出にくいか(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWhQVjFMbV9taEFBLTRNekw0cG0yMFNqMnNuWTlVQzFmSXdaeHpjR0ppd3NnLTVCYjZIdEU0WGw2NEZmUGZlQVhkeTZnUXhncHdZRWRCMXJJVlJsSlNNS2ZESF80d2RmTkNVLTVNOVp6TmVGWHFLRnRpVm8wWkpESURKT2ZFdEU?oc=5",
-      "pubDate": "2026-08-06T19:34:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円１５７．８５近辺、ユーロドル１．１５４０近辺＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZ2NuRG9yQUgyT0E4TlgzUDhmcXRCRnlvVTBwelNkdU1sWTM5X0JvR0ZWeTFCa1czb2RTRG9FT0pmYnBqRHlOZQ?oc=5",
-      "pubDate": "2026-08-06T19:17:39+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "円相場は小幅な値動き 再度の市場介入へ警戒感も",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12QUlxXzE5bEw0TmI5Q0NLaGVKTXloQ0F3Z3hJNHFRSEE0SnNLYzd1TjRpeDNBSG82dERoNG55UVJraGM4YUttRlJKdFRJVVR1clVpZlYyekVKVWRiS2xZ?oc=5",
-      "pubDate": "2026-08-06T18:32:18+09:00",
-      "source": "NHKニュース"
-    },
-    {
-      "title": "欧州為替：ドル・円は失速、急落後の戻り高値を意識(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUi02RGt1QW9Fem9jRU5PREh5SEtDSDVicWdjS3J0dmRGeHNYVmZsdS1WUDJ1blJyU0RnSXBWbk13OFozRWNweUNuU2ZRaDhQYjYtUjRKTGlIc2pkUGxWeU9KV3F4MDNOdzNLQkZDZkRjSmFZMDM0OUJ5TUwzcndGLWhTUDlEaVk?oc=5",
-      "pubDate": "2026-08-06T18:09:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "東京円、１４銭円安の１ドル＝１５７円８６～８７銭",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wcWc2WU5pMENHTXRSM0sxNUFDQU5VNkt2VTRVV1NZaDZKZW16aTVhcnhzdDA3SUlja0R4Q0ptdHNyQi1DcWRvQ2hUWF9tZWlpV2d1X1RtbXhHYndseVFzT3J2SlM?oc=5",
-      "pubDate": "2026-08-06T18:01:00+09:00",
-      "source": "読売新聞"
-    },
-    {
-      "title": "円相場、157円86～86銭＝6日午後5時現在(時事通信)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcjRhOUd2UUVZSW1rdHBkQy1RNnZqSHdmT3ZKSFZvUVN5cHNjSTNOSzdHcDFmd2JnWFUyUU5PdnBDNmsxdmxNSGx3dnk0UDFvNEZ2VVpQZXR5Unk4X21Jb29DdFFZUlBZa20zN3RPcE9NRTJfVXZNM2hnV1REN0RQTVFxbEpjVGs?oc=5",
-      "pubDate": "2026-08-06T18:00:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbWxqc1ltSU1ndEE0VElnZldUTGdyRVJpOTdKeXBsc0RDSm40dm9kLTJqaDZlOVpoR2E5eEZIX1o0bFR1SFR2N2k4WjRiTnN5dHVBTHJn?oc=5",
-      "pubDate": "2026-08-06T17:46:52+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "米雇用統計の予想とドル円展望｜9月利上げか？注目3つの論点【外為総研】2026年8月6日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BaTNFWnFyUkdYRDVyS3pHeGI5TnVVQ1hyQzZkcGJVa0wzM2tBWURoT3JJSDlJLWEyTGZsY0FaOFF1OUhQNXpnTFZyN181dHRIVUN2cUphNVlaSVliU1NPYXRjaw?oc=5",
-      "pubDate": "2026-08-06T17:35:54+09:00",
-      "source": "外為どっとコム"
+      "title": "ソフトバンクＧ、純利益１７．７％減 円安響き、為替差損膨らむ―４～６月期",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWakU4OEVIckVrX0VpbXZDZlpRTDFwNzNfOHp1LWlkNHQ3dUZkRnlaUmVGUzBxQ0pXM2JzaTBhR3BnWThEdlBfdFBqeEJ6NXk2emZ1N0V1aldvaHFBNmxHQTFsMA?oc=5",
+      "pubDate": "2026-08-06T19:48:00+09:00",
+      "source": "時事ドットコム"
     }
   ]
 }
