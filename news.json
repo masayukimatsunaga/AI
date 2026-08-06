@@ -1,9 +1,75 @@
 {
-  "updatedAt": "2026-08-06T08:18:52+09:00",
+  "updatedAt": "2026-08-06T10:07:16+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "円相場、157円61～61銭＝6日午前9時現在(時事通信)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMGY3QXJuMkttekdHS3Q4ODlxSFJ1VXkwY2VUc1Z3aVBIcTdSMzQtVXBSSkprVldZbUhZX3RrNXZ4dlNkZWVtWTNxRDY1SGExYjgtLTJoWVM3UUZHaVFaNTk3YTU2eGs3cFpjeklYbjVMQ3IxUVZQOXdEc3VBV0tFa1pxTm9vNEU?oc=5",
+      "pubDate": "2026-08-06T10:00:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京為替：ドル・円は157円56銭まで下落後に持ち直して推移(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPblltb1VKSEdTVXJXdDl1RTV6TW9FRER6QUsyaDliTUxWM25ZVEEzdURYaF9QMmc5WGtHWlZoX3VPdU04X0ZSczBHalVvT0R1TnJ4RzdXN0lrZTR2eDFKUDE3clN6Mnc5QXBhdFpGUWhwSVFWdW5jNWlIWjFSbm9QdnNiOXR1NUk?oc=5",
+      "pubDate": "2026-08-06T09:35:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円理論価格 1ドル＝158.64円（前日比-0.48円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sdzhSTUI4RDJiQ3RTOERuM3N1X053UFNOMFVlc19lcERJd3pseWpHTkhiQkRCYXBXclU4YkJUMWRNb1RQSjlpcQ?oc=5",
+      "pubDate": "2026-08-06T09:15:40+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "外為：1ドル157円61銭前後とドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVnBEMkJ2dlFQMXQyeU9MWnpnNXVJRVJsUk82bVViRzZOelg0VmpiMHdQV3prRFM3VDZSWkt5dU9Zb0ZidjRvSGs1SlE3NDdRbTM2Qy1sYXhrM1ViQUhlRUd0MGstS1FwSjZOaGxzaU05NEZTRHBkeHN0WVBsaFlYMXF3eTJUUW8?oc=5",
+      "pubDate": "2026-08-06T09:07:39+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京為替：ドル・円は157円56銭まで下落後に持ち直す(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWpkRlZVdnpEdnVMQ1Y2aGtGRHJBdUJOdW1xSDV1YnBoY3VBV29DYkxFNVkxRmQyOE5CN1FMekxrMWNwQ1VNdmtlWXNFR190ejZYekdGSWhvRXVYZWwxY1cyS3l3X09xY0tEN3BpUzdGQ0ptZGJmalR5aWxVR1pnU19tdzE4akk?oc=5",
+      "pubDate": "2026-08-06T09:07:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "岸田文雄元首相､円安を阻止するために日米の通貨当局が実施した為替介入は｢一時しのぎに過ぎない｣との認識を示す",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WRVZiTDFYVGVzNlNCN0g4MVNmRzg1VXkzaGlyZTgySGc5bFhIazRMT3dpSElTbDI4MFFsNDJpYi1rSTFlXzQ3NDBRdzN2MVZfTnc?oc=5",
+      "pubDate": "2026-08-06T09:00:00+09:00",
+      "source": "toyokeizai.net"
+    },
+    {
+      "title": "岸田元首相､円安転換へ財政・金融の対応強化を-為替介入は一時しのぎ(Bloomberg)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMl9KeXdHT0hkdFh5VnNNY0ZyaWhzY3c2YUxUN2hveFBMUHJ2SlBISEIyODZzQlNhUmhZRnJiYjJpOGtoUTgteUhlTmYtc3JMRWs4YWpqcU5jREtuT1F6b002Vml1bHhXM09lZDhJNnhpdHNVa0QzY09GSUgtTmVlcklTMGRGeHM?oc=5",
+      "pubDate": "2026-08-06T08:41:56+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円 157.64円付近、SGX日経225先物は65860円でスタート(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUnZ5bzVFbllHLWstSFVPbHYwNUMwSFVEbjZySjV0REc5Q01rU2RaWXc0Z2dJUV94THRibEl0ZEZVMHNOc2RPMzBvYWRBWDE2UHAyLXR6QlFEYmJoR1ZFUGFLaUlFNjNTZHhYdDVtdnNtejV3bVp6bG9JQnBoaU9wMHQ0NVMtTGc?oc=5",
+      "pubDate": "2026-08-06T08:38:06+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "６日の東京外国為替市場見通し＝ドル・円、１５７円台後半を中心にもみ合う展開か(ウエルスアドバイザー)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkNxU2tmdmpCVTZOZm5aVU5lS1VqeFFyRDc1QVZKR19ycE9CT0NmQzNZRVJPMV9JTXFrTGJETjlPSWVIMWsyRldVRmtEMFU0SkxQZjdMa0lJcE1sMlprNEdnakxLTjlZQXliOEhMYnN0eE9aX0ZNRWhkejNQWnlJbEJPSlo4czA?oc=5",
+      "pubDate": "2026-08-06T08:35:27+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "FX/為替「ドル/円今日の見通し｜「次なる展開」模索へ 関心は米雇用統計に」 外為どっとコム トゥデイ 2026年8月6日号",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zcmxNdnoxclF4MGZxRGhxSEU2WU5vSjBkRVpCR2h2alk2b0lEWlJ2X0NpT1FPbUx3VlA0a05XVkNlYXpmLVg3OFhzSk1aMHVsVUVpWDdCUExLd05KUXB1cW9qRQ?oc=5",
+      "pubDate": "2026-08-06T08:21:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "東京外国為替市場概況・8時 ドル円、値動き限定的(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkFmZmxPaVA5ZTVFZENXRU82TF9UQnNRbmZRSHNiRF9xR2NhYXdFRnM1NVctdC1CNl92VFFwdmtlbExGMmM0bXNZQWxmcnVkX0tBQjhVMGktaUs5QWFDN0l5Y0NTOTdJM3EwVzdHbi1YOEZidk5TeE1nZUdyNUxqcHYxcFRXUlk?oc=5",
+      "pubDate": "2026-08-06T08:12:43+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "ドル/円見通し(為替/FX ニュース )：ドル円は円安で157円台後半｜動意薄でレンジ相場の展開(2026年8月6日)",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuLUxodExERGg2OUhKT3RwdW9nNFJvV1hlZVJxVzgxdWw1VTI0ZEhHU3N5YjJTTWNQVVN4c3ZhY1EySXkwRTRSeEQ3SFE2YXZFQ3U0NnF5MGhFVDdLZWdCb2lGWHpVaU9lZjg4ZThCNUt3b00?oc=5",
@@ -17,76 +83,10 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ドル円午前の為替予想、「次なる展開」模索へ 関心は米雇用統計に 2026/8/6",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zQTNuUWlTYUFjZEZ1eXltNjl0MG5uOUppM3hfVmQ5ek1paDBvQXQ5YUJPY1BGUkVSU28xTUl6b3FKWEJnTVF5c3ZXUGZVZzlsRFZMdGpEak5iUHNlal81YXhqWQ?oc=5",
-      "pubDate": "2026-08-06T07:36:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル円は１５７円台で上下動 急落からは下げ一服もロング勢も慎重＝ＮＹ為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91S1JkbWw4WnpibVZicXQ2NmphSUVENkNYRDZfU2UtSlZDTllvb1Q5ajd0YXlEOXBteFNFT0RvMVp4MThlenRsYQ?oc=5",
-      "pubDate": "2026-08-06T07:12:01+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "朝のドル円は１５７．７０円前後＝東京為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByMWZNbkZ0OFExTnJYeUlrbGF5N3haQ2Nwd0NTYnlrMUpJc1lGUGozRWhLVmF1TDFqZkViNkZwV2E5WWVZZlYtVg?oc=5",
-      "pubDate": "2026-08-06T07:03:39+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "５日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Zb01lQjAyLWVPZHhCSU1razV4WlgyZGZfMGRFRmFmZXQxczdxenpJUkZVcjFFbDFvYmdGemYyYjRhN1lGQ0s0SQ?oc=5",
-      "pubDate": "2026-08-06T06:20:40+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "協調介入が「効果的」なワケ、円安トレンドの反転を狙う「最後の切り札」…持続性に限界も 【やさしく解説】協調介入(1/4)",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93MHcwUFVKVW1hQk9EQnNFUm1NNWNIVWY2WFVmTm5PQndZOENYRWdOMjVpYktLYldqZ3h4SzZ4TWtTVlBZQ0VQYnpza19ubmlCQk1WRmJR?oc=5",
-      "pubDate": "2026-08-06T06:00:00+09:00",
-      "source": "JBpress"
-    },
-    {
-      "title": "円安是正、日本の政策必要　米長官発言　「植田総裁が対応」｜四国新聞WEB朝刊",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqc0l2UGhLNEt2aDJHVG95NGd5Z2xyZVo1bjFfMnBLeE1ick9Jb0JMSWVOM3RMQ3JfT3lyQlVyOHNQVm5ReUNDdXV0VkhQcXUxNjhoT253dHVwNlRMT2ZWLS1qbF9JUFd6TG5nZS1ZQjlBUHczQ2pR0gF8QVVfeXFMT3I0SU1UbmF0TkRQTnZfMXpyeFN6d0hEejQzcUlKR3lYUU5PTmxzaDRCZzNQRnNsV0p5RDQ4VW13c3A2ejg4RU42cldtZlM4ZnpFNm92eER3cllPSTlQUWRpVGlieHdlb0paY3dkdVlzZ05Wd25ucWZMZG05SA?oc=5",
-      "pubDate": "2026-08-06T05:21:20+09:00",
-      "source": "四国新聞"
-    },
-    {
-      "title": "円安を食い止められるのは日銀だけ",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wZm5GcDJaRjlERFJBMDZpSU52aldGV0llMmpzdmthVWpPclowR3ZpazRhdE96cTFCcnpTeDJoNWpKZmtPdlhZcUJCdVM?oc=5",
-      "pubDate": "2026-08-06T05:00:00+09:00",
-      "source": "ダイヤモンド・オンライン"
-    },
-    {
-      "title": "【テクニカル】乖離ランク＝ドル円・クロス円は連日でマイナス幅を縮小",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IUTVPZ1U5dzJwMElaQ0R5S1JGQVUwOW9mQURYc3R4bzFkbVAzSG9PVURhcS1UU0Zjb2NOYlBCU2JLeE9vYXQ4aDBVX3o4eC1qWjFfcUJMTC1GbXpmcWZ1cExIVQ?oc=5",
-      "pubDate": "2026-08-06T04:43:57+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、買い一服(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUXMzTnFLMFBlUWZ6b3BtZE9WaDVXQ3RNdjhzejNuRzlwWVp1UHZxbTJZQWhtZEJWWGtKY0lBclFoZDFNZGR3WWY1QjRMYlZYRkphVDRNRmZnR3ZybkMwTmpNYnlGd0stQmhYTWlRZEdyNndpMXlENU8zZ0Q2LUZpb2JVanVKUDA?oc=5",
-      "pubDate": "2026-08-06T04:07:08+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "米、日銀に利上げ注文 円安是正「極めて重要」",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1telViR0VWOUZsZndHSVRfMUxEWEExNFhKNjVFeXJwSWdteHprakRCWEcwZzROVGtVUTZRRTBHTnkxbWFxWG9YR2RUQkFYVklHZHg0aFNTVVREanVlU0E?oc=5",
-      "pubDate": "2026-08-06T03:58:00+09:00",
-      "source": "okinawatimes.co.jp"
-    },
-    {
-      "title": "ドル売り為替介入で得た円、財源になる？ 減税5兆円分確保は難しく",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5COTNjWHp2QWJpV3E4MXoydVV1NFBvYVBzQlFfSVE2MHlhckczdXhLN2hKdU1oaF9JV1FCdmJlNjctNkdWWFNNd29EZkdLcVZIWUVhTWxnbllMdFczWjBuc3Y1SUVxcFBsYnNhZw?oc=5",
-      "pubDate": "2026-08-06T02:00:00+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "〈Check Point〉為替介入、財源にできる？ 5兆円分は難しく",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mUmw0dDk3TGs3dDRSQ1NtWUFfT25oRl9SRXVmMk55cG5hWEJaNlZQaWVlWW9oMUdkelJqUEZYNFVOX2xCWjBGZF9aUEZEeDlZenN3NzJFSHR2ZWdSQzJrUVpkVGVDTmdzV0NaSQ?oc=5",
-      "pubDate": "2026-08-06T02:00:00+09:00",
-      "source": "日本経済新聞"
+      "title": "外為：1ドル157円67銭前後と小幅なドル安・円高で推移",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3aElZaTdtSDRPa0lGQ0xnSG1jVmxRaHJfSjdQUlFOdnA1c3Q0T2Jmc0dIV0k2OURVcENPcE5hYkpaMTlPWm9RdC1TVUNPcHdOenc?oc=5",
+      "pubDate": "2026-08-06T08:01:02+09:00",
+      "source": "株探"
     }
   ]
 }
