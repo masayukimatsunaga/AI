@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-08-08T04:18:03+09:00",
+  "updatedAt": "2026-08-08T05:23:46+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "企業最終益７１％増…円安追い風、製造業好調 東証上場４～６月期",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CY3FCTVA0MHB0a3d0ZnhCS3JkaUdmYVdldW54ZnU1dXc4TDhVMHJTU3owb1k0LWdIS1ZnMHRkWEVrLXVyb3NzMWE0ZmFSdm1DSjlHQlNwN2QzWnhZeHByZ190Tkc?oc=5",
+      "pubDate": "2026-08-08T05:00:00+09:00",
+      "source": "読売新聞"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円、小高い｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zREN4RVhoQ0hZVWdaNUVSV3E1eldMN19oRngwT1NONlpnNVBEMTl0MGdITnJ1bkh1UnlNeXhpaXhjOHRBZ1NWWFBub0RXWDlHMUE?oc=5",
+      "pubDate": "2026-08-08T04:09:00+09:00",
+      "source": "ザイFX！"
+    },
     {
       "title": "為替介入６．２兆円、過去最大 政府、日銀４月実施、５月にも５兆円",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GaVAtMWlKNWxGQnRwWFFOTnZPdjRtb2lKQWJObklLQXU5ZjN4Tk1DSHlmMHdoeHl1N2VVVEgwbzB5bVpnWHlZNWFackNfTmpwVlVsWFFiYVRfNmM?oc=5",
@@ -14,7 +26,7 @@
       "title": "4月30日為替介入6．2兆円 過去最大 円安食い止めは一時的",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SZ1B3QU81bHdFOVh1T2NYZDBYRnhZQjZXRnEyaHh6MUVjek9QMnlybEZORGFNRDJIeDBXTE5BUndjWkV0OHdkZlA0Q3hJeFRKa2Q4aDlJUkd2S2tiUkE?oc=5",
       "pubDate": "2026-08-08T03:59:00+09:00",
-      "source": "沖縄タイムス社"
+      "source": "okinawatimes.co.jp"
     },
     {
       "title": "長期で円高進む 日銀利上げ示唆",
@@ -32,7 +44,7 @@
       "title": "円相場が一時156円台に急上昇、米雇用下振れで－再介入警戒くすぶる（Bloomberg）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yajZQbVFnaHlPS1p5MmZNdXNtbmZzaVBsTGJqdGRCN2RZejZ2MkVtT01Ccll2aEV5d1RHc0xZSDctX2tqaDFsNFNWYWt0TThVbFI1aUl4WndPX2JYRGxfRFRwRGpSTlY4NzlOUFFDbGtKak5iR2c3d3NoMVBmZFk?oc=5",
       "pubDate": "2026-08-08T01:18:46+09:00",
-      "source": "Yahoo!ニュース"
+      "source": "news.yahoo.co.jp"
     },
     {
       "title": "円相場が一時156円台に急上昇、米雇用下振れで－再介入警戒くすぶる",
@@ -41,16 +53,16 @@
       "source": "Bloomberg.com"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・24時 ドル円、底堅い｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43Um1yZDJCdVZJY3l4Q0llRGU1OGY3WmR4dVd1T3B0Z0cwMGJCR1pjRWJ6eGY3Qy1qcUJjbFp3TUpDTDIxRnFXOGw5S3RGMF9wMHc?oc=5",
-      "pubDate": "2026-08-08T00:08:00+09:00",
-      "source": "ザイFX！"
+      "title": "円安で高級ジュエリーの消費拡大、日本で広がる「身に着ける資産」",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aNkV5QXhPSzlBeGNyQnpSMzE5MzdDeG1rd2lPc1JKWmE5Q0R2XzI0TEljYnR4eHFnMHRfOWRNMTZnLUtETUNqd0JpdENTN3p1a2VzelRuVzMzX2NPc0NmX0R2aE0yT0xBZHBmUWU3M2pDZV95?oc=5",
+      "pubDate": "2026-08-07T23:34:29+09:00",
+      "source": "Bloomberg.com"
     },
     {
       "title": "円相場一時1ドル156円台に急騰 アメリカ雇用情勢悪化で利上げ観測が後退（FNNプライムオンライン（フジテレビ系））",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWTJLVXNZbUhIdkZUOGFrRUtJOWxDMkFNeW5YLUVnMFEyTV9OWXpCcWNhVlBIQm1HVjR3RnU4a2t6QzJnSF85NnBkUkE5WTRkNUtMODNSX1NjMk43OENZdmxPUk01UFNoeE5oTm9Gc1FocU5xekI2MmUxSzZITXc?oc=5",
       "pubDate": "2026-08-07T23:30:45+09:00",
-      "source": "Yahoo!ニュース"
+      "source": "news.yahoo.co.jp"
     },
     {
       "title": "為替介入6兆円超 “過去最大” 4月30日実施",
@@ -75,18 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IVmZqQUxIMUh1SkIxYU1OTlU5OElLeFd3N3lFYXF2cEZaMENGWHVRRmk1WnhLckVSOFZSSWkwNmdJRFpIeXRQYg?oc=5",
       "pubDate": "2026-08-07T22:15:40+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "NY外国為替市場 円高ドル安が進む 米雇用統計発表受け",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Tm90bmFUOUpHSGtMRWsxcE04eXRtTEU3Uk9SUUk5WkF5a1QwUDdXc0ZpdUhULVA4V2MxR25wYkRCU05LTmczV2Z2RkdRWWVrS0NCTVhVdl9kSUtGZ1VJ?oc=5",
-      "pubDate": "2026-08-07T22:14:20+09:00",
-      "source": "NHKニュース"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、急落｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uaGNBZ0hON0xTZVlhYjdJbG1pSVEyVm56TUVCT2dlSnY0SlFpaUtpUnBtdXIyMWkwdTFYeC1KT1pta1V6QW1QUUVpWFh1ZmtENnc?oc=5",
-      "pubDate": "2026-08-07T22:09:00+09:00",
-      "source": "ザイFX！"
     }
   ]
 }
