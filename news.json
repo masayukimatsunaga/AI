@@ -1,14 +1,26 @@
 {
-  "updatedAt": "2026-08-08T03:04:42+09:00",
+  "updatedAt": "2026-08-08T04:18:03+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "為替介入６．２兆円、過去最大 政府、日銀４月実施、５月にも５兆円",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GaVAtMWlKNWxGQnRwWFFOTnZPdjRtb2lKQWJObklLQXU5ZjN4Tk1DSHlmMHdoeHl1N2VVVEgwbzB5bVpnWHlZNWFackNfTmpwVlVsWFFiYVRfNmM?oc=5",
+      "pubDate": "2026-08-08T04:00:00+09:00",
+      "source": "山陰中央新報デジタル"
+    },
+    {
+      "title": "4月30日為替介入6．2兆円 過去最大 円安食い止めは一時的",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SZ1B3QU81bHdFOVh1T2NYZDBYRnhZQjZXRnEyaHh6MUVjek9QMnlybEZORGFNRDJIeDBXTE5BUndjWkV0OHdkZlA0Q3hJeFRKa2Q4aDlJUkd2S2tiUkE?oc=5",
+      "pubDate": "2026-08-08T03:59:00+09:00",
+      "source": "沖縄タイムス社"
+    },
+    {
       "title": "長期で円高進む 日銀利上げ示唆",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KMUktZV8wSnUzajB6ck4xQk1ZbGlXa3kwZ1JMZ3J1ZGdzTDQwN0J4SUNFd0czbzRvbXlFT1JTbzNEekJ6ejJmZUxHTVJHRjNiZWNpc0FSdUJzbG9qRFMxQjVSWnE1dF9KRHR4RQ?oc=5",
       "pubDate": "2026-08-08T02:00:00+09:00",
-      "source": "nikkei.com"
+      "source": "日本経済新聞"
     },
     {
       "title": "ドル円、２００日線が再び上値抵抗に＝ＮＹ為替",
@@ -53,12 +65,6 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円、下値堅い 157.65円付近まで下げ渋る｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nTHZhNmJKV3dROG5MMEtDS1JZSlAzMms1RmF1SmNzTHR3OEhHVjlrQl9PVktLM1lCSlU1QVNhWUZ3VWJJVlRjamFDdEdTekd3Vnc?oc=5",
-      "pubDate": "2026-08-07T22:52:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "米7月の就業者数2.3万人減 市場予想を大幅に下回る 円高が進行",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sTjl1a2haSHh3VC1CRTc2RURBNEdzWXUwZkZEUGpubWNTczUyTG9vbnh3MVFGclAtblZYNTAxd1N0d2U4R1dqdkEzYmRjTS1VVm9qZXN0dXRXZ1FUc1FfZlgtQVdnWk0?oc=5",
       "pubDate": "2026-08-07T22:26:32+09:00",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uaGNBZ0hON0xTZVlhYjdJbG1pSVEyVm56TUVCT2dlSnY0SlFpaUtpUnBtdXIyMWkwdTFYeC1KT1pta1V6QW1QUUVpWFh1ZmtENnc?oc=5",
       "pubDate": "2026-08-07T22:09:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "決算:日揮HDの純利益2.1倍 4〜6月、円安で押し上げ",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yMmVuZ1VfQk1uelpubm1TMjNTRWhtc1RaZ19BQmJnSVVlbzZCOHNTaUE0UHlheVM3XzFsWi1yUUtMbjRydng3YzZwNVNiUVVrOUVnd1BmaDI1T3NMRFF6SmNRb2R3dnYtamozZQ?oc=5",
-      "pubDate": "2026-08-07T22:02:38+09:00",
-      "source": "nikkei.com"
     }
   ]
 }
