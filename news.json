@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-08-07T18:43:38+09:00",
+  "updatedAt": "2026-08-07T19:37:39+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "欧州為替：ドル・円はじり安、原油・米金利の弱含みで(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWR5WW1PUm1reHZpUzJHcWFoZE9DYnkzUTNyeGFhQUpBX2RzaWgtVjBscHVDdElWUl8zUGlfeHRqMVRCSXQza2ZCU0FHWTJkTG5fdUU3NzFWRzRFUzFOVTB2TlhFTHdVRXVsdEpBV29xaTVEYWlMa0FsZDF5eVR2LU1IMGVodTg?oc=5",
+      "pubDate": "2026-08-07T19:21:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "為替介入劇場、世界のディーラーが大騒ぎ ロンドン×東京で語る【ポッドキャスト】",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iUkxPT1lEZGl3dGpYSHFmWW1lUlhxMDdNRHFSeEVrVmx3S3N4Nm5tQXZUM2lERjBLaVk5MmNsSlNCZXA4OFFacl9wOFdjWERlakpSSmJSOS1fMmNNdHJtV3Zna3FvMjJIM29WQQ?oc=5",
+      "pubDate": "2026-08-07T19:04:06+09:00",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "東京為替概況：ドル・円は下げ渋り、午後は底堅さも｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qdEJ6TExPZG9udEh1RHUxUWxEQWxwU05MaEFiVmhBRVktbmx2NnljOWtlUTBrRnZRaWtvSURYSWpxOENuT1ZLeXVxbmo0MnpyV2c?oc=5",
+      "pubDate": "2026-08-07T18:42:00+09:00",
+      "source": "ザイFX！"
+    },
     {
       "title": "欧州為替：ドル・円は軟調、米金利安で(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNajZBcXFBaHVDcjdDelNmU0VnaUM3c2tVZWh6T0I2V29ySnJRN296OFhKQnpiUnlsVGJuWk1qdUJzTXc4Z1VsNFFEOEk3VHhuaHRkZHFMdTBvNEJiNWRXYU9zcTdtMDBqM1JLWFpSa3RVSmc1SlI1TXhhaE9YYmhnbjRET3l4Z0E?oc=5",
@@ -20,7 +38,7 @@
       "title": "円安是正へ 28年ぶり協調介入 トランプ大統領「友情の証し」真意は？",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XbDUwNGNaYU9nQ2pteXpCdHFJOXdJYzVGTTNKUTlFcDlUcTRYMkhPZUhkWnI3aFhKNEZlMS1YdjUtU1haUk16X19BZlY2eTlybUFCWjhFZ1p3VHFFN0tiOGF2dWJnZDNNcGdkX0JSd3JSQQ?oc=5",
       "pubDate": "2026-08-07T18:00:00+09:00",
-      "source": "テレ朝NEWS"
+      "source": "news.tv-asahi.co.jp"
     },
     {
       "title": "ドル円１５８．４０近辺、ユーロドル１．１５２０近辺＝ロンドン為替",
@@ -69,24 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4weU54dm5yZGlJcjdSbUctLTVHN19YUTNJV2NGbWM2VFNyaHJ4bk1EUXMxWFJmcFhwZEFQV3RsZnhCVmFaSG1YSA?oc=5",
       "pubDate": "2026-08-07T16:54:39+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "テクニカルEYE（ドル円）＝やや買い優勢、１５８．５７円が最初の関門",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNNUc2WWhKV0s5TDYxUjZiYTM2dWIzSUZZQUdpS3RGbzlpLU13RDhrdGoyTG1mYzJ0bUtVRlQ2WUpFN2NWVV9Qdw?oc=5",
-      "pubDate": "2026-08-07T16:30:40+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【FX】ライブトレード 欧州タイムを攻略だ！「ドル/円、158円台へ反発…米7月雇用統計でどうなる！？」ドル円分析＆取引 2026/8/7 17:00",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNSXEtSWlIc1ZBTW1YNW5OV1o0OS1mU3k3dXptT3R3TG90bEh5SW9WUlJVNHRzMUM1RTVRR2JYd3lzSnhVREVmUFJFQlRlTmpKYVB0eHJ4OVl6Yzk1S1hLNU83Yw?oc=5",
-      "pubDate": "2026-08-07T16:30:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "〔JPXゴム〕RSS、円安や原油高受け続伸＝1月きりは軟調（7日）(時事通信)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQlRfbmxyV1BuanpLd1BuUWp4UUM2MU9TMGFsTFpWbGJvSFNBM3QzMTVSNWM2X0FleXBxQmVQYmtXd2JhLVlLOG1CM1dYcGRXSlJGN29PaXozZVVveXJpTDIyMjdzbmZuQTNGZmRGX2Q0di1mYVZEeXQyRjJBNGVBbkYyLThzTjQ?oc=5",
-      "pubDate": "2026-08-07T16:20:00+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
