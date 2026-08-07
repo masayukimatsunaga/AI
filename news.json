@@ -1,33 +1,44 @@
 {
-  "updatedAt": "2026-08-08T00:11:08+09:00",
+  "updatedAt": "2026-08-08T01:10:14+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "【速報】ドル・円157.95円、米7月NY連銀1年インフレ期待は予想外に低下",
-      "link": "https://zai.diamond.jp/articles/-/493631",
-      "pubDate": "2026-08-08T00:05:00+09:00",
+      "title": "円相場が一時156円台に急上昇、米雇用下振れで－再介入警戒くすぶる(Bloomberg)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUVWSzA3SUoybEVKeFRDVHZwdUtkSTRhTUJJZlJBUjQxMzVNZUcwU1c5RmVpZUwzbl91MHE0S0F3U3M0Z2xaLWdlQjMxUURRNzBZVDN4Mnpra2VxNU5WUkRhUHVUOVJDeHN6cnlBaGtUUzlKd3Q1WU93T1dRSXV0LXZZUmZEVGM?oc=5",
+      "pubDate": "2026-08-08T01:01:58+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "円相場が一時156円台に急上昇、米雇用下振れで－再介入警戒くすぶる",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uYi1BX3p4X0RUV0VOZG5nQlVmaUtfem05eHZaSUxRd1dTS19KcC16WVZwUTRQU3RQQ3Nac3R3Rlp3eUpVb2pYZE1PN2hFRzlDUXU3NWZab01JZFVBOThBWGdWekRvR25KVklqRDViek9EdGRrdlpF?oc=5",
+      "pubDate": "2026-08-08T00:30:45+09:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、底堅い｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43Um1yZDJCdVZJY3l4Q0llRGU1OGY3WmR4dVd1T3B0Z0cwMGJCR1pjRWJ6eGY3Qy1qcUJjbFp3TUpDTDIxRnFXOGw5S3RGMF9wMHc?oc=5",
+      "pubDate": "2026-08-08T00:08:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円、下値堅い 157.65円付近まで下げ渋る",
-      "link": "https://zai.diamond.jp/articles/-/493627",
-      "pubDate": "2026-08-07T22:52:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、下値堅い 157.65円付近まで下げ渋る｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nTHZhNmJKV3dROG5MMEtDS1JZSlAzMms1RmF1SmNzTHR3OEhHVjlrQl9PVktLM1lCSlU1QVNhWUZ3VWJJVlRjamFDdEdTekd3Vnc?oc=5",
-      "pubDate": "2026-08-07T22:52:00+09:00",
-      "source": "ザイFX！"
+      "title": "円安で高級ジュエリーの消費拡大、日本で広がる「身に着ける資産」",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aNkV5QXhPSzlBeGNyQnpSMzE5MzdDeG1rd2lPc1JKWmE5Q0R2XzI0TEljYnR4eHFnMHRfOWRNMTZnLUtETUNqd0JpdENTN3p1a2VzelRuVzMzX2NPc0NmX0R2aE0yT0xBZHBmUWU3M2pDZV95?oc=5",
+      "pubDate": "2026-08-07T23:34:29+09:00",
+      "source": "Bloomberg.com"
     },
     {
       "title": "ドル円、下値堅い 157.65円付近まで下げ渋る(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGxnajYwNHF6VlJGUUZfZThmb0RKTlNRekxrUGM1NjVmaHNMa1NkUEZZcTlZa1RNNG9YbUlwNkFaWnRuVW95VU5TN1lCeFJ2a2JHUW9WOUJJTk10V0VKZTA5LUhCRW04bVlzSnNmdjgtclNYTlJZNkR4VzVXREozLTdSY2FsUTA?oc=5",
       "pubDate": "2026-08-07T22:52:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、下値堅い 157.65円付近まで下げ渋る｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nTHZhNmJKV3dROG5MMEtDS1JZSlAzMms1RmF1SmNzTHR3OEhHVjlrQl9PVktLM1lCSlU1QVNhWUZ3VWJJVlRjamFDdEdTekd3Vnc?oc=5",
+      "pubDate": "2026-08-07T22:52:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "米7月の就業者数2.3万人減 市場予想を大幅に下回る 円高が進行",
@@ -42,22 +53,10 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "「強い円」を説明できる政策を行っていきたい=片山財務相",
-      "link": "https://jp.reuters.com/opinion/KZVLO53GNRMTPB4MWMH255GWPQ-2026-08-07/",
-      "pubDate": "2026-08-07T22:15:00+09:00",
-      "source": "reuters"
-    },
-    {
       "title": "NY外国為替市場 円高ドル安が進む 米雇用統計発表受け",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Tm90bmFUOUpHSGtMRWsxcE04eXRtTEU3Uk9SUUk5WkF5a1QwUDdXc0ZpdUhULVA4V2MxR25wYkRCU05LTmczV2Z2RkdRWWVrS0NCTVhVdl9kSUtGZ1VJ?oc=5",
       "pubDate": "2026-08-07T22:14:20+09:00",
       "source": "NHKニュース"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、急落",
-      "link": "https://zai.diamond.jp/articles/-/493625",
-      "pubDate": "2026-08-07T22:09:00+09:00",
-      "source": "ザイFX！"
     },
     {
       "title": "欧州外国為替市場概況・22時 ドル円、急落｜FX・為替ニュース",
@@ -69,13 +68,7 @@
       "title": "決算:日揮HDの純利益2.1倍 4〜6月、円安で押し上げ",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yMmVuZ1VfQk1uelpubm1TMjNTRWhtc1RaZ19BQmJnSVVlbzZCOHNTaUE0UHlheVM3XzFsWi1yUUtMbjRydng3YzZwNVNiUVVrOUVnd1BmaDI1T3NMRFF6SmNRb2R3dnYtamozZQ?oc=5",
       "pubDate": "2026-08-07T22:02:38+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "【速報】ドル・円156.68円まで、米利上げ観測後退で",
-      "link": "https://zai.diamond.jp/articles/-/493624",
-      "pubDate": "2026-08-07T22:01:00+09:00",
-      "source": "ザイFX！"
+      "source": "nikkei.com"
     },
     {
       "title": "ドル円のピボットは１５７．４６円付近＝ＮＹ為替",
@@ -84,10 +77,16 @@
       "source": "みんかぶ FX/為替"
     },
     {
+      "title": "米就業者 市場予想に反し減少 利上げ観測後退で円高ドル安進む",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vXzdjSzRpdmVtdW9FMUtDWkpvdXlFWGZqLV9jLXh0Y2dqRllZYVlGYmtLYUtPZGNVZk5CdnZ4QkhxWjhMbHRpdVM3RWY3dUFxLUlqbUhHczBJTERseUF3?oc=5",
+      "pubDate": "2026-08-07T21:55:23+09:00",
+      "source": "NHKニュース"
+    },
+    {
       "title": "【速報】円相場が急速に円高に 一時1ドル156円台（TBS NEWS DIG Powered by JNN）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Xb19QeUJKX08wWThGRjlkTHRCV0ZVLUNTcjdYQV9pLXYwc0cwMFNlbzVvNHNBWnZFNHRDSW1VbmM2eE1oZ1pwRXVoT1hoQzBUaGJpRHZWNlZfcVo3TFZLUWhPM3RrbVVFUWVGRE1OVjdBVXV6eUIxQlJsUzNUb1k?oc=5",
       "pubDate": "2026-08-07T21:49:16+09:00",
-      "source": "news.yahoo.co.jp"
+      "source": "Yahoo!ニュース"
     }
   ]
 }
