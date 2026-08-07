@@ -1,21 +1,20 @@
 {
-  "updatedAt": "2026-08-08T06:22:53+09:00",
+  "updatedAt": "2026-08-08T07:19:01+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "７日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLQl8zazhTWFExdzY5RDJNSnpfVnFrWWtib3NIcWpGMmJYbFhkZThLOEpCTUJBQm81ZGZMcTZ2RjRKaEJDeVZHbg?oc=5",
+      "pubDate": "2026-08-08T06:20:40+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "来週の為替予想（米ドル/円）追加介入とベッセント砲に警戒｜米CPI・米債入札が焦点 ハロンズFX 2026/8/8",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xQmtGVVAzUFZucVk1anNVYXp3bU8zcmNNYkxTdjZXaFVNUWdiS19kQl9fdE1jeGlyZEdReURmclhRVUFQQXFGb3BNX3RxSXZDZ0JOU0NXa0o2dmhPWk9xQWx5aw?oc=5",
       "pubDate": "2026-08-08T06:04:47+09:00",
       "source": "外為どっとコム"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・7日 ドル円、反落",
-      "link": "https://zai.diamond.jp/articles/-/493645",
-      "pubDate": "2026-08-08T06:03:00+09:00",
-      "source": "ザイFX！"
     },
     {
       "title": "ニューヨーク外国為替市場概況・7日 ドル円、反落｜FX・為替ニュース",
@@ -30,12 +29,6 @@
       "source": "みんかぶ"
     },
     {
-      "title": "NY外為市場=ドル下落、対円で157円台半ば 米雇用悪化で利上げ観測後退",
-      "link": "https://jp.reuters.com/opinion/MV7PEXYGWNNRTE26NWXA4PHPBY-2026-08-07/",
-      "pubDate": "2026-08-08T05:48:00+09:00",
-      "source": "reuters"
-    },
-    {
       "title": "為替介入、初６兆円 ４月３０日 先月末は１１兆円規模か",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4bTNkMzdmNFg5WEtpNXRKMUs3eF9JZmxCUXJtbTFtUFVjTE4tZXpQWEVOTmF5VkxTdUZxelV5UkJERDUtaEw1bTlaT1VzOS1ZWWNhR0VsRkpDd2Ju?oc=5",
       "pubDate": "2026-08-08T05:00:00+09:00",
@@ -45,13 +38,7 @@
       "title": "企業最終益７１％増…円安追い風、製造業好調 東証上場４～６月期",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CY3FCTVA0MHB0a3d0ZnhCS3JkaUdmYVdldW54ZnU1dXc4TDhVMHJTU3owb1k0LWdIS1ZnMHRkWEVrLXVyb3NzMWE0ZmFSdm1DSjlHQlNwN2QzWnhZeHByZ190Tkc?oc=5",
       "pubDate": "2026-08-08T05:00:00+09:00",
-      "source": "yomiuri.co.jp"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、小高い",
-      "link": "https://zai.diamond.jp/articles/-/493643",
-      "pubDate": "2026-08-08T04:09:00+09:00",
-      "source": "ザイFX！"
+      "source": "読売新聞"
     },
     {
       "title": "為替介入６．２兆円、過去最大 政府、日銀４月実施、５月にも５兆円",
@@ -66,28 +53,40 @@
       "source": "沖縄タイムス社"
     },
     {
-      "title": "NY外為:ドル売り一服も上値限定的、過剰な利上げ観測は後退",
-      "link": "https://zai.diamond.jp/articles/-/493642",
-      "pubDate": "2026-08-08T03:38:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【速報】トランプ米大統領、クックFRB理事解任への手続き進める",
-      "link": "https://zai.diamond.jp/articles/-/493641",
-      "pubDate": "2026-08-08T03:19:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･2時 ドル円、伸び悩み",
-      "link": "https://zai.diamond.jp/articles/-/493638",
-      "pubDate": "2026-08-08T02:05:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "長期で円高進む 日銀利上げ示唆",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KMUktZV8wSnUzajB6ck4xQk1ZbGlXa3kwZ1JMZ3J1ZGdzTDQwN0J4SUNFd0czbzRvbXlFT1JTbzNEekJ6ejJmZUxHTVJHRjNiZWNpc0FSdUJzbG9qRFMxQjVSWnE1dF9KRHR4RQ?oc=5",
       "pubDate": "2026-08-08T02:00:00+09:00",
       "source": "日本経済新聞"
+    },
+    {
+      "title": "ドル円、２００日線が再び上値抵抗に＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wLUo0SFUxeXBDUEpYRW03dlRJMHFRQVZ6VlVTMFByZGxIZWh4UTVGbWQyQnRXQlRBZEhnVHd4alNDRmVmZ0dnTg?oc=5",
+      "pubDate": "2026-08-08T01:29:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "円相場が一時156円台に急上昇、米雇用下振れで－再介入警戒くすぶる（Bloomberg）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yajZQbVFnaHlPS1p5MmZNdXNtbmZzaVBsTGJqdGRCN2RZejZ2MkVtT01Ccll2aEV5d1RHc0xZSDctX2tqaDFsNFNWYWt0TThVbFI1aUl4WndPX2JYRGxfRFRwRGpSTlY4NzlOUFFDbGtKak5iR2c3d3NoMVBmZFk?oc=5",
+      "pubDate": "2026-08-08T01:18:46+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "円相場が一時156円台に急上昇、米雇用下振れで－再介入警戒くすぶる",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uYi1BX3p4X0RUV0VOZG5nQlVmaUtfem05eHZaSUxRd1dTS19KcC16WVZwUTRQU3RQQ3Nac3R3Rlp3eUpVb2pYZE1PN2hFRzlDUXU3NWZab01JZFVBOThBWGdWekRvR25KVklqRDViek9EdGRrdlpF?oc=5",
+      "pubDate": "2026-08-08T01:05:58+09:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、底堅い｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43Um1yZDJCdVZJY3l4Q0llRGU1OGY3WmR4dVd1T3B0Z0cwMGJCR1pjRWJ6eGY3Qy1qcUJjbFp3TUpDTDIxRnFXOGw5S3RGMF9wMHc?oc=5",
+      "pubDate": "2026-08-08T00:08:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "円相場一時1ドル156円台に急騰 アメリカ雇用情勢悪化で利上げ観測が後退（FNNプライムオンライン（フジテレビ系））",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWTJLVXNZbUhIdkZUOGFrRUtJOWxDMkFNeW5YLUVnMFEyTV9OWXpCcWNhVlBIQm1HVjR3RnU4a2t6QzJnSF85NnBkUkE5WTRkNUtMODNSX1NjMk43OENZdmxPUk01UFNoeE5oTm9Gc1FocU5xekI2MmUxSzZITXc?oc=5",
+      "pubDate": "2026-08-07T23:30:45+09:00",
+      "source": "Yahoo!ニュース"
     }
   ]
 }
