@@ -1,27 +1,56 @@
 {
-  "updatedAt": "2026-08-07T14:25:13+09:00",
+  "updatedAt": "2026-08-07T15:54:16+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "東京為替:ドル・円は戻りが鈍い、円売り後退で",
-      "link": "https://www.zaikei.co.jp/article/20260807/864900.html",
+      "title": "７日の東京外国為替市場＝ドル・円、１５８円台前半を中心に小動き 速報",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBPQWpoU2VuV3E3TFZZNE5rVXJBOE45dHBfc0JIa2pWam1wRFJQdzNrQ050N1FtTDF6SlBYVFZ6ODdzb0h4ZGx3?oc=5",
+      "pubDate": "2026-08-07T15:32:00+09:00",
+      "source": "kabushiki.jp"
+    },
+    {
+      "title": "７日の東京外国為替市場＝ドル・円、１５８円台前半を中心に小動き(ウエルスアドバイザー)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOGJHdFAwOVBRWWJtQTZjSHJMemM1YTVBcHUxbnpPUGc3RmRwQ09Sa1ZlSGx2Tm1aWjZ4U2d4ZV9WS2xSX0hXYXBudVBNLVhLSDhvN2lmb0xBTndKQ09QTjhzazFab0xCcHVDcVFvWWlucEJ4ZFI4WFNaMXRDVTJ0WjZIeFJNU3c?oc=5",
+      "pubDate": "2026-08-07T15:32:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円小動き、米雇用統計の発表を控えて＝東京為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lYURhTWNWLWZuanVIWll1VXh4eEU2RU9YaFRlclpGYjZvaFFEUUZpVFBRdUVFZ1p0a2pha3hLVHl3YWV4ZC1ldA?oc=5",
+      "pubDate": "2026-08-07T15:18:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "東京為替：ドル・円は動意薄、様子見ムードで(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTjVub3VWcEJQdkhGZGFsRXpJaDFTdXNMcW1jVW5tcVFiSVM4YnZ4WVUzNGlWbi0yd09xblFXWW1yaEdrSVVKYTFSbWFqd0Y1QmZEY1hxQUlSdEx0LTZ0V1doc2N3T0JnZHBhd1VSRFJLajhKSEJpZmNRWWJjNk5tcDZNeEhJVGc?oc=5",
+      "pubDate": "2026-08-07T15:17:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "FX個人投資家動向｜円買い目線に切り替える個人投資家が増加、ドル円一極集中が進む 2026年8月7日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xeVRVU2tQb3JFXzE3bUFQRFlzWURRaW1ZZVhxdUxvcVUxVEc4WEdpeW95eFlGWTN1RFBIZnZXMU56bGlUVzcwT2xYRkpMeUhzempGNl80X2F3VkR3eEFzOTJBOA?oc=5",
+      "pubDate": "2026-08-07T15:13:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "東京為替：ドル・円は変わらず、ユーロ・ドルは高値圏を維持(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYk9TdEp1Zmt3VTB5anVIT25lTzhuT1BOZDlDLUZMVGk5cGR5UFhyUDdXTllmeHhTNElCVk9tWk83RlF0bURBVHh3MGNIQnVxNTRVTmtKWXZPN1Y2djhBMG5USUhyWjlFWkI2R09sRFBQaE1jQkhWR1gtLWYtNHRQRjEtUkVIbjA?oc=5",
+      "pubDate": "2026-08-07T14:46:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京為替：ドル・円は戻りが鈍い、円売り後退で(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUENqeHQzX1E1Rk5mWmZlamNXWEVIV2NScFNWWTZyRG4zOVFnVjJQWEhMMk1jRkdKSWs4MTE5Skh1RGpMYUl5T2ZybldIdTBzWFlWd21WckhrRC1IRXRNT3hkeUk5Yk1VNnVrM09RNEhqWTBQSll0d3RISjhXN1VqbmZHX0RSM0k?oc=5",
       "pubDate": "2026-08-07T14:20:00+09:00",
-      "source": "財経新聞"
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "テクニカルポイント ドル円 200日移動平均線を回復",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ESV9WRHNVaW1jYXhlRzMydUFSUFRCMzFDWlVYbDItbnpmY1VRSUpiVndUTlNuR2lKUGRwNXNRcm5IdHlzS2phRg?oc=5",
       "pubDate": "2026-08-07T14:00:39+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "東京為替:ドル・円は膠着、米金利に底堅さ",
-      "link": "https://www.zaikei.co.jp/article/20260807/864894.html",
-      "pubDate": "2026-08-07T13:46:00+09:00",
-      "source": "財経新聞"
     },
     {
       "title": "東京為替：ドル・円は膠着、米金利に底堅さ(フィスコ)",
@@ -48,12 +77,6 @@
       "source": "外為どっとコム"
     },
     {
-      "title": "東京為替:ドル・円は小動き、材料難で様子見",
-      "link": "https://www.zaikei.co.jp/article/20260807/864891.html",
-      "pubDate": "2026-08-07T13:21:00+09:00",
-      "source": "財経新聞"
-    },
-    {
       "title": "東京為替：ドル・円は小動き、材料難で様子見(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFd0YUVJa2Q0V1B6RUVidWNEX0hkRE1mS0xCY0prMVJlWEpRZFc2THRobTdJeVlKVUUxTmYxTlplbVVWS3ZpSng5WGN1SEtzVzBYY00tZno2UWFaVDRuVDZDblk3UE5QV2lzdmFEaVBsc2NaSUtkRVBGQVZLa055cFF0VkFZdWs?oc=5",
       "pubDate": "2026-08-07T13:21:00+09:00",
@@ -64,30 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQW1oS3FmcFpnNEVnOVA5dzluTUhFUkZXTGhWQ2ZMSTA5OUt3SFd1WjVlWHJlc0V0ZEJXVHp0S1ktNzlReGVHUGt1M0xtZGt3UG1tOGZJaERrSG41OW5lb3BCbzBxYnAyS3lSY0dqcW1JUHQ2YVJtRHpfd3ZxRlJOa1RfTy12RGM?oc=5",
       "pubDate": "2026-08-07T13:01:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "円相場、158円37～37銭＝7日正午現在(時事通信)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnh5REVtUTlodFM0cmZES1UzWnJVM3hnVjJsQThrY1J3VEprMWZucFU5T0YyaXhsY09EQVNhVkF2bkphd3hKOFZ5am1SOVAxVU5rT0VJOTJTRjllN3JldTlBd0FzS0NyazdhY0ZCOFpRalNvSTBlUi1aQXBleDM5cHBtdFF6VHM?oc=5",
-      "pubDate": "2026-08-07T13:00:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、158円台後半は売り優勢 夕刻からのオーダー増加に注目",
-      "link": "https://zai.diamond.jp/articles/-/493592",
-      "pubDate": "2026-08-07T12:46:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "外為12時 円相場、下落 158円台前半 米金利の先高観と原油高で",
-      "link": "https://www.nikkei.com/article/DGXZQOFL070AM0X00C26A8000000/",
-      "pubDate": "2026-08-07T12:24:00+09:00",
-      "source": "日経新聞"
-    },
-    {
-      "title": "東京為替:ドル・円は下げ渋り、仲値後は失速",
-      "link": "https://www.zaikei.co.jp/article/20260807/864874.html",
-      "pubDate": "2026-08-07T12:22:00+09:00",
-      "source": "財経新聞"
     }
   ]
 }
