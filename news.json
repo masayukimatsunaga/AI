@@ -1,14 +1,26 @@
 {
-  "updatedAt": "2026-08-08T01:10:14+09:00",
+  "updatedAt": "2026-08-08T02:10:19+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "ドル円、２００日線が再び上値抵抗に＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wLUo0SFUxeXBDUEpYRW03dlRJMHFRQVZ6VlVTMFByZGxIZWh4UTVGbWQyQnRXQlRBZEhnVHd4alNDRmVmZ0dnTg?oc=5",
+      "pubDate": "2026-08-08T01:29:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
       "title": "円相場が一時156円台に急上昇、米雇用下振れで－再介入警戒くすぶる(Bloomberg)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUVWSzA3SUoybEVKeFRDVHZwdUtkSTRhTUJJZlJBUjQxMzVNZUcwU1c5RmVpZUwzbl91MHE0S0F3U3M0Z2xaLWdlQjMxUURRNzBZVDN4Mnpra2VxNU5WUkRhUHVUOVJDeHN6cnlBaGtUUzlKd3Q1WU93T1dRSXV0LXZZUmZEVGM?oc=5",
       "pubDate": "2026-08-08T01:01:58+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "政府・日銀 GWの為替介入は総額11.7兆円　4月30日は一日として過去最大の6.2兆円超",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FaFN3OVNTbUc3MWlXMFNPUFNTVm5KMWpfYzU1WEI3d1VHby1GY2JzQkpXUlNlMGhOUDVYOTBQTEJDWXExemh0ZnFPWXhiMDMyNlZERHpjMlpncTVrNkdnMDhpVmhUS3JCNDRfeW15b09md9IBd0FVX3lxTFBubHQzLXo5d3VWZGNRMklrb1ZXWXFXUEpTQlJseHd1UGhnQVQ4MS1Ya3MtLWFwSllDRTJ5NUE2NkhHc2Y2ZzJIeUFMUmlCajFhdHZFbklfcU1xNzM3S19MRzNUM2RLLWpXX3VtSnVUN2I3cm5JNGpJ?oc=5",
+      "pubDate": "2026-08-08T00:43:13+09:00",
+      "source": "ｄメニューニュース"
     },
     {
       "title": "円相場が一時156円台に急上昇、米雇用下振れで－再介入警戒くすぶる",
@@ -71,22 +83,10 @@
       "source": "nikkei.com"
     },
     {
-      "title": "ドル円のピボットは１５７．４６円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pQ1VOM25vcWNodmVSMWxzenJJZlRWRUNNWU9VRHM3MWFEZTh3eVdsUWdfRm1vZ3oxVkdDdmRlNFE0Nk0zdU1tUw?oc=5",
-      "pubDate": "2026-08-07T22:00:39+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "米就業者 市場予想に反し減少 利上げ観測後退で円高ドル安進む",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vXzdjSzRpdmVtdW9FMUtDWkpvdXlFWGZqLV9jLXh0Y2dqRllZYVlGYmtLYUtPZGNVZk5CdnZ4QkhxWjhMbHRpdVM3RWY3dUFxLUlqbUhHczBJTERseUF3?oc=5",
-      "pubDate": "2026-08-07T21:55:23+09:00",
-      "source": "NHKニュース"
-    },
-    {
-      "title": "【速報】円相場が急速に円高に 一時1ドル156円台（TBS NEWS DIG Powered by JNN）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Xb19QeUJKX08wWThGRjlkTHRCV0ZVLUNTcjdYQV9pLXYwc0cwMFNlbzVvNHNBWnZFNHRDSW1VbmM2eE1oZ1pwRXVoT1hoQzBUaGJpRHZWNlZfcVo3TFZLUWhPM3RrbVVFUWVGRE1OVjdBVXV6eUIxQlJsUzNUb1k?oc=5",
-      "pubDate": "2026-08-07T21:49:16+09:00",
-      "source": "Yahoo!ニュース"
+      "title": "【速報】ドル・円156.68円まで、米利上げ観測後退で(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVdJV3c4dzZ5YXkycEpfUngyU0ZDajdrRWwyc1AyNXBWUHhfMDFjLTcteHQ2SVU3VWxMcW1wNm9hVlVPV1VmM3JXcm5QUm1XRHppM0pNT0cySmZtUG5mdGEzcWFTVFVMRmlmZGw2MnhYQXhnMTJTZERlVTgzSzMwYm05M1EtVkk?oc=5",
+      "pubDate": "2026-08-07T22:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
     }
   ]
 }
