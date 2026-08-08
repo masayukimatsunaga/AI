@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T08:19:05+09:00",
+  "updatedAt": "2026-08-08T09:32:45+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -15,6 +15,12 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PSmZONWlRd3dKTnBsSktVclpKTHd2M3BsZnZCRmN3NFRwUGZ6STM4eUM1RTJvZHhweGthV0xBWEc0dkdkQi03TTU3NXIyTkg0WTVuRTBMMWFYMDdNMnBwVnBkMGNuZU5QUnhJTg?oc=5",
       "pubDate": "2026-08-08T07:31:45+09:00",
       "source": "日本経済新聞"
+    },
+    {
+      "title": "欧米為替見通し：ドル・円は底堅いか、日本財政にらみ根強い円売りも(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWhYbmtZN3Fsb0Z4OXhzVGxWLTBIb25PWTU1RkJnM3NvQkQ0WUdVRVkzWU15SG1vNUFhR01oeXNFbDNUcDlNYmJVeTBybWl6TW9pVHExTzVwanpEaDZuVmY0b21ZZEwtZU0tMWNOVy1RS2g5YjU0UzhzQ2dDUlpTREM5ek9BdUk?oc=5",
+      "pubDate": "2026-08-08T07:03:40+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "7日レンジ ドル円 156.68-158.57円(トレーダーズ・ウェブ)",
@@ -44,7 +50,7 @@
       "title": "為替介入で異例の手法、岸田元首相が語る「円安の処方箋」、スペースXの試練─1週間のニュース5選",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblRNdEtrMFJ0UEM4VV92V2dla2NTOFlyNzRfT0QxdVkyeElKMXE5U1JyaURnaS1HUEs4VWZBblg4X1ZackVvcDVxNnlMaTZ2d1ZFUGo0MEp6aTluTV9PRGFsUWF3bDFSSUZIVW5CcjhobDhTa2ZEZm1JNE0tYjZpMi1Na1NraGQ3N1owaHpB?oc=5",
       "pubDate": "2026-08-08T06:00:01+09:00",
-      "source": "Bloomberg.com"
+      "source": "bloomberg.com"
     },
     {
       "title": "為替介入、初６兆円 ４月３０日 先月末は１１兆円規模か",
@@ -63,12 +69,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SZ1B3QU81bHdFOVh1T2NYZDBYRnhZQjZXRnEyaHh6MUVjek9QMnlybEZORGFNRDJIeDBXTE5BUndjWkV0OHdkZlA0Q3hJeFRKa2Q4aDlJUkd2S2tiUkE?oc=5",
       "pubDate": "2026-08-08T03:59:00+09:00",
       "source": "沖縄タイムス社"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･2時 ドル円、伸び悩み｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51cDBhcEp0TVV4ZV94QVk5VTZWeU9ISkFqU3lsN2NpeFp6eTVVTXRYSFZCT21hVmRMX2FSY1JUYmxtczFYMkoxanVxc1ZsZ3FpeXc?oc=5",
-      "pubDate": "2026-08-08T02:05:00+09:00",
-      "source": "ザイFX！"
     },
     {
       "title": "長期で円高進む 日銀利上げ示唆",
