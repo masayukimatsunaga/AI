@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T01:54:23+09:00",
+  "updatedAt": "2026-08-09T02:47:33+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -15,12 +15,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5NmYwZW9PN0ctOVluWUM4RDJ3N3U5RE03MFZHZldMWlRfRGVoZDhYbUFWZU1VVjNpWVVqOXJpNUh0b0dqMnNNV2x0c3JPc3BkSlpudU9WcmJ6T0dQSFNxeFM4NGdxbExtdzAzQk1oUkwxZ3ct?oc=5",
       "pubDate": "2026-08-08T22:05:00+09:00",
       "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-08-08T20:11:27+09:00",
-      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "「円安でTeenage Engineeringが遠くなる...」と思っていたあなたへ。いまなら、密かに近づけます（ギズモード・ジャパン）",
@@ -74,7 +68,7 @@
       "title": "為替介入で異例の手法、岸田元首相が語る「円安の処方箋」、スペースXの試練─1週間のニュース5選",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblRNdEtrMFJ0UEM4VV92V2dla2NTOFlyNzRfT0QxdVkyeElKMXE5U1JyaURnaS1HUEs4VWZBblg4X1ZackVvcDVxNnlMaTZ2d1ZFUGo0MEp6aTluTV9PRGFsUWF3bDFSSUZIVW5CcjhobDhTa2ZEZm1JNE0tYjZpMi1Na1NraGQ3N1owaHpB?oc=5",
       "pubDate": "2026-08-08T06:00:01+09:00",
-      "source": "bloomberg.com"
+      "source": "Bloomberg.com"
     },
     {
       "title": "米雇用統計が弱くドル安強まる ドル円は再び２００日線の下に＝ＮＹ為替概況",
@@ -86,7 +80,13 @@
       "title": "為替介入、初６兆円 ４月３０日 先月末は１１兆円規模か",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4bTNkMzdmNFg5WEtpNXRKMUs3eF9JZmxCUXJtbTFtUFVjTE4tZXpQWEVOTmF5VkxTdUZxelV5UkJERDUtaEw1bTlaT1VzOS1ZWWNhR0VsRkpDd2Ju?oc=5",
       "pubDate": "2026-08-08T05:00:00+09:00",
-      "source": "朝日新聞"
+      "source": "asahi.com"
+    },
+    {
+      "title": "最大為替介入６．２兆円 政府・日銀 ４月末、円安歯止めへ",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2NnRFN3VjN0Z5MEJTckREVGh0WlBhZWpINjdMalFNMHQ0M0hFcW9JYUFpYjZZMHZjVk53eGUzVF92WjRpWFpGTVdCOHFQYnhUaEltMWpNckQ1eXNLaVE?oc=5",
+      "pubDate": "2026-08-08T05:00:00+09:00",
+      "source": "福井新聞社"
     }
   ]
 }
