@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T04:00:49+09:00",
+  "updatedAt": "2026-08-09T04:45:42+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -65,12 +65,6 @@
       "source": "Bloomberg.com"
     },
     {
-      "title": "米雇用統計が弱くドル安強まる ドル円は再び２００日線の下に＝ＮＹ為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NeG9iemdzU1k2NVJjQk91U09waldoblB0UU9saGROalBLWTQyMWVaUlVwd3ZCbElGejVYbXdqTlkzVkRuaUNaWA?oc=5",
-      "pubDate": "2026-08-08T05:40:40+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
       "title": "為替介入、初６兆円 ４月３０日 先月末は１１兆円規模か",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4bTNkMzdmNFg5WEtpNXRKMUs3eF9JZmxCUXJtbTFtUFVjTE4tZXpQWEVOTmF5VkxTdUZxelV5UkJERDUtaEw1bTlaT1VzOS1ZWWNhR0VsRkpDd2Ju?oc=5",
       "pubDate": "2026-08-08T05:00:00+09:00",
@@ -87,6 +81,12 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBINnpBMHlpcEY5d0NIZFRENFQwR2hYbEhsdlA2OVhNa05qS2VFQ0tLbGhtRDJSdWtTTTcwWjlCTER3eGtwYUlEVUxDaFB5NVZxUjVGOVBiRkdYVDRTX3JrOGNmcw?oc=5",
       "pubDate": "2026-08-07T23:00:00+09:00",
       "source": "テレ東BIZ"
+    },
+    {
+      "title": "米7月の就業者数2.3万人減 市場予想を大幅に下回る 円高が進行",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sTjl1a2haSHh3VC1CRTc2RURBNEdzWXUwZkZEUGpubWNTczUyTG9vbnh3MVFGclAtblZYNTAxd1N0d2U4R1dqdkEzYmRjTS1VVm9qZXN0dXRXZ1FUc1FfZlgtQVdnWk0?oc=5",
+      "pubDate": "2026-08-07T22:26:32+09:00",
+      "source": "朝日新聞"
     }
   ]
 }
