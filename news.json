@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-08T09:32:45+09:00",
+  "updatedAt": "2026-08-08T11:44:53+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "米雇用統計が弱くドル安強まる ドル円は再び２００日線の下に＝ＮＹ為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NeG9iemdzU1k2NVJjQk91U09waldoblB0UU9saGROalBLWTQyMWVaUlVwd3ZCbElGejVYbXdqTlkzVkRuaUNaWA?oc=5",
-      "pubDate": "2026-08-08T07:56:43+09:00",
-      "source": "みんかぶ FX/為替"
+      "title": "日米協調の介入 さらなる為替介入は？ 4月30日は約6.3兆円で過去最大",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1TzR5b2QxZ3RLbTUzcXR4bXN6V0F0OFVhTXA2OTJ1cmpnV2xBbVhKNE1oZ3ViSkZCT1pDbWdXOFNDUDFVRmF6V2M3U2FvX3E4LXVwSmJYSGVsdVpLVU1EcGhiakNreHp4aHNaSGlfZjhYZw?oc=5",
+      "pubDate": "2026-08-08T10:46:23+09:00",
+      "source": "テレ朝NEWS"
     },
     {
       "title": "投機勢の円売り幅、為替介入後に7割減 円高マグマ弱まる",
@@ -50,7 +50,13 @@
       "title": "為替介入で異例の手法、岸田元首相が語る「円安の処方箋」、スペースXの試練─1週間のニュース5選",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblRNdEtrMFJ0UEM4VV92V2dla2NTOFlyNzRfT0QxdVkyeElKMXE5U1JyaURnaS1HUEs4VWZBblg4X1ZackVvcDVxNnlMaTZ2d1ZFUGo0MEp6aTluTV9PRGFsUWF3bDFSSUZIVW5CcjhobDhTa2ZEZm1JNE0tYjZpMi1Na1NraGQ3N1owaHpB?oc=5",
       "pubDate": "2026-08-08T06:00:01+09:00",
-      "source": "bloomberg.com"
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "米雇用統計が弱くドル安強まる ドル円は再び２００日線の下に＝ＮＹ為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NeG9iemdzU1k2NVJjQk91U09waldoblB0UU9saGROalBLWTQyMWVaUlVwd3ZCbElGejVYbXdqTlkzVkRuaUNaWA?oc=5",
+      "pubDate": "2026-08-08T05:40:40+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
       "title": "為替介入、初６兆円 ４月３０日 先月末は１１兆円規模か",
@@ -59,34 +65,28 @@
       "source": "朝日新聞"
     },
     {
-      "title": "企業最終益７１％増…円安追い風、製造業好調 東証上場４～６月期",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CY3FCTVA0MHB0a3d0ZnhCS3JkaUdmYVdldW54ZnU1dXc4TDhVMHJTU3owb1k0LWdIS1ZnMHRkWEVrLXVyb3NzMWE0ZmFSdm1DSjlHQlNwN2QzWnhZeHByZ190Tkc?oc=5",
+      "title": "為替介入最大、６．２兆円 財務省 ４月に円安食い止め",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TTnpUallwN2p5bEdLRFVwbXU5aWxETUFhVkJqVVF2cTRKRkY3NzVxVngwSXRrVnN2RG1pYWNyZWltUjdlaFJMcm5GdFRGV3dkdzVJdkdXaGNmLVk5aWN5N3hn?oc=5",
       "pubDate": "2026-08-08T05:00:00+09:00",
-      "source": "読売新聞"
+      "source": "琉球新報デジタル"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円、小高い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdHhnWEZoQXNLUFEzNWI5bHRYaUdDOHlJUndnTXc1UGgxanN6ZWhwN1hvb2dpOUFyMVhhRXFYS3FhV241eVhGd05MU3c1UzhnWVJ3eFliaVBfWndjMklCUzA0WFY3bUZxel8wMG1jXy16aGlIellDOVJydVpqYVppNkFvODRYc2s?oc=5",
+      "pubDate": "2026-08-08T04:09:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "週間為替展望（ドル／ユーロ）-ドル円、7月米CPIに注目(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVVvOUV2V1JabExvNElDV25wR0ZmWFdmZkRLbFRSNmZoVGtXeU9QZmtDT1p0UmQ3MVBueTFac2l2M0pGWnRkSmxiUThlR2tocXgxbUJfaUhGak0tV0otaXFnYTRUdlltN3JxOF9sSXl1U2NfU2ZRc3VacXVuYzdsWExMQTVwSTA?oc=5",
+      "pubDate": "2026-08-08T04:00:00+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "4月30日為替介入6．2兆円 過去最大 円安食い止めは一時的",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SZ1B3QU81bHdFOVh1T2NYZDBYRnhZQjZXRnEyaHh6MUVjek9QMnlybEZORGFNRDJIeDBXTE5BUndjWkV0OHdkZlA0Q3hJeFRKa2Q4aDlJUkd2S2tiUkE?oc=5",
       "pubDate": "2026-08-08T03:59:00+09:00",
       "source": "沖縄タイムス社"
-    },
-    {
-      "title": "長期で円高進む 日銀利上げ示唆",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KMUktZV8wSnUzajB6ck4xQk1ZbGlXa3kwZ1JMZ3J1ZGdzTDQwN0J4SUNFd0czbzRvbXlFT1JTbzNEekJ6ejJmZUxHTVJHRjNiZWNpc0FSdUJzbG9qRFMxQjVSWnE1dF9KRHR4RQ?oc=5",
-      "pubDate": "2026-08-08T02:00:00+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "ドル円、２００日線が再び上値抵抗に＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wLUo0SFUxeXBDUEpYRW03dlRJMHFRQVZ6VlVTMFByZGxIZWh4UTVGbWQyQnRXQlRBZEhnVHd4alNDRmVmZ0dnTg?oc=5",
-      "pubDate": "2026-08-08T01:29:39+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "円相場一時156円台に急上昇、米雇用下振れで－介入警戒も上値は重く（Bloomberg）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yajZQbVFnaHlPS1p5MmZNdXNtbmZzaVBsTGJqdGRCN2RZejZ2MkVtT01Ccll2aEV5d1RHc0xZSDctX2tqaDFsNFNWYWt0TThVbFI1aUl4WndPX2JYRGxfRFRwRGpSTlY4NzlOUFFDbGtKak5iR2c3d3NoMVBmZFk?oc=5",
-      "pubDate": "2026-08-08T01:18:46+09:00",
-      "source": "Yahoo!ニュース"
     }
   ]
 }
