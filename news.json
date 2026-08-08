@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-08T21:17:01+09:00",
+  "updatedAt": "2026-08-08T22:17:14+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "円安で増益も「手放しでは喜べず」、日本企業が直面する副作用と変わる適正水準",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5NmYwZW9PN0ctOVluWUM4RDJ3N3U5RE03MFZHZldMWlRfRGVoZDhYbUFWZU1VVjNpWVVqOXJpNUh0b0dqMnNNV2x0c3JPc3BkSlpudU9WcmJ6T0dQSFNxeFM4NGdxbExtdzAzQk1oUkwxZ3ct?oc=5",
+      "pubDate": "2026-08-08T22:05:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
     {
       "title": "「円安でTeenage Engineeringが遠くなる...」と思っていたあなたへ。いまなら、密かに近づけます（ギズモード・ジャパン）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1adjFzRkJNT2NNS3ltZnhRR0VyX3ZEZFhFN0xvSDloYVpHVjdtYnlxLTUtX3Awajl5WnlRV2hTdVpzOERwTERjZ1VyYWd0ZUVaekVpa3BHTk0zMjdFMG5VcXFXTGlsWmxBdjVVOXZsSXNKTjJCMFJRQ1Z1LUdCWHM?oc=5",
@@ -32,7 +38,7 @@
       "title": "欧米為替見通し：ドル・円は底堅いか、日本財政にらみ根強い円売りも(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWhYbmtZN3Fsb0Z4OXhzVGxWLTBIb25PWTU1RkJnM3NvQkQ0WUdVRVkzWU15SG1vNUFhR01oeXNFbDNUcDlNYmJVeTBybWl6TW9pVHExTzVwanpEaDZuVmY0b21ZZEwtZU0tMWNOVy1RS2g5YjU0UzhzQ2dDUlpTREM5ek9BdUk?oc=5",
       "pubDate": "2026-08-08T07:03:40+09:00",
-      "source": "Yahoo!ファイナンス"
+      "source": "finance.yahoo.co.jp"
     },
     {
       "title": "７日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
@@ -44,7 +50,7 @@
       "title": "7日レンジ ドル円 156.68-158.57円(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTkx4TlEwVUVkZ2pzQXhxQU5RdERYWUN0M0N0dTl2WG9yNEhkSkVkdE94YmZmOFRXa0lxY2VkaEVoT2xiTFZzTERERW5vTXgtODRwNUUyTnZRbXdYQThDY2p4QkJoanJfVkotS2NYSF95S2kyQnRtOFFXSVRrOW5NcWp4VGVrbXM?oc=5",
       "pubDate": "2026-08-08T06:20:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "source": "finance.yahoo.co.jp"
     },
     {
       "title": "来週の為替予想（米ドル/円）追加介入とベッセント砲に警戒｜米CPI・米債入札が焦点 ハロンズFX 2026/8/8",
@@ -74,19 +80,13 @@
       "title": "ニューヨーク外国為替市場概況･4時 ドル円、小高い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdHhnWEZoQXNLUFEzNWI5bHRYaUdDOHlJUndnTXc1UGgxanN6ZWhwN1hvb2dpOUFyMVhhRXFYS3FhV241eVhGd05MU3c1UzhnWVJ3eFliaVBfWndjMklCUzA0WFY3bUZxel8wMG1jXy16aGlIellDOVJydVpqYVppNkFvODRYc2s?oc=5",
       "pubDate": "2026-08-08T04:09:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "source": "finance.yahoo.co.jp"
     },
     {
       "title": "週間為替展望（ドル／ユーロ）-ドル円、7月米CPIに注目(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVVvOUV2V1JabExvNElDV25wR0ZmWFdmZkRLbFRSNmZoVGtXeU9QZmtDT1p0UmQ3MVBueTFac2l2M0pGWnRkSmxiUThlR2tocXgxbUJfaUhGak0tV0otaXFnYTRUdlltN3JxOF9sSXl1U2NfU2ZRc3VacXVuYzdsWExMQTVwSTA?oc=5",
       "pubDate": "2026-08-08T04:00:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "4月30日為替介入6．2兆円 過去最大 円安食い止めは一時的",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SZ1B3QU81bHdFOVh1T2NYZDBYRnhZQjZXRnEyaHh6MUVjek9QMnlybEZORGFNRDJIeDBXTE5BUndjWkV0OHdkZlA0Q3hJeFRKa2Q4aDlJUkd2S2tiUkE?oc=5",
-      "pubDate": "2026-08-08T03:59:00+09:00",
-      "source": "沖縄タイムス社"
+      "source": "finance.yahoo.co.jp"
     }
   ]
 }
