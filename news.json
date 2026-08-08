@@ -1,14 +1,26 @@
 {
-  "updatedAt": "2026-08-09T05:12:00+09:00",
+  "updatedAt": "2026-08-09T05:50:20+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "円安「進みすぎ」４６％ 景気下押しに警戒感 主要１１１社調査",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jVjI0ajNQNF9kNHcwMms2eVQ4eUVvTWNQTjB4SUZ3WlZjZ2hOUUhNSU9nUXhaOVZXOGh6T3hDWlFlZjFVV3lGeGpiODNsY3lvazJWTzB6UVJmNnYxOVE?oc=5",
+      "pubDate": "2026-08-09T05:00:00+09:00",
+      "source": "福井新聞社"
+    },
+    {
       "title": "「円安進みすぎ」４６％ 外国為替相場 主要１１１社アンケート",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fbDRZU1F2dGo4LUF6bG5mZ1cxbm1FUG9QRkgxSHlqdzkwOGJEcjhhVkpaNm9od0hSZUZPXzdITEZYanRCXzVOTTlvQnJhbnJRSWFJeVg2N21sVEU?oc=5",
       "pubDate": "2026-08-09T05:00:00+09:00",
       "source": "山陰中央新報デジタル"
+    },
+    {
+      "title": "円安を食い止められるのは日銀だけ",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4OXZ4WURMNWZqcVpXOFJqNnhlWGRiZ0tZZFVfS3JBRTJrc3NnUUpCTE9iR01RWTgyM01LZjVJakFLME11SVhOZGcySldQcU51SE5lanB3WDU?oc=5",
+      "pubDate": "2026-08-09T05:00:00+09:00",
+      "source": "上毛新聞電子版"
     },
     {
       "title": "円安の背景に日本とアメリカの金利差？世界時価総額ランキングを見よう！",
@@ -51,18 +63,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLQl8zazhTWFExdzY5RDJNSnpfVnFrWWtib3NIcWpGMmJYbFhkZThLOEpCTUJBQm81ZGZMcTZ2RjRKaEJDeVZHbg?oc=5",
       "pubDate": "2026-08-08T06:20:40+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "来週の為替予想（米ドル/円）追加介入とベッセント砲に警戒｜米CPI・米債入札が焦点 ハロンズFX 2026/8/8",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xQmtGVVAzUFZucVk1anNVYXp3bU8zcmNNYkxTdjZXaFVNUWdiS19kQl9fdE1jeGlyZEdReURmclhRVUFQQXFGb3BNX3RxSXZDZ0JOU0NXa0o2dmhPWk9xQWx5aw?oc=5",
-      "pubDate": "2026-08-08T06:04:47+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "為替介入で異例の手法、岸田元首相が語る「円安の処方箋」、スペースXの試練─1週間のニュース5選",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblRNdEtrMFJ0UEM4VV92V2dla2NTOFlyNzRfT0QxdVkyeElKMXE5U1JyaURnaS1HUEs4VWZBblg4X1ZackVvcDVxNnlMaTZ2d1ZFUGo0MEp6aTluTV9PRGFsUWF3bDFSSUZIVW5CcjhobDhTa2ZEZm1JNE0tYjZpMi1Na1NraGQ3N1owaHpB?oc=5",
-      "pubDate": "2026-08-08T06:00:01+09:00",
-      "source": "Bloomberg.com"
     },
     {
       "title": "為替介入、初６兆円 ４月３０日 先月末は１１兆円規模か",
