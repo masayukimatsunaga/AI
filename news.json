@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T02:47:33+09:00",
+  "updatedAt": "2026-08-09T04:00:49+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -41,12 +41,6 @@
       "source": "日本経済新聞"
     },
     {
-      "title": "欧米為替見通し：ドル・円は底堅いか、日本財政にらみ根強い円売りも(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWhYbmtZN3Fsb0Z4OXhzVGxWLTBIb25PWTU1RkJnM3NvQkQ0WUdVRVkzWU15SG1vNUFhR01oeXNFbDNUcDlNYmJVeTBybWl6TW9pVHExTzVwanpEaDZuVmY0b21ZZEwtZU0tMWNOVy1RS2g5YjU0UzhzQ2dDUlpTREM5ek9BdUk?oc=5",
-      "pubDate": "2026-08-08T07:03:40+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "７日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLQl8zazhTWFExdzY5RDJNSnpfVnFrWWtib3NIcWpGMmJYbFhkZThLOEpCTUJBQm81ZGZMcTZ2RjRKaEJDeVZHbg?oc=5",
       "pubDate": "2026-08-08T06:20:40+09:00",
@@ -80,13 +74,19 @@
       "title": "為替介入、初６兆円 ４月３０日 先月末は１１兆円規模か",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4bTNkMzdmNFg5WEtpNXRKMUs3eF9JZmxCUXJtbTFtUFVjTE4tZXpQWEVOTmF5VkxTdUZxelV5UkJERDUtaEw1bTlaT1VzOS1ZWWNhR0VsRkpDd2Ju?oc=5",
       "pubDate": "2026-08-08T05:00:00+09:00",
-      "source": "asahi.com"
+      "source": "朝日新聞"
     },
     {
       "title": "最大為替介入６．２兆円 政府・日銀 ４月末、円安歯止めへ",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2NnRFN3VjN0Z5MEJTckREVGh0WlBhZWpINjdMalFNMHQ0M0hFcW9JYUFpYjZZMHZjVk53eGUzVF92WjRpWFpGTVdCOHFQYnhUaEltMWpNckQ1eXNLaVE?oc=5",
       "pubDate": "2026-08-08T05:00:00+09:00",
       "source": "福井新聞社"
+    },
+    {
+      "title": "為替介入6兆円超 “過去最大” 4月30日実施",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBINnpBMHlpcEY5d0NIZFRENFQwR2hYbEhsdlA2OVhNa05qS2VFQ0tLbGhtRDJSdWtTTTcwWjlCTER3eGtwYUlEVUxDaFB5NVZxUjVGOVBiRkdYVDRTX3JrOGNmcw?oc=5",
+      "pubDate": "2026-08-07T23:00:00+09:00",
+      "source": "テレ東BIZ"
     }
   ]
 }
