@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T16:17:43+09:00",
+  "updatedAt": "2026-08-08T17:22:07+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -59,12 +59,6 @@
       "source": "朝日新聞"
     },
     {
-      "title": "為替介入最大、６．２兆円 財務省 ４月に円安食い止め",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TTnpUallwN2p5bEdLRFVwbXU5aWxETUFhVkJqVVF2cTRKRkY3NzVxVngwSXRrVnN2RG1pYWNyZWltUjdlaFJMcm5GdFRGV3dkdzVJdkdXaGNmLVk5aWN5N3hn?oc=5",
-      "pubDate": "2026-08-08T05:00:00+09:00",
-      "source": "ryukyushimpo.jp"
-    },
-    {
       "title": "ニューヨーク外国為替市場概況･4時 ドル円、小高い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdHhnWEZoQXNLUFEzNWI5bHRYaUdDOHlJUndnTXc1UGgxanN6ZWhwN1hvb2dpOUFyMVhhRXFYS3FhV241eVhGd05MU3c1UzhnWVJ3eFliaVBfWndjMklCUzA0WFY3bUZxel8wMG1jXy16aGlIellDOVJydVpqYVppNkFvODRYc2s?oc=5",
       "pubDate": "2026-08-08T04:09:00+09:00",
@@ -87,6 +81,12 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNelZ6cVVTendKYWRPcGM1NWpVZ1A1NUtSSzBUc0dfbE5XVldOT2dqU2JZclF4MVV3TkpwUnp4V2lNek5hRzYxUjZxTGRqTFIyTGdWdV80RnFRWTBGWWRuOG5HcWpSdGVJcU1UTngtNktlcXZBSk16SExPQ0ZYM1RBTnFTZXVCN0U?oc=5",
       "pubDate": "2026-08-08T02:05:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "長期で円高進む 日銀利上げ示唆",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KMUktZV8wSnUzajB6ck4xQk1ZbGlXa3kwZ1JMZ3J1ZGdzTDQwN0J4SUNFd0czbzRvbXlFT1JTbzNEekJ6ejJmZUxHTVJHRjNiZWNpc0FSdUJzbG9qRFMxQjVSWnE1dF9KRHR4RQ?oc=5",
+      "pubDate": "2026-08-08T02:00:00+09:00",
+      "source": "日本経済新聞"
     }
   ]
 }
