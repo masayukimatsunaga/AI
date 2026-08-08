@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-09T04:45:42+09:00",
+  "updatedAt": "2026-08-09T05:12:00+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "「円安進みすぎ」４６％ 外国為替相場 主要１１１社アンケート",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fbDRZU1F2dGo4LUF6bG5mZ1cxbm1FUG9QRkgxSHlqdzkwOGJEcjhhVkpaNm9od0hSZUZPXzdITEZYanRCXzVOTTlvQnJhbnJRSWFJeVg2N21sVEU?oc=5",
+      "pubDate": "2026-08-09T05:00:00+09:00",
+      "source": "山陰中央新報デジタル"
+    },
     {
       "title": "円安の背景に日本とアメリカの金利差？世界時価総額ランキングを見よう！",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93UnRDNWhheWRZZ1JNOGkyMHR3RmZjZ0paUV92SjFTQ3N3WlEwemUwS2Y2dGpNN1BiNU9LbjNNbHVWWHJFUE9QeVFrOA?oc=5",
@@ -20,7 +26,7 @@
       "title": "「円安でTeenage Engineeringが遠くなる...」と思っていたあなたへ。いまなら、密かに近づけます（ギズモード・ジャパン）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1adjFzRkJNT2NNS3ltZnhRR0VyX3ZEZFhFN0xvSDloYVpHVjdtYnlxLTUtX3Awajl5WnlRV2hTdVpzOERwTERjZ1VyYWd0ZUVaekVpa3BHTk0zMjdFMG5VcXFXTGlsWmxBdjVVOXZsSXNKTjJCMFJRQ1Z1LUdCWHM?oc=5",
       "pubDate": "2026-08-08T19:00:02+09:00",
-      "source": "Yahoo!ニュース"
+      "source": "news.yahoo.co.jp"
     },
     {
       "title": "為替介入でポジションに変化【マーケット先読み】",
@@ -45,12 +51,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLQl8zazhTWFExdzY5RDJNSnpfVnFrWWtib3NIcWpGMmJYbFhkZThLOEpCTUJBQm81ZGZMcTZ2RjRKaEJDeVZHbg?oc=5",
       "pubDate": "2026-08-08T06:20:40+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "7日レンジ ドル円 156.68-158.57円(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTkx4TlEwVUVkZ2pzQXhxQU5RdERYWUN0M0N0dTl2WG9yNEhkSkVkdE94YmZmOFRXa0lxY2VkaEVoT2xiTFZzTERERW5vTXgtODRwNUUyTnZRbXdYQThDY2p4QkJoanJfVkotS2NYSF95S2kyQnRtOFFXSVRrOW5NcWp4VGVrbXM?oc=5",
-      "pubDate": "2026-08-08T06:20:00+09:00",
-      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "来週の為替予想（米ドル/円）追加介入とベッセント砲に警戒｜米CPI・米債入札が焦点 ハロンズFX 2026/8/8",
