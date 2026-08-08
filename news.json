@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T06:47:41+09:00",
+  "updatedAt": "2026-08-09T07:49:04+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -14,7 +14,7 @@
       "title": "円安「進みすぎ」４６％ 景気下押しに警戒感 主要１１１社調査",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jVjI0ajNQNF9kNHcwMms2eVQ4eUVvTWNQTjB4SUZ3WlZjZ2hOUUhNSU9nUXhaOVZXOGh6T3hDWlFlZjFVV3lGeGpiODNsY3lvazJWTzB6UVJmNnYxOVE?oc=5",
       "pubDate": "2026-08-09T05:00:00+09:00",
-      "source": "fukuishimbun.co.jp"
+      "source": "福井新聞社"
     },
     {
       "title": "「円安進みすぎ」４６％ 外国為替相場 主要１１１社アンケート",
@@ -41,6 +41,12 @@
       "source": "BigGo ファイナンス"
     },
     {
+      "title": "欧米為替見通し：ドル・円は底堅いか、日本財政にらみ根強い円売りも(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWhYbmtZN3Fsb0Z4OXhzVGxWLTBIb25PWTU1RkJnM3NvQkQ0WUdVRVkzWU15SG1vNUFhR01oeXNFbDNUcDlNYmJVeTBybWl6TW9pVHExTzVwanpEaDZuVmY0b21ZZEwtZU0tMWNOVy1RS2g5YjU0UzhzQ2dDUlpTREM5ek9BdUk?oc=5",
+      "pubDate": "2026-08-08T21:08:08+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
       "title": "「円安でTeenage Engineeringが遠くなる...」と思っていたあなたへ。いまなら、密かに近づけます（ギズモード・ジャパン）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1adjFzRkJNT2NNS3ltZnhRR0VyX3ZEZFhFN0xvSDloYVpHVjdtYnlxLTUtX3Awajl5WnlRV2hTdVpzOERwTERjZ1VyYWd0ZUVaekVpa3BHTk0zMjdFMG5VcXFXTGlsWmxBdjVVOXZsSXNKTjJCMFJRQ1Z1LUdCWHM?oc=5",
       "pubDate": "2026-08-08T19:00:02+09:00",
@@ -50,7 +56,7 @@
       "title": "為替介入でポジションに変化【マーケット先読み】",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrd1k3Q2k3S2wwRTBlZGhpNXUzSlROa2tUQTFZWGRKUW5xSTEtLTRzT3BoemVEdjdzYkpJa3dUUnhrZWpYZV84QjBFejcwSXdycEN2T24zMnZMUGdOYWYwN2FR?oc=5",
       "pubDate": "2026-08-08T13:22:15+09:00",
-      "source": "txbiz.tv-tokyo.co.jp"
+      "source": "テレ東BIZ"
     },
     {
       "title": "投機勢の円売り幅、為替介入後に7割減 円高マグマ弱まる",
@@ -74,19 +80,13 @@
       "title": "最大為替介入６．２兆円 政府・日銀 ４月末、円安歯止めへ",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2NnRFN3VjN0Z5MEJTckREVGh0WlBhZWpINjdMalFNMHQ0M0hFcW9JYUFpYjZZMHZjVk53eGUzVF92WjRpWFpGTVdCOHFQYnhUaEltMWpNckQ1eXNLaVE?oc=5",
       "pubDate": "2026-08-08T05:00:00+09:00",
-      "source": "fukuishimbun.co.jp"
+      "source": "福井新聞社"
     },
     {
       "title": "為替介入6兆円超 “過去最大” 4月30日実施",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBINnpBMHlpcEY5d0NIZFRENFQwR2hYbEhsdlA2OVhNa05qS2VFQ0tLbGhtRDJSdWtTTTcwWjlCTER3eGtwYUlEVUxDaFB5NVZxUjVGOVBiRkdYVDRTX3JrOGNmcw?oc=5",
       "pubDate": "2026-08-07T23:00:00+09:00",
-      "source": "txbiz.tv-tokyo.co.jp"
-    },
-    {
-      "title": "米7月の就業者数2.3万人減 市場予想を大幅に下回る 円高が進行",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sTjl1a2haSHh3VC1CRTc2RURBNEdzWXUwZkZEUGpubWNTczUyTG9vbnh3MVFGclAtblZYNTAxd1N0d2U4R1dqdkEzYmRjTS1VVm9qZXN0dXRXZ1FUc1FfZlgtQVdnWk0?oc=5",
-      "pubDate": "2026-08-07T22:26:32+09:00",
-      "source": "朝日新聞"
+      "source": "テレ東BIZ"
     }
   ]
 }
