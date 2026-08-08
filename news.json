@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-08T19:54:19+09:00",
+  "updatedAt": "2026-08-08T20:45:50+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "「円安でTeenage Engineeringが遠くなる...」と思っていたあなたへ。いまなら、密かに近づけます（ギズモード・ジャパン）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1adjFzRkJNT2NNS3ltZnhRR0VyX3ZEZFhFN0xvSDloYVpHVjdtYnlxLTUtX3Awajl5WnlRV2hTdVpzOERwTERjZ1VyYWd0ZUVaekVpa3BHTk0zMjdFMG5VcXFXTGlsWmxBdjVVOXZsSXNKTjJCMFJRQ1Z1LUdCWHM?oc=5",
+      "pubDate": "2026-08-08T19:00:02+09:00",
+      "source": "Yahoo!ニュース"
+    },
     {
       "title": "為替介入でポジションに変化【マーケット先読み】",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrd1k3Q2k3S2wwRTBlZGhpNXUzSlROa2tUQTFZWGRKUW5xSTEtLTRzT3BoemVEdjdzYkpJa3dUUnhrZWpYZV84QjBFejcwSXdycEN2T24zMnZMUGdOYWYwN2FR?oc=5",
@@ -62,7 +68,7 @@
       "title": "為替介入、初６兆円 ４月３０日 先月末は１１兆円規模か",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4bTNkMzdmNFg5WEtpNXRKMUs3eF9JZmxCUXJtbTFtUFVjTE4tZXpQWEVOTmF5VkxTdUZxelV5UkJERDUtaEw1bTlaT1VzOS1ZWWNhR0VsRkpDd2Ju?oc=5",
       "pubDate": "2026-08-08T05:00:00+09:00",
-      "source": "朝日新聞"
+      "source": "asahi.com"
     },
     {
       "title": "ニューヨーク外国為替市場概況･4時 ドル円、小高い(トレーダーズ・ウェブ)",
@@ -80,13 +86,7 @@
       "title": "4月30日為替介入6．2兆円 過去最大 円安食い止めは一時的",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SZ1B3QU81bHdFOVh1T2NYZDBYRnhZQjZXRnEyaHh6MUVjek9QMnlybEZORGFNRDJIeDBXTE5BUndjWkV0OHdkZlA0Q3hJeFRKa2Q4aDlJUkd2S2tiUkE?oc=5",
       "pubDate": "2026-08-08T03:59:00+09:00",
-      "source": "okinawatimes.co.jp"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･2時 ドル円、伸び悩み(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNelZ6cVVTendKYWRPcGM1NWpVZ1A1NUtSSzBUc0dfbE5XVldOT2dqU2JZclF4MVV3TkpwUnp4V2lNek5hRzYxUjZxTGRqTFIyTGdWdV80RnFRWTBGWWRuOG5HcWpSdGVJcU1UTngtNktlcXZBSk16SExPQ0ZYM1RBTnFTZXVCN0U?oc=5",
-      "pubDate": "2026-08-08T02:05:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "source": "沖縄タイムス社"
     }
   ]
 }
