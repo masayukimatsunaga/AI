@@ -1,9 +1,39 @@
 {
-  "updatedAt": "2026-08-10T06:49:54+09:00",
+  "updatedAt": "2026-08-10T07:52:14+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "日米が協調して為替介入 覚えておきたい為替の歴史",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UTmpIcVVpTHgxNHROSE1VdEFQUGNMRDhjMFVaYnNJMEVXb1VIM3JEcWZDcG5HN29jWUtGNHVzaUNCOE14R25FbDNTQWtXQ2pQdXZYRnpn?oc=5",
+      "pubDate": "2026-08-10T07:34:48+09:00",
+      "source": "朝日新聞"
+    },
+    {
+      "title": "ドル円、157.89円までじり高 原油先物価格の上昇が支えに(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2VmTlZpUEVWVUlrXzFRR0hoODhVRXQ3Q3BIc1ZOZnJub2pXZ3pFWTVueTVCT1RvUmxJODZlMlZ0YVhHVGpheDBLV2JRZVFwcmVoUDBtZ2tsWmhaaHZpVWJvSno3RHU1VEVGajBxcW9JRkRVaFZISlRkUHhUNVhmNVFWcFE3ams?oc=5",
+      "pubDate": "2026-08-10T07:20:51+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、157.89円までじり高 原油先物価格の上昇が支えに｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVY1RpcFlCRl9nZHFGTzEtd3pvN3Z6QjVmbUJVbDlGNU0wZE51QWNpdVJwemo2TjR3M3BHMnQ5NzNHV3FkV2FndjR4NEhtMlVwTlE?oc=5",
+      "pubDate": "2026-08-10T07:17:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "朝のドル円は１５７．８０円台＝東京為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fWmtDanJxYTNLenJGMnFxR3JXNGtYNXdtRWZpX2NlQ2NxMHhFYkVMN1IzVmRSOWxvSnhZWVBmUUxJMzVxdkRBTQ?oc=5",
+      "pubDate": "2026-08-10T07:09:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "天然ゴムの動向、上海高と円高の綱引きに",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TZEJYLTNJNmQta2dhbzNvSnMtU00tSC0zbmRuY2lPTHljRy1jZEFYZ3hDS2FVYW5SdVl3V2NhZW1fVlJKWDFjUTNKclY?oc=5",
+      "pubDate": "2026-08-10T07:03:12+09:00",
+      "source": "ゴム報知新聞ＮＥＸＴ"
+    },
     {
       "title": "ドル円、157.70円近辺でもみ合い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVJlQkRkRldCbFZrYjVtWFR2M2dwYTVkaUJad1piNlFRaGI2MDlpV1lIT2U2YmRGbVhWNDJoSkxrZWcxZGRoNDFJd3FSamQxRUFYTlcxQU5vWG13MUt0amxaS3BXeHVzSy1YR0ZZV1BDaTJodzYtNkN3Z1BTRVRMZ1hydUFWZms?oc=5",
@@ -15,6 +45,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yUVM4MzZGVVVTRElUekZ2WHBEQV9RSS1mUTNmdHNqNlNmVVY5ak5zU0VhMHRQSHU5SnFYbE1lVkNXc0RZUzB6V1EwaEtRWUxlNHc?oc=5",
       "pubDate": "2026-08-10T06:37:00+09:00",
       "source": "ザイFX！"
+    },
+    {
+      "title": "【為替見通し】日米長短金利差と為替介入",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XaGZZUUJ1MENDUWQtb1BTc25IWkp6TEt1X3hlSEs2VGwzZjAxcUtfOWoteUpLczBMbDZSMUhtc3N4RHA5WUVsUHRUeDJzZmJMalowc0FWS1BEcEdRNWQ3UA?oc=5",
+      "pubDate": "2026-08-10T05:45:00+09:00",
+      "source": "テレ東BIZ"
     },
     {
       "title": "日ペの通期見通し、円安で売上高上方修正",
@@ -32,7 +68,7 @@
       "title": "《経済やわらかゼミ》夏休み海外旅行6年ぶり減 円安、燃料費高騰で二の足",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xbE14OU1NMDZpLTZSWjBfc2dmS094UmF1R2hkTm5ra2NFUDhfanRLeVJnRXI3d2x2dEFCdl9OdmVRUm5mclIzSG4xclJ3Njl4MGFGUTRHa1U?oc=5",
       "pubDate": "2026-08-10T05:00:00+09:00",
-      "source": "jomo-news.co.jp"
+      "source": "上毛新聞電子版"
     },
     {
       "title": "みずほ総合研究所が公表した「160円台が『円安すぎ』ではない理由",
@@ -51,42 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BYjd0TFBjNzlFcHNjQTRhSmZEc3BVWklYTzNqVmI0SkVxTXZxdW15dFZkWm9hN1Q1cFhWTFI2Sk9YcG8wY3UzODZvd3Z0Rnc?oc=5",
       "pubDate": "2026-08-09T22:41:50+09:00",
       "source": "khb東日本放送"
-    },
-    {
-      "title": "“雇用統計サプライズ”で円一時急伸 介入後円高進んだ2024年夏との違い 円安トレンドからの反転は",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YcDFUR0g2NWxXX2tQa3MwVnBYZElsenlULVNZM05RMThrSExhVDBrTkhQaGVsY21XLUdVWXp0R1J0WWgxQTBPcERaZ05pUQ?oc=5",
-      "pubDate": "2026-08-09T17:30:00+09:00",
-      "source": "FNNプライムオンライン"
-    },
-    {
-      "title": "「円安進みすぎ」４６％　歴史的水準、警戒広がる｜四国新聞WEB朝刊",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxRmtQVVBrQkQxNzUxdmsyaTI3TTNxbndhNWd1QzEwVlJLVlZXLVhBR2haTlJJUU1IQ0JxMVpDQVEtMWJGWnc2M3BmZ0RpVFR0enhVRWl5V0FVWWNsX2l6bTBFci1Va3RNU0NLV3V0SV82MHlabHBF0gF8QVVfeXFMT2dBMnFldy0tcjJ0ajZHOVk5aEgtbnpPLXY3SzRhRmFPWWhieDlhMThQUEUyMU9HQi03MXF4bmFDVDFreDN2cnNLcVViNDZYZnZFOGQzT2thWXN5WWl1dnhfRnVkQ3hLNjNtTTNkQTlUSF9pODZTMnVnV044SQ?oc=5",
-      "pubDate": "2026-08-09T14:04:24+09:00",
-      "source": "四国新聞"
-    },
-    {
-      "title": "「日本は円安で助けを求めていた」トランプ大統領“28年ぶり日米協調介入” 一方 食料品消費税“2年間1％”へ「財源なき減税は無責任」との批判も 円安の流れは変えられるか…【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wNjNzMFlxQmZYYmFIdTR5Yy1HbWFJWlhxZ1g0MnJVa3lfZ3ZNTExMZng0Y3JGd2VFckhEci1fMUd1S1Fmb1FZaDBhTW13c002WGVUaFhRWlduZTkya1FpWWdTSVNOMDFuZmRoLVpBVEM4aXdzXzAyYzhnT3NGdHM?oc=5",
-      "pubDate": "2026-08-09T14:02:14+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "協調為替介入による通貨買い支えの仕組み 執筆",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGZHVtSnFaUG04ZXE2VkRnQlcxWVhNRG5jUFNTdFVGRFJhVUpCS3FtbU5BVk0tZ3Qta0lvUldOQlVhYXFqQUhaQ2hhN3FyOUFWcjJqV2Npcmk2YTZoRmp3dUpoNUhuQ1k?oc=5",
-      "pubDate": "2026-08-09T12:22:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "欧米為替見通し:ドル・円は下げ渋りか、中東や米雇用環境を見極め(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGFoZkpfNi1OTGpVWEVka1JUMVlyb1pOZWR3Z3JJc2F1VVNtVHU2X0w2LWhpTWhhMnJRLXVFT2xYcTFuWWxjdjZpUWJvR2ExS2w3WTRIcXU3MzZxUHdsUUFBMndUd3NjRlhrYVpnZG5zRGpHcm5RQUluNUxKaFExVjRhT3NydEU?oc=5",
-      "pubDate": "2026-08-09T11:53:56+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "サンデーモーニング [字] 円安危機？“歴史的”介入の背景と限界▽消費税“異例の決着”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qeUN3YnJoV0pQMHRDZ1RxamJHU2dZNVBYSzhNSFFZSDJhX2lSV0VqSHRpT3pUMFJqci1pMy0wM1BkVWNUT01UV3FLLThfcW5uTl9hMzB3?oc=5",
-      "pubDate": "2026-08-09T11:31:20+09:00",
-      "source": "tbs.co.jp"
     }
   ]
 }
