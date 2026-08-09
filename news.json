@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-08-10T04:49:48+09:00",
+  "updatedAt": "2026-08-10T05:53:33+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "日ペの通期見通し、円安で売上高上方修正",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6TVdJUURZMHg2ZUhKajhMWDZRQjRCcnpzNTZMSlVKZk5vU3AyeGFaVFgwcVo4dmw1Mk51bGJIX2xrUTBmeVVyS3Y0Wm5YemtxZG0xOFZPSmlPTGM?oc=5",
+      "pubDate": "2026-08-10T05:01:16+09:00",
+      "source": "日刊工業新聞"
+    },
+    {
+      "title": "物価高は終わらない 資源高、円安に半導体不足…価格転嫁は秋が本番",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNVGIzUEY4VnJwRFF2eUlRUGFOcGFaamlianNyM0R0cmlJb0Fpak5fWTdvNHk3VE9sRkJMTmFPMTNkQkFhZjMzOWhwenNvNW83YjRvVkxiZEdFM2N1VUdNYmZ6NEViUWZLamN6UA?oc=5",
+      "pubDate": "2026-08-10T05:00:00+09:00",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "《経済やわらかゼミ》夏休み海外旅行6年ぶり減 円安、燃料費高騰で二の足",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xbE14OU1NMDZpLTZSWjBfc2dmS094UmF1R2hkTm5ra2NFUDhfanRLeVJnRXI3d2x2dEFCdl9OdmVRUm5mclIzSG4xclJ3Njl4MGFGUTRHa1U?oc=5",
+      "pubDate": "2026-08-10T05:00:00+09:00",
+      "source": "上毛新聞電子版"
+    },
     {
       "title": "みずほ総合研究所が公表した「160円台が『円安すぎ』ではない理由",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FX0UzbXkyTE5FLUY5OXZaVUJReGlWM00yOWMyR2ZETkoySDhacF9YYmVuR0x0TEx4eUVQd1E5aXl4MkNtMFhJamVESnlkWDA4R2tvQ3E5a0JJMDJXSjhj?oc=5",
@@ -18,9 +36,15 @@
     },
     {
       "title": "“雇用統計サプライズ”で円一時急伸 介入後円高進んだ2024年夏との違い 円安トレンドからの反転は",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OaEJZcHNJN2ZLQURxY29CdnBKUmM1WjBFS2RPRVB6QjdQMlY0RUtYUGJBY1V5R2F4SERnVWFVOFNhNm1xYWZZNFlybHFzSENocGtqTmtIa09qNEZiVHhRdFg2b2YxaTNQdzFHSEczeHU4RkxfWDMzZ1RTLXFGOHM?oc=5",
-      "pubDate": "2026-08-09T17:30:42+09:00",
-      "source": "Yahoo!ニュース"
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YcDFUR0g2NWxXX2tQa3MwVnBYZElsenlULVNZM05RMThrSExhVDBrTkhQaGVsY21XLUdVWXp0R1J0WWgxQTBPcERaZ05pUQ?oc=5",
+      "pubDate": "2026-08-09T17:30:00+09:00",
+      "source": "FNNプライムオンライン"
+    },
+    {
+      "title": "“雇用統計サプライズ”で円一時急伸 介入後円高進んだ2024年夏との違い 円安トレンドからの反転は（FNNプライムオンライン）",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSM3VEZ2ZCN2RqNHFYOXE1WW05NElMVlZqMFhWNGk1WlBkcHhLbTZ4QVdFOXg2SWEyM1h0cWpYVGM3d3R2Tk1PaHBGbGxKY1NkbXdEX1lrNDJTRnNOcGVPdnVSTVRGcEw5dkhMR1NyM2lNQQ?oc=5",
+      "pubDate": "2026-08-09T17:30:00+09:00",
+      "source": "ｄメニューニュース"
     },
     {
       "title": "「円安進みすぎ」４６％　歴史的水準、警戒広がる｜四国新聞WEB朝刊",
@@ -63,30 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFFjelhSaFczeW16Q1BoTGYzYXdJd1h3dm5Xb2VTVFh5Y1IzckVsNjdjN0V4elllOEpOVm1zVGJaM003WDA2RVF3bzRySTE1YUJXVXUtXzNNS3dYZnE5WkwzR2RvY0FKemNZSEdEamYwSkJnaHgtZURjZ3FhUWZJTnlpTkFwbTg?oc=5",
       "pubDate": "2026-08-09T09:01:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "来週のドル円相場はどうなる？8/10週のイベント予定 2026年8月9日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpY3FobllaTTBid0puTjNUVGw4aTFhOVZxaG8xUm1lb2s3Qm9EZEtXaWR4Q1dNSEY1VF9uSmhONGdqeTBfZ0pGOFJTcjdzMEh1bGtvdUItdkd2UnVuaVRSb0ZTNA?oc=5",
-      "pubDate": "2026-08-09T06:05:54+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "円安「進みすぎ」４６％ 景気下押しに警戒感 主要１１１社調査",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jVjI0ajNQNF9kNHcwMms2eVQ4eUVvTWNQTjB4SUZ3WlZjZ2hOUUhNSU9nUXhaOVZXOGh6T3hDWlFlZjFVV3lGeGpiODNsY3lvazJWTzB6UVJmNnYxOVE?oc=5",
-      "pubDate": "2026-08-09T05:00:00+09:00",
-      "source": "福井新聞社"
-    },
-    {
-      "title": "為替介入でポジションに変化【マーケット先読み】",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrd1k3Q2k3S2wwRTBlZGhpNXUzSlROa2tUQTFZWGRKUW5xSTEtLTRzT3BoemVEdjdzYkpJa3dUUnhrZWpYZV84QjBFejcwSXdycEN2T24zMnZMUGdOYWYwN2FR?oc=5",
-      "pubDate": "2026-08-08T10:00:00+09:00",
-      "source": "テレ東BIZ"
-    },
-    {
-      "title": "投機勢の円売り幅、為替介入後に7割減 円高マグマ弱まる",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PSmZONWlRd3dKTnBsSktVclpKTHd2M3BsZnZCRmN3NFRwUGZ6STM4eUM1RTJvZHhweGthV0xBWEc0dkdkQi03TTU3NXIyTkg0WTVuRTBMMWFYMDdNMnBwVnBkMGNuZU5QUnhJTg?oc=5",
-      "pubDate": "2026-08-08T07:31:45+09:00",
-      "source": "日本経済新聞"
     }
   ]
 }
