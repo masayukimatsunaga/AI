@@ -1,9 +1,39 @@
 {
-  "updatedAt": "2026-08-11T00:18:36+09:00",
+  "updatedAt": "2026-08-11T02:38:53+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル円、買い優勢 159.10円台まで上値を伸ばす(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzB2Qnk5Wnk3MFR3WVZXU0NjOEctN01yeU1vRHpXUDNLc1J2dmhZbk1oZlFjU1l2a3lRX0FwNHpJTFV0UzF4WDJBNE5QczFqNVNsano0TVlCdTkwdE1QZzNEc1h1RkJ4bjBPWnhkMGxtakFaSzNXUlpxM2VOWFFQc2EtLWFYVlU?oc=5",
+      "pubDate": "2026-08-11T02:14:50+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･2時 ドル円、高止まり(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlotR1Zqb2s3UTJhT2J2Q3JnS1JVX2pXRVdlV3dTekNocGw5OHNyWlJkYnVZdVdqZFVUeFZTVG5JVV9Cdm5fQVo3d1FEdTFOUFNKS2JQYlN0RkllZ0xXQjR0TTRXYlIyTVFUYmhXX1g2T1RCNEpKZkVxYUFleUY0NWMzUFo3SDQ?oc=5",
+      "pubDate": "2026-08-11T02:10:07+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "円相場、一時159円台に下落 7月末の介入後安値更新、ロンドン市場",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RZE5IRWZYVEI5UnphdWRwZjhDU09OQ1k0V0tnUjBtellFNnc5YkdwbkJlN1ZEaFhGQ3QzM1BsbWI2dkhrcmFWUTMxWDBMSFREQVJaMEFhM2w5MnNFaGstSXpteUM3dEl5VER2eTFudkVBbkkx?oc=5",
+      "pubDate": "2026-08-11T01:25:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "円安進行、対ドル一時１５９円台に…日米協調介入以降の上げ幅を半分打ち消す",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkSXhxR1N2bXJZRFhFRTNWQUN6djZPbnNxdTMyeEJjbkVCQzU0MGo5TzVfcWhGblk3Yldwemh5Q1ZMWVV0OW5sX20tZGJsOGZDWXpfTHpjcDFiNUd6by1XSjZCTm8?oc=5",
+      "pubDate": "2026-08-11T01:04:00+09:00",
+      "source": "読売新聞"
+    },
+    {
+      "title": "２つの条件が続く限り、円安になりやすいとの指摘＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3RDhWMUEzb19seXVEOFhZTGRRcVBueTFXRXk2OVpqdjBadzV1UlFOVE9rYllmdm1TOEVfMnh0bGdoNkotSzJsUQ?oc=5",
+      "pubDate": "2026-08-11T00:35:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "ニューヨーク外国為替市場概況・24時 ドル円、強含み(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS1JKWUR2TFBTa3N5a0lmTWhhbndIdmx2Nk5MNlA5cGdyaTNyblA2NWZIR083X1hjWm85R2MtOXA5MzdkUmk5a2ppUWZGdWtCd1RhcEVmOC1VV3pfUE84WmlHV1ZMeUxvTVBaZlFWR0IwLWoyUjRKRGxHei1WY1M4bENqWXBlZUE?oc=5",
@@ -17,12 +47,6 @@
       "source": "ザイFX！"
     },
     {
-      "title": "NY外為：ドル・円159円台、200DMA上回る(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXBFRTNZSVo4Yjdna28wTWdyRkxuZ3JGZFBvbVFhSTA1b21GbHNBY2JDZ3RLRXBfNmdYY1BSNFhSbmJIYXgtQi02UUE4aDRXa3hwcDV4WlFuejlJMkhoOENYZkZQcHpkU2x6aWwzbGN0VUxCUXVqMTFidDFlX0UxUkR5RXNwNUU?oc=5",
-      "pubDate": "2026-08-10T23:44:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "ドル円が１５９円台に上昇＝ＮＹ為替速報",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SeGtsLXJxMHA2X0UtMWp0ZTRGUU9JMU9lOHczaWtlbVl5MnZNT3VDcEhQNHR4VVRhTUFHQ3FPMnhkU25HbFE?oc=5",
       "pubDate": "2026-08-10T23:04:00+09:00",
@@ -32,7 +56,7 @@
       "title": "【速報】円安進み1ドル＝159円台に 先日の「日米協調介入」以降で初",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rZmxnOXFNT2lMOTBxQThKRk91ZTJrNkF6Y3VxR3Z0MXdiTzVXNFcxMDZFVFlfQ2ZSbHpRUzJVSnpYRnNKSW1JWHRoQVotc2taQ043SjByaXRnalJsNXBCSk1vTk1DcGFhRTVEZkJTWFN6Zw?oc=5",
       "pubDate": "2026-08-10T23:01:21+09:00",
-      "source": "テレ朝NEWS"
+      "source": "news.tv-asahi.co.jp"
     },
     {
       "title": "ドル円、強含み 159円台に乗せる(トレーダーズ・ウェブ)",
@@ -53,12 +77,6 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-08-10T22:02:21+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "ドル円のピボットは１５８．４１円付近＝ＮＹ為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWUjBRaDB2M3ZZbnE3RUFjUmctT3BSRlQ4Mm1tZGhpb1FDX3Z1cW9QQk1saG9paXNmeUFhMi11RE1qM2RxazJzMw?oc=5",
       "pubDate": "2026-08-10T22:00:39+09:00",
@@ -69,24 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnNtM2N2em9uZmhNak9jVjJRSktsZm5YMTg4T0l0dDRyRmtmcGlCZHBtX1cxeXQzTXYxS0p2dXRsbElBUXZGUjhfNWk2WVNZOGNyanY5SmlnZW9wdlRRQmUzUGNkOWl6S013RW5lYng1M1p5U1JQb1hyZ0JPWXJINHYwX2doNlk?oc=5",
       "pubDate": "2026-08-10T21:19:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、小緩む 158.71円付近で推移｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yeGFKZ1BqS01zY002SkxlX3I0SmRJSWpGV3kxY192LWJCS1V6eEY5MHNtWHhuckM1RFFKVVhWNTFJWWhVSTBWYW8yWEZRNVNzYVE?oc=5",
-      "pubDate": "2026-08-10T21:19:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円１５８．８０近辺、ユーロドル１．１５５０近辺＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ESWE4MUdQR3FxT2dWaGNpcnZfbDBLRGJ4YVVDcVJ2N20yZ1UzSTdrSG9FNk83ZHhvamxzUXJFMXNVazUybEdteQ?oc=5",
-      "pubDate": "2026-08-10T21:05:40+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "円相場 小幅な値動き",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVW5ZdXNYUWoyejhzY29TVVFHblgyRVFvOW83M1VNamdqYnRSejctTTRLOGpuSllfLVl3T0FKY05JYjhxVFZHUnluRWZCZ2ctZGJRM25QaFJYN0llcU5Z?oc=5",
-      "pubDate": "2026-08-10T20:18:05+09:00",
-      "source": "NHKニュース"
     }
   ]
 }
