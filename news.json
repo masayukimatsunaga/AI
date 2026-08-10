@@ -1,92 +1,92 @@
 {
-  "updatedAt": "2026-08-10T11:36:27+09:00",
+  "updatedAt": "2026-08-10T13:19:45+09:00",
   "sources": [
-    "Google ニュース"
+    "nikkei225jp.com 為替ニュース"
   ],
   "items": [
     {
-      "title": "【FX】8/10 ドル円急落！米雇用統計ショックの持続性は？ ｜為替市場ニュースの振り返り、今日の見通し",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54ZkNjQkxOamRqNmlRdkhXM2F0M3VjTmJpY0ptTzdNM01scFNEdDY2dTNQbVJzLUh1S3F2VnFZWE13TGpsTXMwVzlFN3dFa3VtMzg1SnhIZEphRzBzU0ZqQU8tWQ?oc=5",
-      "pubDate": "2026-08-10T11:30:00+09:00",
-      "source": "外為どっとコム"
+      "title": "東京為替:ドル・円は伸び悩み、高値圏は維持",
+      "link": "https://www.zaikei.co.jp/article/20260810/865149.html",
+      "pubDate": "2026-08-10T13:13:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "【テクニカル】日足テクニカル・ドル円＝転換線と相場水準の関係を注視",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02cW9zMW8yTDU1NDV6V3hXYmlFY1FSSzI0b0o5dkVZanlEc0FDZmxVeVctU2E3b2JQTmNNbHNsODZLWXY1b0tIdEQyeTZ2TG9ES0pMcW5HaUtiQ2FrRUJoV0Jkcw?oc=5",
-      "pubDate": "2026-08-10T11:21:08+09:00",
-      "source": "外為どっとコム"
+      "title": "ドル円 複数の大きめOP観測158.00円を背景にさらに戻り試すか注視",
+      "link": "https://zai.diamond.jp/articles/-/493676",
+      "pubDate": "2026-08-10T12:48:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "ドル円、158.32円までじり高 雇用統計前の下げを取り戻す(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnBvNzNJQ090ZkdMUk5lUER3X0hWUGZZNGN2ZW1HVnNvbVdFMEU3ZnVFOTlacjVhNEptRFBDSzd2SjdqZXI2UDE3VzJOVHZTRmZxQTNvSzliS0RCLXQwOUduYmppZzRFNkNVdF9rM0hKamdNcDc0bTVCWkxIbVp6UDVmcEpBeXM?oc=5",
-      "pubDate": "2026-08-10T11:06:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "東京為替:ドル・円は小じっかり、ドルの買戻しで",
+      "link": "https://www.zaikei.co.jp/article/20260810/865137.html",
+      "pubDate": "2026-08-10T12:20:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "ドル円、158.32円までじり高 雇用統計前の下げを取り戻す｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14M095cHlhTWtteEVkRlgtR3BoY0tzRlJaaDd6M00wRm1LVkZ1eGN0NVQyYVE5QWdROGZQdUtTVkd2RmJJUEg2QnAwRVcwU2o3bGc?oc=5",
+      "title": "円相場、158円22~23銭 10日正午現在",
+      "link": "https://www.jiji.com/jc/article?k=2026081000351&g=eco",
+      "pubDate": "2026-08-10T12:07:00+09:00",
+      "source": "時事ドットコム"
+    },
+    {
+      "title": "ドル円、158.32円までじり高 雇用統計前の下げを取り戻す",
+      "link": "https://zai.diamond.jp/articles/-/493668",
       "pubDate": "2026-08-10T11:06:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "外為：1ドル158円27銭前後とドル安・円高で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRndmZ3pSNWZIcWxvQzlXcmx3T2VIQ1hZWVBpSjhFdnlnbjN3TlVJdkNUTTRfeFhhWWxkMC1vOVF0MGpnM1BRVUU2TlpmamVJRTBzWXJWM0gxdXBmdmJ6WktueW5JM3dndVNQc3VVbTc0Sm02WlNNUzJFSGI5RzBJLTIwdVdVbjg?oc=5",
-      "pubDate": "2026-08-10T11:01:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "【為替】8/10~8/14の米ドル/円を予想する",
+      "link": "https://media.monex.co.jp/articles/-/29921",
+      "pubDate": "2026-08-10T11:05:00+09:00",
+      "source": "吉田恒の為替ウイークリー"
     },
     {
-      "title": "通貨オプション ボラティリティー ドル円 1週間9%台",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52ZkE3TUprX1F2TmJjWGhWeFQxVmRUd2xEMlBvTmhTLWJlMlBCRjJvdjNxb2w0ZHJzRnFPNGh1b1dsNzhaYW1fYw?oc=5",
-      "pubDate": "2026-08-10T11:00:40+09:00",
-      "source": "みんかぶ FX/為替"
+      "title": "外為10時 円相場、上げ幅縮小 一時158円台前半 中値「ドル買い」の声",
+      "link": "https://www.nikkei.com/article/DGXZQOFL100T40Q6A810C2000000/",
+      "pubDate": "2026-08-10T10:26:00+09:00",
+      "source": "日経新聞"
     },
     {
-      "title": "先週のトウシル記事3選：この夏、キオクシア急落で個人投資家が学んだこと・スペースX初決算！「宇宙×AI」の収益力・円高の恩恵を受けやすい「配当利回り3.5%以上」銘柄5選",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VaW5lWExMUTM5cGtNNWNHcHlhOV9rczdCVV9fX0psemJSdnVIbVRId2tNU09rUU1GRnRiUVAzVjBIYUdhaXp0b2ZZZFRVN3NvX01nQmlZcXhSQQ?oc=5",
-      "pubDate": "2026-08-10T11:00:00+09:00",
-      "source": "トウシル"
+      "title": "ドル円、一時158.14円まで上昇 雇用統計後の戻り高値上抜け",
+      "link": "https://zai.diamond.jp/articles/-/493665",
+      "pubDate": "2026-08-10T10:06:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "10日のドル・円、売り・買い要因＆支持抵抗ライン(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZC1UYkEyZFRiSXd3SW95UmdNczAtQzdOUU90dzZHWnJfMlJxcU1WZXJ2TWtDZXotTUJXNlBQaWRmZFNZOHA3RlhBYU9Bel9XSmdwNHZJb1ZnMnZJX3JhV2FGWmF2UmJoNGFUSGl4d3Y3VmhMM3dZbE1JOXNQaFBPUzU3OXhSTnM?oc=5",
-      "pubDate": "2026-08-10T10:56:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "ドル・円は伸び悩みか、158円に近づくほど為替介入が警戒され、ドルの上値は重くなりそう",
+      "link": "https://zai.diamond.jp/articles/-/493660",
+      "pubDate": "2026-08-10T09:27:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "東京為替：ドル・円は上げ足を速める",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yekZMNzU1aFdnTm9KX3kxSG5LMzM4X3d2aEdBWHprYVhvNlFpYVVvOWszQW13bmprWjlDUGp3SnBlZVBFTjVMNUdkdXNoVkNwZWc?oc=5",
-      "pubDate": "2026-08-10T10:34:48+09:00",
-      "source": "株探"
+      "title": "【為替】円安を主導した投機円売りが急減",
+      "link": "https://media.monex.co.jp/articles/-/29918",
+      "pubDate": "2026-08-10T09:05:00+09:00",
+      "source": "吉田恒の為替デイリー"
     },
     {
-      "title": "外為：ブラジルレアル、31円09銭前後とレアル高・円安で推移",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fYm5Yd01SZEFIc1FGQi1aYnJ3Nl9LbkNyZHlOQmwyUE14V3VONVNqNWxONUdFNmMwZGZoc0ZscTlONWlmZ0k5Ulk4am5FYkp4bFE?oc=5",
-      "pubDate": "2026-08-10T10:31:07+09:00",
-      "source": "株探"
+      "title": "円相場、157円90~90銭 10日午前9時現在",
+      "link": "https://www.jiji.com/jc/article?k=2026081000118&g=eco",
+      "pubDate": "2026-08-10T09:05:00+09:00",
+      "source": "時事ドットコム"
     },
     {
-      "title": "外為：スイスフラン、195円55銭前後とフラン高・円安で推移",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DQ2h1QzA1SC1ubUNQVlRiemp2d1VnRTE0akh2TW55WHZvYmNRMXpiUEZtS3dyajA2ZkFFOUlMU3JZblVyN284TFdSS1BBeUduenc?oc=5",
-      "pubDate": "2026-08-10T10:31:05+09:00",
-      "source": "株探"
+      "title": "ドル円 157.85円付近、SGX日経225先物は66315円でスタート",
+      "link": "https://zai.diamond.jp/articles/-/493658",
+      "pubDate": "2026-08-10T08:33:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "外為：スイスフラン、195円55銭前後とフラン高・円安で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTlNnQUkwZkhWckZ3MFZNSEdlQ2ZBcW5HZkNpVzI3RGhkUEppeUJwajNUYW1XUTZzbDROYmRiMHRGSE9jWWVEWmFnSXVaLUZaNDAwMnM4VmY4ZTI1T0hRYUtJTTI2QWlSQVpJQU1hejk4Q1RDN2ZzOExxRlcwUmxYcXh6ajZtQzQ?oc=5",
-      "pubDate": "2026-08-10T10:31:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "ドル方向感探る、米利上げ観測と介入警戒が綱引き 米CPIで見極め=今週の外為市場",
+      "link": "https://jp.reuters.com/opinion/3RUBAN4WSRP33GH57X5TKKMTKE-2026-08-09/",
+      "pubDate": "2026-08-10T08:18:00+09:00",
+      "source": "reuters"
     },
     {
-      "title": "外為：ブラジルレアル、31円09銭前後とレアル高・円安で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnBrMWx0ektxakZEdTNkbnJjelN1elBGcXlNYzBTTzJBaXAyUmJVZ3l5bmVZN3NJSHRqUFp6Y1ZjMFZkSU4tWUVpcTA3andMdmFJdVN3LWxMNmh1aUNsc21QYmxaQzQ1SjNRUGsxbmNSdWVHa19XQWRTUTg0UE9hdEhQaXNfTFk?oc=5",
-      "pubDate": "2026-08-10T10:31:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し 2026年8月10日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LeTdrWmpOOGN6d1N2VHVxNGMxbXZqcHVjN1cwTmdWRk5hVngtMzF1eG1ReDdTVmtlc00zVldQQVFjVUxfRTBCTVdMU2o1SDQ2anZxUUNra0tqemxHUU9tQWdzYw?oc=5",
-      "pubDate": "2026-08-10T10:10:00+09:00",
-      "source": "外為どっとコム"
+      "title": "ドル円、157.89円までじり高 原油先物価格の上昇が支えに",
+      "link": "https://zai.diamond.jp/articles/-/493655",
+      "pubDate": "2026-08-10T07:17:00+09:00",
+      "source": "ザイFX！"
     }
   ]
 }
