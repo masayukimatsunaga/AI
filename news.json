@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-08-11T05:25:31+09:00",
+  "updatedAt": "2026-08-11T06:26:40+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "NYマーケットダイジェスト・10日 株安・原油高・金利上昇・円安(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZVpOREZ1SVRQN0Zjc09VOFNNc1NuVU93Zl9sM3Q4SjA0UzlzZldvdTR5YXNyV2lCOWhiUzVISFpBUHZBeWg0ZGpaZTRaZVhMLU5MT0JrSkNmc0R1ZTA5ZDEyUEdFdFZId09wMFRlc3NNeEM1ck80WjJNX243RGpySDVaOE5DZWM?oc=5",
+      "pubDate": "2026-08-11T06:24:16+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・10日 ドル円、反発(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHlkdlBBVk5lN0Q2V3E5a2JrZ0ZWUlFOd0pUUjE1aG8xZkVsU1NQMFE4eW1mVnJ0RlI1cUJ3aE9wcTlSVEprZnBlQ3h1NmdNMXRfcmFkWEE0c0IzQUl6N05WbHhQeGt1Nk5EWWltRFc4SmMwNm84Qk03XzRubjVTd2ZkUVY1UWc?oc=5",
+      "pubDate": "2026-08-11T06:08:12+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "高橋洋一・政治経済ホントのところ【為替市場に協調介入】円安続き米しびれ切らす（北國新聞社）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaS0NkaHAwNUJwcjdJcGtjLU5DQV9LRU5Fa0dsSDM5NnRuQ0tCUFFiYXRMOHFLT0QtUERTZXZ2WC1qekpIdHkwenZEMXBOZEZGaWpGekhTTGpRLTBLRWpvUEtFMmprVDg5Ml9saWN5VHNhdUVidDVzOS05Z0cySk0?oc=5",
+      "pubDate": "2026-08-11T05:02:52+09:00",
+      "source": "Yahoo!ニュース"
+    },
     {
       "title": "ドル円は１５９．３０円付近 本日高値圏での推移＝ＮＹ為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zZW00Q21tSmdROEM5N2ZRSkpDZkdEVS1SQ2VmTUt6NjFKbHhvRUgyMC1iTkNkN3BHaW9odTRSd1NsOFNVWmcxaA?oc=5",
@@ -53,12 +71,6 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "NY外為：ドル・円159円台、200DMA上回る｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SVmpKelowMWFqQkNNYkc1TUxFQ3hDNmNoZ1MwSUxTXzZ1V3FfWDc4Ukg0dkJpMUVoR193NXRvMEJVSjZRVm9tVndTN3hDODFMeWc?oc=5",
-      "pubDate": "2026-08-10T23:54:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "ドル円が１５９円台に上昇＝ＮＹ為替速報",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SeGtsLXJxMHA2X0UtMWp0ZTRGUU9JMU9lOHczaWtlbVl5MnZNT3VDcEhQNHR4VVRhTUFHQ3FPMnhkU25HbFE?oc=5",
       "pubDate": "2026-08-10T23:04:00+09:00",
@@ -68,19 +80,7 @@
       "title": "【速報】円安進み1ドル＝159円台に 先日の「日米協調介入」以降で初",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rZmxnOXFNT2lMOTBxQThKRk91ZTJrNkF6Y3VxR3Z0MXdiTzVXNFcxMDZFVFlfQ2ZSbHpRUzJVSnpYRnNKSW1JWHRoQVotc2taQ043SjByaXRnalJsNXBCSk1vTk1DcGFhRTVEZkJTWFN6Zw?oc=5",
       "pubDate": "2026-08-10T23:01:21+09:00",
-      "source": "テレ朝NEWS"
-    },
-    {
-      "title": "ドル円、強含み 159円台に乗せる(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGFNbjJQZ2VZT0hnQzlaQllBVnVfTUwyaFBEWmw3c0lqVW9PT2hVbG5lUDk3UVcyazBldzNwb0JrWWZ3OVhua1VqRTBRV2ZiR1lNRG1pUHVkZ3dSSnRaT3JmR2xCeWkweThLTjBPdTdlanhyNk4yVlFaSUdlSDhQRWtjVmpoTms?oc=5",
-      "pubDate": "2026-08-10T22:48:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、強含み 159円台に乗せる｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZNWlWZXBsQko1UkU5SHdyLTB2MVhOc2g3TEN3WVU3RHJDaHB6RUtzY0F4M0lzWmVVcWRrTVBfT1FLZFZZOTlQb002NkJ0OWtEN3c?oc=5",
-      "pubDate": "2026-08-10T22:48:00+09:00",
-      "source": "ザイFX！"
+      "source": "news.tv-asahi.co.jp"
     },
     {
       "title": "ドル円、１５９円台をうかがう展開 米雇用統計後の下げを完全に取り戻す＝ＮＹ為替序盤 -",
