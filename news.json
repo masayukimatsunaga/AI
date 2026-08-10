@@ -1,33 +1,38 @@
 {
-  "updatedAt": "2026-08-10T23:07:17+09:00",
+  "updatedAt": "2026-08-11T00:18:36+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、強含み(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS1JKWUR2TFBTa3N5a0lmTWhhbndIdmx2Nk5MNlA5cGdyaTNyblA2NWZIR083X1hjWm85R2MtOXA5MzdkUmk5a2ppUWZGdWtCd1RhcEVmOC1VV3pfUE84WmlHV1ZMeUxvTVBaZlFWR0IwLWoyUjRKRGxHei1WY1M4bENqWXBlZUE?oc=5",
+      "pubDate": "2026-08-11T00:11:58+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "NY外為：ドル・円159円台、200DMA上回る｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SVmpKelowMWFqQkNNYkc1TUxFQ3hDNmNoZ1MwSUxTXzZ1V3FfWDc4Ukg0dkJpMUVoR193NXRvMEJVSjZRVm9tVndTN3hDODFMeWc?oc=5",
+      "pubDate": "2026-08-10T23:54:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "NY外為：ドル・円159円台、200DMA上回る(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXBFRTNZSVo4Yjdna28wTWdyRkxuZ3JGZFBvbVFhSTA1b21GbHNBY2JDZ3RLRXBfNmdYY1BSNFhSbmJIYXgtQi02UUE4aDRXa3hwcDV4WlFuejlJMkhoOENYZkZQcHpkU2x6aWwzbGN0VUxCUXVqMTFidDFlX0UxUkR5RXNwNUU?oc=5",
+      "pubDate": "2026-08-10T23:44:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円が１５９円台に上昇＝ＮＹ為替速報",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SeGtsLXJxMHA2X0UtMWp0ZTRGUU9JMU9lOHczaWtlbVl5MnZNT3VDcEhQNHR4VVRhTUFHQ3FPMnhkU25HbFE?oc=5",
+      "pubDate": "2026-08-10T23:04:00+09:00",
+      "source": "みんかぶ"
+    },
     {
       "title": "【速報】円安進み1ドル＝159円台に 先日の「日米協調介入」以降で初",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rZmxnOXFNT2lMOTBxQThKRk91ZTJrNkF6Y3VxR3Z0MXdiTzVXNFcxMDZFVFlfQ2ZSbHpRUzJVSnpYRnNKSW1JWHRoQVotc2taQ043SjByaXRnalJsNXBCSk1vTk1DcGFhRTVEZkJTWFN6Zw?oc=5",
       "pubDate": "2026-08-10T23:01:21+09:00",
       "source": "テレ朝NEWS"
-    },
-    {
-      "title": "ドル円が１５９円台に上昇＝ＮＹ為替速報",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94azJCMXVrSFBDZ0dMWnlFRFY3eHZWY1FUTlpKbnViYWJXRmM4OHdsZm5kTG9ockp1Q252LUtBbkVBNGt0NFdsSA?oc=5",
-      "pubDate": "2026-08-10T22:54:39+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "NY外為:ドル反発、米イラン協議不透明感で原油や金利が上昇",
-      "link": "https://zai.diamond.jp/articles/-/493709",
-      "pubDate": "2026-08-10T22:54:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、強含み 159円台に乗せる",
-      "link": "https://zai.diamond.jp/articles/-/493708",
-      "pubDate": "2026-08-10T22:48:00+09:00",
-      "source": "ザイFX！"
     },
     {
       "title": "ドル円、強含み 159円台に乗せる(トレーダーズ・ウェブ)",
@@ -40,12 +45,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zSmU3UHZCckVlc1Jfbi13ZXlPanJjQ3Bpb3Z6NWo4T2hjemN2WGdQakl1WHpyUDVUcWFBaE9uaUZpOXJ3UjdURQ?oc=5",
       "pubDate": "2026-08-10T22:27:40+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、強含み",
-      "link": "https://zai.diamond.jp/articles/-/493706",
-      "pubDate": "2026-08-10T22:07:00+09:00",
-      "source": "ザイFX！"
     },
     {
       "title": "欧州外国為替市場概況・22時 ドル円、強含み(トレーダーズ・ウェブ)",
@@ -66,12 +65,6 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ドル円、小緩む 158.71円付近で推移",
-      "link": "https://zai.diamond.jp/articles/-/493704",
-      "pubDate": "2026-08-10T21:19:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "ドル円、小緩む 158.71円付近で推移(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnNtM2N2em9uZmhNak9jVjJRSktsZm5YMTg4T0l0dDRyRmtmcGlCZHBtX1cxeXQzTXYxS0p2dXRsbElBUXZGUjhfNWk2WVNZOGNyanY5SmlnZW9wdlRRQmUzUGNkOWl6S013RW5lYng1M1p5U1JQb1hyZ0JPWXJINHYwX2doNlk?oc=5",
       "pubDate": "2026-08-10T21:19:00+09:00",
@@ -88,6 +81,12 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ESWE4MUdQR3FxT2dWaGNpcnZfbDBLRGJ4YVVDcVJ2N20yZ1UzSTdrSG9FNk83ZHhvamxzUXJFMXNVazUybEdteQ?oc=5",
       "pubDate": "2026-08-10T21:05:40+09:00",
       "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "円相場 小幅な値動き",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVW5ZdXNYUWoyejhzY29TVVFHblgyRVFvOW83M1VNamdqYnRSejctTTRLOGpuSllfLVl3T0FKY05JYjhxVFZHUnluRWZCZ2ctZGJRM25QaFJYN0llcU5Z?oc=5",
+      "pubDate": "2026-08-10T20:18:05+09:00",
+      "source": "NHKニュース"
     }
   ]
 }
