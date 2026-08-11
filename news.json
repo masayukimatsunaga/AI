@@ -1,20 +1,62 @@
 {
-  "updatedAt": "2026-08-11T19:14:43+09:00",
+  "updatedAt": "2026-08-11T20:59:43+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "欧州為替：ドル・円は小高い、原油高・ドル高で(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVJnVVQwUDdDNEJRQ2QwSm1raTJMZHVTdTZYR1lvWWtENXl3YzI2OXlpMXozOExnbl9BMWp6SzRWVFQzYml0MlhkbHV0VHBha2piTGFMRGNWcXFkaHg0d1lZVk9zRmNlUXRsd3Z2Z0ZpNjNPSWE5TEpHdXphajVYTHM4UEhJdmc?oc=5",
-      "pubDate": "2026-08-11T18:25:00+09:00",
+      "title": "ドル売り入る、原油が反落 ドル円１５９．１０付近へ＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TMjNPRDQyclEzN0VmY0t6YnZ3TzI5ZTY1YXpLOUJYcEFmOEY4QnJYQVN2T0dzRy0xSlRLSG45UUpzWkM5eWhFRg?oc=5",
+      "pubDate": "2026-08-11T20:09:40+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "欧州外国為替市場概況・20時 ドル円、伸び悩み(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckkyMGd6NHFnNFVPUGFPeFV2RnE2bmEzVkJobC04SUlXVjJtZDNIMjFTS2JlWHNOWUgzOWNOQnBlRjVqcmxTdTY2U2VCbV9fTk9lcjAtdXJkRnhaVXdzd01tdDZBQVVBY3Y5TFl1bjlueFlVZXhyeFk4VWJfX0hNRC00R3RiSms?oc=5",
+      "pubDate": "2026-08-11T20:06:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "欧州外国為替市場概況・20時 ドル円、伸び悩み｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfYXBwVms2ZS0xSHIxQTlsVk8xLVhMeVMySDhPUVFXTG95STVBSG1VYjZSMFk2WENkZlBWNERmdzJTOVRpaEdWT0dFemVqUVE3dkE?oc=5",
+      "pubDate": "2026-08-11T20:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ややドル買いに、中東リスクで原油高、米債利回り上昇 ドル円１５９円台前半＝ロンドン為替概況 -",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13OHBnMUtrT1R6YVJVQTNUYmZ4cktfX1hFOWZLMjU4Y2E5akdISmpNSnV2bnU4VTRBVEJDZXhqaGVKVk9sV3JSSQ?oc=5",
+      "pubDate": "2026-08-11T19:46:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "NY為替見通し＝ドル円、中東有事のドル買いと円買い介入の可能性に要警戒か(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDNxTUlqbGpjX2VXT3hacWlES3VCTC1ySmFVcVFiLXpBTTM5T1FVMlZBYS1JTXVNaWFHckhZOHh6NFZhUDNDX2V1OW45cEtZZ0NtWVNjV0VwQ1ZtQ0lTWTh2RzJadUwyNC1OY2pnTVJpbThkd2tORTJ5N2N2d1p3djV0REd3TTQ?oc=5",
+      "pubDate": "2026-08-11T19:30:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円１５９．３０近辺、ユーロドル１．１５３５近辺＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTREtuTVhOSm1tdXNqXzFjdEllTHB3dzlaQmxlaU9FOHFHOTJWNzJvMjVDTy13R2dtdUtCVl95WGJkQWlPRkFSdw?oc=5",
+      "pubDate": "2026-08-11T19:15:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "一時1ドル＝159円台へ再下落 日米協調介入による円高効果が半減し先行きに警戒感",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFNmxJcW1BcDlXdGN6NHZ3RGtFUDVBcThEN0xHT29Odm9QYTFyNEZCdHYwSXpaRVBDeGRXcjVKUE11TUVRQ1ZFb2ZyTEFSdGdfdVZB?oc=5",
+      "pubDate": "2026-08-11T19:04:55+09:00",
+      "source": "東京報道新聞"
     },
     {
       "title": "欧州為替：ドル・円は小高い、原油高・ドル高で 執筆： Fisco",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TczgwVFJPTGpra2hkenhTeEY2UkVfYXpIMGVLY0RFdS1iSklRWllVdGlmSElPbEp3WGgzN0xkNk5QTGVTS081R3RaaHJ0TXNSWGtRUnpVTVN0U29XcjNiOG9kWkV3WE0?oc=5",
       "pubDate": "2026-08-11T18:25:00+09:00",
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
+      "title": "欧州為替：ドル・円は小高い、原油高・ドル高で",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnF0VlBJYXlPbHJtQXVqcFdxX0RjRV82R2U2eW81Mk5GN1FPN2tjXzZfYmVmNUE4VkxXd3hwaFNXQy02N1NqY3cwZy1aUkRYUHpUTkthakRRRTVjWm84ck8wU2ZmTzlvUnNCS3FoM3dGT0JidEJ0cmdrTDg5QjJBa3dZdlBQSEXSAYwBQVVfeXFMTU45MEVPRUdQTEpSSUpUZ1B2c0EzVWMxamR4X1hVWmJNeXV5MFBYbHh1ZFlfNnFuZ25QSG5FbWZsZlh2akt1OHEtWTNoQlhZeVFqNGIxd0l2ZnZ6b1hLMVFPNFNmV1dwWEFULXBSbjAyT2Z0NzFKd09XRHN5UE5vTU5WZ2Y3OWx3ZFE0RDk?oc=5",
+      "pubDate": "2026-08-11T18:25:00+09:00",
+      "source": "ｄメニューニュース"
     },
     {
       "title": "東京為替：ドル・円は切り返し、夕方は小じっかり 執筆： Fisco",
@@ -45,48 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0QkdJNzVKa2dzeUdod1d5al9TWE9veF9NLWtCT3hKU2R0TjdqN29fRTBNcEQ0b01rSV9WUmwwZ00xRHJ2NS14X2k5MmIzR2RVazZv?oc=5",
       "pubDate": "2026-08-11T17:00:00+09:00",
       "source": "ダイヤモンド・オンライン"
-    },
-    {
-      "title": "ややドル買いに、原油高をにらんで ドル円１５９．３０付近＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5ZkZLQUYxcDVERWducmYtVXR3QkUxQm53QnZWWTQ1VU9YT1RhSGhlbEd5UE5RX3VlNzdlNnpCREc0TXotYXN4Vw?oc=5",
-      "pubDate": "2026-08-11T16:58:40+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円163円台へ。「有事の円買い」はなぜ消えたのか？元機関投資家が紐解く15年間の構造変化（LIMO）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yZnMzbGxmUDFEVGpfS2o3LXpHOU5QVFdocGlOY0pLOWlVRkw4UkJjWlNKSkw3NDhVWFp3T01vZlNNRVZ2QURpWWg1dlBCdzlEckZIclBnVkd4ZkxkVTRZUWhVck4waER4bC1vbmN2NVB3MmRlRTJRSzhiSjRRc1k?oc=5",
-      "pubDate": "2026-08-11T16:25:58+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "東京為替：ドル・円は下げ渋り、午後は底堅い 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Nd1c1RWdMd2otOUctbmFSSERnbmJLSUpiQUM5cGZCZUh3TjVyNnJWejlrZi1FbGxSSTc5VWNBdTAzcVJDd3lDUzZrVkJETGQ0cmZWQzYyX1FHQTRZczk0V0dvX25TOTQ?oc=5",
-      "pubDate": "2026-08-11T16:15:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "東京為替：ドル・円は下げ渋り、午後は底堅い(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkJ1dkFWWDhTZkRvaW9ZU1pTOTRLd0wwT3BodjUzTjdRek9sVE9sNjMtb0h6eDBETE9sV093NjN0LWxNMjhJdER1ZFF0RTFJOFhxckpfMDdqb2swSnJfQ1d1ZDV5OFFGNnVFTGRwdEVMYTFfWHhlcHRsY0U2YXFCNzFmLXFoZ0U?oc=5",
-      "pubDate": "2026-08-11T16:14:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "「ドル・円は伸び悩みか、心理的節目を視野に為替介入を警戒」",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92UmtzUHpZcUIxMG5uUFZWaUZGYzV1TUJBMnRhUXpEa3RFYWVCcE1zbTJMOURYTFNoeVlfRW9RYlFuU2Nyc1JJQjl1MDZpaFhIdXc?oc=5",
-      "pubDate": "2026-08-11T15:48:00+09:00",
-      "source": "zai.diamond.jp"
-    },
-    {
-      "title": "ドル円１５９．２０近辺、ユーロドル１．１５３５近辺＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55MkZSbUhEUXVGb09yQ1JPT3Nva3ZweHJ0MlhKam1sWUJzT2t3UTNvTXlZcjA5eEtQSWF3aWNzc1J3cVlRYUxZaA?oc=5",
-      "pubDate": "2026-08-11T15:46:39+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【これからの見通し】ドル円１５９円台で推移、明日の米ＣＰＩを控えてインフレ警戒も -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zWmRWNWwtSi1XVHNQT3JIOXB3dHdBWVZFVFQ1T0txV01RZG9rYUpoVno4UGFqa0xUM3VRWjBiQVJFR0trQWtvVg?oc=5",
-      "pubDate": "2026-08-11T15:30:39+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
