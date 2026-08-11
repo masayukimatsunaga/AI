@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-12T03:39:12+09:00",
+  "updatedAt": "2026-08-12T04:48:48+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円、小動き続く(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHdTc1RJTF92VG13S1VqNzZ1SkZKQkI4TFpKT1BLWVJPb084VU9PX21iWmk1V2c1T3hCa1dwN2ZqVnFqRURlclBGTWRVaTExNk1CRTE5UzhfODU1WVB0UDNXNnlGc3FtN012VzEzZ3FEWXk5VlF1cXdmazZqWWpYNzkzRUNlNm8?oc=5",
+      "pubDate": "2026-08-12T04:07:47+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "ニューヨーク外国為替市場概況･2時 ドル円、小動き(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMlVONVBOcXRFcGRZNHBzUHY5M2w4Y3Vrdk4yZ2xnSTg2MVVwN0F0SkdNLS1xVHk3VHRSMzE1OEwzTUpwRlEyVUU3Uk9YQXY1amxnNmRINGNuZDBfSFdiWE5uMHdacnpGTDktVXgwMWEtMW5YTlA5WmVKNkZVbzhSLU9RNVliLVE?oc=5",
@@ -24,9 +30,9 @@
     },
     {
       "title": "為替介入研究所を開設 介入効果を「半減期」で測定し、データ・計算コード・訂正履歴まで全公開",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hNVFVVGdIbzE5WGJIbFpoNEl0Ym9VenVkUWVUUUNwbUhHLV8zX3hySklxZmZ4MWdQVU5PckFxWm9kWUVQMVZQZlBkeVJZaHc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kVkJZREJsaUEycGExdEtfeGVkcTZIclZ6bVo3S3gxcFdrZFZXQndIWE1BU2J6ZmNSdVdIY2JDaDFnOGh4YWxITzJ4Rmhnalk?oc=5",
       "pubDate": "2026-08-11T23:52:00+09:00",
-      "source": "newscast.jp"
+      "source": "アットプレス"
     },
     {
       "title": "【速報】ドル・円159.24円、ドル底堅い、米・7月中古住宅販売件数は予想上回る(フィスコ)",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckkyMGd6NHFnNFVPUGFPeFV2RnE2bmEzVkJobC04SUlXVjJtZDNIMjFTS2JlWHNOWUgzOWNOQnBlRjVqcmxTdTY2U2VCbV9fTk9lcjAtdXJkRnhaVXdzd01tdDZBQVVBY3Y5TFl1bjlueFlVZXhyeFk4VWJfX0hNRC00R3RiSms?oc=5",
       "pubDate": "2026-08-11T20:06:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ややドル買いに、中東リスクで原油高、米債利回り上昇 ドル円１５９円台前半＝ロンドン為替概況 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13OHBnMUtrT1R6YVJVQTNUYmZ4cktfX1hFOWZLMjU4Y2E5akdISmpNSnV2bnU4VTRBVEJDZXhqaGVKVk9sV3JSSQ?oc=5",
-      "pubDate": "2026-08-11T19:46:39+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
