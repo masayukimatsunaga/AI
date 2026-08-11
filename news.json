@@ -1,14 +1,51 @@
 {
-  "updatedAt": "2026-08-11T13:41:46+09:00",
+  "updatedAt": "2026-08-11T14:42:08+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "東京為替:ドル・円は膠着、豪ドルの戻りは限定的",
+      "link": "https://www.zaikei.co.jp/article/20260811/865270.html",
+      "pubDate": "2026-08-11T14:32:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "東京為替：ドル・円は膠着、豪ドルの戻りは限定的(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTDNJZWdianlzdGh4U0dBV3NDR1pOa0JXbDVYUjdqRHNYOVVTXzZrTFpNcnM0ZnpqaVF6LVFOYURjbTJTVVVHMFREWFlKZWIxNjRBQ0dxMFJfeklLV2NvOVI5aEZPd3dGNlJaSHBZakExb1JBMlZUakJJOWx3cjY1eGJLTlhZQlk?oc=5",
+      "pubDate": "2026-08-11T14:32:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京為替:ドル・円は小動き、豪ドルは下げ渋り",
+      "link": "https://www.zaikei.co.jp/article/20260811/865269.html",
+      "pubDate": "2026-08-11T14:06:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "東京為替：ドル・円は小動き、豪ドルは下げ渋り 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNa1ZkandvMnUwbUJMZjVfV192aUZ4Z3RvZ0RweHVRRTJmS1RVY3pxMWFrSVpiT2ZiOGpleGRmNnRaMTI5ZWxHZGIyZWk2c0RfSGZ6LUIzd1NsV09NQlI1TDQzbjVxc2c?oc=5",
+      "pubDate": "2026-08-11T14:06:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
+      "title": "東京為替：ドル・円は小動き、豪ドルは下げ渋り",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbWp4TjJQN00tYy16VjhvVlJRZzBXZVRBcHNJUUgzTVR2WjFTVGdROHVmWlZsMFhQd3hyd25jcGRiU0RTRzc3R2MtWDdGckpzdFBiZlBEM2VYSE1Bdkt3TnhOcEtNV2d0OWFiNnAtMEpWTXFOekJQc3Z5dWtPYzY2YlRwSEtVN0HSAYwBQVVfeXFMUHBvZnpjTlpXb3dpWk8wLUtnenoxS2lFOWRoTmpEZFM2SEk1NUd4RTVNSGZacWxCV0hRTWdRV1ZORzNmNTh5WVdicWxhX0hGaEdsak93NTZPVkRQZFhCV0xHZkk4ZWg4TWhWOVh0S2ZlWnNNTlVqMTNqbE05VFBhb0c4dlY5ekpzUEE0Vm8?oc=5",
+      "pubDate": "2026-08-11T14:06:00+09:00",
+      "source": "ｄメニューニュース"
+    },
     {
       "title": "【テクニカル】一目チェック1＝ドル円、三役陰転の売りトレンド消滅",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SUUFVZFVGZHhkOEFMcURIYWpFRk1tSHNCUTVkeEc3LVVqc0JIUDdsX0l2NmdtYlJwa2tZMmFkcFhMMm9SNlBYUGtUOE5naHc5TkNORGFoUjdKMTFBTUZNNGNISQ?oc=5",
       "pubDate": "2026-08-11T13:00:10+09:00",
       "source": "外為どっとコム"
+    },
+    {
+      "title": "東京為替:ドル・円は底堅い、ドル売りは後退",
+      "link": "https://www.zaikei.co.jp/article/20260811/865268.html",
+      "pubDate": "2026-08-11T12:55:00+09:00",
+      "source": "財経新聞"
     },
     {
       "title": "東京為替：ドル・円は底堅い、ドル売りは後退 執筆： Fisco",
@@ -35,58 +72,22 @@
       "source": "ザイFX！"
     },
     {
+      "title": "東京為替:ドル・円は底堅い、持ち直し159円台維持",
+      "link": "https://www.zaikei.co.jp/article/20260811/865264.html",
+      "pubDate": "2026-08-11T12:23:00+09:00",
+      "source": "財経新聞"
+    },
+    {
       "title": "東京為替：ドル・円は底堅い、持ち直し159円台維持 執筆： Fisco",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qRGhmSDg3NU5KbG1EdUx3ZE9SOHQzaUZwOHVxOEdwSVBhTE1EV3JTT3ZIakNYUUVrYkRzZ3NvWnVadkFNTjNRbDVIS0RQYnVZS0RuVUs4NExseVNkdndwaFNoYzVGRVU?oc=5",
       "pubDate": "2026-08-11T12:23:00+09:00",
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     },
     {
-      "title": "東京為替：ドル・円は底堅い、持ち直し159円台維持",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3pJeGJ4YklYZWVWeDk3RDJpT3BfNE1VdXpnSVlVajNnLUZJWmYtZ1JVVVJ6U2ZmYnVEaHFlT21BcFpQUEhQdmtxTHJHZjB2Q29ZYV9TQi0tUjdOcE5UN09zTjJHazRXdlBaQ1ozMVZMaGlrV1FWallVMEswOFpERERIbWxSZ1nSAYwBQVVfeXFMTWZ6aUlLOThlZDVsNlFhNUZ5NHNnLXRibUF4alYyWWZ3TF9VYm0zS1ZOUmhCV2xCblRMRzltOHFMQm9pMWtmdGEzMkphV0RyMmNTQmRRc3NJY24zWjBmRDRKTzItYnRaTHRFeXhfUVNjZS1qY2lIRENnRGVjQlN6aDdVWWtwd2QwNVBxNEI?oc=5",
-      "pubDate": "2026-08-11T12:23:00+09:00",
-      "source": "ｄメニューニュース"
-    },
-    {
-      "title": "ドル円、下値はオーダーは薄い 上値は160.00円には売り厚め｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aa3U2VGhWYVdYNmxRTmtlV0cyaUx0aFlQQ0NZQVVyR09jN2FIamd0cmhxLUtPcmdqN05PYWM2d0FIMTRWczBBc2RXVndTSW5HNkE?oc=5",
+      "title": "ドル円、下値はオーダーは薄い 上値は160.00円には売り厚め",
+      "link": "https://zai.diamond.jp/articles/-/493741",
       "pubDate": "2026-08-11T12:22:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "東京外国為替市場概況・12時 ドル円、下値堅い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXBhRjVZaDRyVGJQZ0NkekRwME1RNlNVMThpUC14LWp3Y0xFcmRVQV9VLWtvTmdaSTh1TEtfbXh6VVRaM2JOeW5GWm5CNGt4NndCQ0FLWDM3V0djT05PSkNUZjZzeFlTaTlDc1hXMTA0UUtYU2hzbnV1T2pNajhqckw3LVNqTzQ?oc=5",
-      "pubDate": "2026-08-11T12:04:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "東京為替：ドル・円は高値圏、ドル買い継続 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wN3NVV0tISGhxX3F1TE1Zdk9tTzFJXzdSYXJIU0YweFpkY0VaaTRiNUF1WkRSSDZpTDMxZlYzaU5mWXFrYkFnU1FuS2QwQTZTWXpNeGZmVVFFSFdENWhqSmpxWFlSWm8?oc=5",
-      "pubDate": "2026-08-11T11:55:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "東京為替：ドル・円は高値圏、ドル買い継続",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUS1XNGFyNnNiM0NiNEpOZFZ6OThnRkVkNHdlT2l3b1ppX3ctd3kySmZwWm9YeGVBNm92UWRZQlJ3Uy1pcDU1UkpuWlFLeDlBSFVldWZXcjc5aTAwRkZvOVpWTVVmWnVjT0ZTQXZJMUFQajV2ZGhpVnFNdXdGOXgxUU9aNlRfT2vSAYwBQVVfeXFMTmhSdE1Ma0JkM2FqWE4tOXBuYm5UdjJDczJ2ZHFONnMyaVFpWmpSbEZVNGIzVE9XZEJrUldNZkhYcjhoUlVKbk9KRjZyVVhrX3FZUzRLUGNoNmg0SGxUMkFRa0g0cVlGS0pkcDVNX2lpb2Q1VVFvbmFzeFhfcnhMZlFfY3NYVjhERVNSYVE?oc=5",
-      "pubDate": "2026-08-11T11:55:00+09:00",
-      "source": "ｄメニューニュース"
-    },
-    {
-      "title": "再び円安進む 政府・日銀による介入後の上昇幅“半分”戻されたことに ニューヨーク市場で1ドル=159円台前半",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93cl9Mc3BtSFRsLW1vWjVzNDd4X2ZWZE9CaFBlTHJURURTTEhnaUdVZVhhUlE4Qm8xUS1DSUJqSW5PS3g5dV9xMDFzZ0dwX0MtRGRFaDhOcTZJT1hzV3Yta1ozc1ZPaVNpT3ZERzFuQWQ2MFlKUGJ0dms5dDdfYlU?oc=5",
-      "pubDate": "2026-08-11T11:25:31+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "再び円安進む 政府・日銀による介入後の上昇幅“半分”戻されたことに ニューヨーク市場で1ドル＝159円台前半",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kWDYtY25pX2lXN3BJMWxmNHNfLWM2eDN5LWx4a0ZxUUczcUVoV1lqc2wzOWZxZW1aT3l3M0NpVE12bU9zN0JIemtBZ1RpQQ?oc=5",
-      "pubDate": "2026-08-11T11:24:00+09:00",
-      "source": "FNNプライムオンライン"
-    },
-    {
-      "title": "東京為替：ドル・円は小動き、材料難で様子見 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LczBsd0hKZXZKTDhuVjJJQkFzYVZhLV8tbEJMRTRlaU83eTJZbkZhdThMZ3djUHZQa3dJNzVFZlZkcS1qeDRxZVhlUEEzQktWZzFxQ2IzZE5Qa29ER2d2aDVwTWgydlU?oc=5",
-      "pubDate": "2026-08-11T11:11:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     }
   ]
 }
