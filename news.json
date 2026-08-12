@@ -1,13 +1,44 @@
 {
-  "updatedAt": "2026-08-13T00:16:21+09:00",
+  "updatedAt": "2026-08-13T01:13:40+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "ニューヨーク外国為替市場概況・24時 ドル円、底堅い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMm13WVo4M3NKQVIybVFIUWR4TUJaRmFnVHllaTFTRml5MXJJVXpDQ1YxYzQ0R05KN2h2UWNmdnlWWXdON0NLSGVmTDFfeFA0T2Y1YUE3SEU5cnN0eGRzbnQweGRNSUFQdDVMX2Z3V2ZpblVMc3pUVmNjZ0JfQXZuXy01NG5acUE?oc=5",
-      "pubDate": "2026-08-13T00:10:14+09:00",
+      "title": "ドル円、１５９円台に戻す 今回の米ＣＰＩだけでは９月の政策判断を決定づけない＝ＮＹ為替 -",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBURDhKeVd6Sk53dFNFZnFGdHVZVzFiUk5EWU9LSWNlcFdVemR0M3R4dkJxdm5kU3hmQ190LVpzYkViZERaNjV4dQ?oc=5",
+      "pubDate": "2026-08-13T00:18:40+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、底堅い",
+      "link": "https://zai.diamond.jp/articles/-/493838",
+      "pubDate": "2026-08-13T00:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、底堅い｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FakM4TVJULU1DUnRBdndJbkdoSGd3UjZLYTNMcXNHZll3MDJoZndZbXFVVUYyd0tWRGxQOVE1MUhQNk80V0RfdFJBa0h0Ti1nNVE?oc=5",
+      "pubDate": "2026-08-13T00:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "NY外為:ドル売りは一段落、米9月利上げ確率低下、CPI安定で",
+      "link": "https://zai.diamond.jp/articles/-/493837",
+      "pubDate": "2026-08-12T23:50:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、底堅い 米CPI直後の高値を上回る",
+      "link": "https://zai.diamond.jp/articles/-/493836",
+      "pubDate": "2026-08-12T23:38:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、底堅い 米CPI直後の高値を上回る(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWm85TkdxTmZnWnRzZG5iS2MycG11TlhIdDBmTktqckRuQ210bHNLeUJnOWJuNmR3a1B0QXJaV3VkU3RxQmNWVUNhMnVfVHZlY05zcXB6NG81ODlqMFZvWlR6Y1BZdzlaMUlMU0JIenh1RTROc2N4TnBkVHJNMkdWckRWbjA4Zk0?oc=5",
+      "pubDate": "2026-08-12T23:38:00+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
@@ -23,6 +54,12 @@
       "source": "みんかぶ FX/為替"
     },
     {
+      "title": "欧州外国為替市場概況・22時 ドル円、弱含み",
+      "link": "https://zai.diamond.jp/articles/-/493832",
+      "pubDate": "2026-08-12T22:08:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
       "title": "欧州外国為替市場概況・22時 ドル円、弱含み(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMVZCRVZKamtnZ2FOZGhmVW9lVEdyX2Q3RzJPdG5vTmhVNWVYN2hobUNVVER5RlhQNWV1YWVYb25OdHpRR0dJZnNBVVdPZWxSZzdId1lfVGZSbEhxeWN4VEJFQXluU1JQZVhFMloxMzMwd2U1WG8xWGdIRnZWZGNyYWF2bGR2d0k?oc=5",
       "pubDate": "2026-08-12T22:08:00+09:00",
@@ -35,57 +72,21 @@
       "source": "みんかぶ FX/為替"
     },
     {
+      "title": "【ドル円予想2026/8/12】単純に考えてドル円は1ドル=140円割れが妥当?米CPI後のドル安を予想する★分かり易いFX情報番組",
+      "link": "https://www.youtube.com/watch?v=2pcuCkM8_rQ",
+      "pubDate": "2026-08-12T21:53:00+09:00",
+      "source": "ひまわり証券"
+    },
+    {
       "title": "ドル円は上下動も目立った方向性見せず、米ＣＰＩは予想通りの結果で＝ＮＹ為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aLXcyQ1BQTHFFWW1TYzhNZU1MTVVNd2ZVRW5lODhEQ3MxSXROOVpGWFhELUhwVXdGZlFmWjBQb1BFUUUwMHpxMA?oc=5",
       "pubDate": "2026-08-12T21:44:39+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "【速報】ドル・円158.68円、ドル軟調、米CPI前年比で鈍化(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZm5XaWlGU29BNDBDRDZNNklra1cwSlpkSC1wQ2ZoMXBud003VHNvUGp5QTN6bWVBUUYxRHhJdTJGS1I4bVVuMGtlZmVLODRhdklZVjY2YnRQcDcwLUFlcXk4LUF4cGEzVks4OFM3bVp1VUdEaHBUR1lQcmRkUEY3MGF4TlNybFU?oc=5",
+      "title": "【速報】ドル・円158.68円、ドル軟調、米CPI前年比で鈍化",
+      "link": "https://zai.diamond.jp/articles/-/493830",
       "pubDate": "2026-08-12T21:40:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、158円後半で上値重い 7月米CPIは予想通り(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGFEMlBkeV9KMlNsdUpWbDJlcExkcm9jVlNpX0RZclZTNXk1ZklKVTE0ZG5ueWdiTlBreDNDMXJnbGp2UHVfWFJ5VlVTTjdDY0REM3FSVThOaEM3TVQ1d0w1Y1BVZUxob3AwU1FpTXhaRkZacFVObkZqOHFVWkw2a2N6bkVWVnc?oc=5",
-      "pubDate": "2026-08-12T21:37:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円１５９．０５近辺、ユーロドル１．１５４５近辺＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJejI0Z0xFTkFvRUJvakJUaDJIU1QwWjdSc3pQejRkWGNzdVRBQkw3cHFjaEkyMGxhLWhhSkRZZExlNDNPaTl3Vw?oc=5",
-      "pubDate": "2026-08-12T21:14:39+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "円相場、日米協調介入でも効果が限定的な理由とは－根強い複数の要因（Bloomberg）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ISURSbWY5cjkyT1VVU3FNTlRoeDZNYTRvZ0VjYnFHUDdqSlRGb09oWXdiM2pTWGdzNi1sdi1zX2NMOUhDeW8xMzIzX0U4RDFaQW0yU2JlS2JLUUJRQXNLMFNmbURvbS1XbDZFS2g5azVOWjAzMlNLMDZoWGxQY0k?oc=5",
-      "pubDate": "2026-08-12T20:58:00+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "欧州外国為替市場概況・20時 ドル円、下落後に買い戻し(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY2ptcEMwbzRRUmUtaUNWc0FScWxrYnMyWVFndGxuRDhoeWlMb2FsZFhHb0hnbXVWYklDalhXaXZ2b2w2cUJRY19EUGdRMXg3dFAzQUlkSDVrRGkxNGpOZWpVR185RTVvbDUzVEx5WnlhMnV0ZHRsd3dBbWt5Ny02MndrNzZ6N2s?oc=5",
-      "pubDate": "2026-08-12T20:08:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年8月12日）",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xcU5oZk9vcUVDb000UG5jTWhNeHZ2Und3SHJyd2oydGwwLUE2eFplNDdZTXZ5cmxrUUJEalNnMl9OMnYtUWNHZHpPcC1oQ1g3cTJzazJyYk5HMDNZT05jWF9PZw?oc=5",
-      "pubDate": "2026-08-12T20:00:00+09:00",
-      "source": "gaitame.com"
-    },
-    {
-      "title": "ドル円一時１５８．６０付近に急落でムード一変、米ＣＰＩ控えた様子見から＝ロンドン為替概況 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9EMmY0UG9JbFg1TTV6MFY4czk4bWdBSHVad1E2YWhaWEhiNXdFVWZpMWhFSk96TFRBVkZXel9ITlJ6NVpsMXBsTA?oc=5",
-      "pubDate": "2026-08-12T19:50:39+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル・円は下げ渋り、短期的にドル売り・円買い｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lVXk2QjVDdjdvcUNwS3NPdFJSakh5YktVaTMwdzFzQS1xU2NZYXNpeTJLS3AyQUV1ZEFnNDdGejVaX0JpT1IwU0tiNy15SEZRUXc?oc=5",
-      "pubDate": "2026-08-12T19:36:00+09:00",
       "source": "ザイFX！"
     }
   ]
