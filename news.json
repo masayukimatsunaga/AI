@@ -1,21 +1,68 @@
 {
-  "updatedAt": "2026-08-13T07:24:38+09:00",
+  "updatedAt": "2026-08-13T08:24:34+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "キオクシア株の「逆襲」はあるのか 円安トレンド一服でも“AI・半導体バブル”の大波は変わらない…「お金は集まっているところにまた集まる」とカブ知恵・藤井英敏氏が市場解析(マネーポストWEB)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkdsN0gtdDlQRzQtRUNNQVIzN0ljN0s2NGdWQnJLMEdYSFpqYTRsTlU1bmpWaTJ4RG1lS1RVaDg3LXRzOHZSUExWWXhRcHdOeFVUcVo0ZjR3Y1JBWm1WNDNrVm1qRkZqaE51SGRacmQ3bWRiSjJobG5rNEZ1WGRra1RHcVdRS1U?oc=5",
-      "pubDate": "2026-08-13T07:23:20+09:00",
+      "title": "FX/為替「ドル/円今日の見通し｜ドル/円、半値戻し達成で次のメドは160円台半ば」 外為どっとコム トゥデイ 2026年8月13日号",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hLXlYV2VoR1pIMFhVTHdaNXRxbHhWbnF4bmVIUVRGeDdnZG9uZ1FUQlJLWXRob3FPT0lSQ0FDSmpzeXE3ckRWU2dIT1FLMElJS0dXX05Ca0JSaXZhbGpQcmZNbw?oc=5",
+      "pubDate": "2026-08-13T08:12:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル/円見通し(為替/FX ニュース )：ドル円は円安で159円台半ば｜米CPIは市場予想と一致で発表直後に円高が進む(2026年8月13日)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pYWRvQ3JJdmRRdlhCdHhYaUxDQ0dIV2w4M0p0UldjVGtxNWFROXFNck80cnJrRFE0dTktWDgyaDM5RWUwUGlKNmlnVnpfNGVYaGw0d2NPczc0RWN3R2dadHpjMndhMjNvdG45WEQ0bmlsVEU?oc=5",
+      "pubDate": "2026-08-13T08:11:07+09:00",
+      "source": "OANDA証券"
+    },
+    {
+      "title": "東京外国為替市場概況・8時 ドル円、小動き(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQemthU3BvaUVOZnJ3T2ZMR2VTQkMzZzBqQVdkMFNXYnRCVlBZY0tJMzFjeE1pYW5pT2pwQlYtNHhSR2YtMEsyc0xqVGlfUUZrLWJlRUVDM2pob09aOXpYVFZNQm02Z1MweC1QbUFlQm0zYnVTcmlRT0VULS1pLXlBTG5xWW01bjQ?oc=5",
+      "pubDate": "2026-08-13T08:11:02+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "NY円、159円台半ば 為替介入の反動で円売りドル買いがやや優勢",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hQkNxN3RkNHAydENEb1hVRURqTHdrQndVMVVROVlvcEUwU0RXck52YTdJa29pTm5BMUNxNnFPTDZzTXNkRzFDYkFhVk5kVE5xeDlNbG1VdDFYU3N2TjJsTmI3SWlNLUdCZFBZZW1TdGw4bmJ2QVE?oc=5",
+      "pubDate": "2026-08-13T07:57:08+09:00",
+      "source": "産経ニュース"
+    },
+    {
+      "title": "【本日の見通し】ドル円は堅調か、米物価の落ち着きも、ドル高の流れ継続",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GS2VFZVM5eUVxVU9JMVJwTEFaMVQxR19jQ21LWTRtWGlBZEs0Wi01XzVXM0tEd3hTNDlHM2FrSG1FQlQxS3ZYaw?oc=5",
+      "pubDate": "2026-08-13T07:55:40+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "キオクシア株の「逆襲」はあるのか 円安トレンド一服でも“AI・半導体バブル”の大波は変わらない…「お金は集まっているところにまた集まる」とカブ知恵・藤井英敏氏が市場解析（マネーポストWEB）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NbmhNS1lGeERBeFlfbTNkTHcycEJGbld6WDF0bk9SQXFITDRSdlpJVm9RX2JFcmJyV0NVanU2c1BBOC13LUJXR3E4R2Q4TmEwVzRkcHd0U3EzSkJtOWZPUTBnYV95Q01TZ2ZFYmdEamhIOVpUZXRpWHRpWEV5U0U?oc=5",
+      "pubDate": "2026-08-13T07:48:16+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し 2026年8月13日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16c1pVSWhaRThETXJ1VUxrVGdveHZUSFZ3S3R5dUpBdkl0Z1EwekFXdzBvVTBhWm8wV0pWdFE5RVpOWDlnYVBWUnNBT0pfcWpTZEppMk9COXh2RW5PNnc3dEhEQQ?oc=5",
+      "pubDate": "2026-08-13T07:44:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル円午前の為替予想、半値戻し達成で次のメドは160円台半ば 2026/8/13",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xeUptbElWNEt2Mm1lQVJ2eVh3SThOckFNeTBMcGcyR3pxaVM2S1JiTlF1M25MNUZfcVJzdklCd19XV3BLNU9ac0VjUzRSNWprTWx4eUVjd3NlcWRVczhsSGluZw?oc=5",
+      "pubDate": "2026-08-13T07:40:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ゴールドマンのフィッシュマン氏：日本の850億ドル円買い介入は「時間稼ぎ」に過ぎず、持続可能な解決策ではない",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91SXJrRW51TWxLUkdnbThjYUFGeXE4V2Rfb0c1TzEtMXBqMnZjTUFCTWRwZms5RWJmQzVLaDZLTUVVQTE2NE5ZbVVCckRWaFNCcGlBM053X2FDdw?oc=5",
+      "pubDate": "2026-08-13T07:15:00+09:00",
+      "source": "BigGo ファイナンス"
     },
     {
       "title": "朝のドル円は１５９．４０円台＝東京為替",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE53SHE3VWZaaGFReFdnTG5iZTdEb2U0WklxQURIWFFYT0FLaHV0Z1l6Q0VYWXBlNGdCSHNwTlY5eVBpWnk2WlE?oc=5",
       "pubDate": "2026-08-13T07:11:00+09:00",
-      "source": "みんかぶ"
+      "source": "minkabu.jp"
     },
     {
       "title": "１２日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
@@ -24,14 +71,8 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・12日 ドル円、上昇(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVnFaQjlWakItU3RjdzR3NmpCUlRLUDh5SUViZDFuNnc0Z2JwVThRdWdPWGtmZ1ExTmpKS09YVUZCaVBlVGpwVEVzUkt2UnJhVmRjaEdaWHhWZW5jN3BWMHV2RFZlYUhFbmg5S0t1N3dXdUhFWEQ2eXlhT0RpN1hCWGVqWkhRQkU?oc=5",
-      "pubDate": "2026-08-13T06:05:45+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・12日 ドル円、上昇",
-      "link": "https://zai.diamond.jp/articles/-/493854",
+      "title": "ニューヨーク外国為替市場概況・12日 ドル円、上昇｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EM2lORnY4bzV5clUwXzU0WUZEYkNKdmduSk1xa291bDc2blpTSkhsb0RwOE1yQXA4bEtiUHkxWTZsODg2V3B2N2JQbG5XNktnRHc?oc=5",
       "pubDate": "2026-08-13T06:03:00+09:00",
       "source": "ザイFX！"
     },
@@ -46,48 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUVnZlVWVzU1VpUi1STF84bkNIU0UyWUdTaVBMRTNXeUlIYkswTEZIcTVtR2k4QllocmVoV3ZFZjd0TXhqNFpMSHpyb2JxVVVZZWd6N3BQVkFOT0E?oc=5",
       "pubDate": "2026-08-13T05:04:08+09:00",
       "source": "日刊工業新聞"
-    },
-    {
-      "title": "日米「円安抑止」協調介入の米国の本当の狙い、日銀利上げの限界と為替相場の読み解き方",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBETG1Kb29yZVAxX21HR19maEpWN3JiSHFVMzFaSG1tNTRZWmVSNmxkWm1WTWtoT1BJX1I0WHRFdHQ3RHJCUU1iX0xteUvSAU9BVV95cUxOR3h6NDJpWjFVREFFSnluaEZBWExEbklabUEyTGllY19zcmxteXVlbGdiZVBwankyVTkyRGZ1aFRqamdFRm1NNmZJLVQxeC1F?oc=5",
-      "pubDate": "2026-08-13T04:30:00+09:00",
-      "source": "ダイヤモンド・オンライン"
-    },
-    {
-      "title": "NY外為市場=ドル上昇、対円159円台半ば 米CPI予想通り",
-      "link": "https://jp.reuters.com/opinion/5IZF5KKS3JLMXPJJFQ4PAC4CGU-2026-08-12/",
-      "pubDate": "2026-08-13T04:28:00+09:00",
-      "source": "reuters"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、じり高継続",
-      "link": "https://zai.diamond.jp/articles/-/493852",
-      "pubDate": "2026-08-13T04:06:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、じり高継続｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QNm9hRTJkQVVfRHY2cWYzRXZsT3lEclJvRFRMRDVEMVM4X3VVcHo0cE0zV29IUDNVMnQ4Mk1WLTZ5ajFLWGgzaDFZbWlCVDBXRXc?oc=5",
-      "pubDate": "2026-08-13T04:06:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、米ＣＰＩを通過も方向感が出ず＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15Zzd3VjRzVTRKVlB2blZKV3VJZVllcG5zYUhpSW80R3hSTW1sdXBzREQ0MjJqZzlMWUJobWJBRG1iWWhwTEhYVg?oc=5",
-      "pubDate": "2026-08-13T03:11:40+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円、159.50円まで堅調推移 米CPI後の買い戻しの流れ続く",
-      "link": "https://zai.diamond.jp/articles/-/493848",
-      "pubDate": "2026-08-13T02:43:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、159.50円まで堅調推移 米CPI後の買い戻しの流れ続く｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ySU1OcTFkQWxJWHppa25HN0ZCTFBWRzVFamdFQVd2QkljeVRGTWtjQUh6bXFhSllzRGhuS2xYN1hFTUc0UUlqaWU4UnVtWkF2UFE?oc=5",
-      "pubDate": "2026-08-13T02:43:00+09:00",
-      "source": "ザイFX！"
     }
   ]
 }
