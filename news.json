@@ -1,14 +1,26 @@
 {
-  "updatedAt": "2026-08-13T05:24:35+09:00",
+  "updatedAt": "2026-08-13T06:29:50+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "ニューヨーク外国為替市場概況・12日 ドル円、上昇(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVnFaQjlWakItU3RjdzR3NmpCUlRLUDh5SUViZDFuNnc0Z2JwVThRdWdPWGtmZ1ExTmpKS09YVUZCaVBlVGpwVEVzUkt2UnJhVmRjaEdaWHhWZW5jN3BWMHV2RFZlYUhFbmg5S0t1N3dXdUhFWEQ2eXlhT0RpN1hCWGVqWkhRQkU?oc=5",
+      "pubDate": "2026-08-13T06:05:45+09:00",
+      "source": "finance.yahoo.co.jp"
+    },
+    {
+      "title": "日米協調介入でも消えない「日本売り」の芽、円安と金利上昇を招きかねない高市政権の積極財政",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FNlI5bTRhLTdqWnhPQk9XS1F5d1padnBNZzE4d1FyM0NCSDF2OFZrSFFsTFB1S1pyRmo3ZUFSQzdqSDBIaDlHWFBPdjZFNTJodnRvdXZR?oc=5",
+      "pubDate": "2026-08-13T06:00:00+09:00",
+      "source": "JBpress"
+    },
+    {
       "title": "円安圧力、根強く 日米介入効果が早くも薄れる",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUVnZlVWVzU1VpUi1STF84bkNIU0UyWUdTaVBMRTNXeUlIYkswTEZIcTVtR2k4QllocmVoV3ZFZjd0TXhqNFpMSHpyb2JxVVVZZWd6N3BQVkFOT0E?oc=5",
       "pubDate": "2026-08-13T05:04:08+09:00",
-      "source": "nikkan.co.jp"
+      "source": "日刊工業新聞"
     },
     {
       "title": "日米「円安抑止」協調介入の米国の本当の狙い、日銀利上げの限界と為替相場の読み解き方",
@@ -53,40 +65,28 @@
       "source": "みんかぶ FX/為替"
     },
     {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、底堅い｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FakM4TVJULU1DUnRBdndJbkdoSGd3UjZLYTNMcXNHZll3MDJoZndZbXFVVUYyd0tWRGxQOVE1MUhQNk80V0RfdFJBa0h0Ti1nNVE?oc=5",
+      "pubDate": "2026-08-13T00:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
       "title": "ドル円、底堅い 米CPI直後の高値を上回る(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWm85TkdxTmZnWnRzZG5iS2MycG11TlhIdDBmTktqckRuQ210bHNLeUJnOWJuNmR3a1B0QXJaV3VkU3RxQmNWVUNhMnVfVHZlY05zcXB6NG81ODlqMFZvWlR6Y1BZdzlaMUlMU0JIenh1RTROc2N4TnBkVHJNMkdWckRWbjA4Zk0?oc=5",
       "pubDate": "2026-08-12T23:38:00+09:00",
       "source": "finance.yahoo.co.jp"
     },
     {
+      "title": "ドル円、底堅い 米CPI直後の高値を上回る｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2Tk1ya3BTcG56aTVGanNwbWM5Y21sZWtuMGdZeGFwdF8xZ3NJQ2gtWFgyczM3Z0t5cUpYOU1jWWpuWVVlbjYtUEpUVDlENFd6bHc?oc=5",
+      "pubDate": "2026-08-12T23:38:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
       "title": "ドル円、１５８円台に下落 米ＣＰＩは落ち着いた伸び＝ＮＹ為替序盤",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lVko1SkNrcjcteEpkR0MwRlp0QkctNGo2Tm44RWVBanlZWm9lM3hneXRac2NoanZhNXliVzlSMmtISWQ1OEZ0Mg?oc=5",
       "pubDate": "2026-08-12T22:14:39+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、弱含み(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMVZCRVZKamtnZ2FOZGhmVW9lVEdyX2Q3RzJPdG5vTmhVNWVYN2hobUNVVER5RlhQNWV1YWVYb25OdHpRR0dJZnNBVVdPZWxSZzdId1lfVGZSbEhxeWN4VEJFQXluU1JQZVhFMloxMzMwd2U1WG8xWGdIRnZWZGNyYWF2bGR2d0k?oc=5",
-      "pubDate": "2026-08-12T22:08:00+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "ドル円のピボットは１５８．９９円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FUnNkbVV4VjlybUV4RDR1NDd0Mi1NZDhoNDJYdTVhdzA1THExX3NxM194a1dFZEstZXpmZGNUYXVKOVNTQzh5Qg?oc=5",
-      "pubDate": "2026-08-12T22:00:39+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円は上下動も目立った方向性見せず、米ＣＰＩは予想通りの結果で＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aLXcyQ1BQTHFFWW1TYzhNZU1MTVVNd2ZVRW5lODhEQ3MxSXROOVpGWFhELUhwVXdGZlFmWjBQb1BFUUUwMHpxMA?oc=5",
-      "pubDate": "2026-08-12T21:44:39+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【速報】ドル・円158.68円、ドル軟調、米CPI前年比で鈍化(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZm5XaWlGU29BNDBDRDZNNklra1cwSlpkSC1wQ2ZoMXBud003VHNvUGp5QTN6bWVBUUYxRHhJdTJGS1I4bVVuMGtlZmVLODRhdklZVjY2YnRQcDcwLUFlcXk4LUF4cGEzVks4OFM3bVp1VUdEaHBUR1lQcmRkUEY3MGF4TlNybFU?oc=5",
-      "pubDate": "2026-08-12T21:40:00+09:00",
-      "source": "finance.yahoo.co.jp"
     }
   ]
 }
