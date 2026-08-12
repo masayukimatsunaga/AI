@@ -1,14 +1,56 @@
 {
-  "updatedAt": "2026-08-12T21:34:29+09:00",
+  "updatedAt": "2026-08-12T23:07:46+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "ドル円、１５８円台に下落 米ＣＰＩは落ち着いた伸び＝ＮＹ為替序盤",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lVko1SkNrcjcteEpkR0MwRlp0QkctNGo2Tm44RWVBanlZWm9lM3hneXRac2NoanZhNXliVzlSMmtISWQ1OEZ0Mg?oc=5",
+      "pubDate": "2026-08-12T22:14:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "欧州外国為替市場概況・22時 ドル円、弱含み(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMVZCRVZKamtnZ2FOZGhmVW9lVEdyX2Q3RzJPdG5vTmhVNWVYN2hobUNVVER5RlhQNWV1YWVYb25OdHpRR0dJZnNBVVdPZWxSZzdId1lfVGZSbEhxeWN4VEJFQXluU1JQZVhFMloxMzMwd2U1WG8xWGdIRnZWZGNyYWF2bGR2d0k?oc=5",
+      "pubDate": "2026-08-12T22:08:00+09:00",
+      "source": "finance.yahoo.co.jp"
+    },
+    {
+      "title": "ドル円のピボットは１５８．９９円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FUnNkbVV4VjlybUV4RDR1NDd0Mi1NZDhoNDJYdTVhdzA1THExX3NxM194a1dFZEstZXpmZGNUYXVKOVNTQzh5Qg?oc=5",
+      "pubDate": "2026-08-12T22:00:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル円は上下動も目立った方向性見せず、米ＣＰＩは予想通りの結果で＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aLXcyQ1BQTHFFWW1TYzhNZU1MTVVNd2ZVRW5lODhEQ3MxSXROOVpGWFhELUhwVXdGZlFmWjBQb1BFUUUwMHpxMA?oc=5",
+      "pubDate": "2026-08-12T21:44:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "【速報】ドル・円158.68円、ドル軟調、米CPI前年比で鈍化(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZm5XaWlGU29BNDBDRDZNNklra1cwSlpkSC1wQ2ZoMXBud003VHNvUGp5QTN6bWVBUUYxRHhJdTJGS1I4bVVuMGtlZmVLODRhdklZVjY2YnRQcDcwLUFlcXk4LUF4cGEzVks4OFM3bVp1VUdEaHBUR1lQcmRkUEY3MGF4TlNybFU?oc=5",
+      "pubDate": "2026-08-12T21:40:00+09:00",
+      "source": "finance.yahoo.co.jp"
+    },
+    {
+      "title": "ドル円、158円後半で上値重い 7月米CPIは予想通り(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGFEMlBkeV9KMlNsdUpWbDJlcExkcm9jVlNpX0RZclZTNXk1ZklKVTE0ZG5ueWdiTlBreDNDMXJnbGp2UHVfWFJ5VlVTTjdDY0REM3FSVThOaEM3TVQ1d0w1Y1BVZUxob3AwU1FpTXhaRkZacFVObkZqOHFVWkw2a2N6bkVWVnc?oc=5",
+      "pubDate": "2026-08-12T21:37:00+09:00",
+      "source": "finance.yahoo.co.jp"
+    },
+    {
       "title": "ドル円１５９．０５近辺、ユーロドル１．１５４５近辺＝ロンドン為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJejI0Z0xFTkFvRUJvakJUaDJIU1QwWjdSc3pQejRkWGNzdVRBQkw3cHFjaEkyMGxhLWhhSkRZZExlNDNPaTl3Vw?oc=5",
       "pubDate": "2026-08-12T21:14:39+09:00",
       "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "円相場、日米協調介入でも効果が限定的な理由とは－根強い複数の要因（Bloomberg）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ISURSbWY5cjkyT1VVU3FNTlRoeDZNYTRvZ0VjYnFHUDdqSlRGb09oWXdiM2pTWGdzNi1sdi1zX2NMOUhDeW8xMzIzX0U4RDFaQW0yU2JlS2JLUUJRQXNLMFNmbURvbS1XbDZFS2g5azVOWjAzMlNLMDZoWGxQY0k?oc=5",
+      "pubDate": "2026-08-12T20:58:00+09:00",
+      "source": "Yahoo!ニュース"
     },
     {
       "title": "協調為替介入を受け利上げペースは加速するか 高市政権から9月利上げ容認メッセージが出るかに注目 野村證券・宍戸知暁",
@@ -35,57 +77,15 @@
       "source": "みんかぶ FX/為替"
     },
     {
+      "title": "ドル・円は下げ渋り、短期的にドル売り・円買い｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lVXk2QjVDdjdvcUNwS3NPdFJSakh5YktVaTMwdzFzQS1xU2NZYXNpeTJLS3AyQUV1ZEFnNDdGejVaX0JpT1IwU0tiNy15SEZRUXc?oc=5",
+      "pubDate": "2026-08-12T19:36:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
       "title": "NY為替見通し＝ドル円、7月米CPIの上振れ時に要警戒か 有事のドル買いが進行中",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VMllZU3FDMDU1OVQ1VU91emJzUHNXdkUtakJqSnowS19LWWk1bFpyaGZvMnRtVU9Kd05UWEhxQTg3S0d6MkFSVVpUZFNpMkZqMkE?oc=5",
       "pubDate": "2026-08-12T19:31:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "長崎の夏の風物詩にも「円安や中東情勢悪化の影響」盆入り前でにぎわう花火店に値上げの波《長崎》",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbm1Sc0ktWmNYc29fVlpKdEhfRmFVeVFhOUJVanZkVk9yb1p6VE5KVl9Id0J3aklFYVh1QXpwbnFsOGtsZ3pBcGw1UUFvUDlQYi1JRWVMY3ZOSWROTVlITFFaamthYm9oYU0tRzh3My1IdzdvRENMVVRIeVYxSUlEbHhkT01naDg?oc=5",
-      "pubDate": "2026-08-12T19:11:00+09:00",
-      "source": "日テレNEWS NNN"
-    },
-    {
-      "title": "ドル円、159.20円付近まで持ち直す ユーロ円も183.60円台で底堅い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2g3OW53bW1WUG92VHpCNUdJcnFXZFRCVm1GMkd5aUxoWXczbG9KemRqX0xCUkY1VjJKMkg4WVF4bnpNRWtvaWcyUkhWOW1lNl9QYmZrWk9qMTB6S0ZYZTVsSXZJUFFlVkIxdkg1TWY1dl94ZDFFWWZfVGRubEpzNXNTWGxLaWM?oc=5",
-      "pubDate": "2026-08-12T19:06:00+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "外為：1ドル159円16銭前後とドル安・円高で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMEw3WktWZnVRT18ydEhYdl93X0pISDVzUUx6T1lfQWIyY3Z0bVlkUWhPLWw3LUFaUFhpQlMyaE9EaEUwb2hIUzJ2SklSN3h0YWRwbXJ4M3VJYmNsWDRuZFFVZnF3TGVCV1hUMlRFR2tONTdMSmo0eWVncWNWUzU2dGhpSEtKeFk?oc=5",
-      "pubDate": "2026-08-12T19:01:00+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "ドル・円は軟調、原油相場の値下がりで｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1YW5OQ0Y5RFVUdFVTT0t1TnVlZV9BdnRsWE1CTmZ6aElveGZ4VnlWY1hBQ3hJd0ZrLVA1dmxoaVFCSnFTblBkbGU1YkE3clpwakE?oc=5",
-      "pubDate": "2026-08-12T18:45:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円１５９．１０近辺、ユーロドル１．１５４５近辺＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KRGlPd0NOWndvbGZfV3p6ZGQxR1gxc3RacXl1OEYzdDV2SDZzbEZRdzdQc2JRLUNHYTJ5elFtQklmdVBXcHoyZQ?oc=5",
-      "pubDate": "2026-08-12T18:39:39+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円、一気に１５８．６０付近まで下落＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ReU1vYUJ1Q1FNQ2w1UWhIR1lxbGw2cmhGWEdJZ0k1ZzdqY2k2Mi1lR0JzdWU5VXZQQmNUbU56T1JaQ2JQelR5TQ?oc=5",
-      "pubDate": "2026-08-12T18:32:40+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円、158.60円まで急落も直ぐに159円付近まで切り返す(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd2tJTGxTczB6R1pVbk1NeUJJTjN5RktNTDlBYXRJQlZyYWZHaDM3UUw0dkV0TFB2Z2lwd2FXeUMydTM4V09selNMM2luZzhKWDVlLTJCLUNsNkxMSURFU1JNby1xUUR1bUc1OFo5Z05ZQXpIcmhjcVRmYlZZVXBIakxMZVZQWTg?oc=5",
-      "pubDate": "2026-08-12T18:28:00+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "ドル円、158.60円まで急落も直ぐに159円付近まで切り返す｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ST29MM0lIdHpWVkl0WjJsQy1URW1sVmVzVW9qNFNBTWdHRnVKd0w5Vy1RSlNjcXNWRUxIRi1Wa1dLN1gxU0ZVWWJ1NnFMRG8zaWc?oc=5",
-      "pubDate": "2026-08-12T18:28:00+09:00",
       "source": "ザイFX！"
     }
   ]
