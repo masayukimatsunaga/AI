@@ -1,14 +1,39 @@
 {
-  "updatedAt": "2026-08-13T06:29:50+09:00",
+  "updatedAt": "2026-08-13T07:24:38+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "キオクシア株の「逆襲」はあるのか 円安トレンド一服でも“AI・半導体バブル”の大波は変わらない…「お金は集まっているところにまた集まる」とカブ知恵・藤井英敏氏が市場解析(マネーポストWEB)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkdsN0gtdDlQRzQtRUNNQVIzN0ljN0s2NGdWQnJLMEdYSFpqYTRsTlU1bmpWaTJ4RG1lS1RVaDg3LXRzOHZSUExWWXhRcHdOeFVUcVo0ZjR3Y1JBWm1WNDNrVm1qRkZqaE51SGRacmQ3bWRiSjJobG5rNEZ1WGRra1RHcVdRS1U?oc=5",
+      "pubDate": "2026-08-13T07:23:20+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "朝のドル円は１５９．４０円台＝東京為替",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE53SHE3VWZaaGFReFdnTG5iZTdEb2U0WklxQURIWFFYT0FLaHV0Z1l6Q0VYWXBlNGdCSHNwTlY5eVBpWnk2WlE?oc=5",
+      "pubDate": "2026-08-13T07:11:00+09:00",
+      "source": "みんかぶ"
+    },
+    {
+      "title": "１２日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TQ2N6d0R3cHFZNUNWaF9Ick5uX29DbHIyREpid0FDdWhRWnhjUU1rVjhiMVhkcTBZUzRpeGN2SzNvLVU0S1phVA?oc=5",
+      "pubDate": "2026-08-13T06:20:39+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
       "title": "ニューヨーク外国為替市場概況・12日 ドル円、上昇(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVnFaQjlWakItU3RjdzR3NmpCUlRLUDh5SUViZDFuNnc0Z2JwVThRdWdPWGtmZ1ExTmpKS09YVUZCaVBlVGpwVEVzUkt2UnJhVmRjaEdaWHhWZW5jN3BWMHV2RFZlYUhFbmg5S0t1N3dXdUhFWEQ2eXlhT0RpN1hCWGVqWkhRQkU?oc=5",
       "pubDate": "2026-08-13T06:05:45+09:00",
-      "source": "finance.yahoo.co.jp"
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・12日 ドル円、上昇",
+      "link": "https://zai.diamond.jp/articles/-/493854",
+      "pubDate": "2026-08-13T06:03:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "日米協調介入でも消えない「日本売り」の芽、円安と金利上昇を招きかねない高市政権の積極財政",
@@ -29,6 +54,18 @@
       "source": "ダイヤモンド・オンライン"
     },
     {
+      "title": "NY外為市場=ドル上昇、対円159円台半ば 米CPI予想通り",
+      "link": "https://jp.reuters.com/opinion/5IZF5KKS3JLMXPJJFQ4PAC4CGU-2026-08-12/",
+      "pubDate": "2026-08-13T04:28:00+09:00",
+      "source": "reuters"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円、じり高継続",
+      "link": "https://zai.diamond.jp/articles/-/493852",
+      "pubDate": "2026-08-13T04:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
       "title": "ニューヨーク外国為替市場概況･4時 ドル円、じり高継続｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QNm9hRTJkQVVfRHY2cWYzRXZsT3lEclJvRFRMRDVEMVM4X3VVcHo0cE0zV29IUDNVMnQ4Mk1WLTZ5ajFLWGgzaDFZbWlCVDBXRXc?oc=5",
       "pubDate": "2026-08-13T04:06:00+09:00",
@@ -41,52 +78,16 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ドル円、159.50円まで堅調推移 米CPI後の買い戻しの流れ続く｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ySU1OcTFkQWxJWHppa25HN0ZCTFBWRzVFamdFQVd2QkljeVRGTWtjQUh6bXFhSllzRGhuS2xYN1hFTUc0UUlqaWU4UnVtWkF2UFE?oc=5",
+      "title": "ドル円、159.50円まで堅調推移 米CPI後の買い戻しの流れ続く",
+      "link": "https://zai.diamond.jp/articles/-/493848",
       "pubDate": "2026-08-13T02:43:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "協調為替介入を受け利上げペースは加速するか 高市政権から9月利上げ容認メッセージが出るかに注目 野村證券・宍戸知暁",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5dXlZVjZyWmdQUHpqNGx1TXFnUS04aG00amJvMTJLbE5QMGVGMjUwZzJKSXlDbWw3aXJNLVpBeHN2QjhJbTFXamZXbjFMYjVUOG41Q1pCVF93bWpndHVN?oc=5",
-      "pubDate": "2026-08-13T02:17:03+09:00",
-      "source": "nomura.co.jp"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･2時 ドル円、じり高(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNako2RUZpeHctNjc3UzZSNXJMajl4cUV5VkRfSEYweXFZaGMyNVNrVFE2THNRZzlGd3UwOUZvRTFZN3JJc20zam56WlJnV2Mzb2p0aHQtMXFiUHA5XzR5dzYxVDljOE5QdGZlM1VxQ0p4dF9pRzUxV2JVUWlIYl8xYXFoTHFMY2s?oc=5",
-      "pubDate": "2026-08-13T02:10:07+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "ドル円、１５９円台に戻す 今回の米ＣＰＩだけでは９月の政策判断を決定づけない＝ＮＹ為替 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBURDhKeVd6Sk53dFNFZnFGdHVZVzFiUk5EWU9LSWNlcFdVemR0M3R4dkJxdm5kU3hmQ190LVpzYkViZERaNjV4dQ?oc=5",
-      "pubDate": "2026-08-13T00:18:40+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・24時 ドル円、底堅い｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FakM4TVJULU1DUnRBdndJbkdoSGd3UjZLYTNMcXNHZll3MDJoZndZbXFVVUYyd0tWRGxQOVE1MUhQNk80V0RfdFJBa0h0Ti1nNVE?oc=5",
-      "pubDate": "2026-08-13T00:06:00+09:00",
+      "title": "ドル円、159.50円まで堅調推移 米CPI後の買い戻しの流れ続く｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ySU1OcTFkQWxJWHppa25HN0ZCTFBWRzVFamdFQVd2QkljeVRGTWtjQUh6bXFhSllzRGhuS2xYN1hFTUc0UUlqaWU4UnVtWkF2UFE?oc=5",
+      "pubDate": "2026-08-13T02:43:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、底堅い 米CPI直後の高値を上回る(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWm85TkdxTmZnWnRzZG5iS2MycG11TlhIdDBmTktqckRuQ210bHNLeUJnOWJuNmR3a1B0QXJaV3VkU3RxQmNWVUNhMnVfVHZlY05zcXB6NG81ODlqMFZvWlR6Y1BZdzlaMUlMU0JIenh1RTROc2N4TnBkVHJNMkdWckRWbjA4Zk0?oc=5",
-      "pubDate": "2026-08-12T23:38:00+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "ドル円、底堅い 米CPI直後の高値を上回る｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2Tk1ya3BTcG56aTVGanNwbWM5Y21sZWtuMGdZeGFwdF8xZ3NJQ2gtWFgyczM3Z0t5cUpYOU1jWWpuWVVlbjYtUEpUVDlENFd6bHc?oc=5",
-      "pubDate": "2026-08-12T23:38:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、１５８円台に下落 米ＣＰＩは落ち着いた伸び＝ＮＹ為替序盤",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lVko1SkNrcjcteEpkR0MwRlp0QkctNGo2Tm44RWVBanlZWm9lM3hneXRac2NoanZhNXliVzlSMmtISWQ1OEZ0Mg?oc=5",
-      "pubDate": "2026-08-12T22:14:39+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
