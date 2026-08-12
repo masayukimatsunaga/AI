@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-13T02:16:16+09:00",
+  "updatedAt": "2026-08-13T03:10:48+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル円、159.50円まで堅調推移 米CPI後の買い戻しの流れ続く｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ySU1OcTFkQWxJWHppa25HN0ZCTFBWRzVFamdFQVd2QkljeVRGTWtjQUh6bXFhSllzRGhuS2xYN1hFTUc0UUlqaWU4UnVtWkF2UFE?oc=5",
+      "pubDate": "2026-08-13T02:43:00+09:00",
+      "source": "ザイFX！"
+    },
     {
       "title": "ニューヨーク外国為替市場概況･2時 ドル円、じり高(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNako2RUZpeHctNjc3UzZSNXJMajl4cUV5VkRfSEYweXFZaGMyNVNrVFE2THNRZzlGd3UwOUZvRTFZN3JJc20zam56WlJnV2Mzb2p0aHQtMXFiUHA5XzR5dzYxVDljOE5QdGZlM1VxQ0p4dF9pRzUxV2JVUWlIYl8xYXFoTHFMY2s?oc=5",
@@ -27,6 +33,12 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWm85TkdxTmZnWnRzZG5iS2MycG11TlhIdDBmTktqckRuQ210bHNLeUJnOWJuNmR3a1B0QXJaV3VkU3RxQmNWVUNhMnVfVHZlY05zcXB6NG81ODlqMFZvWlR6Y1BZdzlaMUlMU0JIenh1RTROc2N4TnBkVHJNMkdWckRWbjA4Zk0?oc=5",
       "pubDate": "2026-08-12T23:38:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "協調為替介入を受け利上げペースは加速するか 高市政権から9月利上げ容認メッセージが出るかに注目 野村證券・宍戸知暁",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5dXlZVjZyWmdQUHpqNGx1TXFnUS04aG00amJvMTJLbE5QMGVGMjUwZzJKSXlDbWw3aXJNLVpBeHN2QjhJbTFXamZXbjFMYjVUOG41Q1pCVF93bWpndHVN?oc=5",
+      "pubDate": "2026-08-12T23:16:13+09:00",
+      "source": "nomura.co.jp"
     },
     {
       "title": "ドル円、１５８円台に下落 米ＣＰＩは落ち着いた伸び＝ＮＹ為替序盤",
@@ -75,18 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ISURSbWY5cjkyT1VVU3FNTlRoeDZNYTRvZ0VjYnFHUDdqSlRGb09oWXdiM2pTWGdzNi1sdi1zX2NMOUhDeW8xMzIzX0U4RDFaQW0yU2JlS2JLUUJRQXNLMFNmbURvbS1XbDZFS2g5azVOWjAzMlNLMDZoWGxQY0k?oc=5",
       "pubDate": "2026-08-12T20:58:00+09:00",
       "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "欧州為替：ドル・円は底堅い、ドルに調整続く 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NMjRKME94SUFGV0U5R2RwZXd1Mzg3WGlZY2hjWlAwRVZOelVBaS1XN1dEN3FiTmdsNG9QMUd5RnFQWVVsLTZabi1rRHlEa3pnMURSekxwXzhqYkxtalp2bXVYblVveEE?oc=5",
-      "pubDate": "2026-08-12T20:15:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "協調為替介入を受け利上げペースは加速するか 高市政権から9月利上げ容認メッセージが出るかに注目 野村證券・宍戸知暁",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5dXlZVjZyWmdQUHpqNGx1TXFnUS04aG00amJvMTJLbE5QMGVGMjUwZzJKSXlDbWw3aXJNLVpBeHN2QjhJbTFXamZXbjFMYjVUOG41Q1pCVF93bWpndHVN?oc=5",
-      "pubDate": "2026-08-12T20:13:21+09:00",
-      "source": "nomura.co.jp"
     }
   ]
 }
