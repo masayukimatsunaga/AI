@@ -1,14 +1,69 @@
 {
-  "updatedAt": "2026-08-12T08:04:56+09:00",
+  "updatedAt": "2026-08-12T09:01:47+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "１２日の東京外国為替市場見通し＝ドル・円、１５９円台前半を軸にもみ合いか(ウエルスアドバイザー)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMUpoYzROMGpQajQ1U1FXSmJHX1pxVGt2bFRjbEZtcU9OWFlITHZKNml0WnB6UEtDTUM3cG1NNFEwQndsM2pSTkdxc3ZEVlJrR21LYjczREVObmZ0eE1LcGVOQ1BTYmsxTWZwdXJ4WGQtX2Y3TGF5cG9QRF95aWZBQUdiZHlhZ28?oc=5",
+      "pubDate": "2026-08-12T08:22:06+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル/円見通し(為替/FX ニュース )：ドル円はほぼ変わらず159円台前半｜米CPIの発表を控えて値動きが乏しい(2026年8月12日)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QVnAtZVYzTEt0Nk5mVWxyd2lvRjVVU0p1WjBkdkRlS2RLeExwbkNOeXcwdjVocFg4NzZmX1NtdFg1S1RteWNjaTRveGxXR3FyakFDb1o2a0VQMmE0dVdUU2lodFpxQnl0UGtUallZVE0tcFk?oc=5",
+      "pubDate": "2026-08-12T08:09:19+09:00",
+      "source": "OANDA証券"
+    },
+    {
+      "title": "東京外国為替市場概況・8時 ドル円、小動き(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRThvZlhUdC1ZSFd2TTU0ZmM0VUZZeGM4ZU9ROWs2V2pET2lXREExQzc3ZlIyeVVrOTItQ01jRTB0cXl4SWUwTExaaEhlX1lSalU4UHZ3M3ZlVDVfUG1Cbl9pdmNhZzdxamhYUUdrTXkxclVUeE53OTZfVkY1clpjSWtOc1JyWFk?oc=5",
+      "pubDate": "2026-08-12T08:09:10+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル・円は伸び悩みか、163円に近づくほどドルに対する下押し圧力がかかりやすい｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnTFh0dTBVWEUzSXc4UXpaSXNEUXhxdEx2ejQxVVhUdzQtTGZLVERjMjRCbmpwMlQxVzBycDRhVkVselF0bUhlS2RnNXZfR29QZFE?oc=5",
+      "pubDate": "2026-08-12T08:09:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円午前の為替予想、160円の攻防なるか 焦点は米消費者物価指数 2026/8/12",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yRlJrSnJjQm1zVHgtRGRHSHd0dlZYTlBkemF4NUNBOVY1M1dQQV9peXdmU1I5cDQzcGFRVkRFYm5TS1VFOXY4WGtrNWhIVE4yejNabE5HVVhFcXJxSjV2dk1oNA?oc=5",
+      "pubDate": "2026-08-12T08:08:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "世界各国通貨に対する円:対ドル0.03%高、対ユーロ0.01%高",
+      "link": "https://zai.diamond.jp/articles/-/493781",
+      "pubDate": "2026-08-12T08:07:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "東京外国為替市場概況・8時 ドル円、小動き",
+      "link": "https://zai.diamond.jp/articles/-/493780",
+      "pubDate": "2026-08-12T08:06:00+09:00",
+      "source": "ザイFX！"
+    },
     {
       "title": "外為：1ドル159円26銭前後とドル安・円高で推移(株探ニュース)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSEtxOWxKSkFnTmROd0gwQzVUaUUyZ25oS0JpZ0VFR1J1ODJYcjlneFRRRG9Fekg1MV9oN0t1SUZJLTNvelFFTWdkYVc1ajdWMWtrOThQYXJxenFYRkFVTXF3STk1Qi1sdUJzSlBzTnU4WUZqWE8wVDd5Sk1mX19qMF9FYmFWb1k?oc=5",
       "pubDate": "2026-08-12T08:03:41+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京為替見通し=協調介入も日銀利上げも空振り?1992年の「市場の勝利」を再現か",
+      "link": "https://zai.diamond.jp/articles/-/493779",
+      "pubDate": "2026-08-12T08:00:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "東京為替見通し＝協調介入も日銀利上げも空振り？1992年の「市場の勝利」を再現か",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XN2d1aWt4ZVlkOHU4Tm1sb1RVMC1ibndjUk1oNkg1eWF1My1JZUMxbDhDUFhxWGxMQ1RvLUtPTTdqWi1ydEVCM3NURkM2S0VGYUE?oc=5",
+      "pubDate": "2026-08-12T08:00:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "ドル円レートは再び1ドル160円に接近：日米協調介入の賞味期限は？（NRI研究員の時事解説）",
@@ -20,7 +75,7 @@
       "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し 2026年8月12日",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wa3pqT1Mtai1lVkNIODVlMk9HcnlDV2ZNckpwU3dfemFEaXYwb18zbGV4MkF5TGFxRWg2ZDRPcUh0QTFQeDVOdEhTT2plNm1PMXpLNzlyX0paZ3k2Yy01YTRtNA?oc=5",
       "pubDate": "2026-08-12T07:47:00+09:00",
-      "source": "gaitame.com"
+      "source": "外為どっとコム"
     },
     {
       "title": "【本日の見通し】ドル円は米消費者物価指数を控えて小動きか",
@@ -33,60 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvU3RoYi1EeDJuMGdfeTIwNkxBaFRWSW52YTJPaWNFd09lTVB4aDNaeUwxbHd2czVMX0JRTF92Z1ZXejZRcFVTZ1Y2NTdRY0R2WU1FaGZUWHUzVHpta1hEYUplazNmS2I5Q1dqRQ?oc=5",
       "pubDate": "2026-08-12T07:44:08+09:00",
       "source": "日本経済新聞"
-    },
-    {
-      "title": "日経平均6万7000円の攻防、休場明けは利益確定売りと円安が交錯",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvOGVsU3F5VUhJcE40Y1BhSGh4MlZRaE1TaUNXblVmeERwTWdvelNKNGFEaUJxQm12Sl9nM1RxSlVBZk1ZdzhMUUxfTUY4VGZ5SDd4RGJCMmRVejNkYzRDdkpqV3NmbmtwWThKX2RXNnA0b180?oc=5",
-      "pubDate": "2026-08-12T07:35:00+09:00",
-      "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "テクニカル分析で予測！介入後のドル円相場はどうなるか",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11bFpLSUtOVWlkRFhPRnYtLUtMVHVSQzI2ZlNROVVEa1NUb25GdVVjYW5FZ1REdVI2Q09Cd2p4LUh2ZF94VmQ4UVFWU3FoNEVRQ3NJNjN0UQ?oc=5",
-      "pubDate": "2026-08-12T07:30:00+09:00",
-      "source": "四季報オンライン"
-    },
-    {
-      "title": "ドル円は１５９円台前半で小動き 明日の米ＣＰＩに注目＝ＮＹ為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82SmU2U2RtT1pQcXNSdTVOdDlNZ240VWNDNlhYWkdXdkluaTB0VnNuWGpMRlh1YXVnYXExZWZkalQ1c1F2VWxTWg?oc=5",
-      "pubDate": "2026-08-12T07:11:54+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "米日、円安阻止に５０億ドル投じたが…５営業日で効果が半減（ハンギョレ新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41a0R6YWgtUHVka3J5SlVMLXFhdXcyc1dWR1BVUjRmQ2hEVi0weFhHdGRYUmNRVGcxdnB3cTNscWVzTEFYQVdjNFBIZWxZdEFOUjhkWG5La2lYZUxBRXFJY091bVo3cExrdWc5NkVPZ0FUaURQT1FpTVpNc1NIcGs?oc=5",
-      "pubDate": "2026-08-12T06:52:56+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "米経済学者「止まらない円安を、米国は警鐘として深刻に受け止めるべきだ」",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0b0tHVDlIS01LcmRIdFRJYThsNHNRVXhyOE83eUJyZW9sLWM1RnB1UzVtM25ybzRnN3VCY19GTEZHYmFnV19lYTVVY2FTandtR01v?oc=5",
-      "pubDate": "2026-08-12T06:30:50+09:00",
-      "source": "クーリエ・ジャポン"
-    },
-    {
-      "title": "１１日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zd1RiZ3pIWWNJdmx5Tk53WmVvMUlualkzMVVSMjBBT3lOUUxQY20wSlRhYzR6dUdPekd2MERBcnBOWUtOTDduMQ?oc=5",
-      "pubDate": "2026-08-12T06:20:40+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ベッセント米財務長官の発言に隠された「円安解消のヒント」日米協調為替介入では危機の根本的な解決にはならない…",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSWY3YmI1ZXJGdVI2R1FvOHJfZDJielJmRnktTl81MjAwdVdYWmdNMU1qTUZaWlVkT2lWNTBYSmwwaGVHclpXLTYxbEZSRVltZ2taUEdnNzdSRjVQeFJVakVHNXZLeWd3c3pLRmNwbE9pclg3djNEdE11V3U2UFRlQWVYVTV0VFE?oc=5",
-      "pubDate": "2026-08-12T06:08:16+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・11日 ドル円、ほぼ横ばい(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTjliRkJPbi1WdldmYkpaek1MelFwcjBHYzgyY2VveFZTeVA5bFVlWWUySEo3bmVVSWJ4NWRtVngySGxQR3ROUzdBVG5WZExuMzViYkgxc3IwTkNBTHZoUUNHRTgwVkpNN201UHBiMUxUU3NaMUQ4c2djZ0FFY2xMR09GOTgyOGc?oc=5",
-      "pubDate": "2026-08-12T06:07:13+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "消費減税の財源に「為替介入の利益」流用困難と言われる理由（デイリー新潮）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNajF5cGt6RjRlbGdSQ1ZxUWlwcndTZU96ZGoycGd0Z0RlQkhhVG5FcTd5cTlVc29jTFFiUUhKbHJfdW1TUUJfdDgtaEVqOWVrT25jMmxsQWhxMElNZ3JyWE9zUlRHNWtBQzJUNEUwWEhnOW9sMXA5X3Q4TzhBaDg?oc=5",
-      "pubDate": "2026-08-12T06:05:36+09:00",
-      "source": "Yahoo!ニュース"
     }
   ]
 }
