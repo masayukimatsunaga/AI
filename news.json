@@ -1,9 +1,63 @@
 {
-  "updatedAt": "2026-08-13T08:24:34+09:00",
+  "updatedAt": "2026-08-13T09:45:14+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "円相場、対ドル159円台で膠着 カナダドルは急伸、主要通貨で年初来安値更新相次ぐ",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TTWFLcDJBWHJzQ1NwX1ZpQkRWeFQ3X05HY2xpR193OWF0a0g2MkFsSUpldmM0MXRNMlYteVRWQlQxbmQyb1piX3dfNVVSXzNESXFzU1pmTy1Wa2t5c0lpdDJJdXVHVHJEbXhtb1N3MEVsSG91?oc=5",
+      "pubDate": "2026-08-13T09:36:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "東京為替：ドル・円は一時159円28銭まで下落(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcVlEZzFWc2hvMTBHUU5meE1oZ0MtR1ZmWDZJS1VCYktwQmthV2R0anBuNE5nU2ZkTVlkQzJ5Z3kyendEM1ktWVhGRk1aejNuQnNGSEdVcTNpVkVrMlduUVg5MElNSTFXVkFTeGJoaWlrUXNwQUZyV0w3VU1hSXZfRzU2Ni1vbm8?oc=5",
+      "pubDate": "2026-08-13T09:33:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ＴＯＲＥＸは大幅に３日続伸、想定以上の円安を受け通期営業益予想を引き上げ",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UZDhYWGFkUXRMeWdhSXUwdVU0c0tSRzRMRmw3ZVVfUk1ReEFpT3J3QlplRGo1aks5TmR5a19XSklzUW9zckJpQ3JEVklhaVE0ZzF2dzEyWXFhc25ka3RDSw?oc=5",
+      "pubDate": "2026-08-13T09:22:00+09:00",
+      "source": "株探"
+    },
+    {
+      "title": "ドル円理論価格 1ドル＝158.40円（前日比-0.10円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55dzZDbjY2WXJqaUpRcWE1OVVmOUJydnZMMF92VnlYcmRvenpRaUpaVDNJalJnQXhnSVQxY2tIemFkQzZlY28zcw?oc=5",
+      "pubDate": "2026-08-13T09:15:40+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "円相場、１５９円３２～３３銭＝１３日午前９時現在",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tcnBuWEhreFA1RE9wQ25Ubm5aSFRha1lHYVFFT3hGTEx2R2x2RnBOdEZ5TlNOdTkzTGdDbEw0XzdfaE51Z1FINXZNeUNveDF0WjFGTA?oc=5",
+      "pubDate": "2026-08-13T09:05:00+09:00",
+      "source": "時事通信ニュース"
+    },
+    {
+      "title": "12日は原油WTIが低下、ドル円が上昇",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVNTNC16TjZwWHVCdG1EbDNEV05HdnZXNkpkbUJzeXB2VVI0OG93MEsxYno2VzJJT3ZtOWtkaE9OeDY5Mk9ObUtLc0NsNUFKako4ZVFGeXliZUEtdDFOY0FYcXNzMmF6aFFtdnpZbVVUWk9HcEZmaGpmbkdJZkNLbmlB?oc=5",
+      "pubDate": "2026-08-13T08:58:00+09:00",
+      "source": "FOREX.com"
+    },
+    {
+      "title": "ドル・円は伸び悩みか、160円に接近するほどドルの上値は引き続き重くなりそう｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xWFlNSGVWRER4NF95b2UwRHl0bVA0R3ZkVmYyMXEwaWFCSVJLOERsQVI5YXN2Q2VXVUpCMy1tQTFyZXpwOGdsZnZ1RE9TQ2F1bGc?oc=5",
+      "pubDate": "2026-08-13T08:52:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "１３日の東京外国為替市場見通し＝ドル・円、底堅い展開か(ウエルスアドバイザー)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUk9BakRWQ09hRUV4Z2ZkMl9fN3dJZGlkN3hwZjlaNEFOeU1zcDZZY1I5R2NWdGoxa3JQTkQwcGxkY0lLcGRzTUlwTS1KVEZnWTVUWU4zTjFNYWJfMUFWQkxDQ3NzMzloNE5XX2J6akZsRzFvcTVYVFhNU214d2pKaE5wMlVQTE0?oc=5",
+      "pubDate": "2026-08-13T08:46:02+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ユーロ/円見通し(為替/FX ニュース)：ユーロ円は円高で183円台後半｜ドル円の動きに連れて円高が進む場面も(2026年8月13日)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PUm1VNndKenJRVVB1RTk5Y2ttdHJBYmNOTE9fQ0hpVWdSRWVWT2FBV3R3Wm5FTW5JaklKY083Q29ZQXAzeU9UaWtHLXpYSm9zRHJyRHJJYk5MY1NwT3VKM0hETWFEMVdmTlBFWUhxb2Q3bDQ?oc=5",
+      "pubDate": "2026-08-13T08:20:13+09:00",
+      "source": "OANDA証券"
+    },
     {
       "title": "FX/為替「ドル/円今日の見通し｜ドル/円、半値戻し達成で次のメドは160円台半ば」 外為どっとコム トゥデイ 2026年8月13日号",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hLXlYV2VoR1pIMFhVTHdaNXRxbHhWbnF4bmVIUVRGeDdnZG9uZ1FUQlJLWXRob3FPT0lSQ0FDSmpzeXE3ckRWU2dIT1FLMElJS0dXX05Ca0JSaXZhbGpQcmZNbw?oc=5",
@@ -23,70 +77,16 @@
       "source": "Yahoo!ファイナンス"
     },
     {
+      "title": "〔外為・今日の材料〕ドル円、159円台でもみ合いか＝新規材料乏しく（13日）(時事通信)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWTVjREMzOU4tTzRzMHVhaUVTbV9MOTl4Y1pycnVUS1BMRFhMWVRITkFyRzZ0MXJ2TjZTcS1acWxldXdrZjNRbl8yMzBvRlRxNnJ0SDVBX0cxR2lReHFZUlV3SmxwbkR4M2ZpV29aOFJZY2pVRGdWczZYcEpBakJCLVpLM1ZOTk0?oc=5",
+      "pubDate": "2026-08-13T08:01:20+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
       "title": "NY円、159円台半ば 為替介入の反動で円売りドル買いがやや優勢",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hQkNxN3RkNHAydENEb1hVRURqTHdrQndVMVVROVlvcEUwU0RXck52YTdJa29pTm5BMUNxNnFPTDZzTXNkRzFDYkFhVk5kVE5xeDlNbG1VdDFYU3N2TjJsTmI3SWlNLUdCZFBZZW1TdGw4bmJ2QVE?oc=5",
       "pubDate": "2026-08-13T07:57:08+09:00",
       "source": "産経ニュース"
-    },
-    {
-      "title": "【本日の見通し】ドル円は堅調か、米物価の落ち着きも、ドル高の流れ継続",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GS2VFZVM5eUVxVU9JMVJwTEFaMVQxR19jQ21LWTRtWGlBZEs0Wi01XzVXM0tEd3hTNDlHM2FrSG1FQlQxS3ZYaw?oc=5",
-      "pubDate": "2026-08-13T07:55:40+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "キオクシア株の「逆襲」はあるのか 円安トレンド一服でも“AI・半導体バブル”の大波は変わらない…「お金は集まっているところにまた集まる」とカブ知恵・藤井英敏氏が市場解析（マネーポストWEB）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NbmhNS1lGeERBeFlfbTNkTHcycEJGbld6WDF0bk9SQXFITDRSdlpJVm9RX2JFcmJyV0NVanU2c1BBOC13LUJXR3E4R2Q4TmEwVzRkcHd0U3EzSkJtOWZPUTBnYV95Q01TZ2ZFYmdEamhIOVpUZXRpWHRpWEV5U0U?oc=5",
-      "pubDate": "2026-08-13T07:48:16+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し 2026年8月13日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16c1pVSWhaRThETXJ1VUxrVGdveHZUSFZ3S3R5dUpBdkl0Z1EwekFXdzBvVTBhWm8wV0pWdFE5RVpOWDlnYVBWUnNBT0pfcWpTZEppMk9COXh2RW5PNnc3dEhEQQ?oc=5",
-      "pubDate": "2026-08-13T07:44:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル円午前の為替予想、半値戻し達成で次のメドは160円台半ば 2026/8/13",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xeUptbElWNEt2Mm1lQVJ2eVh3SThOckFNeTBMcGcyR3pxaVM2S1JiTlF1M25MNUZfcVJzdklCd19XV3BLNU9ac0VjUzRSNWprTWx4eUVjd3NlcWRVczhsSGluZw?oc=5",
-      "pubDate": "2026-08-13T07:40:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ゴールドマンのフィッシュマン氏：日本の850億ドル円買い介入は「時間稼ぎ」に過ぎず、持続可能な解決策ではない",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91SXJrRW51TWxLUkdnbThjYUFGeXE4V2Rfb0c1TzEtMXBqMnZjTUFCTWRwZms5RWJmQzVLaDZLTUVVQTE2NE5ZbVVCckRWaFNCcGlBM053X2FDdw?oc=5",
-      "pubDate": "2026-08-13T07:15:00+09:00",
-      "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "朝のドル円は１５９．４０円台＝東京為替",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE53SHE3VWZaaGFReFdnTG5iZTdEb2U0WklxQURIWFFYT0FLaHV0Z1l6Q0VYWXBlNGdCSHNwTlY5eVBpWnk2WlE?oc=5",
-      "pubDate": "2026-08-13T07:11:00+09:00",
-      "source": "minkabu.jp"
-    },
-    {
-      "title": "１２日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TQ2N6d0R3cHFZNUNWaF9Ick5uX29DbHIyREpid0FDdWhRWnhjUU1rVjhiMVhkcTBZUzRpeGN2SzNvLVU0S1phVA?oc=5",
-      "pubDate": "2026-08-13T06:20:39+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・12日 ドル円、上昇｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EM2lORnY4bzV5clUwXzU0WUZEYkNKdmduSk1xa291bDc2blpTSkhsb0RwOE1yQXA4bEtiUHkxWTZsODg2V3B2N2JQbG5XNktnRHc?oc=5",
-      "pubDate": "2026-08-13T06:03:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "日米協調介入でも消えない「日本売り」の芽、円安と金利上昇を招きかねない高市政権の積極財政",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FNlI5bTRhLTdqWnhPQk9XS1F5d1padnBNZzE4d1FyM0NCSDF2OFZrSFFsTFB1S1pyRmo3ZUFSQzdqSDBIaDlHWFBPdjZFNTJodnRvdXZR?oc=5",
-      "pubDate": "2026-08-13T06:00:00+09:00",
-      "source": "JBpress"
-    },
-    {
-      "title": "円安圧力、根強く 日米介入効果が早くも薄れる",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUVnZlVWVzU1VpUi1STF84bkNIU0UyWUdTaVBMRTNXeUlIYkswTEZIcTVtR2k4QllocmVoV3ZFZjd0TXhqNFpMSHpyb2JxVVVZZWd6N3BQVkFOT0E?oc=5",
-      "pubDate": "2026-08-13T05:04:08+09:00",
-      "source": "日刊工業新聞"
     }
   ]
 }
