@@ -1,20 +1,56 @@
 {
-  "updatedAt": "2026-08-13T17:45:05+09:00",
+  "updatedAt": "2026-08-13T18:49:48+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "為替介入後の円・国債 海外大手運用3社「なお下落余地」",
+      "title": "ドル・円は伸び悩み、上値は重い｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90d0VfckhueUFydFlYX0cybU8tV3JVOFZJNk1QblI2LXdDQlBVSUI0YXlJZXpFbXhCbnFUVUF3eHpNck5fc2FGNXRWanY2Z1I3anc?oc=5",
+      "pubDate": "2026-08-13T18:37:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "｢再びの円安｣モードで改めて注目したい2つの内需系銘柄（会社四季報オンライン）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKLXl4Ql9Ec09GOHphek9LVjQ0bDIzaWpPM04tUWR5b3RBeERydmpQTVotbVAwSWhEYTdDdHFkWFd3VEk0OUxUeFZkbDU4Qmhnc29NQk5ZaGZ6dWM2VHNieUpQaFAwVHNLTUtOY3M5N0ZZZ0RDR3VRR0ltb3JIRkk?oc=5",
+      "pubDate": "2026-08-13T18:30:45+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "欧州為替：ドル・円は伸び悩み、上値は重い(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlhpdV9uUFltTnBZSFd2dGd0S3VFSXd4LUhTYkE0Zi1SWmE1YUFxalUwNGN5djFURmt5Qi1YYWJsSlQ5SHZUWXBoWExidWY5TlNVdHZSU2tma3JDUTVIZHNZYmdYX2ZjYVlDZmlyVzQyb3h6TTBHS1g0Ym1yNXk4N2FjR2FiTzQ?oc=5",
+      "pubDate": "2026-08-13T18:27:00+09:00",
+      "source": "finance.yahoo.co.jp"
+    },
+    {
+      "title": "東京為替概況：ドル・円は下げ渋り、円買い続かず｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ed05CNEYxZjJJOEpqVlVSLXVCYlkzV2hiYl80TkJvdXo5SEhzVm91dXdBVGFtcnhGV1RJUW1xN3Z3Z2ZGc3JnWm02OFV0TmswU0E?oc=5",
+      "pubDate": "2026-08-13T18:15:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、160円接近で介入警戒強まる 米インフレ指標にらみ上値重く",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NSmF2Z1BTb1VIYU5JNG9OYkNoaWpvdmV5a1h2ajdWZXFCZGR5Q1JjWU5rVW1OZ05weTBLX18xWjlFaEoxYVd4X3hsOFRqLUFhRENKMnhEbTdoQjkyYjgtMWVpZkstTndYcXdKcEU5TUh1Zlli?oc=5",
+      "pubDate": "2026-08-13T18:01:38+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "円相場、159円36～36銭＝13日午後5時現在(時事通信)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR3B1dHN2YVZFWkFrdWFWX1lRaEZUNHowS2dGVk1QT3haNENlTHhqNVFleFEzU25udW5JZ3lXcUJpVjdMQWU4cXQxbkQ0NzFLY1U2WkprWUlhaDF1TzhPa2tNM19wMTZvMWJsNkh1Ymh5cU5qeVFZQ1d1dTAtV0t1VXBYdUN1NHM?oc=5",
+      "pubDate": "2026-08-13T18:00:00+09:00",
+      "source": "finance.yahoo.co.jp"
+    },
+    {
+      "title": "為替介入後の円・国債「なお下落余地」 海外大手運用3社",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VQWFuVms2bm1EUkVYOGtoVi12emF4aXhhaVVHNV91LTFZdmZCWWxJU0FXd2UtNWloek1WSlMxOGIyNUdZTzl2V0xkVTkyVDNNTUFTMmRsekFOYk9WWGxOMnRJRDJNZTQ0ejR1ZQ?oc=5",
       "pubDate": "2026-08-13T17:40:00+09:00",
       "source": "日本経済新聞"
     },
     {
-      "title": "欧米為替見通し:ドル・円は伸び悩みか、160円視野に為替介入を警戒(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2dFLTUzdGx2OFcxbFNVRHp4MWxJR1NPTWRVTXI3R282dm9naU1NWVh4N193Q0cwYkNNNzU1d0JOUVJseTNvelV6ODJiZjl6ZHp1Zi03b0dkN2xDYVUzNmxuSVNiUjlkTGJ5VjN0YnVBQlR0UmJMUW1VbHZUekE3ZTJzbGNGNTQ?oc=5",
-      "pubDate": "2026-08-13T17:25:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "ドル円１５９．４０近辺、ユーロドル１．１５２５近辺＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sdzdJdUp5dUdfcmlrcTlaeXFUVG1fMS1Vb3prd2FjMWdNNmFfRllYNkhYOWR1bmlfbjlvX3gyVC1TZW1LZ3NqQg?oc=5",
+      "pubDate": "2026-08-13T17:38:44+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
       "title": "個人投資家は休暇中で成行注文で短期売買、ドル円159円台で振幅 今日の外為注文情報 2026/8/13 17:00",
@@ -29,22 +65,16 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "東京為替：ドル・円は下げ渋り、円買い続かず(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0toRldsQWlyOU56NnlWRDhXdDY1dWljY3lBd2ZwcEVMc3N2aXZONmYzTl81Q2xGYnRqS3Q0Q0JQQ1NGSmhQUWFPWmdybno3aFZjZ2JwWFFVTWg5Y1A0S3BpRmk0WXpvaFVfX1RPaVF2ODRpRmI0bzMwNVd6eUhVZ05COWJSVUE?oc=5",
-      "pubDate": "2026-08-13T17:14:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "円相場、１５９円３６～３６銭＝１３日午後５時現在",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tTzlTSk5fX0VvYW1NNlo0MFJhTEZnMjJCdTZYUFlGVzlXZVBpUnI0X3ZOQk53clIwaklLRnBsNU9iTWtFd2FtallLZEJhbHZ3bjliMg?oc=5",
       "pubDate": "2026-08-13T17:09:00+09:00",
-      "source": "sp.m.jiji.com"
+      "source": "時事通信ニュース"
     },
     {
       "title": "東京外国為替市場概況・17時 ドル円、上値重い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdENFX1JyU0psZ1l6OG5IaUUtSGhOMks0N1h4M0ZjNkt4S2RWQ3YwbVZJeWI0WWg2dXJtT0NhVVVqcFhGYmtLLTVBcmswaXhFNWVGZy1FQ09NdGxRSEs4Wk4zS2trRS16N2drellIQzZlOTNkVjU5M0E2YTR3Sks4V0NuSTl6aXM?oc=5",
       "pubDate": "2026-08-13T17:05:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "source": "finance.yahoo.co.jp"
     },
     {
       "title": "ドル円１５９．４０近辺、ユーロドル１．１５２０近辺＝ロンドン為替",
@@ -53,40 +83,10 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "テクニカルEYE（ＮＺドル円）＝雲の中へ押し戻されており、上値の重い展開か",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9scDZDM2VSQnpGNkxFUkZBZWVRcHlZYTB0cTBwcER0UmN6YU9aX2lHcEszUEVQZmVLNkQ1T2FSbXNxbUlVY2dUdw?oc=5",
-      "pubDate": "2026-08-13T16:30:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
       "title": "テクニカルEYE（ドル円）＝やや買い優勢、一目均衡表の基準線に注目",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96cjZoaWpHUHlYODRKamJNZzhsSTJXZEdZUjBwd1dkZE5mRnZIQUxkRkh4Y1g1TDFuT0FEZ0xhMnd6YlB1WlVqMA?oc=5",
       "pubDate": "2026-08-13T16:30:44+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【FX】ライブトレード 欧州タイムを攻略だ！「ドル/円、160円が射程圏内…米7月生産者物価指数(PPI)考察」ドル円分析＆取引 2026/8/13 17:00",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ta1VKdEhndnJTUUZ6QklBalhYN2tkd2tpcG9aVkdleldmQlFiTktLaW5KSWl4aGZiS2JaWnNKb3NqdnY3dDBRUjJpV3VackYtdzVISDJJNTJsZVdlMFF5ZjhXQQ?oc=5",
-      "pubDate": "2026-08-13T16:30:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "【ドル/円、今夜の見通し】ドル/円、160円が射程圏内…日銀の早期利上げをめぐる報道も円買い一時的…米7月PPI・新規失業保険申請件数に注目＿2026/8/13",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CYjdvTm90amEzelc5bVNkWXc4U2VJaHpWbC1JTmhQTGI5bF9UWUZGb3JCaFFzMktBcUFLTVMtcGdJbUlWbVN6ZjNYZjRiUEpJenlUbkNhRzFOUVJVd3lsWXdtMA?oc=5",
-      "pubDate": "2026-08-13T16:21:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "東京為替：ドル・円は下げ渋り、ドルに買戻し 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52TGxyeFdGWE84UFlBQm5tZmFFbTFHV2FxNDhPX3pqaFplenV4aXJjRVBYZk9VdVl2NmFGUGRpNGdtVHJUWFhxelN5eDBXME9LdWViMWRoSl8yUUJQSWhYUE52SzJYYnc?oc=5",
-      "pubDate": "2026-08-13T16:21:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "過去の円高時に上昇した銘柄ランキング（2026年7月31日）",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Gb2taSzc0SmFvRUZoTDM1SDA2ZTFEOW83d21lOHpOZ1dzZElFeGl1QmZmdWRXZm1ONC1sa3NZVmlmdnJEdlJnOTlNSV9OR3lQTDZqcmxGY2FrYjNkTTY0?oc=5",
-      "pubDate": "2026-08-13T16:00:00+09:00",
-      "source": "nomura.co.jp"
     }
   ]
 }
