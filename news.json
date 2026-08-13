@@ -1,14 +1,38 @@
 {
-  "updatedAt": "2026-08-14T05:22:29+09:00",
+  "updatedAt": "2026-08-14T06:30:02+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "円相場の回復、日銀のタカ派姿勢が必要－ブラックロックのリーダー氏(Bloomberg)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbmN6UnJZYndNQjh2WUZXMEkyX2VqeUJTV0VjLWR5YmFtSkxpbWthbnZBRjlIX3p0aU9Ga0Q0R2w0UTQ5VkhUTm5EMFRlTjFNSE9pVFpVSi1SVEdZekJ1ZUlja0FhZXBNQnUzUlVYTjRCbWxfX3ZuWC1OUm1IT0tLSEV1ektLd1E?oc=5",
-      "pubDate": "2026-08-14T05:10:52+09:00",
-      "source": "finance.yahoo.co.jp"
+      "title": "NYマーケットダイジェスト・13日 株高・原油安・金利低下・円安(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRV8tajBRMXRtbk9vWWIwYWlSVWpJMEYyQnFwb21ZZjBITDYyRG5mR2JFOGZJalRGUVdFQUtCeG1ybkhXWjhQNDFIMHo3Z2ExYmdiTGZ5UVBKclEzY2p0ZndYWFdUaXg0LUdDa3M3YnJ2Yy1yX2tCdVBJSkloVHVSN3ZQeEozcVE?oc=5",
+      "pubDate": "2026-08-14T06:24:11+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・13日 ドル円、小幅続伸(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT0ZHRUxrS3hhZkU0OEVmcE0zX2o2R2dlcE5HaVNYcGpBRHdzUVR5RGtWMzdmT0pwWmVtNTBpVVk4UmhvSU1MM08xbUN3cm11R2dFNE5SdVJ6TXdhcE5fSngxR1IxNjVoMjB1cTM2S2ZsV2t6QkxZLWRvaUZPbmJqaGtiSkNSZDg?oc=5",
+      "pubDate": "2026-08-14T06:06:51+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円159円台で膠着、米物価鈍化で利上げ観測後退も30年債入札不調が下支え",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03bno2RVZTLWtLaDJVOUM0UktUZS14U3Q4MEJiOHliTnVPOE1mc1NtbG9ydkZiN2RyRzIwa1NUcjhQM1JLS2Y1UldVUEFudGNnRmVIcFpoRHBWSHh5Q0ZaMUVfVEwzVlFZcW93aE10RHdMMW44?oc=5",
+      "pubDate": "2026-08-14T05:55:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "アメリカによる｢円救済｣､本当の狙いは株式市場の救済？ 円安の副作用に震える投資家たち",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43UnlsUjhOdjZuU2hRaGozSzlPc3BidElYLVVJcHRnVUpBNjR1bzdFY0plYnBWTk9TVDFpbFdpTGFhR25TZWQwd1UxYUlzNUxDc0JHcmpEYTJMazk1RFFN?oc=5",
+      "pubDate": "2026-08-14T05:50:00+09:00",
+      "source": "東洋経済オンライン"
+    },
+    {
+      "title": "円相場の回復、日銀のタカ派姿勢が必要－ブラックロックのリーダー氏（Bloomberg）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rZTU3QXl6VDJHU1FGN1lGMXBuaU1rQ0k0aDF0T2UzdEFHbVVuZVV1MmoyNlRXYngxWFpTR0dZNTlVM2hvbXRHdTNCa2NqY00walc1LXUwRHZIcnBoUFU3MU5RRkgtV3BYRWNMTXktR1hKR3BCLW9xbjg4aHdNdU0?oc=5",
+      "pubDate": "2026-08-14T05:19:09+09:00",
+      "source": "Yahoo!ニュース"
     },
     {
       "title": "「円安の反動で5倍以上になる可能性ある」副業紹介装い電子マネー50万円を詐欺か 大分県の30歳男を逮捕「一部を運用した記憶もある」 広島・福山市の女性被害",
@@ -32,7 +56,7 @@
       "title": "ニューヨーク外国為替市場概況･4時 ドル円、小高い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXkzSUxKNjlyd2JRbG9tWE45UVhxUmZHb09Nb1podFhZLTNJODRwaVV1NEU1bGxEUjB3VmdObWc0WkxiNnRVRWQ2Y1d4bkYzZnNGX1VXd3UwakxZSU5MOU4wd1o1cmZ5Si1CN2JOUmtnd1lfZmJxa0lydGptWGtPR2JpYUlMV2s?oc=5",
       "pubDate": "2026-08-14T04:08:26+09:00",
-      "source": "finance.yahoo.co.jp"
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "28年ぶり日米協調介入でドル円は155円台へ、それでも「164円」再接近が予想される理由",
@@ -44,49 +68,25 @@
       "title": "ドル円、前日高値を上抜けて一時159.56円まで上昇(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWFVmYzhLZVJFSVQ0bDRDLXRJbFlmak1zMThlY0d6bUhQNlF1OW9DeVVteFNwOXRuT3RfSWx1Vlh1Y21nODhWWGwtaXl4MlpEYUtsWHQ0N2dHUnMwSG1KWlphUmtkZFJ2c2J0LXJLTHVRX3ZfVWNlS0E1aHZYQXJHSk5BZ1d0bzg?oc=5",
       "pubDate": "2026-08-14T02:45:29+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "ドル円、前日高値を上抜けて一時159.56円まで上昇｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZVU5UVjZqalZyaDRlamdYSU1zci1pcWU4dnA0dFdVVU1fcjJoaTBhbWhlbmdfNzFIWnBKQkozandmeURzcGNOQkl0b1Ytelp3R3c?oc=5",
-      "pubDate": "2026-08-14T02:37:00+09:00",
-      "source": "ザイFX！"
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "ニューヨーク外国為替市場概況･2時 ドル円、強含み(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONFczY0FMR3NjdDNQS1JaM2V3SUViSTZDQ3ZLSG1sc3NQQzNhY0xtazUwSC1kQW5OVmV5a2NNSjVIdU5wVy1PVG9ISFBIc0dRTGVRTzVVanJ4SGhxbFJZTlVoVlFZWUJ3b2h0U3ItSndrbGUtU0I0TDczaU92M0xQa2YxMGpZLUU?oc=5",
       "pubDate": "2026-08-14T02:13:34+09:00",
-      "source": "finance.yahoo.co.jp"
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "ニューヨーク外国為替市場概況・24時 ドル円、小安い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYl9KOWttZ3ZsY3Z0YXdjWlY4NmVZZGJuRkNOcnkyMnRjU0thUXhDZ0dfSWM4aHI5blpQeHpEekZNZFhPOEh4ZjBWUWJiYmNQVEV6N01KY0VYejZkYl9iOWFac2NsamE1emNRSmIta3FwVTNDX296bzNDdUlyY2tUaHBXNTZPNXc?oc=5",
       "pubDate": "2026-08-14T02:13:29+09:00",
-      "source": "finance.yahoo.co.jp"
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "ドル円、持ち直し 米長期金利は低下幅縮小｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLTDU0RlFOUWtid2ZBTVJhRnJnUERHWUFpeTZ0Rk5JeDd5Y3BqVVV2VHdCYnFpWm93dXRJdy15a2VfX2xoQnVKRUdyTi1Gc0dzUnc?oc=5",
       "pubDate": "2026-08-14T02:07:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "円の持続的回復、散発的介入ではなく日銀の引き締めペースが重要＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIRDEtSV93dXZmMkVFUHpYeU45YmZpVXJTczZyUW85MkRwMXk3THd6el82TkFIZ00zNER4aGZOTWlwZnBDc2JfVg?oc=5",
-      "pubDate": "2026-08-14T01:06:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "協調為替介入を受け利上げペースは加速するか 高市政権から9月利上げ容認メッセージが出るかに注目 野村證券・宍戸知暁",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5dXlZVjZyWmdQUHpqNGx1TXFnUS04aG00amJvMTJLbE5QMGVGMjUwZzJKSXlDbWw3aXJNLVpBeHN2QjhJbTFXamZXbjFMYjVUOG41Q1pCVF93bWpndHVN?oc=5",
-      "pubDate": "2026-08-14T01:03:00+09:00",
-      "source": "nomura.co.jp"
-    },
-    {
-      "title": "ドル円、一時159.06円まで下落 米長期金利は低下(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmxhd3hrUW1pdE9Ud3hkNVlGU1pwazQtckU3alg4TXphVXNFVmQxaThhem1IUkk5OHRuSVhUWmp2TFRVQTRMZ0xPdjFzR3c0ZDhiSDh4bGFRUWx2Y0s0aTBfdnNPVU5GTFl4RDdBYmkxaWNQRjI3bFhCZVFKYXc3OGgta2JGZVE?oc=5",
-      "pubDate": "2026-08-13T23:14:00+09:00",
-      "source": "finance.yahoo.co.jp"
     }
   ]
 }
