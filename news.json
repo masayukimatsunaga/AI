@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-08-13T22:50:38+09:00",
+  "updatedAt": "2026-08-14T00:17:11+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル円、一時159.06円まで下落 米長期金利は低下(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmxhd3hrUW1pdE9Ud3hkNVlGU1pwazQtckU3alg4TXphVXNFVmQxaThhem1IUkk5OHRuSVhUWmp2TFRVQTRMZ0xPdjFzR3c0ZDhiSDh4bGFRUWx2Y0s0aTBfdnNPVU5GTFl4RDdBYmkxaWNQRjI3bFhCZVFKYXc3OGgta2JGZVE?oc=5",
+      "pubDate": "2026-08-13T23:14:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、一時159.06円まで下落 米長期金利は低下｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyZWZpVld0X256X1c1Z2h5a01hazlQajhQLVlXVTA4SzRnWjkwRWVJT3Brb1ZRSm9iQ3BwdGVSMWtBLXZhTVRhdHFpWlk2RVpJTnc?oc=5",
+      "pubDate": "2026-08-13T23:14:00+09:00",
+      "source": "ザイFX！"
+    },
     {
       "title": "ドル円、やや売りが優勢 米ＰＰＩもインフレの落ち着きを示す＝ＮＹ為替序盤",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PN0tkZlUxWHlFdWZrSkJiOWR5aXJkM256YmdrUUFmcFNhUzhIUk1HV09DbTF3aDdCTEwyd0taZWN3ZlBFTnFuVg?oc=5",
@@ -15,6 +27,12 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTFiMzE1RFp6M251a3RmRDdKalpXY0JYYXNRbGJsRHZIUzBnd241Y3h3WUZXYU4yNjlHczU4RFVwLVB0VVJRRFg5c0djZ2c2N0VOOXN5MWNXeUJxdVh3MG1pVEJENzREVU5rQzBmZ2JTQmctc08zVlZBY0xUbmI5QnFyZFVabTA?oc=5",
       "pubDate": "2026-08-13T22:08:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "協調為替介入を受け利上げペースは加速するか 高市政権から9月利上げ容認メッセージが出るかに注目 野村證券・宍戸知暁",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5dXlZVjZyWmdQUHpqNGx1TXFnUS04aG00amJvMTJLbE5QMGVGMjUwZzJKSXlDbWw3aXJNLVpBeHN2QjhJbTFXamZXbjFMYjVUOG41Q1pCVF93bWpndHVN?oc=5",
+      "pubDate": "2026-08-13T21:56:08+09:00",
+      "source": "nomura.co.jp"
     },
     {
       "title": "【速報】ドル・円159.25円⇒159.40円、米PPIは鈍化(フィスコ)",
@@ -32,7 +50,7 @@
       "title": "円相場 小幅な値動き 1ドル＝159円台",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90dTBocGJRMFZwamNRTkRKeVRHc2ZCYkxrcGt4MmxUQjkzRjRCOXpuY3pTVzU4YkFzRTdlMWxETW0tbVRGalh3XzV2NmR1SjB1Q0xnSFE3S1RybGY2R3p3?oc=5",
       "pubDate": "2026-08-13T20:47:48+09:00",
-      "source": "NHKニュース"
+      "source": "news.web.nhk"
     },
     {
       "title": "ドル円１５９．３０近辺、ユーロドル１．１５３５近辺＝ロンドン為替",
@@ -47,12 +65,6 @@
       "source": "東洋経済オンライン"
     },
     {
-      "title": "欧州為替：ドル・円は軟調、原油・米金利にらみ",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY2VSLVY1VnUxYnRETFZsemhmb24wVWF2eWZlWmlPeDNST2VvWEtLMjdqU0Y3Q0t0ZVBjWmNGZXVQM25FZ1VjNDMtWUp1clJXZDZ4WElNWXRkcXdLY0Q3dDhVNnNhY3BqREJBeXFwNC16QlVIT1RkSEJIbGlDV1Y4WHU0RFhXNnFsSG9fQ2tYWlZyaUFWXzFhSWVKLXFMak5iWWxzaGZla0ItY1JVdkk4aUU2WENTOGVrTERGRmlKN1pPWmE0RndxZ09tTzk1R0Z5X01iamo2aXY2aHVI0gGMAUFVX3lxTE04NVI5NG5PV2pzdTk2QkJXbE5LczdnTkJoTVpySkREMUp6ZnU5cmFXZXdqb3VHMzVhYzVTZXFLb2JEVHFRWEFaUkFkQjFlXzlyemt0QjVqemYzUEpsMUhQM2gwNFBwRzY2dUduNVdzWVhmdFZfd3BtUVI3VWcwN3hNNUJBQ1JuWWtfZi1i?oc=5",
-      "pubDate": "2026-08-13T20:19:00+09:00",
-      "source": "ｄメニューニュース"
-    },
-    {
       "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年8月13日）",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9naS1PU3JNUVlrbFBSZGYxVXVCcXVKVW5IeFNaQktzcjJzN2NZSGR2eWd5eGcwdFZkYVVoLTR4aURGWVQ1Sl9RSGl4UGJ0cElZRWZ1M1ByX05jdTd4bEhsV3hSdw?oc=5",
       "pubDate": "2026-08-13T20:00:00+09:00",
@@ -62,7 +74,7 @@
       "title": "ドル・円は底堅い、ややドル売り｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tUi00Mnc5RlFpSWVfZWdQNC13OHZ3bVNwdk5JWkowVExqU2FNVlRYWEU2UWQ2SGVfZ1Q4cDJZNVAtNzBpb05qZ3ZWNHY5YlMwOHc?oc=5",
       "pubDate": "2026-08-13T19:35:00+09:00",
-      "source": "zai.diamond.jp"
+      "source": "ザイFX！"
     },
     {
       "title": "NY為替見通し＝ドル円、中東リスクのドル買い継続か 米7月PPIも焦点(トレーダーズ・ウェブ)",
@@ -75,18 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNakpoR3FGU2VOSnRYTG44SmMydWtFclM2R1JicFRYTWNQRFNrTlljQUJhaEVrTEtUUWlyeFZIU2tTa3h4ZUpfRXpHWVdKUTA3NFRHZkprd0VUUlZiMFlVUUs2UmhpZDNIVmZvM2NnVXV1aXppRlZEbTRqelRBdlZZWWpRZ25wMVk?oc=5",
       "pubDate": "2026-08-13T19:25:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "協調為替介入を受け利上げペースは加速するか 高市政権から9月利上げ容認メッセージが出るかに注目 野村證券・宍戸知暁",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5dXlZVjZyWmdQUHpqNGx1TXFnUS04aG00amJvMTJLbE5QMGVGMjUwZzJKSXlDbWw3aXJNLVpBeHN2QjhJbTFXamZXbjFMYjVUOG41Q1pCVF93bWpndHVN?oc=5",
-      "pubDate": "2026-08-13T18:51:16+09:00",
-      "source": "nomura.co.jp"
-    },
-    {
-      "title": "ドル・円は伸び悩み、上値は重い｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90d0VfckhueUFydFlYX0cybU8tV3JVOFZJNk1QblI2LXdDQlBVSUI0YXlJZXpFbXhCbnFUVUF3eHpNck5fc2FGNXRWanY2Z1I3anc?oc=5",
-      "pubDate": "2026-08-13T18:37:00+09:00",
-      "source": "zai.diamond.jp"
     }
   ]
 }
