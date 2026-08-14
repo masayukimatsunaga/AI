@@ -1,14 +1,80 @@
 {
-  "updatedAt": "2026-08-14T17:04:05+09:00",
+  "updatedAt": "2026-08-14T18:29:21+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "欧州為替：ドル・円は下げ渋り、159円台を維持",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZaXN6akNUS2Zmc01UMlVuaVR6eGVHNHl0X2dyVnpXR3NlNHdycWZENmw5OURjZ0tNczVtejlzRFdLa1laYlUzeVZ4S0ludE45QlE?oc=5",
+      "pubDate": "2026-08-14T18:24:01+09:00",
+      "source": "株探"
+    },
+    {
+      "title": "ドル円一時１５９．０７レベル、ユーロドルは１．１５５８レベル＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XXzIwMjVpbFljQXhoNWRwOVRfQmZvMV9WeTRzVmc4RjlDWE1Cc3RTXzI0MW5WWm9mdEJxZ1VjelgteTRlV20yMg?oc=5",
+      "pubDate": "2026-08-14T17:57:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "【ドル/円、来週の見通し】ドル円、160円回復も？日銀9月利上げ期待高まるも、円安止まらず・・・＿2026/8/14",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GakhIOEhmUm44djhaUEhoOEJDRkt1VjFMMXA4OHJrVkpQVjRTdTZrUDVxaXBtNW5SdjBvajN2OUhVQmt3MTloQzMtOHlYSHNkWWpjQi1jU1pmUG40MGwyTkkzQQ?oc=5",
+      "pubDate": "2026-08-14T17:56:42+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "日銀為替市況（ドル円・午後５時）",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBSZTRjNjJweWlTOXJTaXBxSXJDREZYTFFVRTZrU2tIR09kaWMzUEl2YXJkcVY1bUMtOUlVdlhOa25YN2J2aXc?oc=5",
+      "pubDate": "2026-08-14T17:53:49+09:00",
+      "source": "みんかぶ"
+    },
+    {
+      "title": "ドル円、さえない 159.13円まで本日安値更新(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU0NfdVQxN3FfQzlJaTlleFBCWEsxSGNmWlAwcDM2cHpIUWZ0Q0h2TS1GeWg5SWRWWDNFTTR5aVdONkRKQml0dVFfZzZuUlNPOFZUQ2pkODlvSEc4ay01RzlSOVBoNk54UHFjU2hFU01ieXBza0x1c2xPem5tZzVnLXBUVzhRMFU?oc=5",
+      "pubDate": "2026-08-14T17:27:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京為替：ドル・円は下げ渋り、午後は下値の堅さも(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmx3QXhWQVhXTW5tZlZFZDB4ODhIVkdUSUpVOVFVbnhQLVVVano5RTBaaGR5S3NYRzJYQnV3SnBaSktoODhUVnp1TXhkcTVxcUhkY2tBMlhUWXJCM2NQRzhlT3h3NHRkTGQzNUxjSmJsS2h2NEpYdUt1SlNLZ2o4SnMteVRwVlk?oc=5",
+      "pubDate": "2026-08-14T17:24:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "円相場、１５９円２０～２１銭＝１４日午後５時現在",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NSzB4aE9HaHZjaDlZZkVHUlJobFRFWDRMYnhIRlZVRWZKVnBCWG5ISWF0TW93cERGLTg4ekt4cDF4TEJWN0E2TzhkU3ROYjg5NnZ4QQ?oc=5",
+      "pubDate": "2026-08-14T17:09:00+09:00",
+      "source": "時事通信ニュース"
+    },
+    {
+      "title": "電通Ｇ、上半期は黒字転換 円安やビル売却益で",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWVNMVTktem92NF9nQmhhdktDZlVGcUZ5SnBDd1RqWUJxVmc1bkp3V2JCYjVaZUdCbEV4amR0c05MczhiSVlITWdRMi15VUt2c014aGZWeUVxRmdxQnpHV0NVYkVWcy1qdlM0Sk5INFlwUk16eGctYXR2TDZSRjdVTg?oc=5",
+      "pubDate": "2026-08-14T17:05:43+09:00",
+      "source": "ロイター"
+    },
+    {
+      "title": "ドル円見通し｜企業物価上昇の影響は？日銀利上げ観測高まるも160円に向け円安進行 2026年8月14日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aQkVqSWFBQ0ZiNDhlSDdpTzdiV19weHBSMF9ZNnFJSEt5VGFfUHRfaVdaUWVZREVqVmJuU2JXMXJ2SDJYdXJ2Q2RoLWZxZTlwelpTWml2RFNiR1YyWnA3UjlVMA?oc=5",
+      "pubDate": "2026-08-14T17:04:40+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "電通Ｇ、上半期は黒字転換 円安やビル売却益で（ロイター）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04S1haenNQQ2d1WXAxZ3lyNTdpRmc2ZHZIQkZWeXRPMjNTSm5EWHdxbldZRmpiMGc1OFVBeUJzc3RHRVMwem1UMjdmQ1pDNFZQak8tQlJYM0NfaWowVTJVcDVLUy12Q3lWVEhBOXItS1JEeXd1VGNsZXJBeUVyZ2s?oc=5",
+      "pubDate": "2026-08-14T17:04:04+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "東京為替：ドル・円は下げ渋り、原油相場を注視 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmOG1zVW1pUmV0VXBRQmRlQW5POUVna3RHTGJWVDhhYXFNXzl5SjN6ZDRNWlpjNEZ1NW1UZ25SRU1OU3BqbEJIXzBEM05iT0o5RV9YNGkwSU9TSHVEUTBqX2lJMS1Ed00?oc=5",
+      "pubDate": "2026-08-14T16:15:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
       "title": "日銀の次の一手を待つ為替市場、円相場は午後に対ドルでやや上昇基調",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVnI5a1J0TE9meW5ULV9XMkI2WU4zY3RzLXhfQS1Cd0t2M2J0SzFIWjFRbE83NXliVENSMmJLRFRuRzRqWDdaZ2U5Sm43MWpCdEJxOTJYWmxxZXY1Tkx4YVNUSFhJY0pIcm5RRURDRUpiTHlIbVRLQ0tyYmVDUDJ1REhBTGtMVW1SUU8zUExMUTM?oc=5",
       "pubDate": "2026-08-14T16:14:28+09:00",
-      "source": "Bloomberg.com"
+      "source": "bloomberg.com"
     },
     {
       "title": "日銀の次の一手を待つ為替市場、円相場は午後に対ドルでやや上昇基調（Bloomberg）",
@@ -17,75 +83,9 @@
       "source": "Yahoo!ニュース"
     },
     {
-      "title": "ドル円１５９．２５近辺、ユーロドル１．１５４５近辺＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hZkRfTWE5S0hsNjUyTmY4NFN6NE1oTWtaN3JReURpTnUyMkFPUXVtX3F1Ul83OWVRb0JJQTJyeGU1UDhlT2M1eA?oc=5",
-      "pubDate": "2026-08-14T16:02:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
       "title": "外為：1ドル159円24銭前後とドル安・円高で推移(株探ニュース)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2g4U1dIUXYxc3ZMWGdzSWgtSllrcEwzYWhOcnZwWlVMUTVzV2M0R2lURGVweXRKNXY0NnkwUXNFeVRHTGRtaVVLU0VqcFFucV9JeWFWNDdpYndKSUc4NVVBRTJjVFRjbGZUejNBVDcwejlFN0NLUzMybElFUTFiT1BEVWdvUWs?oc=5",
       "pubDate": "2026-08-14T16:01:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル・円は伸び悩みか、米引き締め期待後退や為替介入への警戒",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54VmRnYVZCb1ZCbUpDOTdfT1ItZzFFR2NFbGZWbTlhZ3lIYmhyUWtjVEFlZnRCR0xmVlNQMHE1NlJMWXYzcHQtbUdrOHlmcmI2aHc?oc=5",
-      "pubDate": "2026-08-14T15:47:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "午後にやや円高の動き、日銀の９月利上げ観測報道で＝東京為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CS0M5SkxDalI4ckRWaFUxSWRiS2s0cWw3aGV1UFNmRkZlQ2F6c0Q0dmVyZ1ktZXNGNEUyNjBIZ2xyRjVHSDZBaQ?oc=5",
-      "pubDate": "2026-08-14T15:45:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "日機装、通期予想を上方修正 円安や一過性利益で（ロイター）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WSjBYYzlyUmQxYTBrWVlIQzF1QU16N1NRNVA3ZDNBS2VDbjB5bjhhYkZkenFxUkZpVkFtb2N2cWJRenNHVjhNZkw2Q3h5MFdHTEdDV0FEOHAxVEx1WWdjcy1ZRUxrSVpCdTVUeWhrX3llVG95bTU0S3BhODhRclU?oc=5",
-      "pubDate": "2026-08-14T15:42:57+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "ドル／円足踏み継続へ、協調介入警戒が160円超え抑制＝来週の外為市場",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sdGRJb0lsb05TYzMtN2Y1VWRPaEQ4UGUxU1p3OUhlUm83TVlvOE5UVFU1d0hwVU9IZl9MOF9KaEtYWWRjOFJRZW80Rm9aOGZVb1VWcFpYVkJJYXp6N2RkRFJ1R0UySFBOZWRjZHJVSzNyS2wyYlhvWA?oc=5",
-      "pubDate": "2026-08-14T15:42:00+09:00",
-      "source": "ロイター"
-    },
-    {
-      "title": "【これからの見通し】日米金融政策見通しがドル円を押し下げるか、きょうは米小売売上高 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UMC1wbDA1TkVucm5rY3pGdVM4d2syd2tlWU1LZmx2VzZrZHE2QlptY0NsMGNkWDU5ZzJsS1lpYndpNnp0T0gtbw?oc=5",
-      "pubDate": "2026-08-14T15:39:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "１４日の東京外国為替市場＝ドル・円、１５９円台前半で推移(ウエルスアドバイザー)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSjljbXVOZW9zN0ZjTExCNW0wRGtmTHNmZUdVNGNRVHdvcXgyd2o3QkdSekZRcFBpbVNQY3FDZDdTQU1lT2dseFJCTk1uUW1TcjctUlk2dHhsdC0xb0VnZldGYVZWbVpFLTNiWkJ0RGRtbklPSWpNWEJPR29JZ3ZKNEkteHBaUVU?oc=5",
-      "pubDate": "2026-08-14T15:35:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "１４日の東京外国為替市場＝ドル・円、１５９円台前半で推移 速報",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5rcjBDYjVnRFBkWnc3ZW1sMEZHS0FONU9nblFsOVFzZEE1UVNGYWp6R05iTGx6aHoxNHZrTThRd2ZJQ0JpdGcw?oc=5",
-      "pubDate": "2026-08-14T15:35:00+09:00",
-      "source": "kabushiki.jp"
-    },
-    {
-      "title": "FX個人投資家動向｜日銀の利上げペース加速観測で円が小幅に上昇、欧州通貨が買われる 2026年8月14日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaZTc2aUFxcVd1dTMzR1pqY0JxZVBLQmNGRWxtNGxVQ0ZzU0JvZGlBejJ4aU91QU5tYWp1OVZ4cmoyLVFVejZ0NmdFWGdFX2k3LUJuTExDS3pJdW9Pc3hTLUxsUQ?oc=5",
-      "pubDate": "2026-08-14T15:11:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル円一時１５９．１７レベルまで下落、日銀９月利上げ想定の関係筋報道で＝ロンドン為替 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OUkM5WWJVRHp6X09VNzRyc2w2WW9oN2x6U3VCVi1FY2k4ejVxSUtsN2Z4aXkwclVmajRsYjRHaDEwWkJYV2M4eQ?oc=5",
-      "pubDate": "2026-08-14T15:09:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "東京外国為替市場概況・15時 ドル円 小幅安(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMTA4RGd0dldtZmhuLTcxQjVrNEdBYmRRaXl4dkZCMkJmT194dHhueTR0Vmw5U05pYkxPZWhuRE8xbk9uZkkzZjgwdFNOdUFfUWlDZVRIVnltVjF0T3plMUFWZTI1YjIybl84clcxVEhaSnp5Q1hSejBJWUJIYkxUck92SEhIazQ?oc=5",
-      "pubDate": "2026-08-14T15:06:00+09:00",
       "source": "Yahoo!ファイナンス"
     }
   ]
