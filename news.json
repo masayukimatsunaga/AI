@@ -1,9 +1,51 @@
 {
-  "updatedAt": "2026-08-14T19:41:39+09:00",
+  "updatedAt": "2026-08-14T20:30:30+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル・円は変わらず、動意は薄い(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVm00azg2OU1xRGZ1UmVURmMtbF9NT21TV05tRHEtM0RRS0FXVjZ5ZDQxMHlYdzBvbWVLSTFQcEdhSW9aY19MVVk1aDZ4RVZqaEtpWmd6QTFPVGhRRGFPekpoUWlBTnRtY2g2TGo1YTB3MEJSVjJtTDAydmNZOFlaczkzNmx3TzQ?oc=5",
+      "pubDate": "2026-08-14T20:23:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "〔決算〕アサヒGHD、6月中間純利益が過去最高＝円安、土地売却も寄与☆差替(時事通信)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLTBZc3k5TVJhbkp1RUpJd1F1V0NkWXRZYmhFa29DcWJpdjhuQUdFNDI4em9PSVRNN2doQ0lSdmJEWTl3NmVPNVRFNHcwWkhURC1ZRFFiZDFGelgxM1Y1QTVrTWdiMF9CSXpzU1E2dHY2Qzh2MHB6QzhWQjFRS0tJWHlWZ0xrcWM?oc=5",
+      "pubDate": "2026-08-14T20:21:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル売り優勢も値幅は限定的、ドル円１５９円台前半＝ロンドン為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54R2Z0eUQySVZaYkFGem90NHdQRzE4cnU1NEJ2MzJBRHlqVmFZeTZuV2pYbW1HNWx4WUFvR0dweW85OF9RV3N6OQ?oc=5",
+      "pubDate": "2026-08-14T20:03:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年8月14日）",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3ZW1fWXBlejdmMnBGYkNQc05YZjg3MGxyVnRjUVFxc05IQ210NlVHd3VUUHpnUWRBdHVYSjY5a1l3aGJvblF3ZHRsbXZiWHczRi1sd1FCQVRTSDRPNlBiWkxHVQ?oc=5",
+      "pubDate": "2026-08-14T20:00:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル・円は小動き、様子見ムードで｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WUGtTT0hnSU16bjlaNXhSa0tFWkxCbW1FZ0JKY3FwZTBlcmk3R2dqaVpqSHh6T2d5aDFmNjZfeWl5MndLYnJyYm5mU05mdWw0Z3c?oc=5",
+      "pubDate": "2026-08-14T19:38:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円１５９．１５近辺、ユーロドル１．１５５５近辺＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2MThNbGxhbjAzd2NzekxOeFA4WWxLR0t0ZHJMVmFiZGFIZkZfaTRFN25RZEJodG9VSmdmMmVTTVFjTHNqTzN3cQ?oc=5",
+      "pubDate": "2026-08-14T19:36:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "NY為替見通し＝ドル円、まずは米7月小売売上高に注目 上値試せば介入警戒感高まる(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjZpZWZyQmdQeXRUTjVjUE80WG5SdkM1UzlfNTZDQzd5cUNBbmE2VFpGaHJvNjBWRFhFYU1XallCZW1DWUdYeGp5Z3Z2cG5mSE5OODFzN1c2SlZfVmtMZGE0LWs3dEpSRy1FTTZGQ3JTUWNfY3NQRWQ5NGIyOUdkSEphYVFaS1E?oc=5",
+      "pubDate": "2026-08-14T19:34:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "円相場 いくぶん値上がり 1ドル＝159円台前半",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DRFQ3SzB0VTR6UmtJRzFmZEFTX2pIbDI1dzY3bjZycVBoZXJWZ285dnYzLXpORGQ0VFhEcUlfMm1aX0g5eXFhQy1NRlY5aVN1WGlWYUN0NjcxRWh6QUt3?oc=5",
@@ -45,48 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBSZTRjNjJweWlTOXJTaXBxSXJDREZYTFFVRTZrU2tIR09kaWMzUEl2YXJkcVY1bUMtOUlVdlhOa25YN2J2aXc?oc=5",
       "pubDate": "2026-08-14T17:53:49+09:00",
       "source": "みんかぶ"
-    },
-    {
-      "title": "ドル円、さえない 159.13円まで本日安値更新(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU0NfdVQxN3FfQzlJaTlleFBCWEsxSGNmWlAwcDM2cHpIUWZ0Q0h2TS1GeWg5SWRWWDNFTTR5aVdONkRKQml0dVFfZzZuUlNPOFZUQ2pkODlvSEc4ay01RzlSOVBoNk54UHFjU2hFU01ieXBza0x1c2xPem5tZzVnLXBUVzhRMFU?oc=5",
-      "pubDate": "2026-08-14T17:27:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "東京為替：ドル・円は下げ渋り、午後は下値の堅さも(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmx3QXhWQVhXTW5tZlZFZDB4ODhIVkdUSUpVOVFVbnhQLVVVano5RTBaaGR5S3NYRzJYQnV3SnBaSktoODhUVnp1TXhkcTVxcUhkY2tBMlhUWXJCM2NQRzhlT3h3NHRkTGQzNUxjSmJsS2h2NEpYdUt1SlNLZ2o4SnMteVRwVlk?oc=5",
-      "pubDate": "2026-08-14T17:24:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "円相場、１５９円２０～２１銭＝１４日午後５時現在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NSzB4aE9HaHZjaDlZZkVHUlJobFRFWDRMYnhIRlZVRWZKVnBCWG5ISWF0TW93cERGLTg4ekt4cDF4TEJWN0E2TzhkU3ROYjg5NnZ4QQ?oc=5",
-      "pubDate": "2026-08-14T17:09:00+09:00",
-      "source": "時事通信ニュース"
-    },
-    {
-      "title": "電通Ｇ、上半期は黒字転換 円安やビル売却益で",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWVNMVTktem92NF9nQmhhdktDZlVGcUZ5SnBDd1RqWUJxVmc1bkp3V2JCYjVaZUdCbEV4amR0c05MczhiSVlITWdRMi15VUt2c014aGZWeUVxRmdxQnpHV0NVYkVWcy1qdlM0Sk5INFlwUk16eGctYXR2TDZSRjdVTg?oc=5",
-      "pubDate": "2026-08-14T17:05:43+09:00",
-      "source": "ロイター"
-    },
-    {
-      "title": "ドル円見通し｜企業物価上昇の影響は？日銀利上げ観測高まるも160円に向け円安進行 2026年8月14日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aQkVqSWFBQ0ZiNDhlSDdpTzdiV19weHBSMF9ZNnFJSEt5VGFfUHRfaVdaUWVZREVqVmJuU2JXMXJ2SDJYdXJ2Q2RoLWZxZTlwelpTWml2RFNiR1YyWnA3UjlVMA?oc=5",
-      "pubDate": "2026-08-14T17:04:40+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "電通Ｇ、上半期は黒字転換 円安やビル売却益で（ロイター）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04S1haenNQQ2d1WXAxZ3lyNTdpRmc2ZHZIQkZWeXRPMjNTSm5EWHdxbldZRmpiMGc1OFVBeUJzc3RHRVMwem1UMjdmQ1pDNFZQak8tQlJYM0NfaWowVTJVcDVLUy12Q3lWVEhBOXItS1JEeXd1VGNsZXJBeUVyZ2s?oc=5",
-      "pubDate": "2026-08-14T17:04:04+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "東京為替：ドル・円は下げ渋り、原油相場を注視 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmOG1zVW1pUmV0VXBRQmRlQW5POUVna3RHTGJWVDhhYXFNXzl5SjN6ZDRNWlpjNEZ1NW1UZ25SRU1OU3BqbEJIXzBEM05iT0o5RV9YNGkwSU9TSHVEUTBqX2lJMS1Ed00?oc=5",
-      "pubDate": "2026-08-14T16:15:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     }
   ]
 }
