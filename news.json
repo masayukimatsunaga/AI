@@ -1,20 +1,44 @@
 {
-  "updatedAt": "2026-08-14T20:30:30+09:00",
+  "updatedAt": "2026-08-14T21:29:37+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "ドル・円は変わらず、動意は薄い(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVm00azg2OU1xRGZ1UmVURmMtbF9NT21TV05tRHEtM0RRS0FXVjZ5ZDQxMHlYdzBvbWVLSTFQcEdhSW9aY19MVVk1aDZ4RVZqaEtpWmd6QTFPVGhRRGFPekpoUWlBTnRtY2g2TGo1YTB3MEJSVjJtTDAydmNZOFlaczkzNmx3TzQ?oc=5",
-      "pubDate": "2026-08-14T20:23:00+09:00",
+      "title": "ドル円、一時158.89円まで下落 ユーロ円も183.80円台まで失速｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnbm1sSmFQbmN4aE1CYUR6d2VoeXVQSXJXVHZ1OFczSzRXZjB3YVhBNXp2cUtnWlQzd3JybmJfVmtORVpXSDlsajVCZXFVQmt1Q1E?oc=5",
+      "pubDate": "2026-08-14T21:16:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、一時158.89円まで下落 ユーロ円も183.80円台まで失速(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ2pKYUI4NkQ1OVo2VlhCbnpnWXVtMFU5TWgya3FPV1dGU0UtZjRoakpWcFVSTklyVTM4bjd1SVpDTk5lZ216cXdMaUUwN1BEeHZwcl80N0RRNG5INGpxUjdqRE9wOWY3eHJTaWx2ZzJKMEJieHJ5V2xWc0FJbFFTTURjbEZjdFU?oc=5",
+      "pubDate": "2026-08-14T21:16:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、１５９円台割れ 円買いの動き＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBREVBamRCZFlLNlQySUpOaUNTaVFneEJwVHA1VDlSNzM4SUlpTkZyU3ZTc2tVYjBEWktLdE81MUR3ZGRsSlV0Zw?oc=5",
+      "pubDate": "2026-08-14T21:12:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル・円は変わらず、動意は薄い｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80TTg1T1lVODg2bWMtQVpQZTBJSjdZdjFFV0lfSkFpN3hJRXNsZkQ0TFM2UmhOSlJ1OVN5c3F0OWladEJIdFRvU201YzNtQTVxS2c?oc=5",
+      "pubDate": "2026-08-14T20:33:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "〔決算〕アサヒGHD、6月中間純利益が過去最高＝円安、土地売却も寄与☆差替(時事通信)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLTBZc3k5TVJhbkp1RUpJd1F1V0NkWXRZYmhFa29DcWJpdjhuQUdFNDI4em9PSVRNN2doQ0lSdmJEWTl3NmVPNVRFNHcwWkhURC1ZRFFiZDFGelgxM1Y1QTVrTWdiMF9CSXpzU1E2dHY2Qzh2MHB6QzhWQjFRS0tJWHlWZ0xrcWM?oc=5",
       "pubDate": "2026-08-14T20:21:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、米小売売上高と介入警戒の綱引き 160円回復なら追加介入の瀬戸際",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yYjBVOXBId1pGbWpGSWp1eld5bHNHdjJHT2RQcVU1MzdfMlEzOVFXWmFnR09yQzZra2E0S0IyS3BwemducFdhYnhPajF5cW9fdU5oaUZSWm92MmdWV1c2Um1ZZHVGcTVzMXFmUURmYkJpTTY1?oc=5",
+      "pubDate": "2026-08-14T20:05:00+09:00",
+      "source": "BigGo ファイナンス"
     },
     {
       "title": "ドル売り優勢も値幅は限定的、ドル円１５９円台前半＝ロンドン為替概況",
@@ -63,30 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JQjJRNlRpUURDd0hFTmxFX3J0Qmk0cm9UUVlJbjdWbE13cEN0a3ExSEpKWGhmc3RpalFRcUs5X0lKWk1QaDFqXw?oc=5",
       "pubDate": "2026-08-14T19:00:44+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル・円は下げ渋り、159円台を維持｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iQ0M3OVV5MEVBdThTNXdzT3BiYXNtUnJoVGJLd1pXYXVsZTJPeUNQRExZUUxhbUZoOGthQ2tTdXA4YnZMaXBRdDdBOG05cmNvcnc?oc=5",
-      "pubDate": "2026-08-14T18:34:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円一時１５９．０７レベル、ユーロドルは１．１５５８レベル＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XXzIwMjVpbFljQXhoNWRwOVRfQmZvMV9WeTRzVmc4RjlDWE1Cc3RTXzI0MW5WWm9mdEJxZ1VjelgteTRlV20yMg?oc=5",
-      "pubDate": "2026-08-14T17:57:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【ドル/円、来週の見通し】ドル円、160円回復も？日銀9月利上げ期待高まるも、円安止まらず・・・＿2026/8/14",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GakhIOEhmUm44djhaUEhoOEJDRkt1VjFMMXA4OHJrVkpQVjRTdTZrUDVxaXBtNW5SdjBvajN2OUhVQmt3MTloQzMtOHlYSHNkWWpjQi1jU1pmUG40MGwyTkkzQQ?oc=5",
-      "pubDate": "2026-08-14T17:56:42+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "日銀為替市況（ドル円・午後５時）",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBSZTRjNjJweWlTOXJTaXBxSXJDREZYTFFVRTZrU2tIR09kaWMzUEl2YXJkcVY1bUMtOUlVdlhOa25YN2J2aXc?oc=5",
-      "pubDate": "2026-08-14T17:53:49+09:00",
-      "source": "みんかぶ"
     }
   ]
 }
