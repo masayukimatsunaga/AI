@@ -1,14 +1,32 @@
 {
-  "updatedAt": "2026-08-14T18:29:21+09:00",
+  "updatedAt": "2026-08-14T19:41:39+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "欧州為替：ドル・円は下げ渋り、159円台を維持",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZaXN6akNUS2Zmc01UMlVuaVR6eGVHNHl0X2dyVnpXR3NlNHdycWZENmw5OURjZ0tNczVtejlzRFdLa1laYlUzeVZ4S0ludE45QlE?oc=5",
-      "pubDate": "2026-08-14T18:24:01+09:00",
-      "source": "株探"
+      "title": "円相場 いくぶん値上がり 1ドル＝159円台前半",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DRFQ3SzB0VTR6UmtJRzFmZEFTX2pIbDI1dzY3bjZycVBoZXJWZ285dnYzLXpORGQ0VFhEcUlfMm1aX0g5eXFhQy1NRlY5aVN1WGlWYUN0NjcxRWh6QUt3?oc=5",
+      "pubDate": "2026-08-14T19:05:18+09:00",
+      "source": "NHKニュース"
+    },
+    {
+      "title": "外為：1ドル159円14銭前後と小幅なドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjJrWEtiTUhwdU5JV09XMGtTNE9GZkM4TUxRZ3d5MkpxcFctYkc4UnlrVTlNc05WeVVvNnRjeWJuRmprVmFwTktCcWtzZjdxNm9RdWlhWHpWbjRGY3FFZFZZR0xKRUVWOUd1dk0yZEU5Tlh5TmNJZldZbVlzZzhvcVVOREctakU?oc=5",
+      "pubDate": "2026-08-14T19:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ロンドン序盤はドル円軟調も、他市場の動きはまちまち＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JQjJRNlRpUURDd0hFTmxFX3J0Qmk0cm9UUVlJbjdWbE13cEN0a3ExSEpKWGhmc3RpalFRcUs5X0lKWk1QaDFqXw?oc=5",
+      "pubDate": "2026-08-14T19:00:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル・円は下げ渋り、159円台を維持｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iQ0M3OVV5MEVBdThTNXdzT3BiYXNtUnJoVGJLd1pXYXVsZTJPeUNQRExZUUxhbUZoOGthQ2tTdXA4YnZMaXBRdDdBOG05cmNvcnc?oc=5",
+      "pubDate": "2026-08-14T18:34:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "ドル円一時１５９．０７レベル、ユーロドルは１．１５５８レベル＝ロンドン為替",
@@ -69,24 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmOG1zVW1pUmV0VXBRQmRlQW5POUVna3RHTGJWVDhhYXFNXzl5SjN6ZDRNWlpjNEZ1NW1UZ25SRU1OU3BqbEJIXzBEM05iT0o5RV9YNGkwSU9TSHVEUTBqX2lJMS1Ed00?oc=5",
       "pubDate": "2026-08-14T16:15:00+09:00",
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "日銀の次の一手を待つ為替市場、円相場は午後に対ドルでやや上昇基調",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVnI5a1J0TE9meW5ULV9XMkI2WU4zY3RzLXhfQS1Cd0t2M2J0SzFIWjFRbE83NXliVENSMmJLRFRuRzRqWDdaZ2U5Sm43MWpCdEJxOTJYWmxxZXY1Tkx4YVNUSFhJY0pIcm5RRURDRUpiTHlIbVRLQ0tyYmVDUDJ1REhBTGtMVW1SUU8zUExMUTM?oc=5",
-      "pubDate": "2026-08-14T16:14:28+09:00",
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "日銀の次の一手を待つ為替市場、円相場は午後に対ドルでやや上昇基調（Bloomberg）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XMFROeWY0Wnk4OERZWThlQTZoOGpDNW9oV3c4U0FPc29RNDVmTWdDUzlYMGFhYUVsRVhjQmZ3bTBWWnYzeEhZWl8wQ3A1YkRtMzVBek1CSlpUcXV0bHg0LVhHbGJXcWpVV1NwMTZOdUJoeHFSM1NYQ3IxdVNNQmM?oc=5",
-      "pubDate": "2026-08-14T16:14:28+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "外為：1ドル159円24銭前後とドル安・円高で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2g4U1dIUXYxc3ZMWGdzSWgtSllrcEwzYWhOcnZwWlVMUTVzV2M0R2lURGVweXRKNXY0NnkwUXNFeVRHTGRtaVVLU0VqcFFucV9JeWFWNDdpYndKSUc4NVVBRTJjVFRjbGZUejNBVDcwejlFN0NLUzMybElFUTFiT1BEVWdvUWs?oc=5",
-      "pubDate": "2026-08-14T16:01:00+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
