@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-08-15T10:51:25+09:00",
+  "updatedAt": "2026-08-15T12:06:51+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "円安や中東情勢緊迫化で値上げ続きの中、低価格路線を強化する小売り各社…販売コスト抑える「業態転換」",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IQVVXVzEyUHpWMDhtYU5admdmUno1c2N3YXJyQ195a3IwTEhMYk9uU2NGUDhPNG4wWXRxVmoxT0tLVURXNzQ3aGNvQ0JoUXZnbnU5VjExZUNDRmZ4NjZZTHJGcjJ3VjZ1ZGV4WE9qZ3YxRjY5Umd2RzAxTF8walk?oc=5",
+      "pubDate": "2026-08-15T11:30:10+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "協調為替介入を受け利上げペースは加速するか 高市政権から9月利上げ容認メッセージが出るかに注目 野村證券・宍戸知暁",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5dXlZVjZyWmdQUHpqNGx1TXFnUS04aG00amJvMTJLbE5QMGVGMjUwZzJKSXlDbWw3aXJNLVpBeHN2QjhJbTFXamZXbjFMYjVUOG41Q1pCVF93bWpndHVN?oc=5",
+      "pubDate": "2026-08-15T11:12:11+09:00",
+      "source": "nomura.co.jp"
+    },
     {
       "title": "弱い米指標でドル安優勢に ドル円は下に往って来い 下値での買い意欲が強い＝ＮＹ為替概況 -",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kNEJ2T2tLZGVjQmFjakJxQTJsZ29paHpjZURKZ3B3Ni1HRXo1NXd6SGVZaHVmVkQ4T203SUg3d0V0ekYyeml1ag?oc=5",
@@ -24,7 +36,7 @@
     },
     {
       "title": "かつては円高に泣き､今は円安に苦しむ日本経済､｢日米通貨同盟｣は本当に｢円安につける特効薬｣となるのだろうか",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SQnU0MEhnSkxGSzJCa21tcXY0dlBiUmlUVl81NXJuN2lXZnZHaFdJbE9HMC13VmJOcWxKbUhRcjF5TWdmZGNZbDJLN0FOaFNvZThjcW51R1hIbDQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wSFFRcmt6Q0ZjOTJxaDhyNlR6QlE1b1VBZDRDTG1yNF91M2FpREg0Zi1JeVpVcUxESG8tYndpTVd1b3kyME5xa2ZzOUlnUVV2NXVyOG53eUJjWFE?oc=5",
       "pubDate": "2026-08-15T06:30:00+09:00",
       "source": "東洋経済オンライン"
     },
@@ -44,7 +56,7 @@
       "title": "日経平均、7万円回復をうかがう 円相場は160円が心理的節目",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kTUdyNVc1QWFPc2RaS05kaWtUMXllTzh4VUd5VzJ6b255dzBSc0twTEQtVDVDMVNSY0Z6M3dpenpDNTNpa0RXTGZYaU9ZdXBpV1ZjTlRNbUhhd1BaNlJySWNkVjQ1S0JJclB0SA?oc=5",
       "pubDate": "2026-08-15T04:00:00+09:00",
-      "source": "日本経済新聞"
+      "source": "nikkei.com"
     },
     {
       "title": "週間為替展望（ドル／ユーロ）-ドル円、イラン情勢と介入に警戒(トレーダーズ・ウェブ)",
@@ -65,12 +77,6 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ドル円、158.98円前後 ミシガンへの反応は限定的｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80LXh4MEN3VXpFSm5jNVg2NXRRRFNJbV9PQ05jNnhjdVR5ZmtyUER4Tk5qdDRHd01ZRy1adU0yTHllRjRqdnBSa3gxTzRZbnE2RUE?oc=5",
-      "pubDate": "2026-08-14T23:08:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "ドル円、一時１５８．６０円付近に下落もすぐに戻す 米小売売上高は予想外に弱い内容＝ＮＹ為替序盤",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByWVZIOVpQVlBCSnV2cVZ1NS1IMWU3Sy1GRHNqN1UzTzVjRzFVbDZVdVlSQ3VfMExkN2cxSVhhczJJeHM3WEpOQg?oc=5",
       "pubDate": "2026-08-14T22:23:44+09:00",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLVNkTUJiX2dGS21QU0xvbk1uTTJoZXlxS2R2VjZuenY2eUVhQWF4Y25CbW1zVE80MkJMV0hmSmtIOWhfSFZNVS1GUklSUWdZSUxpLW1YSVNSLWowQnc3d01GSkJPVzlGSFdJY1IyUnY5Tm91TXJMdjh6eW93TG5faTNMTl9zREE?oc=5",
       "pubDate": "2026-08-14T22:10:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円のピボットは１５９．００円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BcXlIT0I5TkFXNlU3eGJhU1cxLVRqY2U0cnVaaElWSFQ3ZXdZUUw2aXZwY3JiUHpLZVlIWmQwOU82R2I2TjJTZA?oc=5",
-      "pubDate": "2026-08-14T22:00:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
