@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-16T00:01:00+09:00",
+  "updatedAt": "2026-08-16T00:36:36+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "円安で私たちの生活はどうなる？！円安・円高のメリットを比較しよう！",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GTS0zZm1hWmYwOWQySWhvaUV0c0EzWWs0UzA2WHpRY080TWYwb1JSSzZia2ExSzN1ZnpRVzZYMEhhYVpqMDJiVDJWVQ?oc=5",
+      "pubDate": "2026-08-16T00:31:05+09:00",
+      "source": "TVer"
+    },
     {
       "title": "為替介入研究所、7月末の円買い介入の効果を「半減期8営業日」と判定 基準は結果の判明前に公開",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNOTk4RUhXbmhsVjlPc2RBU1dYMHVBQjVfX0EyNjQ0LVk4SlRPSjJQdEpZaWtzenZySHdEVXlzekwwa0FzRnQxTExnOEhacnc?oc=5",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kNEJ2T2tLZGVjQmFjakJxQTJsZ29paHpjZURKZ3B3Ni1HRXo1NXd6SGVZaHVmVkQ4T203SUg3d0V0ekYyeml1ag?oc=5",
       "pubDate": "2026-08-15T05:40:44+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ビール３社 売上高最高…中間期 円安で海外事業増収",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BVUx3WVpjNWViX1B5U3E5dGFWLUN1WWhIY21rTzZrUjVzdjZIaThBYUlrLXpHejYwaklIRjIyaWxTcDdjekNTZXF1TkZ3S1BXdzR6SUJRV1c3TWtmMU5uSWJLdXU?oc=5",
-      "pubDate": "2026-08-15T05:00:00+09:00",
-      "source": "読売新聞"
     }
   ]
 }
