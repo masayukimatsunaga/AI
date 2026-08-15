@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-16T05:40:59+09:00",
+  "updatedAt": "2026-08-16T06:36:56+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "Yendoller（ドル円研究所）バックテストで「未来の情報」を使わないためのドル円データを、MT4/MT5向けに無償公開",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mcG1SRzBibldrSmk5N1B4WHh4bmNPYnlfaTJtSW53RlIyQ1FNVDdja0tUMEc4NmxZbmVfc2FySS1sM1dJTFFSeS1Ga0lKM3M?oc=5",
+      "pubDate": "2026-08-16T06:29:00+09:00",
+      "source": "Newscast.jp"
+    },
     {
       "title": "円安時代、旅行との付き合い方 「旅と旅のあいだ」を豊かに過ごす",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wbGpGQWEwRktaaFEzNDFqaldlYm9kY2JGamMtb1I5WExWUTdqQW1oRHFPa3NIaDE2Z295RXRUejBjV0NoSjlfcmowNDJnb052bG1taF9UVjlMVEdtRENwMFJXVWJLd2NCZjZwaA?oc=5",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kNEJ2T2tLZGVjQmFjakJxQTJsZ29paHpjZURKZ3B3Ni1HRXo1NXd6SGVZaHVmVkQ4T203SUg3d0V0ekYyeml1ag?oc=5",
       "pubDate": "2026-08-15T05:40:44+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "日経平均、7万円回復をうかがう 円相場は160円が心理的節目",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kTUdyNVc1QWFPc2RaS05kaWtUMXllTzh4VUd5VzJ6b255dzBSc0twTEQtVDVDMVNSY0Z6M3dpenpDNTNpa0RXTGZYaU9ZdXBpV1ZjTlRNbUhhd1BaNlJySWNkVjQ1S0JJclB0SA?oc=5",
-      "pubDate": "2026-08-15T04:00:00+09:00",
-      "source": "日本経済新聞"
     }
   ]
 }
