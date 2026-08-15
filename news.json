@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T00:36:36+09:00",
+  "updatedAt": "2026-08-16T00:58:52+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -9,6 +9,12 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GTS0zZm1hWmYwOWQySWhvaUV0c0EzWWs0UzA2WHpRY080TWYwb1JSSzZia2ExSzN1ZnpRVzZYMEhhYVpqMDJiVDJWVQ?oc=5",
       "pubDate": "2026-08-16T00:31:05+09:00",
       "source": "TVer"
+    },
+    {
+      "title": "ドル円観測所、公表統計の「観測された日」と「公になった日」の差を整理。最大約3か月 四つの時刻を分離して記録するデータ基盤を開設。訂正された値も削除せず保存する",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CcVJyQTVsRVBTT1lxZW45V2oxZnR6a05BUUJGd01FRC1EU2N6VEU4NWliOVUxZ0xmaEIxZFpnQ0VCbExnTmNGdDlfb1dJeTQ?oc=5",
+      "pubDate": "2026-08-16T00:13:00+09:00",
+      "source": "Newscast.jp"
     },
     {
       "title": "為替介入研究所、7月末の円買い介入の効果を「半減期8営業日」と判定 基準は結果の判明前に公開",
@@ -27,12 +33,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwN0FEM0RyaHlrMk1ybXdwd2ZpTkJXcXhDTi02UmVYSkc2azlWVjVLRFdyMFVLZ0RIVWpFNzE4T1hXSjZPSERQZVpLT25fN3VaZjRaY1VxN3FvUjZWMEhPWlByTFJaMnlIZmJERldxeDV5Z2pFVFZCWFRYSU5QdE0?oc=5",
       "pubDate": "2026-08-15T15:16:00+09:00",
       "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "政府・日銀、4月30日に6.2兆円の為替介入 財務省公表、5月4日7800億円、6日4.6兆円",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqbncweTZrNnp0MDc1N2VSNG1uWmt3Slg4N1BCdnZQYVV2SHE1dlBYOXhtN1l3NFRGY3VuNXJZSnNUcUpXallNbTZKdGp6VjdzOXZBZw?oc=5",
-      "pubDate": "2026-08-15T15:03:00+09:00",
-      "source": "観光経済新聞"
     },
     {
       "title": "為替週間見通し：伸び悩みか、ドル買い継続も為替介入への警戒が重石に",
