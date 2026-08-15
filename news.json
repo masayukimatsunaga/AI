@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-15T12:06:51+09:00",
+  "updatedAt": "2026-08-15T12:56:18+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
       "title": "円安や中東情勢緊迫化で値上げ続きの中、低価格路線を強化する小売り各社…販売コスト抑える「業態転換」",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IQVVXVzEyUHpWMDhtYU5admdmUno1c2N3YXJyQ195a3IwTEhMYk9uU2NGUDhPNG4wWXRxVmoxT0tLVURXNzQ3aGNvQ0JoUXZnbnU5VjExZUNDRmZ4NjZZTHJGcjJ3VjZ1ZGV4WE9qZ3YxRjY5Umd2RzAxTF8walk?oc=5",
-      "pubDate": "2026-08-15T11:30:10+09:00",
-      "source": "Yahoo!ニュース"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94c0NTUzdlaU9xcHh1NGI1aEdJdGhpQkQzLUpXWEZLR2NaWDU5Zjl2TTBJQ3NuN0lIUGNTVGtTVDZpT1lYalhqMDNsQnQwZGRGc0JkblVqUnBLVFhkZDBGVzZ1dEF1b19HOVd3RjRHN2JNQQ?oc=5",
+      "pubDate": "2026-08-15T11:30:00+09:00",
+      "source": "読売新聞"
     },
     {
       "title": "協調為替介入を受け利上げペースは加速するか 高市政権から9月利上げ容認メッセージが出るかに注目 野村證券・宍戸知暁",
@@ -29,16 +29,16 @@
       "source": "BigGo ファイナンス"
     },
     {
-      "title": "14日レンジ ドル円 158.60-159.53円(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTRlUnJMTHJLWUJoVHh0MHBWQ1REYVZxMlQya3J2ZUZYd3haZFNHNjhobjNlODBocVZmenBBUzN5cWxBcmpvblNzRzlyTTZfdzRuWXhHUGFUU2ExdkQ4a3ZtaV9fcGRFMFpMRXFWODFfbnNETXRwZ01hTVRsVWJVbWZzNXZrSnM?oc=5",
-      "pubDate": "2026-08-15T06:34:02+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "かつては円高に泣き､今は円安に苦しむ日本経済､｢日米通貨同盟｣は本当に｢円安につける特効薬｣となるのだろうか",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wSFFRcmt6Q0ZjOTJxaDhyNlR6QlE1b1VBZDRDTG1yNF91M2FpREg0Zi1JeVpVcUxESG8tYndpTVd1b3kyME5xa2ZzOUlnUVV2NXVyOG53eUJjWFE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SQnU0MEhnSkxGSzJCa21tcXY0dlBiUmlUVl81NXJuN2lXZnZHaFdJbE9HMC13VmJOcWxKbUhRcjF5TWdmZGNZbDJLN0FOaFNvZThjcW51R1hIbDQ?oc=5",
       "pubDate": "2026-08-15T06:30:00+09:00",
       "source": "東洋経済オンライン"
+    },
+    {
+      "title": "14日レンジ ドル円 158.60-159.53円(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTRlUnJMTHJLWUJoVHh0MHBWQ1REYVZxMlQya3J2ZUZYd3haZFNHNjhobjNlODBocVZmenBBUzN5cWxBcmpvblNzRzlyTTZfdzRuWXhHUGFUU2ExdkQ4a3ZtaV9fcGRFMFpMRXFWODFfbnNETXRwZ01hTVRsVWJVbWZzNXZrSnM?oc=5",
+      "pubDate": "2026-08-15T06:30:00+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "１４日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
@@ -56,7 +56,7 @@
       "title": "日経平均、7万円回復をうかがう 円相場は160円が心理的節目",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kTUdyNVc1QWFPc2RaS05kaWtUMXllTzh4VUd5VzJ6b255dzBSc0twTEQtVDVDMVNSY0Z6M3dpenpDNTNpa0RXTGZYaU9ZdXBpV1ZjTlRNbUhhd1BaNlJySWNkVjQ1S0JJclB0SA?oc=5",
       "pubDate": "2026-08-15T04:00:00+09:00",
-      "source": "nikkei.com"
+      "source": "日本経済新聞"
     },
     {
       "title": "週間為替展望（ドル／ユーロ）-ドル円、イラン情勢と介入に警戒(トレーダーズ・ウェブ)",
