@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T19:42:18+09:00",
+  "updatedAt": "2026-08-16T20:00:33+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -32,7 +32,7 @@
       "title": "【ドル円週間見通し】伸び悩みか 為替介入の警戒が重石に",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9JRjd1aklTeC16dEVEdS1mLURmZWJJYVFpejdhZ3RJZmJkSHdJblFpcmhJMW8wVEt1dTIwOUhXZ0NSa1VPQzRj?oc=5",
       "pubDate": "2026-08-16T08:00:00+09:00",
-      "source": "moneypost.jp"
+      "source": "マネーポストWEB"
     },
     {
       "title": "来週のドル円相場はどうなる？8/17週のイベント予定 2026年8月16日",
@@ -42,9 +42,9 @@
     },
     {
       "title": "Yendoller（ドル円研究所）バックテストで「未来の情報」を使わないためのドル円データを、MT4/MT5向けに無償公開",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53RHJDRzJZTWV2cFU2YjRGemdFT2pYWlI3LW1jMFhRRlFEOFJEQ3JMTVN6ZXI0OXRmRmRQR0VmS2VMOUdBVThhRWFhSmZVNVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mcG1SRzBibldrSmk5N1B4WHh4bmNPYnlfaTJtSW53RlIyQ1FNVDdja0tUMEc4NmxZbmVfc2FySS1sM1dJTFFSeS1Ga0lKM3M?oc=5",
       "pubDate": "2026-08-16T06:29:00+09:00",
-      "source": "アットプレス"
+      "source": "Newscast.jp"
     },
     {
       "title": "円安時代、旅行との付き合い方 「旅と旅のあいだ」を豊かに過ごす",
@@ -77,16 +77,16 @@
       "source": "Newscast.jp"
     },
     {
-      "title": "「円安でホクホク」外為特会は「打ち出の小槌」ではない（西田亮介） - エキスパート",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlNvTjc0dWQybndwTmVuRlRDTWt2S0dfU1BfYkpWc25RZmVHcjA1amJOSk1PTmZVZGNTM1NEejJENzBzM1JFbkNpY0c0cmJDZGhMLU9XV2IwRGNrcjZPalhVUzg5MGRjV18zTG5pTWlVWk83ZDU2ZnpJUUxDek9tcUlob3V3U2R2?oc=5",
-      "pubDate": "2026-08-15T16:14:17+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
       "title": "来週の為替展望：ドル円は159円台でこう着、日銀利上げ観測とFOMC議事要旨が焦点",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HU2lvZjNhT0gzWFdSVEsxQVo4dVItaXBzS05KUmdSOFhLRFppRGlMRXQ2QUdocjdncnJLelRGem52OFdaSzU1RUxqTEFnNlNUYUFaTks1ck9lelNLRzJqT2FCZ0M4ZDctNXQyaWNFdElXRWtR?oc=5",
       "pubDate": "2026-08-15T07:05:00+09:00",
       "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "かつては円高に泣き､今は円安に苦しむ日本経済､｢日米通貨同盟｣は本当に｢円安につける特効薬｣となるのだろうか",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpakdiaVN4cnBib0JWcEFSYXg5bHo4VG1heEExRlJDVl9ZVEpRVUJTS3BKaWtwUEc5bGM3Zzc2ZWhNT09qdHdHSjlEOVBJZE1rd0pNMXFXMUl4RnM?oc=5",
+      "pubDate": "2026-08-15T06:30:00+09:00",
+      "source": "toyokeizai.net"
     }
   ]
 }
