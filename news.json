@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-17T02:03:01+09:00",
+  "updatedAt": "2026-08-17T02:36:02+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "「子どもが喜んでいる顔は見れたが円安はきつかった」Uターンラッシュピークを迎えたJR名古屋駅や中部空港（CBCテレビ）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01RUVjdU5zV3JPcjNjazhIQU4yVm9FVFhfQzJFOVpnUGdwZktZWW5zS19yYzVoZkh3ZTlZYURwdWtaU1ZzaVJSMlp4enZpeTMwY1F1OGZ2bzVKcW5QMEktaHFKNXN6QU5tT21rSngzcEZhdW12aDBycVlLaU0ySUk?oc=5",
-      "pubDate": "2026-08-16T20:12:16+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
       "title": "「子ども喜んでいる顔は見れたが円安はきつかった」Uターンラッシュピークを迎えたJR名古屋駅や中部空港",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96dUROSzFidzV6ZUc3akktZVUxaFF5REI4ZFVWb3pIYVlGZ3hwVGFZZXZxcUpPa0UwZ2luRDBnVURYaXJDNnFIOGYtd0UxZHFoTThjRUtJcw?oc=5",
+      "pubDate": "2026-08-16T19:49:00+09:00",
+      "source": "TBS NEWS DIG"
+    },
+    {
+      "title": "「子どもが喜んでいる顔は見れたが円安はきつかった」Uターンラッシュピークを迎えたJR名古屋駅や中部空港",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMWnNnMmpOWW9ORGhjNDZxRDNPWjh1clYxNUR5NzBvZVZZOVpRbFZvT1F5UG5ZYzVPcDZGODFUNU10eS1WWk9nenVtT3ZNNXVMUzcxN3I3QUwwc1dBWTQ2bng3UGJLRkE?oc=5",
       "pubDate": "2026-08-16T19:49:00+09:00",
       "source": "TBS NEWS DIG"
     },
@@ -71,12 +71,6 @@
       "source": "Newscast.jp"
     },
     {
-      "title": "【AI・半導体銘柄よりも実は狙い目？】資産1.5億円超の「Bコミ」こと坂本慎太郎氏が注目する“円高メリット銘柄”の投資妙味 為替介入後のドル円相場の読み方から解説（マネーポストWEB）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwN0FEM0RyaHlrMk1ybXdwd2ZpTkJXcXhDTi02UmVYSkc2azlWVjVLRFdyMFVLZ0RIVWpFNzE4T1hXSjZPSERQZVpLT25fN3VaZjRaY1VxN3FvUjZWMEhPWlByTFJaMnlIZmJERldxeDV5Z2pFVFZCWFRYSU5QdE0?oc=5",
-      "pubDate": "2026-08-15T15:16:00+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
       "title": "来週の為替展望：ドル円は159円台でこう着、日銀利上げ観測とFOMC議事要旨が焦点",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HU2lvZjNhT0gzWFdSVEsxQVo4dVItaXBzS05KUmdSOFhLRFppRGlMRXQ2QUdocjdncnJLelRGem52OFdaSzU1RUxqTEFnNlNUYUFaTks1ck9lelNLRzJqT2FCZ0M4ZDctNXQyaWNFdElXRWtR?oc=5",
       "pubDate": "2026-08-15T07:05:00+09:00",
@@ -87,6 +81,12 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92SmZtQ3hnUDNlZzUwWEV3ckEzeS1XUC1DbFBtdUNuWU1rSTBfWHlLWlltWE9RUy01aTd4NXBuUVNLc2lyZ1VsQUVvYjl6SEhVdWZuZjl3MnNSRVU?oc=5",
       "pubDate": "2026-08-15T06:30:00+09:00",
       "source": "東洋経済オンライン"
+    },
+    {
+      "title": "１４日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vbEM3eG5VbzExY1BiLVdJVlFraFJZdVBoQ2djU09pWk9ZSkhNazB2QVkyUDUtZU9jd1FVUUROY050Z3M3NUthbg?oc=5",
+      "pubDate": "2026-08-15T06:20:44+09:00",
+      "source": "みんかぶ FX/為替"
     }
   ]
 }
