@@ -1,14 +1,20 @@
 {
-  "updatedAt": "2026-08-16T08:58:44+09:00",
+  "updatedAt": "2026-08-16T10:58:58+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-08-16T09:38:03+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
       "title": "【ドル円週間見通し】伸び悩みか 為替介入の警戒が重石に",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9JRjd1aklTeC16dEVEdS1mLURmZWJJYVFpejdhZ3RJZmJkSHdJblFpcmhJMW8wVEt1dTIwOUhXZ0NSa1VPQzRj?oc=5",
       "pubDate": "2026-08-16T08:00:00+09:00",
-      "source": "moneypost.jp"
+      "source": "マネーポストWEB"
     },
     {
       "title": "来週のドル円相場はどうなる？8/17週のイベント予定 2026年8月16日",
@@ -18,15 +24,21 @@
     },
     {
       "title": "Yendoller（ドル円研究所）バックテストで「未来の情報」を使わないためのドル円データを、MT4/MT5向けに無償公開",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mcG1SRzBibldrSmk5N1B4WHh4bmNPYnlfaTJtSW53RlIyQ1FNVDdja0tUMEc4NmxZbmVfc2FySS1sM1dJTFFSeS1Ga0lKM3M?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53RHJDRzJZTWV2cFU2YjRGemdFT2pYWlI3LW1jMFhRRlFEOFJEQ3JMTVN6ZXI0OXRmRmRQR0VmS2VMOUdBVThhRWFhSmZVNVE?oc=5",
       "pubDate": "2026-08-16T06:29:00+09:00",
-      "source": "Newscast.jp"
+      "source": "アットプレス"
     },
     {
       "title": "円安時代、旅行との付き合い方 「旅と旅のあいだ」を豊かに過ごす",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wbGpGQWEwRktaaFEzNDFqaldlYm9kY2JGamMtb1I5WExWUTdqQW1oRHFPa3NIaDE2Z295RXRUejBjV0NoSjlfcmowNDJnb052bG1taF9UVjlMVEdtRENwMFJXVWJLd2NCZjZwaA?oc=5",
       "pubDate": "2026-08-16T05:00:00+09:00",
       "source": "日本経済新聞"
+    },
+    {
+      "title": "飼料高騰 畜産農家が悲鳴 県内戸数や飼養数減 即効性ある支援訴え 中東情勢や円安影響",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEdXBTYnprRWFqUU1wcWdBZ096MnB6b1VWaGJlbjVqTVZZeWxSODB1WmFveVJ5WHdtUWY4UkwxTHJSOFFHOXp6Rm05ZDBySEFfVWhwWHdyVEsyYUlEY1E?oc=5",
+      "pubDate": "2026-08-16T03:57:00+09:00",
+      "source": "okinawatimes.co.jp"
     },
     {
       "title": "欧米為替見通し:ドル・円は伸び悩みか、米引き締め期待後退や為替介入への警戒(フィスコ)",
@@ -48,7 +60,7 @@
     },
     {
       "title": "為替介入研究所、7月末の円買い介入の効果を「半減期8営業日」と判定 基準は結果の判明前に公開",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95LVZES084U1NBUGNwS0YyVjhHV3I3d04zN19vSl85dGV0S05HWFZVcC1QLTJOMDBtaTltRTVieXV0SmVkMWRoR2RhZVhwQUE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wYXpOM3BDQ2p3M1RpRW1nbExsTE8zMFdmdS1UNmJBVk5GekVuanh6aXZrUnhocG5nU2VwM1Fma2htTTB0U0dZ?oc=5",
       "pubDate": "2026-08-15T23:01:00+09:00",
       "source": "Newscast.jp"
     },
@@ -59,34 +71,22 @@
       "source": "Yahoo!ニュース"
     },
     {
-      "title": "【AI・半導体銘柄よりも実は狙い目？】資産1.5億円超の「Bコミ」こと坂本慎太郎氏が注目する“円高メリット銘柄”の投資妙味 為替介入後のドル円相場の読み方から解説（マネーポストWEB）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwN0FEM0RyaHlrMk1ybXdwd2ZpTkJXcXhDTi02UmVYSkc2azlWVjVLRFdyMFVLZ0RIVWpFNzE4T1hXSjZPSERQZVpLT25fN3VaZjRaY1VxN3FvUjZWMEhPWlByTFJaMnlIZmJERldxeDV5Z2pFVFZCWFRYSU5QdE0?oc=5",
+      "title": "【AI・半導体銘柄よりも実は狙い目？】資産1.5億円超の「Bコミ」こと坂本慎太郎氏が注目する“円高メリット銘柄”の投資妙味 為替介入後のドル円相場の読み方から解説(マネーポストWEB)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3pNYVFKdmtNRmMzY2RzU0RyNWJKUG5ZY2JNdHZkNHpLcVU5bkJWcUVmLW5LVC1qb1JheEQ5YTd1X1lZWmVFVF9qeFNDUEhZYnBYRHhhQ0VMZi1KMWtUbGtyTWFrUjA5a01nNkJqTk9DcWtFem9IbUFvNVNvd3Zvai12RTV3UEE?oc=5",
       "pubDate": "2026-08-15T15:16:00+09:00",
-      "source": "Yahoo!ニュース"
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "来週の為替展望：ドル円は159円台でこう着、日銀利上げ観測とFOMC議事要旨が焦点",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HU2lvZjNhT0gzWFdSVEsxQVo4dVItaXBzS05KUmdSOFhLRFppRGlMRXQ2QUdocjdncnJLelRGem52OFdaSzU1RUxqTEFnNlNUYUFaTks1ck9lelNLRzJqT2FCZ0M4ZDctNXQyaWNFdElXRWtR?oc=5",
       "pubDate": "2026-08-15T07:05:00+09:00",
-      "source": "BigGo ファイナンス"
+      "source": "finance.biggo.jp"
     },
     {
       "title": "かつては円高に泣き､今は円安に苦しむ日本経済､｢日米通貨同盟｣は本当に｢円安につける特効薬｣となるのだろうか",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SQnU0MEhnSkxGSzJCa21tcXY0dlBiUmlUVl81NXJuN2lXZnZHaFdJbE9HMC13VmJOcWxKbUhRcjF5TWdmZGNZbDJLN0FOaFNvZThjcW51R1hIbDQ?oc=5",
       "pubDate": "2026-08-15T06:30:00+09:00",
       "source": "東洋経済オンライン"
-    },
-    {
-      "title": "１４日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vbEM3eG5VbzExY1BiLVdJVlFraFJZdVBoQ2djU09pWk9ZSkhNazB2QVkyUDUtZU9jd1FVUUROY050Z3M3NUthbg?oc=5",
-      "pubDate": "2026-08-15T06:20:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "弱い米指標でドル安優勢に ドル円は下に往って来い 下値での買い意欲が強い＝ＮＹ為替概況 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kNEJ2T2tLZGVjQmFjakJxQTJsZ29paHpjZURKZ3B3Ni1HRXo1NXd6SGVZaHVmVkQ4T203SUg3d0V0ekYyeml1ag?oc=5",
-      "pubDate": "2026-08-15T05:40:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
