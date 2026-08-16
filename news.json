@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T06:35:50+09:00",
+  "updatedAt": "2026-08-17T06:58:01+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -27,6 +27,12 @@
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50ek8zUlQ4OGpwTjVvSHAyN2otcmgwckxLTXlXNGpSdkxPRjd5ZGJWOFYwdVFHa19xQV9CWGdISlhnYkk5TGZJRUQwOG_SAU9BVV95cUxONm5rSHhLRVh6NFBnbmNzQXFFVm1jVTRiU0w5RG9PLW5QdjNlRmh4YzBSSVlXQ05EdGVFQnV3a1RFcGtuRnpqVW5yQnMxdGw0?oc=5",
       "pubDate": "2026-08-17T04:35:00+09:00",
       "source": "ダイヤモンド・オンライン"
+    },
+    {
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-08-17T04:21:37+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "「子ども喜んでいる顔は見れたが円安はきつかった」Uターンラッシュピークを迎えたJR名古屋駅や中部空港",
@@ -62,7 +68,7 @@
       "title": "来週のドル円相場はどうなる？8/17週のイベント予定 2026年8月16日",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGVVZpMUtrOXlOQWg0Y0JCRWNrcEdJSmhEX3pkYTB5ZFQzMFBjazV5VFVydVNORkR1TjhPaHh2Sk9vZ2NyXzJrblNGVERtalhaNzZXY1piOGZPMmxTcjlpa1V5TQ?oc=5",
       "pubDate": "2026-08-16T06:59:13+09:00",
-      "source": "gaitame.com"
+      "source": "外為どっとコム"
     },
     {
       "title": "Yendoller（ドル円研究所）バックテストで「未来の情報」を使わないためのドル円データを、MT4/MT5向けに無償公開",
@@ -80,12 +86,6 @@
       "title": "ドル円観測所、公表統計の「観測された日」と「公になった日」の差を整理。最大約3か月 四つの時刻を分離して記録するデータ基盤を開設。訂正された値も削除せず保存する",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CcVJyQTVsRVBTT1lxZW45V2oxZnR6a05BUUJGd01FRC1EU2N6VEU4NWliOVUxZ0xmaEIxZFpnQ0VCbExnTmNGdDlfb1dJeTQ?oc=5",
       "pubDate": "2026-08-16T00:13:00+09:00",
-      "source": "Newscast.jp"
-    },
-    {
-      "title": "為替介入研究所、7月末の円買い介入の効果を「半減期8営業日」と判定 基準は結果の判明前に公開",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wYXpOM3BDQ2p3M1RpRW1nbExsTE8zMFdmdS1UNmJBVk5GekVuanh6aXZrUnhocG5nU2VwM1Fma2htTTB0U0dZ?oc=5",
-      "pubDate": "2026-08-15T23:01:00+09:00",
       "source": "Newscast.jp"
     }
   ]
