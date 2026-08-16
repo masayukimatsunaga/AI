@@ -1,9 +1,33 @@
 {
-  "updatedAt": "2026-08-17T06:58:01+09:00",
+  "updatedAt": "2026-08-17T07:38:56+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "週明けのドル円は１５９．３０円前後での推移＝東京為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4aGlHN0w4ZURZb01XNTF6NFFtRjRNNkJjZWgybjgwUkVySGE1UE1ldE51NTFNaXdsWXBBbEo5VElnRGF0WUJZcA?oc=5",
+      "pubDate": "2026-08-17T07:00:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "【達人が厳選した“円高メリット”10銘柄】日米協調為替介入後のマーケットでチャンスを狙う投資家たち 岡山憲史氏、坂本慎太郎氏、JACK氏、藤井英敏氏、加藤ムネヒサ氏の戦略",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tdDRJbzhoWkFYcDV3OXdOLUQ4Y20wU3BiU29BQjRzWUYwb2dzNnoxdHljWVJWc25FZ1lES1EzMUdfSjVrMXA0?oc=5",
+      "pubDate": "2026-08-17T07:00:00+09:00",
+      "source": "マネーポストWEB"
+    },
+    {
+      "title": "｢子どもが喜ぶ顔は見られたが円安はきつかった｣ Uターンラッシュピークを迎えたJR名古屋駅や中部空港 中国便は去年の4分の1に",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUMkwtVDR3WHN2N28za3owenZQYmFFa0U1VW1KbmptZ25mX2x4aUMxSEhXZ1Bta1YyLWE5LWNFSGJKSGxvZEFrUmRRTDBCaUtwekM4UWNuSVMya191ekZJ?oc=5",
+      "pubDate": "2026-08-17T06:57:00+09:00",
+      "source": "TBS NEWS DIG"
+    },
+    {
+      "title": "FX・為替相場の注目指標や予想を解説 - 8月17日(月)■『為替介入の影響と更なる実施への思惑』と『米国の金融政策への思惑(利上げへの思惑に敏感)』、そして『日本の金融政策への思惑(利上げ時期と回数が焦点)』に注目！",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UWFFMeXozUjBVUWRtblA3WGtYQjgyWk02LUhYWmo0ODltUlM2aGx5bzlQRnFYRDBydk51ZDcxekdTalhuT1RFZ1FIRDJJQkFXNHc?oc=5",
+      "pubDate": "2026-08-17T06:49:00+09:00",
+      "source": "ザイFX！"
+    },
     {
       "title": "ドル円、方向感乏しい 159.32円付近で推移(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXVLbjd3b2RzMlJXUTQ3cnFZRVNTbW5PU3ZBYnZBMlpqc3NENjRUXzZQVFA1dHlPN3Y4NE9vMm9vS3NZdVdxRDR6LXNxSm82aHRUY29DMlpCaXdUdHFTOFhkOWswV2dxM3h3cFVoV2VpRm03ZXQyaEhsNmJUV2dfQ1VjMnlKTGc?oc=5",
@@ -29,12 +53,6 @@
       "source": "ダイヤモンド・オンライン"
     },
     {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-08-17T04:21:37+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "「子ども喜んでいる顔は見れたが円安はきつかった」Uターンラッシュピークを迎えたJR名古屋駅や中部空港",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96dUROSzFidzV6ZUc3akktZVUxaFF5REI4ZFVWb3pIYVlGZ3hwVGFZZXZxcUpPa0UwZ2luRDBnVURYaXJDNnFIOGYtd0UxZHFoTThjRUtJcw?oc=5",
       "pubDate": "2026-08-16T19:49:00+09:00",
@@ -47,16 +65,16 @@
       "source": "TBS NEWS DIG"
     },
     {
-      "title": "為替介入って何ですか？【モヤモヤサテライト】｜SPECIALコンテンツ",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05ZHo5LVRmdEttMUt4MFRmdG93RjUzWkNEZ1ljU0VDSElzWFRDOE5RV0RwXzRLMXlDOWU0MENRNkphZ0Z2NDlRdllOVmNGWmJ0STR2eGJDYmpka3lhUjkzUGRPV0k?oc=5",
-      "pubDate": "2026-08-16T18:00:00+09:00",
-      "source": "テレ東BIZ"
-    },
-    {
       "title": "日経平均7万円回復うかがう、円相場は160円が節目 今週の市場・予定",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wRmFDdUpYZU9vVUZaZC1hQWxONmZxcnFSOG5OcTFzY256X1c4dmY4MWx2bllHMkV4YWx3RWl3cEo5aUFKTENBLWVqZGZqbTVyenNBbl9jRW0wWFF1cXdzZk5pbk9PVDRZcC0yNg?oc=5",
       "pubDate": "2026-08-16T18:00:00+09:00",
       "source": "日本経済新聞"
+    },
+    {
+      "title": "為替介入って何ですか？【モヤモヤサテライト】｜SPECIALコンテンツ",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05ZHo5LVRmdEttMUt4MFRmdG93RjUzWkNEZ1ljU0VDSElzWFRDOE5RV0RwXzRLMXlDOWU0MENRNkphZ0Z2NDlRdllOVmNGWmJ0STR2eGJDYmpka3lhUjkzUGRPV0k?oc=5",
+      "pubDate": "2026-08-16T18:00:00+09:00",
+      "source": "テレ東BIZ"
     },
     {
       "title": "米経済学者「止まらない円安を、米国は警鐘として深刻に受け止めるべきだ」（クーリエ・ジャポン）",
@@ -69,24 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGVVZpMUtrOXlOQWg0Y0JCRWNrcEdJSmhEX3pkYTB5ZFQzMFBjazV5VFVydVNORkR1TjhPaHh2Sk9vZ2NyXzJrblNGVERtalhaNzZXY1piOGZPMmxTcjlpa1V5TQ?oc=5",
       "pubDate": "2026-08-16T06:59:13+09:00",
       "source": "外為どっとコム"
-    },
-    {
-      "title": "Yendoller（ドル円研究所）バックテストで「未来の情報」を使わないためのドル円データを、MT4/MT5向けに無償公開",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mcG1SRzBibldrSmk5N1B4WHh4bmNPYnlfaTJtSW53RlIyQ1FNVDdja0tUMEc4NmxZbmVfc2FySS1sM1dJTFFSeS1Ga0lKM3M?oc=5",
-      "pubDate": "2026-08-16T06:29:00+09:00",
-      "source": "Newscast.jp"
-    },
-    {
-      "title": "円安時代、旅行との付き合い方 「旅と旅のあいだ」を豊かに過ごす",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wbGpGQWEwRktaaFEzNDFqaldlYm9kY2JGamMtb1I5WExWUTdqQW1oRHFPa3NIaDE2Z295RXRUejBjV0NoSjlfcmowNDJnb052bG1taF9UVjlMVEdtRENwMFJXVWJLd2NCZjZwaA?oc=5",
-      "pubDate": "2026-08-16T05:00:00+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "ドル円観測所、公表統計の「観測された日」と「公になった日」の差を整理。最大約3か月 四つの時刻を分離して記録するデータ基盤を開設。訂正された値も削除せず保存する",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CcVJyQTVsRVBTT1lxZW45V2oxZnR6a05BUUJGd01FRC1EU2N6VEU4NWliOVUxZ0xmaEIxZFpnQ0VCbExnTmNGdDlfb1dJeTQ?oc=5",
-      "pubDate": "2026-08-16T00:13:00+09:00",
-      "source": "Newscast.jp"
     }
   ]
 }
