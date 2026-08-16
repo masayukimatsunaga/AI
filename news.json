@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-16T20:00:33+09:00",
+  "updatedAt": "2026-08-16T20:36:26+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "「子ども喜んでいる顔は見れたが円安はきつかった」Uターンラッシュピークを迎えたJR名古屋駅や中部空港",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53cmRMbUdUcnh2Vm9yeURjUFZBWUpSWW4yeUhyTHJMLUhtc2xwQW1hcTVaME8zb3kzdlVZN25UejVPTldNWGZveWJlWndsT3lnS3V5RlNONmVtdw?oc=5",
+      "pubDate": "2026-08-16T19:49:00+09:00",
+      "source": "TBS NEWS DIG"
+    },
     {
       "title": "日経平均7万円回復うかがう、円相場は160円が節目 今週の市場・予定",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wRmFDdUpYZU9vVUZaZC1hQWxONmZxcnFSOG5OcTFzY256X1c4dmY4MWx2bllHMkV4YWx3RWl3cEo5aUFKTENBLWVqZGZqbTVyenNBbl9jRW0wWFF1cXdzZk5pbk9PVDRZcC0yNg?oc=5",
@@ -42,9 +48,9 @@
     },
     {
       "title": "Yendoller（ドル円研究所）バックテストで「未来の情報」を使わないためのドル円データを、MT4/MT5向けに無償公開",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mcG1SRzBibldrSmk5N1B4WHh4bmNPYnlfaTJtSW53RlIyQ1FNVDdja0tUMEc4NmxZbmVfc2FySS1sM1dJTFFSeS1Ga0lKM3M?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53RHJDRzJZTWV2cFU2YjRGemdFT2pYWlI3LW1jMFhRRlFEOFJEQ3JMTVN6ZXI0OXRmRmRQR0VmS2VMOUdBVThhRWFhSmZVNVE?oc=5",
       "pubDate": "2026-08-16T06:29:00+09:00",
-      "source": "Newscast.jp"
+      "source": "アットプレス"
     },
     {
       "title": "円安時代、旅行との付き合い方 「旅と旅のあいだ」を豊かに過ごす",
@@ -68,25 +74,19 @@
       "title": "ドル円観測所、公表統計の「観測された日」と「公になった日」の差を整理。最大約3か月 四つの時刻を分離して記録するデータ基盤を開設。訂正された値も削除せず保存する",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CcVJyQTVsRVBTT1lxZW45V2oxZnR6a05BUUJGd01FRC1EU2N6VEU4NWliOVUxZ0xmaEIxZFpnQ0VCbExnTmNGdDlfb1dJeTQ?oc=5",
       "pubDate": "2026-08-16T00:13:00+09:00",
-      "source": "Newscast.jp"
+      "source": "newscast.jp"
     },
     {
       "title": "為替介入研究所、7月末の円買い介入の効果を「半減期8営業日」と判定 基準は結果の判明前に公開",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wYXpOM3BDQ2p3M1RpRW1nbExsTE8zMFdmdS1UNmJBVk5GekVuanh6aXZrUnhocG5nU2VwM1Fma2htTTB0U0dZ?oc=5",
       "pubDate": "2026-08-15T23:01:00+09:00",
-      "source": "Newscast.jp"
+      "source": "newscast.jp"
     },
     {
       "title": "来週の為替展望：ドル円は159円台でこう着、日銀利上げ観測とFOMC議事要旨が焦点",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HU2lvZjNhT0gzWFdSVEsxQVo4dVItaXBzS05KUmdSOFhLRFppRGlMRXQ2QUdocjdncnJLelRGem52OFdaSzU1RUxqTEFnNlNUYUFaTks1ck9lelNLRzJqT2FCZ0M4ZDctNXQyaWNFdElXRWtR?oc=5",
       "pubDate": "2026-08-15T07:05:00+09:00",
       "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "かつては円高に泣き､今は円安に苦しむ日本経済､｢日米通貨同盟｣は本当に｢円安につける特効薬｣となるのだろうか",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpakdiaVN4cnBib0JWcEFSYXg5bHo4VG1heEExRlJDVl9ZVEpRVUJTS3BKaWtwUEc5bGM3Zzc2ZWhNT09qdHdHSjlEOVBJZE1rd0pNMXFXMUl4RnM?oc=5",
-      "pubDate": "2026-08-15T06:30:00+09:00",
-      "source": "toyokeizai.net"
     }
   ]
 }
