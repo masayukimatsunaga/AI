@@ -1,20 +1,26 @@
 {
-  "updatedAt": "2026-08-16T14:45:32+09:00",
+  "updatedAt": "2026-08-16T16:04:19+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "米ドルは急落、見通しは不透明。円高は中央銀行に利上げを促す。",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb3RXV2tMbWV5WmM3NHNIRlRRUTIzandPVjRLS3I3bVNXU1hJOEI0dW1DdkQ4b2JaMUVhWHc4Vy1XeVgzdVZTNzBLQ1JaSWcxLVRyR2RWT0Q4ZmFrZFhjeUI1YkoydVdqSVk1djJYcks1ZS1EY2RnOU81Z1FlWUVvS2VqOTBjSi03enVoU2FRemdSdzZ6YnlqNlZvdjFZN2p5?oc=5",
-      "pubDate": "2026-08-16T11:15:22+09:00",
-      "source": "Vietnam.vn"
+      "title": "米経済学者「止まらない円安を、米国は警鐘として深刻に受け止めるべきだ」（クーリエ・ジャポン）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOaTh3STI1UWRScXc1cGUtSmo0OF9zdDIyVDJOMWNPa0xqSThWdDFUN2F6b1hMbFNDenRoSUctZFdsMjBpOUZfa0NsN2d1V3hkU3pjOUVJQVlBMmFqNm5NU05jQWdndFk4OVVlbF9xYzVJZHhySU9ZYXJxLVBpaDA?oc=5",
+      "pubDate": "2026-08-16T14:30:00+09:00",
+      "source": "Yahoo!ニュース"
     },
     {
       "title": "沖縄の畜産業、農家戸数や飼養数が減少 中東情勢・円安の影響、飼料が高騰 農家から悲鳴「続けられない」",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEdXBTYnprRWFqUU1wcWdBZ096MnB6b1VWaGJlbjVqTVZZeWxSODB1WmFveVJ5WHdtUWY4UkwxTHJSOFFHOXp6Rm05ZDBySEFfVWhwWHdyVEsyYUlEY1E?oc=5",
       "pubDate": "2026-08-16T10:30:00+09:00",
       "source": "沖縄タイムス社"
+    },
+    {
+      "title": "「今のドルは高すぎる」は本当か…物価水準から見えた「歴史的円安」の実態【経済評論家が解説】",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0hnSVdoVE9XSEU3dTRZWDhpRkFidzVreUJ2WGFya0x2RjhVNm1ISlJMUWJFUGdza280Z3NxUE1XUHVOYkhSMEkwSU5vLXJLVWxZY1hCVlRTeElLdVdxTjJqU3FPdmJBLWlhUXdlTTBpLTV1YmRWT3ZOYjV3NW1aYmNLWnBnZFJl?oc=5",
+      "pubDate": "2026-08-16T09:00:37+09:00",
+      "source": "Yahoo!ニュース"
     },
     {
       "title": "【ドル円週間見通し】伸び悩みか 為替介入の警戒が重石に",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SQnU0MEhnSkxGSzJCa21tcXY0dlBiUmlUVl81NXJuN2lXZnZHaFdJbE9HMC13VmJOcWxKbUhRcjF5TWdmZGNZbDJLN0FOaFNvZThjcW51R1hIbDQ?oc=5",
       "pubDate": "2026-08-15T06:30:00+09:00",
       "source": "東洋経済オンライン"
-    },
-    {
-      "title": "１４日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vbEM3eG5VbzExY1BiLVdJVlFraFJZdVBoQ2djU09pWk9ZSkhNazB2QVkyUDUtZU9jd1FVUUROY050Z3M3NUthbg?oc=5",
-      "pubDate": "2026-08-15T06:20:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
