@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T13:51:57+09:00",
+  "updatedAt": "2026-08-16T14:45:32+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -15,12 +15,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEdXBTYnprRWFqUU1wcWdBZ096MnB6b1VWaGJlbjVqTVZZeWxSODB1WmFveVJ5WHdtUWY4UkwxTHJSOFFHOXp6Rm05ZDBySEFfVWhwWHdyVEsyYUlEY1E?oc=5",
       "pubDate": "2026-08-16T10:30:00+09:00",
       "source": "沖縄タイムス社"
-    },
-    {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-08-16T09:38:03+09:00",
-      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "【ドル円週間見通し】伸び悩みか 為替介入の警戒が重石に",
@@ -77,16 +71,22 @@
       "source": "Yahoo!ニュース"
     },
     {
-      "title": "【AI・半導体銘柄よりも実は狙い目？】資産1.5億円超の「Bコミ」こと坂本慎太郎氏が注目する“円高メリット銘柄”の投資妙味 為替介入後のドル円相場の読み方から解説(マネーポストWEB)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3pNYVFKdmtNRmMzY2RzU0RyNWJKUG5ZY2JNdHZkNHpLcVU5bkJWcUVmLW5LVC1qb1JheEQ5YTd1X1lZWmVFVF9qeFNDUEhZYnBYRHhhQ0VMZi1KMWtUbGtyTWFrUjA5a01nNkJqTk9DcWtFem9IbUFvNVNvd3Zvai12RTV3UEE?oc=5",
-      "pubDate": "2026-08-15T15:16:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "来週の為替展望：ドル円は159円台でこう着、日銀利上げ観測とFOMC議事要旨が焦点",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HU2lvZjNhT0gzWFdSVEsxQVo4dVItaXBzS05KUmdSOFhLRFppRGlMRXQ2QUdocjdncnJLelRGem52OFdaSzU1RUxqTEFnNlNUYUFaTks1ck9lelNLRzJqT2FCZ0M4ZDctNXQyaWNFdElXRWtR?oc=5",
       "pubDate": "2026-08-15T07:05:00+09:00",
       "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "かつては円高に泣き､今は円安に苦しむ日本経済､｢日米通貨同盟｣は本当に｢円安につける特効薬｣となるのだろうか",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SQnU0MEhnSkxGSzJCa21tcXY0dlBiUmlUVl81NXJuN2lXZnZHaFdJbE9HMC13VmJOcWxKbUhRcjF5TWdmZGNZbDJLN0FOaFNvZThjcW51R1hIbDQ?oc=5",
+      "pubDate": "2026-08-15T06:30:00+09:00",
+      "source": "東洋経済オンライン"
+    },
+    {
+      "title": "１４日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vbEM3eG5VbzExY1BiLVdJVlFraFJZdVBoQ2djU09pWk9ZSkhNazB2QVkyUDUtZU9jd1FVUUROY050Z3M3NUthbg?oc=5",
+      "pubDate": "2026-08-15T06:20:44+09:00",
+      "source": "みんかぶ FX/為替"
     }
   ]
 }
