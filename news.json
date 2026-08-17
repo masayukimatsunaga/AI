@@ -1,14 +1,69 @@
 {
-  "updatedAt": "2026-08-18T01:47:32+09:00",
+  "updatedAt": "2026-08-18T02:46:59+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "NY外為:ドル買戻し続く、米長期金利が上昇",
+      "link": "https://zai.diamond.jp/articles/-/494074",
+      "pubDate": "2026-08-18T02:36:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "NY外為:ドル買戻し続く、米長期金利が上昇、30年債利回りは2007年来で最高",
+      "link": "https://www.zaikei.co.jp/article/20260818/866183.html",
+      "pubDate": "2026-08-18T02:29:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "ドル円、一時159.45円と本日高値更新 原油高・米金利上昇支え",
+      "link": "https://zai.diamond.jp/articles/-/494073",
+      "pubDate": "2026-08-18T02:26:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、一時159.45円と本日高値更新 原油高・米金利上昇支え｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11azJQTzRiUGcwd09PMHJiY09JcnpBdkZiY25Mdnh1MEFtRmREUDBEZUc1cm5DaWFXdm43SjA2YjhRclRLS2xXaElwR0JWVldzMmc?oc=5",
+      "pubDate": "2026-08-18T02:26:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・2時 ドル円、小幅高",
+      "link": "https://zai.diamond.jp/articles/-/494071",
+      "pubDate": "2026-08-18T02:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・2時 ドル円、小幅高｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XempZajBMTS0tcFhnVWNpVlh2Y1dkcUZMN0RFZGU1Q0hpd1YwUHhqRjVNWnRoRFJNT2JkdklzdFB2ZEhfWWsySzVoalQyYmdCeGc?oc=5",
+      "pubDate": "2026-08-18T02:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円膠着、4‐6月期GDP弱いが日銀は9月利上げに踏み切るか｜大橋ひろこ",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRmhodW01N0RkUy1sSDd5MzY2UFFfR3dJTnZzaFd5MXFIdXdxUVVBRUd2M243ZWJpU0ktOGQ0MVlzRnB1NmNzeVlFVDB0aW10SUhLcmZyTHBUZw?oc=5",
+      "pubDate": "2026-08-18T01:51:02+09:00",
+      "source": "note"
+    },
+    {
+      "title": "NY外為:ドル買い強まる、原油、金利が上昇",
+      "link": "https://zai.diamond.jp/articles/-/494068",
+      "pubDate": "2026-08-18T01:11:00+09:00",
+      "source": "ザイFX！"
+    },
     {
       "title": "ニューヨーク外国為替市場概況・24時 ドル円、伸び悩み(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORDdNNnRMUlB5cGk1dlh2dENtUkNwQkFPdEltTmRzTXBSemRhZTdwNEY1OE5xaF81ZV81RHVzWEdiTXRDQTIzRkx4clFkR2hFeDBqb3dMMzI0Y1Fvb3VtYUxqZzRQS1BYOWU4ZEktcEdkbEpzbWZQN3BGNHpoVloxY3l5a3ZBN28?oc=5",
       "pubDate": "2026-08-18T00:07:28+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、伸び悩み",
+      "link": "https://zai.diamond.jp/articles/-/494066",
+      "pubDate": "2026-08-18T00:05:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "為替投資家、円安阻止の当局と正面衝突も辞さず？",
@@ -17,76 +72,22 @@
       "source": "日本経済新聞"
     },
     {
-      "title": "【速報】ドル・円159.40円まで、米・8月NAHB住宅市場指数は予想外に上昇｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96NWFSMFZHTkswUlRrUEdDMzNBQUJCRVV2aXhMRFV0OFNOYmMxRFdkVnRzbXNDcHlRUC1IaTFqemtFa2FZbzU3dk9jejRtN3lfR0E?oc=5",
+      "title": "【速報】ドル・円159.40円まで、米・8月NAHB住宅市場指数は予想外に上昇",
+      "link": "https://zai.diamond.jp/articles/-/494063",
       "pubDate": "2026-08-17T23:05:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "【テクニカル】週足テクニカル・ドル円 サポート＆レジスタンス",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16eERwNWZDc1Bfb0pINEF6dnlNR0QyU2drakhwbE8xcFNiaXA1bUk1QnVsdmw5ZE4xMEc2UjZmYXVWaEtzS1podElBUnByQmVTVy1pZkVVVFlkdzFBcUFUemp3VQ?oc=5",
-      "pubDate": "2026-08-17T22:53:28+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "来週の為替展望：ドル円は159円台でこう着、日銀利上げ観測とFOMC議事要旨が焦点",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HU2lvZjNhT0gzWFdSVEsxQVo4dVItaXBzS05KUmdSOFhLRFppRGlMRXQ2QUdocjdncnJLelRGem52OFdaSzU1RUxqTEFnNlNUYUFaTks1ck9lelNLRzJqT2FCZ0M4ZDctNXQyaWNFdElXRWtR?oc=5",
-      "pubDate": "2026-08-17T22:34:21+09:00",
-      "source": "finance.biggo.jp"
-    },
-    {
-      "title": "ドル円、１５９円台に戻す展開 ドルは軟調も円安は根強い＝ＮＹ為替序盤",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jenlLRERaZzVHZjQ0VWZXRGtfU2Q4R2Q3ajZJLWRzQk9NaTNRcUVKZzJWVEtHZVQxOXowaG56dGZlUmpRcmRnbQ?oc=5",
-      "pubDate": "2026-08-17T22:21:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、小高い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWEdBRllma1F3LWpyS1c2S3Yyb0RJQmZVZUlMbEhJTGpGWVhxeWJwakZ1a3FtS3AzMFVmQjduT1ZmNVZZVmQyeTNtNVBQYTVlR0lveU4tWFA4U25tUFBoOHRtekQ4SDRRNnN4ZDFwbndoc3FUWVVDb0dvbXRRa0xMX3lMTmQ4X2c?oc=5",
-      "pubDate": "2026-08-17T22:08:00+09:00",
+      "title": "【速報】ドル・円159.40円まで、米・8月NAHB住宅市場指数は予想外に上昇(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR0lyODYxOFl1aGZTdkNjYno1WDlZUXp4VThvLXdRRHN4QVcxUGphTTB3U0txdGE1MGt2X0FaajBKbW10Z0d3aW1pNFhTd0prazZsMFBPV1RmSkZWQ0lDXzljRmltVHI2eGRzdUFqUTZveG9qUTdpMEQyeFM2WnZ4YlVTQzhDaVE?oc=5",
+      "pubDate": "2026-08-17T23:05:00+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円のピボットは１５９．１６円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9yb0xyRHBqQl9rTWYxUDNCVHBld2E3S1JuYmt5VU9uRmRYUUtNd1QwWG1zMFFwR24xYUlZZU95UzV5Q2lFTW16Ng?oc=5",
-      "pubDate": "2026-08-17T22:02:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【速報】ドル・円159.27円、米・8月NY連銀製造業景気指数は予想外に上昇(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeEh3TVlXWHVWYWNzdnlrLWkwOWwwQ3gwaml4a2xJenhJX0RGb3dzTUNyQnhyR0dwbGFtUlk4cC1Ub2FwTTZPeHhXYzRtTUZxZXNwcTVVUG16SUZLMDJYRUt1MnNKSVl4akJydXQ5WmVEMHhzSFZfUThGZ1diWmp4X0dyWkI5LVk?oc=5",
-      "pubDate": "2026-08-17T21:36:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-08-17T21:16:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル・円は底堅い、米経済指標を見極め｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaazZaUGk3UWZNZS1xNHR4MFhEdl91dUl3c2ZEdXg5aEFCRFRHQzNfMDhISXBYcllxTzlLNHBiZU9ia1lmR01kTE5FSHhkdTNQdFE?oc=5",
-      "pubDate": "2026-08-17T20:23:00+09:00",
+      "title": "【速報】ドル・円159.40円まで、米・8月NAHB住宅市場指数は予想外に上昇｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96NWFSMFZHTkswUlRrUEdDMzNBQUJCRVV2aXhMRFV0OFNOYmMxRFdkVnRzbXNDcHlRUC1IaTFqemtFa2FZbzU3dk9jejRtN3lfR0E?oc=5",
+      "pubDate": "2026-08-17T23:05:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "欧州為替：ドル・円は底堅い、米経済指標を見極め 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wYUFndkFoeVJ0MzhPbUxoYVZ2Mnc4blVQaWtUeldKZFR2UWV1bGRHZkF3d1ZZb2FXZVJhbDQ4WkJHaktGWGU3SGFmWWlxd2dQajdINlVoX0pVQkttMHdWMWJRNGwyNmc?oc=5",
-      "pubDate": "2026-08-17T20:15:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "欧州外国為替市場概況・20時 ドル円、下げ一服(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZm9hcHV0ZFlqdlNObFdNWU5DZm95VDduNDJrTW5NeEdFRXppR3BRNEwtYkljWXltUUtYYVhCc0U5bXkwRlZXdlkxUmcyajNjdm5qSTJ4WVM4OGZEbnEzU2pXR01wOG1fOUI2ZVEtNTNqYm9tTDVTNkRCcU9SOFFzUkZ3NnRuY00?oc=5",
-      "pubDate": "2026-08-17T20:07:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "静岡県内上場7割の22社が増収 円安が寄与、純損益6割改善：ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oSmp4WXJVSzNOMEtEa3lOYXB3VU90emlDOGRCc1RrNS14eWxxYllWMGozeUhlRHJKXzF3bENVWWJmUFRINmdYWXZqX2pHa1JBcmpJSkZBZ2g2VFpfcmhr?oc=5",
-      "pubDate": "2026-08-17T20:00:37+09:00",
-      "source": "中日BIZナビ"
     }
   ]
 }
