@@ -1,26 +1,56 @@
 {
-  "updatedAt": "2026-08-17T19:52:12+09:00",
+  "updatedAt": "2026-08-17T20:43:31+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "NY為替見通し＝ドル円、中東情勢を睨みながら米8月NY連銀製造業景気指数に注目か(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVEVMbmREYVFGakNWdUxRSjcxdFR3UlB2UW1nMjdVNGVSTzVCZ2tKbFBxZm5ENWQ1Y2h0TGJsd3FMd1hDUE1aSldCZmotX212TEVMZGZXSmxOckhiMi14SU1sOUgtUVZxRzItcEl0OUt4TkdFcmx6ZXd3aWxUSlJQUHE4ODBpOGM?oc=5",
-      "pubDate": "2026-08-17T19:37:00+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "ドル・円は小じっかり、ユーロ・ドルはじり安｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNzlycHB2cGs3NUpYaGtXeFJrQVJpNm9rMUNfR1FiUWNRb0k0Y1dUc1ZIWDQxb19nQlBIQWUxdUdHZTJhTVZQRkVCS256VW1TRFE?oc=5",
-      "pubDate": "2026-08-17T19:34:00+09:00",
+      "title": "ドル・円は底堅い、米経済指標を見極め｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaazZaUGk3UWZNZS1xNHR4MFhEdl91dUl3c2ZEdXg5aEFCRFRHQzNfMDhISXBYcllxTzlLNHBiZU9ia1lmR01kTE5FSHhkdTNQdFE?oc=5",
+      "pubDate": "2026-08-17T20:23:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "欧州為替：ドル・円は小じっかり、ユーロ・ドルはじり安(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa1Q0aHlBNXVtZElLak1pRjlkRl8yV3FWTG5uT2NvNHlOZk82RWVYS1ZNX3c4UGRCcXh3QzFOWjNUZ2tVS2M5R2N0dWpwTjJwNXA5bUNLY1A3VGE5STZXMUxvQU9WVzJpdzRLbHRaWTR2LXE4c1p5M09OWUhfeG9IRXlBVEF6cE0?oc=5",
+      "title": "欧州為替：ドル・円は底堅い、米経済指標を見極め 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wYUFndkFoeVJ0MzhPbUxoYVZ2Mnc4blVQaWtUeldKZFR2UWV1bGRHZkF3d1ZZb2FXZVJhbDQ4WkJHaktGWGU3SGFmWWlxd2dQajdINlVoX0pVQkttMHdWMWJRNGwyNmc?oc=5",
+      "pubDate": "2026-08-17T20:15:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
+      "title": "欧州為替：ドル・円は底堅い、米経済指標を見極め(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVXJOZzhheDhIVmkyUG45c2JDUzI4dlk4S0hRNzB1d2ljSzZpaW1mMjRpSm1UNDl2YXFjUm8wLUlxWWJmTUVqTzdQLVFGa1lEb0V0LXNsTkpCSXppUVBmYU9qdDZxWUZQSWJvU2hzUmpLSTBwSE85SmRxbUt1NklTdUxYTWh3S2s?oc=5",
+      "pubDate": "2026-08-17T20:12:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "欧州外国為替市場概況・20時 ドル円、下げ一服(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZm9hcHV0ZFlqdlNObFdNWU5DZm95VDduNDJrTW5NeEdFRXppR3BRNEwtYkljWXltUUtYYVhCc0U5bXkwRlZXdlkxUmcyajNjdm5qSTJ4WVM4OGZEbnEzU2pXR01wOG1fOUI2ZVEtNTNqYm9tTDVTNkRCcU9SOFFzUkZ3NnRuY00?oc=5",
+      "pubDate": "2026-08-17T20:07:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年8月17日）",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1RmdiWnlldWpWejk1X3dTUXRaTDh6NjlWMGZ2SVI3RzhuejlnRF8tcWNDYTZJWVRuWE5TQnRFd0hIa01FZ0dMZzJhRFVQbVJsVzJNSU9RcXljYXkyU25RLV9hUQ?oc=5",
+      "pubDate": "2026-08-17T20:00:00+09:00",
+      "source": "gaitame.com"
+    },
+    {
+      "title": "静岡県内上場7割の22社が増収 円安が寄与、純損益6割改善：ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oSmp4WXJVSzNOMEtEa3lOYXB3VU90emlDOGRCc1RrNS14eWxxYllWMGozeUhlRHJKXzF3bENVWWJmUFRINmdYWXZqX2pHa1JBcmpJSkZBZ2g2VFpfcmhr?oc=5",
+      "pubDate": "2026-08-17T19:59:35+09:00",
+      "source": "中日BIZナビ"
+    },
+    {
+      "title": "NY為替見通し＝ドル円、中東情勢を睨みながら米8月NY連銀製造業景気指数に注目か(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVEVMbmREYVFGakNWdUxRSjcxdFR3UlB2UW1nMjdVNGVSTzVCZ2tKbFBxZm5ENWQ1Y2h0TGJsd3FMd1hDUE1aSldCZmotX212TEVMZGZXSmxOckhiMi14SU1sOUgtUVZxRzItcEl0OUt4TkdFcmx6ZXd3aWxUSlJQUHE4ODBpOGM?oc=5",
+      "pubDate": "2026-08-17T19:37:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "欧州為替：ドル・円は小じっかり、ユーロ・ドルはじり安",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGNMelphQWhlVjNzZmxWVnNzNWhXekRUX2l2TVcza0FRaktnUVVzOWFNN2lnMWF2Q2lTSUsyazE3WUJUdTBIeFZzcExyMWM2SmNwSUFidjczUnFqZVNJQ1RfM0NYZXRJUFhPYTQ0SnJzLVdtTmM3U0x4UVpST2NkWndKNFVOUnPSAYwBQVVfeXFMTTFxaTJvSDNpQW5jc1JNQTA0Y09lNllMdU96VGdycHkxUVlWb0s1eVlfMUNOVUhTbHJ4ZjZ6Tng2N0VFaGJOb2QzUnBwd042T0VmQkxFUEtPa2E5MWQ3ZGdic0Z4bWVtR0pBa2xrVEZROURHN3Nvc2w3LW95OVR5NUxmUFQza3JIVWhydW8?oc=5",
       "pubDate": "2026-08-17T19:24:00+09:00",
-      "source": "finance.yahoo.co.jp"
+      "source": "ｄメニューニュース"
     },
     {
       "title": "円相場 値上がり 1ドル＝158円台後半",
@@ -32,19 +62,13 @@
       "title": "お盆休みを海外で過ごした人 円安直撃で｢両替する時に損した気分｣ 外食控え市場で買い物も…",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UMHZwcTYtUmlKVFQ3aTZ0MFNMSjB3dGF4YzJYbUY0M01ITGVyRXowZnRCSXVZMmUtLU82dlQ1X2hPbmJxUW9IMmh4YWgzTVc4WEo0NXo3eFJwekRIZlFF?oc=5",
       "pubDate": "2026-08-17T18:37:01+09:00",
-      "source": "newsdig.tbs.co.jp"
+      "source": "TBS NEWS DIG"
     },
     {
       "title": "ドル・円は小高い、ドルに買戻し｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wOUcybU5HSGxqUVE0eXlPLTk3VDh0V0hhQllkankwZkhrNElWTjBSRkxSeEtTaHRYQjZ4V0t0RHFJek8xOTZfbmNDcnBRdE96UVE?oc=5",
       "pubDate": "2026-08-17T18:30:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "欧州為替：ドル・円は小高い、ドルに買戻し 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zanFrM1ZrRHAydkltUDNZN1I5SHVXanhxUzRGajZTUFVJaGNfRDVIRThqNDdHcENyOFBFYU1FOHdvT2xNbVlKcnRMZFpOSVB3emMxUlhsTU0wTUstYkxiUnZ6M2lYdmc?oc=5",
-      "pubDate": "2026-08-17T18:20:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     },
     {
       "title": "お盆休みを海外で過ごした人 円安直撃で「両替する時に損した気分」 外食控え市場で買い物も…（CBCテレビ）",
@@ -56,37 +80,13 @@
       "title": "外為：1ドル159円12銭前後とドル高・円安で推移(株探ニュース)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTmcwMTNpZnpfWFpoN0lVTFBfanpyME9Ed0N1VTBSTEJROVZSUFROWDV1TXVSOE1hVF9fd1M2MXdRNkJwbmluN2pIMThSSmZFVmNaN213OXlScFJlWlhHazJkeFFiaUVGMEhLN3RpY1A4WlgxanhWc2VxQnJKaXo5WWN3TjdMb1E?oc=5",
       "pubDate": "2026-08-17T18:01:00+09:00",
-      "source": "finance.yahoo.co.jp"
+      "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "東京為替概況：ドル・円は軟調、午後はドル売り再開｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FMHQ1ODFOX3BteFExMk11VldXcE1LZjZmM0FFMFpLRmtOamZyLURpQ2xKa3RlVHgxbHpEOUNuUkZEM3V3NF9JUWlGb3lHY2IzclE?oc=5",
-      "pubDate": "2026-08-17T17:54:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "東京円、２６銭円高の１ドル＝１５８円９５〜９６銭",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeWN0UTFnOFhxMVctMGZmeVpSakM2NnBnRktaTmRUTEszekxzM0t0TUVSd2VkS1F5LWc0ZGZweEJJNmhCdjBMNk5aeGw3VDJGTlZBMEpPTlVwSXFLNnBka3docGJCWWgybjBMN2hKOGctYVRwZXFMbTFWMDl2WmJnaGRvX3lIbVXSAYwBQVVfeXFMTmJ0VkV1YUFqWmdwM2pjY3BRcGJSUlZFaVFoMUR4SC1aUWZsM1ZzNXpOQzhWOHRtUzRHOTlNMkhiS2hkX2FQRWc0VW9NOWxPNDBkQ2x6d0VKMW0xbmpmSXM0WW5sQzRjdUF6TFBzbDFOV0RjT0dHTUZWNWlLWkd5M3hybmkwVjRWMk5vVkg?oc=5",
-      "pubDate": "2026-08-17T17:49:00+09:00",
-      "source": "ｄメニューニュース"
-    },
-    {
-      "title": "8月の外為専門家予想 日米協調介入で｢円安歯止めも円高に転じず｣",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xMkV4OVVibXViTzJLaDlvbVhzOVgxa0FhZExQZWZXek41dXB4ZjY5ZlRSbmJhQVVuUm9GeGthZzdEOXNmRFNwTkNYRWxyUVZjUWRJWHQtQW8taTMteUdHQTRlLU9oNVRmb3pEVXQ5VTZDUW1YR3dnOXhvUXFZQQ?oc=5",
-      "pubDate": "2026-08-17T17:27:14+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "ドル円158円台に低下、159.350円のストップ買いは大きめ 今日の外為注文情報 2026/8/17 17:00",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16WWRubTBYMHNxZWxRRFpkWjZBMmZmWDV3cmN3aUdZZ2xhMEN6ZkRNVkdxVkxPRlg1XzBYU1FINmp6UnlGX1J2NGp1T1pMTmN3TzFMV3A0S3oxWThaWVkxOXNHTQ?oc=5",
-      "pubDate": "2026-08-17T17:20:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "【動画】クアトロ｜さらなる円安に備え 外貨資産の比率を高める方針＜松元 浩＞",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQai0yZEJwVXJDandOcUxmN09KYWRLZWl6V3hla21XaUZCTE1HVU9yZ19hTzA4RWVqTkVlaVNhbERCVmFQQzUwMklxTHZlOXd3Q0trLUhtQjlLbGN6bUtLbm44Nm81T19QM3FXeUtXTXR4U3QwY2Q2aGZLTmhjOG1rMmk4cHBXaUo4andHdldtQ1pVeHA2VUlIMXhETjFtbWM?oc=5",
-      "pubDate": "2026-08-17T17:12:04+09:00",
-      "source": "ピクテ・ジャパン"
+      "title": "ドル円は安値から反発＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rdlNNU21lRlhJNXpxUDFnT2R4ck9ZTWZ5d2c0NjdqRVF0aG9nM2NsQnJPR2tvWWZrQUJXR3Y3Y04tZ19yZWJETQ?oc=5",
+      "pubDate": "2026-08-17T17:57:44+09:00",
+      "source": "みんかぶ FX/為替"
     }
   ]
 }
