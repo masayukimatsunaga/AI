@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-18T00:11:18+09:00",
+  "updatedAt": "2026-08-18T00:42:39+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、伸び悩み(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORDdNNnRMUlB5cGk1dlh2dENtUkNwQkFPdEltTmRzTXBSemRhZTdwNEY1OE5xaF81ZV81RHVzWEdiTXRDQTIzRkx4clFkR2hFeDBqb3dMMzI0Y1Fvb3VtYUxqZzRQS1BYOWU4ZEktcEdkbEpzbWZQN3BGNHpoVloxY3l5a3ZBN28?oc=5",
+      "pubDate": "2026-08-18T00:07:28+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "為替投資家、円安阻止の当局と正面衝突も辞さず？",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51N3RWMDNjQUtTQm5DNGlBeTB2aWpXTnJjMUZLc1FTVW5XZWxrU1N2NFZXX2ZsU0tNbmxxVkJjbExINkhWRE00M3l1VncteVh5MWdfUk1HR3NNZU5VbkVCa1V5NWZNVk9Tcy1tc3ZwdXk2cUpNb0lZ?oc=5",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oSmp4WXJVSzNOMEtEa3lOYXB3VU90emlDOGRCc1RrNS14eWxxYllWMGozeUhlRHJKXzF3bENVWWJmUFRINmdYWXZqX2pHa1JBcmpJSkZBZ2g2VFpfcmhr?oc=5",
       "pubDate": "2026-08-17T20:00:37+09:00",
       "source": "中日BIZナビ"
-    },
-    {
-      "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年8月17日）",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1RmdiWnlldWpWejk1X3dTUXRaTDh6NjlWMGZ2SVI3RzhuejlnRF8tcWNDYTZJWVRuWE5TQnRFd0hIa01FZ0dMZzJhRFVQbVJsVzJNSU9RcXljYXkyU25RLV9hUQ?oc=5",
-      "pubDate": "2026-08-17T20:00:00+09:00",
-      "source": "外為どっとコム"
     }
   ]
 }
