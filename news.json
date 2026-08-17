@@ -1,14 +1,56 @@
 {
-  "updatedAt": "2026-08-17T14:52:09+09:00",
+  "updatedAt": "2026-08-17T16:17:56+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "東京為替：ドル・円は失速、原油相場は軟化",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bVFmbFFyQVJfN04tZnp3UFFrUU5oU2RiOTNTaVhrbGM3emFUSGlrOFQ5TEtRQW9YaHowS3BPY1Z2MEpFQTlWUURUNjBuU3hFY3c?oc=5",
-      "pubDate": "2026-08-17T14:47:44+09:00",
-      "source": "s.kabutan.jp"
+      "title": "外為：1ドル158円96銭前後とドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMmZWWUpLRzE0ZHBLdi1zSHd4bzlwTGh1VzhfdUNpeHZMSEN0QUhrY3RpMTl6bzJldktvdWg5ZWhjX2Jsay1RVkpvUGZ6S0Njb29wdV9vRWwzOE8za2Q2VWptTG54WFhmdHNrRGJHTDlBTUpzRGlyVE5YVE9CUlY3VmFZUUMtRjA?oc=5",
+      "pubDate": "2026-08-17T16:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル・円は底堅い値動きか、米経済指標は低調も円売りがサポート｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWkV4NkdPN1RUVGJDdjlSQmtiSl9JYndHaHFnWnc0eE0zOExxdEdHb201bkdkUXh1YjZ1bUMzSFdObGxpQUQ3SFBBdGdZT3JBb1E?oc=5",
+      "pubDate": "2026-08-17T15:50:00+09:00",
+      "source": "zai.diamond.jp"
+    },
+    {
+      "title": "１７日の東京外国為替市場＝ドル・円、１５９円ちょうど近辺で推移(ウエルスアドバイザー)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWZYYlBMNDIybk1lS1JseWd1b01DTVEyRW5oVlEtbjVMZEhYdHVCOElpb05QS3E0Vnc2ak1LbXFrb2VlbWo2dlhQMlI4SUhwWklTdWJ6eW84ZFd2VzlQVVdpYVByTDVhUkJhYUU1Nnc4S0JKemJNSDF3eVNNb1ZVSmF1SVJ3M3M?oc=5",
+      "pubDate": "2026-08-17T15:36:10+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "１７日の東京外国為替市場＝ドル・円、１５９円ちょうど近辺で推移 速報",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9hRWtpMU1fTmV1UlgxYzBONVRXb0JrdHBIYXFvUTVjRHZVaTFTcklmMlNFUmRjbjhtSDdTVjRkMlRCcktEMU5R?oc=5",
+      "pubDate": "2026-08-17T15:33:00+09:00",
+      "source": "kabushiki.jp"
+    },
+    {
+      "title": "FX個人投資家動向｜NZドル・ショートが拡大、米スタグフレーション懸念でドル円方向性定まらず 2026年8月17日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kVm9oZ2pWUzl2a05BdUNPcUZGT2pMcjZOczZBZTZYSHhidHV1NndwUzlPZUlhc1NnU1ZkZkI1bUR0YktmT1QzVzg4S0Z3YUREV3ZVaE05dUFIZEdtMDFiQ1d2UQ?oc=5",
+      "pubDate": "2026-08-17T15:15:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "【28年ぶり日米協調為替介入の舞台裏】慎重だった米当局が態度を変えた理由 元トレーダーのベッセント財務長官の“机上にあったメモ”が示す思惑（マネーポストWEB）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Bbkd6b0NoeWxOQzVJdm5FUkZ0MGdUbWVnYmk4dGdaUDU5aFh2Wm5OTEJxMDYzbjdGdnlUMlJKSW42aU1oWmtLV2dHM0lyM3Q4ejNUUHVoUkY5N0FDaHJwbzRhN2J3bUtSaWNZNWNwNUZnb1lGOFBPZWdZdE5pWms?oc=5",
+      "pubDate": "2026-08-17T15:15:00+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "外為：1ドル159円08銭前後とドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa05HUnhCd0Y0dUo1Z2I4cnhVc1FyT0RpYWJ1Nlc3QXN2Zi1QaFdNbnE2ODdvTXJWWmhKVWFMVEVhNkJxNzQ0akttTFJoRUp2S2xMTGRPdk44UUdKc0VHSmxFQjMxbWtJR3AtWHVWNEtaSkRuZVc4cjdzZ3Y0eTBOR295X2phSnc?oc=5",
+      "pubDate": "2026-08-17T15:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル・円は動意薄、ドル買いは後退｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NOWlzWlZndHdhZlQ4S3RNQWRHXy1PZ2JRMUxRbW1GYW0yc1B4NDlOOHg5VGhCeG1vd3pHMnFvWURQZm44VzFsS2VnSG1JTjR6a2c?oc=5",
+      "pubDate": "2026-08-17T14:51:00+09:00",
+      "source": "zai.diamond.jp"
     },
     {
       "title": "ドル円１５９円割れには慎重も、戻りに鈍い＝東京為替",
@@ -29,64 +71,22 @@
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     },
     {
+      "title": "外為：1ドル159円12銭前後と小幅なドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNajhOQ0g4YUI0X2lnY0RaODZfRmNSTlRueHFicGU2eDVDWjNrUVNOTE12WHZwNGdoZERhWUZERy1QVDlyQjJwbUFsN3l1T0ZkUGdtNVlaa3pWdGhWVzhncGNHS3RxVFZ4TXFoQVRXSUZ1Q3U0Z3lRNDFpcGxXN0RGMjlNZFI3ZWs?oc=5",
+      "pubDate": "2026-08-17T14:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京為替：ドル・円は小動き、レンジ相場",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01TVBOeldONHdPR0Z4Y2RBdGdXMTJ4VG5wZnExLUJBWnpBdEhkajQ0b2VMYkc5ajFUQ3FTSzVRUTlMdkJYdEVoVk1GR3kzQl9Pa0E?oc=5",
+      "pubDate": "2026-08-17T13:46:20+09:00",
+      "source": "株探"
+    },
+    {
       "title": "東京為替：ドル・円は小動き、レンジ相場 執筆： Fisco",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTcjJ1Y3ByYzdlUFpzQ0g5S29jRHlXY253NzJDSVJLRmlQTXhkMTBmVVQxdGR3NlR0dElXalRBVjMwS1gwZlZfWG1NUjN1ZG9NWWpkcGpEcHlidF9ncEZ2Q2lsV29GcGc?oc=5",
       "pubDate": "2026-08-17T13:46:00+09:00",
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "東京為替：ドル・円は小動き、レンジ相場",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOVIxUmxoNmRZUEM4aHVhc2dqdXlNNnBVOUE3U1hxTFlMQ1ppSE1yZHFtR0s2NWpFVTdZRmNoTkpjRkRoUWM0Vi00Z3RuaE5McnZiQ2FIYkpiVDVVa3VGVDJKT2tEcERxclNmSm52SVJaX3ZJSWZNY2tHXzBhWTZCaE9KT0EtQWvSAYwBQVVfeXFMT3J2VDR6MlF2NkF1akEwSXp3NDJLLTFVd0xkaldrUDR3R25Lc2pFb2hUU3VZeHM0Rl9wbG5tV0pNelE4Yk9OOGppS1FZQUpRNWNRaTQtYzVRaUkySUpHdW9ZWmlXMXg4MlI2bm5Mc1psQXhQZ20wa2hrdE0xQm9OOVNmY1dpVkNjNVhHYVI?oc=5",
-      "pubDate": "2026-08-17T13:46:00+09:00",
-      "source": "ｄメニューニュース"
-    },
-    {
-      "title": "【テクニカル】一目チェック1＝ドル円、基準線を巡る攻防に注目 ユーロドルは買いトレンド",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85a2VKUURnZTlqX2ExU1U1czFJQkNmeVNTN3hFSEljSW5kWk9VanZJZUhQTXRpS0M2dDdmdDlPdjM4SWhQZDZiWUczdUdmVnhGUHQwVGFFQkxzN2QyWTEwSFRCVQ?oc=5",
-      "pubDate": "2026-08-17T13:37:08+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル円、158～161円の狭い均衡続くか 介入警戒と米金利高止まりが綱引き",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iblVEbVFVTno2eWM0NnhPRjdkNHA3RmJLeHdzei1URGZkN3FBc3RMMjRPOVNQcG5pdlpVLU1qTEFIa2UxVUg2NEpaSGJXZjlidGpYbC1TLVRXMXJ6RDRSUEZsT25iUzI1eVlaNXJWdDVzekFK?oc=5",
-      "pubDate": "2026-08-17T13:35:00+09:00",
-      "source": "finance.biggo.jp"
-    },
-    {
-      "title": "ドル円、159円台で下げ渋り 原油と米金利が支え",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vZkQ2MEVVVWVONmhMUnBDejRwNFVpRnRUdDNVYjZKU0luMzJNa1d3WE44aTlCUTBXNERoR3hPRC1CanFTRFhlc3pYWWFKWkp0cG5pRjRfSVE4VHBxaXQzNDlJNEd2UUNVWG9uWTB2VElMWkN0?oc=5",
-      "pubDate": "2026-08-17T13:35:00+09:00",
-      "source": "finance.biggo.jp"
-    },
-    {
-      "title": "外為：スイスフラン、196円07銭前後とフラン高・円安で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMk5FNmFJalFJdUNxbXdQRXpzbHpKNk1nek9RTU9iWVZMR0g1ZWZ4aGRZdTZlM2tVSENrM2NTb1ZtWDYwNWJWd1JQQkZVbVNTTGI0UlFHOGFHaGhwRi1aYS1DSnRhVHJURFU3aDI1VlZoNkNVX1c3QTkwWGxqZDBxTy0tZEJadXM?oc=5",
-      "pubDate": "2026-08-17T13:31:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "【ヤフコメで話題】「家計負担と円安・物価上昇の複合的課題」「政策評価は数字と実感の両立が重要」 - 物価・為替・賃金をめぐる家計の現状と対策論議",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lZGRGcnhFaEhxVzFSWEEwczA2VWlFVHY0dnpGTElJWUI5LUphMXVyRnRwZTVTR2s3Nnp6Y0htZGUyX3F2d1VHdVgtNGFmb2RBRWtlQlhkWUNGRzl1TnlmY0NRT0hoSUxkUjBaOWNycDcyTWdEQkRiSWFOb242cTg?oc=5",
-      "pubDate": "2026-08-17T13:21:28+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "東京為替：ドル・円は下げ渋り、原油・米金利にらみ 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MaHNtVzN4RGd1UjQzY0cxSGN3VlJCVEo1VmZkQkk5UDkxbFdfMS1fbGFGMXdiLUdSWjRPZ2E3MGE0UTRmTlBjSnRqU2dhNWx5b1JpVzQwb00wTk5ZamNZWVIxNjhDNlU?oc=5",
-      "pubDate": "2026-08-17T13:16:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "欧米為替：デイリー見通し ドル・円／米金利・原油にらみ(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVBjYWdYYmJiZUQ4WksxSUh5SWJXSTNPVDlZOHJnbGRoUkhONzB1MEJIYlFhbkxhUS1VejJpeWQwVmRYWEZlR1BkSTdEc25YOWQ4bFQ0dkh4SGhvVjNxREpxVk43NDJJWURFbmZRTXJzczNQNnpNSm1kNHUyRGVtMnNITmp1OHM?oc=5",
-      "pubDate": "2026-08-17T13:06:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "外為：1ドル159円09銭前後とドル安・円高で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbW11bTZFbGZVdnhBUm9TaTN1YzQ4ZEdxQk1Kdm05cEpVSk8wZ3g2V3Y5V1NpNFdRMmNIdlJ3ZFFMbFBkWnFxYXd5T1kyTnBzcXlZX0tnN1lJVkNBenBaQnNoM3VnazYzYTRvME4xc3FJdlVUVVY1NGkyTndON09KZDNKdy02TFk?oc=5",
-      "pubDate": "2026-08-17T13:01:00+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
