@@ -1,12 +1,18 @@
 {
-  "updatedAt": "2026-08-18T06:11:51+09:00",
+  "updatedAt": "2026-08-18T06:43:10+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "止まらない円安…「潤う大企業」と「苦しむ中小企業」の格差拡大にゾッとする | 今週のキーワード 真壁昭夫",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pV2RUUk93em1RT1B1a04wVnU4Y0tMMnk4U1BBc1NrNFhZYmxLWWhiN256dm0td2hIV3dvd3pXb2RSRWtMOVc5aGZJaS0?oc=5",
+      "title": "１７日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56Z1JndHBVRkVxQnozM2ZJZ2c4SncwQ1VrdFFBdFNDVEY3ZnUta3RFeEk4MXE4TDBJY05YRDlCNXU0N1RmYWs5NQ?oc=5",
+      "pubDate": "2026-08-18T06:20:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "止まらない円安…「潤う大企業」と「苦しむ中小企業」の格差拡大にゾッとする",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pV2RUUk93em1RT1B1a04wVnU4Y0tMMnk4U1BBc1NrNFhZYmxLWWhiN256dm0td2hIV3dvd3pXb2RSRWtMOVc5aGZJaS3SAU9BVV95cUxNa0F2STI5LVFsdWxRVWkxUFF5OGJvd2ZsbGZCbWJpMGlWZWJjbldPSnlFbDJYY2FkZE9wLS11bnFIaU1GR3pLeGZSdWRVVjVj?oc=5",
       "pubDate": "2026-08-18T06:00:00+09:00",
       "source": "ダイヤモンド・オンライン"
     },
@@ -26,6 +32,12 @@
       "title": "東海３県上場 ４～６月期 ８割増収、６割増益 円安追い風 車関連が堅調（中部経済新聞）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiV0RGd05QVzZfRXBUb1J4dktkM3kyb3B3R3NmTHdPVjVYNlozYkJ2WGtMNWp2NC0wa012eXl2NmxBRkc4LWVPcWJGUXZtUHllSGxqQ1NQLWEtNUt5bWlqeG9pQnMwVWU4RVRvZDBOWXhoNUpETTJya0x2OXcxNVk?oc=5",
       "pubDate": "2026-08-18T05:15:22+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "アメリカで広まる「日本発国債暴落ドミノ」説…円安退治の協調介入、ベッセント財務長官が「伝家の宝刀」を認めたのはなぜか？",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wbkhUd2tSODE4M3JsRzI5T2lFNnNsSmFtVDR0d3hDaUY0d0s0VDJkWGx6bVFHbGtrbGJWSVNXSGxLTTdoRHJNdmlyamd3YnVBaWJaejFPUzRaMDFsMW56Z1dMcjQ2RUN5aC1hWWxYWkdLLXVGcHluRDlvcmZQcWM?oc=5",
+      "pubDate": "2026-08-18T05:00:38+09:00",
       "source": "Yahoo!ニュース"
     },
     {
@@ -75,18 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR0lyODYxOFl1aGZTdkNjYno1WDlZUXp4VThvLXdRRHN4QVcxUGphTTB3U0txdGE1MGt2X0FaajBKbW10Z0d3aW1pNFhTd0prazZsMFBPV1RmSkZWQ0lDXzljRmltVHI2eGRzdUFqUTZveG9qUTdpMEQyeFM2WnZ4YlVTQzhDaVE?oc=5",
       "pubDate": "2026-08-17T23:05:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "【速報】ドル・円159.40円まで、米・8月NAHB住宅市場指数は予想外に上昇｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96NWFSMFZHTkswUlRrUEdDMzNBQUJCRVV2aXhMRFV0OFNOYmMxRFdkVnRzbXNDcHlRUC1IaTFqemtFa2FZbzU3dk9jejRtN3lfR0E?oc=5",
-      "pubDate": "2026-08-17T23:05:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【テクニカル】週足テクニカル・ドル円 サポート＆レジスタンス",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16eERwNWZDc1Bfb0pINEF6dnlNR0QyU2drakhwbE8xcFNiaXA1bUk1QnVsdmw5ZE4xMEc2UjZmYXVWaEtzS1podElBUnByQmVTVy1pZkVVVFlkdzFBcUFUemp3VQ?oc=5",
-      "pubDate": "2026-08-17T22:53:28+09:00",
-      "source": "gaitame.com"
     }
   ]
 }
