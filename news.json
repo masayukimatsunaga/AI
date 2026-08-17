@@ -1,14 +1,51 @@
 {
-  "updatedAt": "2026-08-18T06:43:10+09:00",
+  "updatedAt": "2026-08-18T08:02:28+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "１７日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56Z1JndHBVRkVxQnozM2ZJZ2c4SncwQ1VrdFFBdFNDVEY3ZnUta3RFeEk4MXE4TDBJY05YRDlCNXU0N1RmYWs5NQ?oc=5",
-      "pubDate": "2026-08-18T06:20:44+09:00",
+      "title": "【本日の見通し】ドル円は堅調地合い維持見込みも、160円台トライには少し慎重か",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5b1FCeHV3TVlYa2V1MllWTEg0VklVYTZKY25Xbk5VOGpTOWVIUEYyNWpkYnNwUkt5RlViYlVVemlKM3FuU2xmRQ?oc=5",
+      "pubDate": "2026-08-18T07:46:44+09:00",
       "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル円午前の為替予想、原油高・円安 節目の160円を試す展開も 2026/8/18",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Kc09DSm1MTWJRd1VoSXdqZmJCZGRlSUZ1WDVSOFFyaGxlaFhualhqeDdhV1lPSC1vUjEyS09LX0t0bE9xSEdBWXJtT3J0X09PZVFGNkY3anRicC03SldKMkp1QQ?oc=5",
+      "pubDate": "2026-08-18T07:34:00+09:00",
+      "source": "gaitame.com"
+    },
+    {
+      "title": "ドル軟調も円安も根強い ドル円は１５９円台に戻す展開＝ＮＹ為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaQ0ZXajVWb01EeVpPZXh0VHRISXJzNUVaZmNhYTRua0hZTjhMeEh1U2hrOHNiMkxWYkNNY3Zna283VWVBUkRPVg?oc=5",
+      "pubDate": "2026-08-18T07:12:19+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "朝のドル円は１５９．４０円台、海外市場で１５９．６０円前後まで一時上昇＝東京為替 -",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wVWxPN0VaUEVKWHFndjlpTk9Fdm5DbGtBdGNGU01Na21IUHRfLXNObXo0SVN6WG1zRmItTTYzbkQ0bk1abHBGMw?oc=5",
+      "pubDate": "2026-08-18T07:02:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "NY外為市場=ユーロ、対ドルで2カ月ぶり高値 米利上げ観測後退",
+      "link": "https://jp.reuters.com/opinion/JTTDBRF2HFJJ3MHNW7SIX45GJ4-2026-08-17/",
+      "pubDate": "2026-08-18T06:24:00+09:00",
+      "source": "reuters"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・17日 ドル円、小反発(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcXBOamc5V3IzVFAwMU1obEppMjlpMF83eHBFdGM5STlGaWh2bnhjVW03MG1TMTNtSnZaSXpOUGszWlNzMFFNSkdpd3gwdFNEMTFpVWlqTFFZNVE4V2s2VWMtb25IREthTWlTcVBsVDVkN25sZF9CcUFwMHNOWmRXYkw3SUNyYk0?oc=5",
+      "pubDate": "2026-08-18T06:05:49+09:00",
+      "source": "finance.yahoo.co.jp"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・17日 ドル円、小反発",
+      "link": "https://zai.diamond.jp/articles/-/494082",
+      "pubDate": "2026-08-18T06:03:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "止まらない円安…「潤う大企業」と「苦しむ中小企業」の格差拡大にゾッとする",
@@ -23,22 +60,10 @@
       "source": "JBpress"
     },
     {
-      "title": "ドル軟調も円安も根強い ドル円は１５９円台に戻す展開＝ＮＹ為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaQ0ZXajVWb01EeVpPZXh0VHRISXJzNUVaZmNhYTRua0hZTjhMeEh1U2hrOHNiMkxWYkNNY3Zna283VWVBUkRPVg?oc=5",
-      "pubDate": "2026-08-18T05:40:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "東海３県上場 ４～６月期 ８割増収、６割増益 円安追い風 車関連が堅調（中部経済新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiV0RGd05QVzZfRXBUb1J4dktkM3kyb3B3R3NmTHdPVjVYNlozYkJ2WGtMNWp2NC0wa012eXl2NmxBRkc4LWVPcWJGUXZtUHllSGxqQ1NQLWEtNUt5bWlqeG9pQnMwVWU4RVRvZDBOWXhoNUpETTJya0x2OXcxNVk?oc=5",
-      "pubDate": "2026-08-18T05:15:22+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
       "title": "アメリカで広まる「日本発国債暴落ドミノ」説…円安退治の協調介入、ベッセント財務長官が「伝家の宝刀」を認めたのはなぜか？",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wbkhUd2tSODE4M3JsRzI5T2lFNnNsSmFtVDR0d3hDaUY0d0s0VDJkWGx6bVFHbGtrbGJWSVNXSGxLTTdoRHJNdmlyamd3YnVBaWJaejFPUzRaMDFsMW56Z1dMcjQ2RUN5aC1hWWxYWkdLLXVGcHluRDlvcmZQcWM?oc=5",
-      "pubDate": "2026-08-18T05:00:38+09:00",
-      "source": "Yahoo!ニュース"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPMm1heTJHT2dLY2Y4QnUxNnhpUUJ3c1AzMGVDQVJ6TXJGZFE2ZlMzU2Q0ZmljNnEtUkViSmZkZmhBZGVqalVMbHlHYlNJWFRxODM4?oc=5",
+      "pubDate": "2026-08-18T05:00:00+09:00",
+      "source": "Wedge ONLINE"
     },
     {
       "title": "円安阻止に奔走も、際立つ「政策のチグハグ感」…再び円安の可能性は大【今週の米ドル／円予想レンジ「158～161円」の根拠】",
@@ -50,43 +75,19 @@
       "title": "ニューヨーク外国為替市場概況・4時 ドル円、底堅い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOblppV21UbmU0eE5ZcmtKaEtMVF9MUDRfRDBNZUlDeUtOcWlScUtUSEhGZGZzQ1Z6b0d5UTYyODlNcU9kVDVUYTRMSDlJLXFFMWhXaU82YzF1THJ6TWtlUzU3MHkzeElES3FIVEduTHR3TlhnSHV6azFtWkNmaDhKRDA4Z0hITWM?oc=5",
       "pubDate": "2026-08-18T04:09:24+09:00",
-      "source": "Yahoo!ファイナンス"
+      "source": "finance.yahoo.co.jp"
     },
     {
-      "title": "ドル円、一時159.45円と本日高値更新 原油高・米金利上昇支え｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11azJQTzRiUGcwd09PMHJiY09JcnpBdkZiY25Mdnh1MEFtRmREUDBEZUc1cm5DaWFXdm43SjA2YjhRclRLS2xXaElwR0JWVldzMmc?oc=5",
-      "pubDate": "2026-08-18T02:26:00+09:00",
+      "title": "ニューヨーク外国為替市場概況・4時 ドル円、底堅い",
+      "link": "https://zai.diamond.jp/articles/-/494079",
+      "pubDate": "2026-08-18T04:06:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・2時 ドル円、小幅高｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XempZajBMTS0tcFhnVWNpVlh2Y1dkcUZMN0RFZGU1Q0hpd1YwUHhqRjVNWnRoRFJNT2JkdklzdFB2ZEhfWWsySzVoalQyYmdCeGc?oc=5",
-      "pubDate": "2026-08-18T02:06:00+09:00",
+      "title": "NY外為:ドル買戻し続く、米長期金利が上昇",
+      "link": "https://zai.diamond.jp/articles/-/494074",
+      "pubDate": "2026-08-18T02:36:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円膠着、4‐6月期GDP弱いが日銀は9月利上げに踏み切るか｜大橋ひろこ",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRmhodW01N0RkUy1sSDd5MzY2UFFfR3dJTnZzaFd5MXFIdXdxUVVBRUd2M243ZWJpU0ktOGQ0MVlzRnB1NmNzeVlFVDB0aW10SUhLcmZyTHBUZw?oc=5",
-      "pubDate": "2026-08-18T01:51:02+09:00",
-      "source": "note"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・24時 ドル円、伸び悩み(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORDdNNnRMUlB5cGk1dlh2dENtUkNwQkFPdEltTmRzTXBSemRhZTdwNEY1OE5xaF81ZV81RHVzWEdiTXRDQTIzRkx4clFkR2hFeDBqb3dMMzI0Y1Fvb3VtYUxqZzRQS1BYOWU4ZEktcEdkbEpzbWZQN3BGNHpoVloxY3l5a3ZBN28?oc=5",
-      "pubDate": "2026-08-18T00:07:28+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "為替投資家、円安阻止の当局と正面衝突も辞さず？",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51N3RWMDNjQUtTQm5DNGlBeTB2aWpXTnJjMUZLc1FTVW5XZWxrU1N2NFZXX2ZsU0tNbmxxVkJjbExINkhWRE00M3l1VncteVh5MWdfUk1HR3NNZU5VbkVCa1V5NWZNVk9Tcy1tc3ZwdXk2cUpNb0lZ?oc=5",
-      "pubDate": "2026-08-18T00:00:00+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "【速報】ドル・円159.40円まで、米・8月NAHB住宅市場指数は予想外に上昇(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR0lyODYxOFl1aGZTdkNjYno1WDlZUXp4VThvLXdRRHN4QVcxUGphTTB3U0txdGE1MGt2X0FaajBKbW10Z0d3aW1pNFhTd0prazZsMFBPV1RmSkZWQ0lDXzljRmltVHI2eGRzdUFqUTZveG9qUTdpMEQyeFM2WnZ4YlVTQzhDaVE?oc=5",
-      "pubDate": "2026-08-17T23:05:00+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
