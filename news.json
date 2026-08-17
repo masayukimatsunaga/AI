@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T02:46:59+09:00",
+  "updatedAt": "2026-08-18T03:16:36+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
@@ -42,12 +42,6 @@
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円膠着、4‐6月期GDP弱いが日銀は9月利上げに踏み切るか｜大橋ひろこ",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRmhodW01N0RkUy1sSDd5MzY2UFFfR3dJTnZzaFd5MXFIdXdxUVVBRUd2M243ZWJpU0ktOGQ0MVlzRnB1NmNzeVlFVDB0aW10SUhLcmZyTHBUZw?oc=5",
-      "pubDate": "2026-08-18T01:51:02+09:00",
-      "source": "note"
-    },
-    {
       "title": "NY外為:ドル買い強まる、原油、金利が上昇",
       "link": "https://zai.diamond.jp/articles/-/494068",
       "pubDate": "2026-08-18T01:11:00+09:00",
@@ -88,6 +82,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96NWFSMFZHTkswUlRrUEdDMzNBQUJCRVV2aXhMRFV0OFNOYmMxRFdkVnRzbXNDcHlRUC1IaTFqemtFa2FZbzU3dk9jejRtN3lfR0E?oc=5",
       "pubDate": "2026-08-17T23:05:00+09:00",
       "source": "ザイFX！"
+    },
+    {
+      "title": "【テクニカル】週足テクニカル・ドル円 サポート＆レジスタンス",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16eERwNWZDc1Bfb0pINEF6dnlNR0QyU2drakhwbE8xcFNiaXA1bUk1QnVsdmw5ZE4xMEc2UjZmYXVWaEtzS1podElBUnByQmVTVy1pZkVVVFlkdzFBcUFUemp3VQ?oc=5",
+      "pubDate": "2026-08-17T22:53:28+09:00",
+      "source": "外為どっとコム"
     }
   ]
 }
