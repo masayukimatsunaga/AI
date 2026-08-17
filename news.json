@@ -1,20 +1,44 @@
 {
-  "updatedAt": "2026-08-17T18:24:38+09:00",
+  "updatedAt": "2026-08-17T19:16:23+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "円相場 値上がり 1ドル＝158円台後半",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWbDc2dHpOTnNFY3VJdWVyNHI2V1lsbW53Sld1TEZwZk0ycWt3UUh3SnpaSmhmQ2dlRFU2b3RPMF9VelBRMHZfdXpBSVQxLWw3cGJxVXBhNmFrbjlzY1A4?oc=5",
+      "pubDate": "2026-08-17T18:45:07+09:00",
+      "source": "NHKニュース"
+    },
+    {
+      "title": "お盆休みを海外で過ごした人 円安直撃で｢両替する時に損した気分｣ 外食控え市場で買い物も…",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UMHZwcTYtUmlKVFQ3aTZ0MFNMSjB3dGF4YzJYbUY0M01ITGVyRXowZnRCSXVZMmUtLU82dlQ1X2hPbmJxUW9IMmh4YWgzTVc4WEo0NXo3eFJwekRIZlFF?oc=5",
+      "pubDate": "2026-08-17T18:37:01+09:00",
+      "source": "newsdig.tbs.co.jp"
+    },
+    {
+      "title": "ドル・円は小高い、ドルに買戻し｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wOUcybU5HSGxqUVE0eXlPLTk3VDh0V0hhQllkankwZkhrNElWTjBSRkxSeEtTaHRYQjZ4V0t0RHFJek8xOTZfbmNDcnBRdE96UVE?oc=5",
+      "pubDate": "2026-08-17T18:30:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "欧州為替：ドル・円は小高い、ドルに買戻し(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHJwajVzbFMzMGQ5TUphODdXZ01QaEFKTHVFZzNEaGVrZWx6VVBMQ1dPT1lYTEVWekx6T0lQcFlXX3pCWkxpYkE1YTJQdHd1eV9XZi1CODZIcjQ5WFlZbWgzYnRBbEdJME55ODAtM1lJelFST2VPUVNUbDVZOEZhV3dsUGRVZTg?oc=5",
+      "pubDate": "2026-08-17T18:20:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "欧州為替：ドル・円は小高い、ドルに買戻し 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zanFrM1ZrRHAydkltUDNZN1I5SHVXanhxUzRGajZTUFVJaGNfRDVIRThqNDdHcENyOFBFYU1FOHdvT2xNbVlKcnRMZFpOSVB3emMxUlhsTU0wTUstYkxiUnZ6M2lYdmc?oc=5",
+      "pubDate": "2026-08-17T18:20:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
       "title": "お盆休みを海外で過ごした人 円安直撃で「両替する時に損した気分」 外食控え市場で買い物も…（CBCテレビ）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DczJYZm5ZUnRqS1ZiTnBDNGRtVWRpU3VZcGZTd2tPMWVJZzVhaHlzR2ppOVRMVTRRX0ZCSktIckYzVU44TDBTNkxYa3oyVjdhQVUxYXVud3pSYmszdk1DLUNIZ0xESDFqeHMzaTR5VS1KYy1MbVBWdGtNYXhpNGs?oc=5",
       "pubDate": "2026-08-17T18:18:18+09:00",
       "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "お盆休みを海外で過ごした人 円安直撃で｢両替する時に損した気分｣ 外食控え市場で買い物も…",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82eV9vdTMtaTJrXzV0dk9fdENoV0IwUU4zel9nQ3VVTlNIdGhvbFdJejFaLV9yTGszb05EUEFlZGFNdHRqcFBMVUtDRXFDdnBnN2Z3X3A0TmNtUjBQdUZ3V1UwOUpfUUk?oc=5",
-      "pubDate": "2026-08-17T18:17:00+09:00",
-      "source": "newsdig.tbs.co.jp"
     },
     {
       "title": "外為：1ドル159円12銭前後とドル高・円安で推移(株探ニュース)",
@@ -63,30 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU1p4allhVmIwcXZZaFd3SE92aGwxSHRWY1FKek1jZjRVdjhQcVR6b3otUUYzV19FOUNvR1ptSjA0ZTZzZmxmb2d3M0ZVR3IxLWF5bkxod0ExMHpUTUgyWDFkU09EVnV6SzFxRll3aWFhZ0F3d01QWTVUTFdrTkxPT0s2YzVXNFU?oc=5",
       "pubDate": "2026-08-17T17:08:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "【FX】ライブトレード 欧州タイムを攻略だ！「ドル/円、159円台…日銀9月利上げ織り込み8割」ドル円分析＆取引 2026/8/17 17:00",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwZFBOTnhQMlZwZzEyYS1VbnZLc09BU2Z1Q2ppR3ktQTRhaDB6SEtGX2NrNGJzWENNV3YzM2Npc1hjaDVHSDg0NWtGb1M4N1ZUbnlCamlRVWF0SGJWVU9zc0NwYw?oc=5",
-      "pubDate": "2026-08-17T16:30:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "所得流出1.5兆円拡大 4〜6月、原油高や円安重く",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kVlJQVXYtcVpUdzNMVEhVblpxeC1JN2pmVFY0RUJIQmF3SnE3eU9JN0pReVFnOEV1V2IyQURfYm91ZFVkZXBrNUZCbHhONHlVZWd0MGZYVF9EcGRpeTNWYkNsMTJVQnhXX2hmNg?oc=5",
-      "pubDate": "2026-08-17T16:30:00+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "【ドル/円、今夜の見通し】ドル/円、159円台で伸び悩み…日銀年内2回利上げの可能性も？＿2026/8/17",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxeGw3NlRGaGdOMXUxbFJmR3Z1b0NtcVVaOTJnOVBwaXV1T2lLU3RNbzM0RTRwclpOUGcweFI5dnBPV0FUVjNPQ2RzcTljcmIwNFkyaGNPZGtUZU5oTFdiaVNkWQ?oc=5",
-      "pubDate": "2026-08-17T16:29:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル安進み、ドル円は東京市場の安値割り込む＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90VWR6Y1lxZ2kzVjNqNFZqM3lLcTZNbHQyTjBKNi1ORVFwdWtfZ19XYWRpN1RjVzFVckNCMURGSXlsbzRuelR6eQ?oc=5",
-      "pubDate": "2026-08-17T16:28:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
