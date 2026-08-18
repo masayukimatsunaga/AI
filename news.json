@@ -1,22 +1,9 @@
 {
-  "updatedAt": "2026-08-18T23:54:17+09:00",
+  "updatedAt": "2026-08-19T00:47:58+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
-    {
-      "title": "【速報】ドル・円159.53円、ドル軟調、米・7月中古住宅販売成約指数が予想外の2カ月連続マイナス",
-      "link": "https://zai.diamond.jp/articles/-/494150",
-      "pubDate": "2026-08-18T23:07:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、159.54円付近まで小幅に下押し 低調な米住宅指標が重し",
-      "link": "https://zai.diamond.jp/articles/-/494149",
-      "pubDate": "2026-08-18T23:04:00+09:00",
-      "source": "ザイFX！"
-    },
     {
       "title": "ドル円、159.54円付近まで小幅に下押し 低調な米住宅指標が重し(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVnNMVjB4dWhPOHdIanNKdnplM1pNY0M1X0RiYjlUcVo4QXgyU3I5YklZRklhVE55TmNzaEwzSTNFOHF1X3BoTkVDWF9aeDJFcUlqZy1kcHZYV1Z6ejM1cTNodWhXamFWSFpnRGJHbE9DSkRVa1I4RTdwdmkyUHZHNjcxZHZ5bEE?oc=5",
@@ -28,12 +15,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kckZuMFpCUmcwWWF5a1JpcGpmS0JNR3N6M1ZvRXBqS1pnc2dhNkxPSW1YeXY2bHVCbHBSXy1RSDc4LXpidmhLZQ?oc=5",
       "pubDate": "2026-08-18T22:22:44+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、もみ合い",
-      "link": "https://zai.diamond.jp/articles/-/494140",
-      "pubDate": "2026-08-18T22:06:00+09:00",
-      "source": "ザイFX！"
     },
     {
       "title": "欧州外国為替市場概況・22時 ドル円、もみ合い(トレーダーズ・ウェブ)",
@@ -48,10 +29,10 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "【速報】ドル・円159.71円、ドル底堅い、米・中古住宅販売成約指数や輸入物価は予想下回る",
-      "link": "https://zai.diamond.jp/articles/-/494137",
+      "title": "【速報】ドル・円159.71円、ドル底堅い、米・中古住宅販売成約指数や輸入物価は予想下回る(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU2FHWVFyMlp2dExCbVNyNzI1al9mckJjTWtId2o1NTZUb0ZrUUU5NVZBekh1REVwb1h2QkhUTDdoZGdmRHprcTlWbWh0QnJuaGRJNGFwVG52LU5USjFrd016eEY3dl8weVJoVWpoVGdYUzBrek9EMWtBeVpsWWRFRHgzWTZ5YWM?oc=5",
       "pubDate": "2026-08-18T21:46:00+09:00",
-      "source": "ザイFX！"
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "主要通貨は前日比ドル高水準にとどまる、ドル円１５９円台後半＝ロンドン為替",
@@ -78,16 +59,34 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "欧州外国為替市場概況・20時 ドル円、底堅い",
-      "link": "https://zai.diamond.jp/articles/-/494127",
+      "title": "欧州外国為替市場概況・20時 ドル円、底堅い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUlZjcTIxZkwzbDA2TFVDVnl1NEFuSWJZdjJMdTFfbXdyRC1HdkVrTWxKMG40V1c3V2VLaFk5cE5rbmhpRkhQNW9VZU5QazkxOXVjcmg5NWlEZ0pIZXg1ZEJJbEVnNHJpWm1DalV2UjRQektXYk8tcVBGbXlFNl9FZDlhdEJQSms?oc=5",
       "pubDate": "2026-08-18T20:06:00+09:00",
-      "source": "ザイFX！"
+      "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "欧州為替:ドル・円は底堅い、ユーロ買いは限定的",
-      "link": "https://www.zaikei.co.jp/article/20260818/866389.html",
-      "pubDate": "2026-08-18T20:06:00+09:00",
-      "source": "財経新聞"
+      "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年8月18日）",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rUFRYTjhBSmRYQWJONExNR3pqeV94VWxyc1FvUkdLbWZENm1KMUctZ2l1RjF2YmhxdlY5MWRzMTRHQS1UT1E0SjVUOWhTT2FmSmZwRVN6YVAyb3dqeDVOQXhtaw?oc=5",
+      "pubDate": "2026-08-18T20:00:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "欧州為替：ドル・円は下げ渋り、原油・米金利にらみ 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95bm1laTlZWkJ4OHotRkQ0T3d1SDRsWEt4a0Vfc0V5ZUJfMnJlVk5EN3ZzaV93T1NwQnFGRlhfMl9Camg5cHBaeE0zU2tEeTF5eHJVNTdCT1R0VzhhTUpVanNMMkhTNnc?oc=5",
+      "pubDate": "2026-08-18T19:45:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
+      "title": "ドル円１５９．７０近辺、ユーロドル１．１５７５近辺＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aNVJEM1JVeERYcUszMFZlNzg2cER4X00yS3hIN0J3dkVCeHdNRnBTWWhTQk9aZ0dnckFua24zbTFUU0EwNUxaLQ?oc=5",
+      "pubDate": "2026-08-18T19:27:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "外為：1ドル159円60銭前後とドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbDZwM0JXXzBGTzN1ZjRnS0RvWnVOc3c3V1FqMVhYQ3g4Z19mOHRPTkZBWVlCNC1rTWMzWWR2ZjZiYXFQMHBLUjFXV0d2WjdGbW1TcERNcjQycXdOc09jRVR3QXREc0pHMFhKemFOZFJPSzN5eXB1TXI0bldaZU5OVkNaZjQtMnM?oc=5",
+      "pubDate": "2026-08-18T19:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
     }
   ]
 }
