@@ -1,9 +1,51 @@
 {
-  "updatedAt": "2026-08-18T17:16:02+09:00",
+  "updatedAt": "2026-08-18T17:57:40+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "東京円、７６銭円安の１ドル＝１５９円７１～７３銭",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aakZEOGJRZUs4amtmS0tHZlZPQXV6cEhQWWpVU0Q3SzhmSGNJZno1cG0zY3dTYm84NDdyNmhfaHp1Z3A5R2pLMFZlVFAyRWpqUXhjWGV2V2FGV0wtOEt5VlBDSF8?oc=5",
+      "pubDate": "2026-08-18T17:52:00+09:00",
+      "source": "読売新聞"
+    },
+    {
+      "title": "ドル円159円後半へ上昇、160.00円付近に売りが並び始める 今日の外為注文情報 2026/8/18 17:00",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EUmNuR3BXLXpkNWVqbFp1YngwYzU4b25uNTBGQ2U1MF8xU2VMOUV4YnRWYlctSFVSVlpnWkMwWkR1bUMtZmY4Mng0OEktYU5iRklNa0F4aWtzMjh3SF81WjVrdw?oc=5",
+      "pubDate": "2026-08-18T17:27:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "欧米為替見通し:ドル・円は伸び悩みか、節目160円にらみ為替介入に警戒(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVC1RWnp4TDZwakxER0p1cFNxalJnaVJZekM5eGdna1JjNjJ2ck8yQi1Zd1FmbnA2THh1bzgzTm5tYUw1dzdqYmY2bk00TTRhRHZIYlpDQ0p4cWQtbjI4Mks3RXJ6VDRxdGtTMHJHOFQxZGxDVzJVVlFwYkNzOE5fRUZDUFJsaG8?oc=5",
+      "pubDate": "2026-08-18T17:25:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京為替：ドル・円は伸び悩み、午後は上値に重さ(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOREtneWJLQVRlM1BVcG9aN2xSWG9aOWpaS2cySWdxX3pDT0FOc3JjSzBaVldZT3ZsbldZNWlnb0IycHRSX1U1WERHd0pXcjdETWlEMkhSMUpOcWFDYUNkTFdMbGNxVm9BZllSVExxd1dSempCOHF2OXhUSGkxQmlJYU5LVGdNUWM?oc=5",
+      "pubDate": "2026-08-18T17:24:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "通貨オプション ボラティリティー ドル円１週間６．２％付近に落ち着く",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QYnlQUDdTMFNqN2lqN3lYU2tNUE1seklrSS1KdnNPbWpXTm5zUENtZ0NveUFUUDRFYjdPaGFfVWJIRWRqNmh6Tg?oc=5",
+      "pubDate": "2026-08-18T17:17:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "円相場、１５９円７２～７２銭＝午後５時現在",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1scGo0dG1xMjVBN1dNMXgxVEc3Y0NxM1RfWVhzTE9JeVpIdlY0ZUdwSUNzQVB3bklCSlFuR2w0ODQ3bTlXOVN4UFVOTDZWUE43cTc4cQ?oc=5",
+      "pubDate": "2026-08-18T17:09:00+09:00",
+      "source": "時事通信ニュース"
+    },
+    {
+      "title": "ドル円１５９．７０近辺、ユーロドル１．１５７５近辺＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYRGplbE51NnRtRzFLdFF3ZUtXQWFqdXpiRmwzZ1hER2Y4N0h0QW4yUUYzc3dGcDJud3JvOVdVU1EyeWZfNkJ6aQ?oc=5",
+      "pubDate": "2026-08-18T17:07:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "東京外国為替市場概況・17時 ドル円、堅調(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZE1kQ283d255T3d4SDB3NmlWZzJaTWFnbW5EM0JLVjJQMWlxT2E1YUNiVzNXa0hqdUIzOWY3Z1BoN3hmYUpIWnZnVlFjWU9aYjFzSF9sT0VqdW5BTmxOSUJDUFlGTTNxai1mcGhZNjJxZHh0czVMUVZrSHlKY1JMUTZmclJtbVU?oc=5",
@@ -29,12 +71,6 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル・円は伸び悩みか、節目160円にらみ為替介入に警戒｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pclU0STU3MlZucmhLUG52X3czekJHS0xoaDhTYmtDdTVkV0tyc0I5bHdaTnJSNVItX0EzX0ZTcF9JMVNFRU5JNGxyUERnYzI3WHc?oc=5",
-      "pubDate": "2026-08-18T15:47:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "円安で「潤う大企業」「新NISAで儲かる人」と物価高で苦しむ中小企業や庶民の「格差拡大」にゾッとする",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pV2RUUk93em1RT1B1a04wVnU4Y0tMMnk4U1BBc1NrNFhZYmxLWWhiN256dm0td2hIV3dvd3pXb2RSRWtMOVc5aGZJaS3SAU9BVV95cUxNa0F2STI5LVFsdWxRVWkxUFF5OGJvd2ZsbGZCbWJpMGlWZWJjbldPSnlFbDJYY2FkZE9wLS11bnFIaU1GR3pLeGZSdWRVVjVj?oc=5",
       "pubDate": "2026-08-18T15:37:11+09:00",
@@ -51,42 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0xbVRtMlRlazdEZkVlUUs1MEdHcWRmWFVjSk55TzlNWUJZVFppWmkwOHBIVzBad1J1bTZiMWdKaWhIT3BVNFNj?oc=5",
       "pubDate": "2026-08-18T15:33:00+09:00",
       "source": "kabushiki.jp"
-    },
-    {
-      "title": "１８日の東京外国為替市場＝ドル・円、１５９円台後半で推移(ウエルスアドバイザー)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT2Q4RXpBOGF4S1JKQ3VRa2NYcVAtMHljaXpvcWgyRnU1d2JsemE2S1hmbjhNWllOWnBQUS1pOFVDLVpsTzU2WFZYRER5ZkdNR1JCTGNPTzNCSnE3M19jd1A3T1N4VFNFTy1wMEZOSEYwS25iQWd1blZsaVptYm8wWXRLdTNWYlk?oc=5",
-      "pubDate": "2026-08-18T15:33:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "FX個人投資家動向｜原油高がドル円の下値を支える、トルコリラやメキシコペソがシェアを戻す 2026年8月18日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkbkpVUktsTnQwQXMtR3g1MXdONzlVcE5mYnNfYUxwaGQ3VXdCMk1ZTFl2ZHd6ME1XN1h4c05rZUhhSmVjT0NRQU9IVlhmRTBMYnJDYkJMZnd3OXB3VGRXcEY1QQ?oc=5",
-      "pubDate": "2026-08-18T15:16:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "30分間で勝率9割、38万円の利益》FX投資家・加藤ムネヒサ氏、為替介入直後のマーケットに参戦し「介入は主戦場。体力が続く限りチャートを見張ってトレードしている」（マネーポストWEB",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU25fYWVNY1Z6bnlwQ21sQXIxazN1eldlamJGblZYd1d4VXBnSFA2YkJ0ZkIya0R2MWo5enlEN1VxNEYyd2FKVFNQVnNVVXp5Q2JOdmQ0cVJlRWxyX3dsTTRDN1FGbHNrMHVkZnhKMmsyMGVSS0NxWlVOLVFDeTN4Qk1zSV9RM1lISGgzLUFR?oc=5",
-      "pubDate": "2026-08-18T15:15:00+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "東京外国為替市場概況・15時 ドル円 じり高(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkI1SE5yVGVSY1lvZE9BWlRSaE9GcXJ4QjI1a3BhUE0wR2FaaVl5eUNhNjR2WXFRN1dfVXluU1RQR1J2ZUoxeklvMm9jaVhBRWtNY1h5OTltM3BKbndNaWY5YlphY2JpSU9Id3A2anJsU01rUmdIeDlEMGpuOGVzWXZhd3N6d28?oc=5",
-      "pubDate": "2026-08-18T15:13:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円恐れる8月最後の試練 ～「運命のジャクソンホール会合」～",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92QlU3NmVHd2NVbWVzTEdMVjUzdnBoNE9rLVl6RGQtaTdrMXhCUDA1VGdwSDB2dUpWOG9qdE02aVBaWXFYdlptNm9WSExaUnB3LUEtdQ?oc=5",
-      "pubDate": "2026-08-18T15:12:04+09:00",
-      "source": "日経CNBC online"
-    },
-    {
-      "title": "東京為替：ドル円159円台半ばで小動き、介入警戒と米金利高止まりが交錯",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sajlrdmRuajFXcDlqWGFmTnYwNXprWWVJblpwYmRTdElqTnVQRnh0QmNTZnpLSDl2c0xfei1HbENCczl3XzFwcnh6QnlKZUZQZXM1WGRKNnNlQVZXMnN4T0R6TTZBcG9CQzhsbllCWF9kNERp?oc=5",
-      "pubDate": "2026-08-18T15:06:00+09:00",
-      "source": "BigGo ファイナンス"
     }
   ]
 }
