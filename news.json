@@ -1,9 +1,45 @@
 {
-  "updatedAt": "2026-08-18T12:10:23+09:00",
+  "updatedAt": "2026-08-18T12:59:58+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル・円：ドル・円は底堅い、中東にらみドル買い｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PZWZYUlpWTi1hZjFwaXAycDV6aDdqb011MXhHT3RObG1QdU84dDdvRUdBcjJ3dmhTQlkyQzZVUjV0c3B1Y3hvQU10UkFpZ3R6bFE?oc=5",
+      "pubDate": "2026-08-18T12:40:00+09:00",
+      "source": "zai.diamond.jp"
+    },
+    {
+      "title": "マツダ 第1四半期は過去最高の売上高。円安と新型「CX-5」好調で大幅な黒字転換",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hRjRnQzNZSEc5cmVQN1c4WjNORDExTWZWOUk1Q2M0V0M2Y01OWHJnMXc5OVM0emV4UTQ5Y280bEJFVGl2SHJPWEE3ZXJYWWtDMnQwTUphWW93eWRySUZsaHlENDRkaTg?oc=5",
+      "pubDate": "2026-08-18T12:32:00+09:00",
+      "source": "TBS NEWS DIG"
+    },
+    {
+      "title": "東京為替：ドル・円は底堅い、中東にらみドル買い(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONWw4TWhYalhaOWlEOC1CT3ptd3dFcXBld2dITEVjeHl0djFaemtCRkhmbi1TaW1EdWw1RnV5VjVhRkhfcDVUMmV1S2RnWjlFOU9TOTROcGREUk93VmZ0M2V5dWt2R21VZ0dFSS1LaG9VY0pON0ljU1FhcUFqaEdPaTdWc0E5eE0?oc=5",
+      "pubDate": "2026-08-18T12:14:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "円相場、１５９円４５～４６銭＝１８日正午現在",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aREFYbjg0WDdGUUc0SFI0WVRmMzlZZVlEeG1NQm1vNktVLTNWWWFCNi0tQWREUC1WTlhFUFdjN2R3U3FkYlBDSk0zOU14WUlCZUx6dg?oc=5",
+      "pubDate": "2026-08-18T12:07:00+09:00",
+      "source": "時事通信ニュース"
+    },
+    {
+      "title": "東京外国為替市場概況・12時 ドル円、小戻し(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHNISDg4eVBISXYxdlhPdGZna2VvMW9ZRnZYenBJVHpRc3JMOUEyd2NVUzFaQnlReEhwSUhjZFAxOGlTZHgyVWtGZVN6dS13aDNvcVhEMHdRRGIycmh2Yk1TcGFWQWQ2cWMwZEo4Q3k4REJrM0sxYk52YzN4Q19kMWdHeHZYZUk?oc=5",
+      "pubDate": "2026-08-18T12:06:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "外為：1ドル159円45銭前後と大幅なドル高・円安で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZGhCQjRnSzRDY1AzXzMzbUNUOWlseHF3eldyTU5ENlBBbTdfMmJ4b3dYcnVxUno0bTFEU0RXOWRKQXc2WEc5dkFoUnhzNEJYajdhem5ackdDTUhOWHZScExaT3RkUnNlQzV5bzJYUGpycE5aUFRfUFk0OS1mdnVXZEdFUFlESlU?oc=5",
+      "pubDate": "2026-08-18T12:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "【FX】8/18 日銀利上げ観測よりも原油高 ドル円は160円が視野に ｜為替市場ニュースの振り返り、今日の見通し",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56NGd2MjV4M2N0S0hNSFNzQ0xqUlh5RmRtR01CWm1FLUhWb2JWSmN1TWtid2EyaVpIZFBxMDZ6SUpMdWQzVGE3VXZVbk1tYjlNUFI1TFhMb2VLN2JaZ2ZJWXJfbw?oc=5",
@@ -23,16 +59,16 @@
       "source": "外為どっとコム"
     },
     {
-      "title": "〔JPXエネルギー〕ドバイ原油、強含み＝WTI高と円安（18日午前）(時事通信)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZUZVdDVpeUlPV0VvQ2VoaFJESmxyTE90R2psR0JPcnFDTzZvZGdDM0pBMXAtMk90SzFZUzFSeEFtekMtY2tNNGRQUUN4MG1VOW5qQTNLalJpak51ZkZLUE44VWk1cXBxRms4bUZfUzQxc0xSTGp6cVlEVWZHWXFoaW8wcXpzVDQ?oc=5",
-      "pubDate": "2026-08-18T11:16:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "外為：1ドル159円50銭前後と大幅なドル高・円安で推移(株探ニュース)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV1BKQkJFUjBQc28xVkE5M3hLMFk5aDhaemJTdGhTc3Y2RDl4Njh5bTIwSUpwWVYwUHFCei1RLTR6d01rME1qcm1BVEc2V1JlVjNWUUtQSEZqbExPT2FVemVfWGJ6enQ4aXR0OUhxSkpjWFpSdzBOUTZJVkVSX1ZHZjJCWDg4UzA?oc=5",
       "pubDate": "2026-08-18T11:01:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "通貨オプション ボラティリティー ドル円1週間6％台前半",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94MURvazNuX3FsSGdZUGZJWUJmTXl5ekVVMXU1UW12SDZXelg4dUdmWTF4Nm9OcTdHSl9ULUhqVUthdFR1OG9MaQ?oc=5",
+      "pubDate": "2026-08-18T11:00:44+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
       "title": "日本は金利を上げるだけで円安を止められるか？ 答えはNO！：色々やってる社長のブログ",
@@ -51,42 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlSzMwTlNwd0ctQWRrbFc2dXhYUENITllZRC1qN2NiQzVjQXE5SnNDSVZmRmF1bVVIa0pFckRDZTI4Q1FOR3FWa0l1OVBmaFhsT1FBcw?oc=5",
       "pubDate": "2026-08-18T10:26:24+09:00",
       "source": "日経CNBC online"
-    },
-    {
-      "title": "東京為替：ドル・円は159円52銭まで上昇後にやや伸び悩む",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fa0l3ejVJX0VTOUpVUjd3Wkg5TjI1MER5bWhqc1pqOHB5MlNYZ3ZWNi1Eb1JvaW5La1h6RTE4NG1JdGNxMi1EeE4zcVI1VjBLSEE?oc=5",
-      "pubDate": "2026-08-18T10:08:48+09:00",
-      "source": "株探"
-    },
-    {
-      "title": "東京外国為替市場概況・10時 ドル円、やや伸び悩み(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN1AwTHJ1TlBVbnZJaFloa2swZjRJc2ZQc1p2Q1FOQVR4UzlUdm91Qkg4U0JWNGY0Q3B4TVA2akZDRWd3ZHJUdzIxYVVoTmNRMUdOcmdxbDFUQ1ZTcHhhbkdXRDhySWw2eFZ4bGZ0VVd2TjQ0bmRkNUpnVjlBZ25MYV8tTnAxTEU?oc=5",
-      "pubDate": "2026-08-18T10:05:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "外為：1ドル159円43銭前後とドル高・円安で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcjNNSEhZZUlUbVgzYnNzbmQwajdyU2RGY1FrTzgxQ1BXR0I4UFN3WW95Sm56T2FjN0VucEVzZUVHUzRBV0hDMHRzaGZjcnVJb3NGcnlrU1R0cTd3QzBXLV9DbUpzQmFKV1J5QklHcG9LRUFocmdsQ1JWTUE5c2V0Y2VJb2h2QmM?oc=5",
-      "pubDate": "2026-08-18T10:01:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "円安阻止に奔走も、際立つ「政策のチグハグ感」…再び円安の可能性は大【今週の米ドル／円予想レンジ「158～161円」の根拠】",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xWDBBZzJkekJRaXluMzdwRWVfMklXWm42NThyS0NZWkxPaEw3VFNfMElMMFZTWWZKc2xjSTRLdWg5c1AzWnI0LXgwYXpVMklkbXBiTEJZVXE4NDVIclF0WUhRQ3B1SmtEWHVRWENvYXktRGVueHc5Vk94cmh1OWs?oc=5",
-      "pubDate": "2026-08-18T10:00:36+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "ドル円仲値、159.50円 三菱UFJ銀行(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcjFuSUJOc3AwOVpnSkdWVWw0bFBSNk96QWxIZGdJcHhIRThZQ1ctV3dndFo2RWc0aFo4dXB1cTF0RjZTUnpyU0FZWm5ReWFpNHdKR0xYcm5vNlV3OEVwWElzRUVGcDlMSlFuN0lKVGlXdGVKdHlRYXU5OUZnaUdPZ0VFM0ZzN2M?oc=5",
-      "pubDate": "2026-08-18T09:59:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "イケア、家具・雑貨3700点値上げへ 円安・原材料費高騰「影響を吸収が難しく」",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92M25GZXJBRGttX0RYd3FkMDVZMjY1RmZ3dlB0MEZ2NTRBcUVrMXRyZlNWTVFoWFRKRHZHYnNweGhfVVVfUllIUXdHRE93bW80b1JWVkhR?oc=5",
-      "pubDate": "2026-08-18T09:52:50+09:00",
-      "source": "KAB 熊本朝日放送"
     }
   ]
 }
