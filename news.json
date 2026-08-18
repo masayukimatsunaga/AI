@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-08-18T18:50:22+09:00",
+  "updatedAt": "2026-08-18T19:48:22+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "欧州為替：ドル・円は下げ渋り、原油・米金利にらみ(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTVJzTWJ6R1JoUDE1T1M3akh5eXVOaGFyeG1ISFlqSy0yM3FHZ1BId3VEZFZWQndTRXB3VkZIQmI0VFBzMWV3V1RvVGdaTUdOMnNTZ3RHZVRsSi1wdE9DdERpYkFuSTNkTGFHQTNTak9DTWNtY2NGQ1gteGFGNE1zbzdnTHoxNHc?oc=5",
+      "pubDate": "2026-08-18T19:32:00+09:00",
+      "source": "finance.yahoo.co.jp"
+    },
+    {
+      "title": "ドル円１５９．７０近辺、ユーロドル１．１５７５近辺＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aNVJEM1JVeERYcUszMFZlNzg2cER4X00yS3hIN0J3dkVCeHdNRnBTWWhTQk9aZ0dnckFua24zbTFUU0EwNUxaLQ?oc=5",
+      "pubDate": "2026-08-18T19:27:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "外為：1ドル159円60銭前後とドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbDZwM0JXXzBGTzN1ZjRnS0RvWnVOc3c3V1FqMVhYQ3g4Z19mOHRPTkZBWVlCNC1rTWMzWWR2ZjZiYXFQMHBLUjFXV0d2WjdGbW1TcERNcjQycXdOc09jRVR3QXREc0pHMFhKemFOZFJPSzN5eXB1TXI0bldaZU5OVkNaZjQtMnM?oc=5",
+      "pubDate": "2026-08-18T19:01:00+09:00",
+      "source": "finance.yahoo.co.jp"
+    },
     {
       "title": "東京市場で「トリプル安」 長期金利が約30年ぶりの高水準に…財政悪化の懸念根強く 株安・円安も進行",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9reVFLSVkxVk1MQWhTRGZuVjc3ekRvMjdHdU1MdkNkWDJzS2pBYy12WllINlp1WngxWjI5UUl5RVBBQzZ3SkFwblFSbEEwVUlTVXFFdF9BOA?oc=5",
@@ -23,22 +41,16 @@
       "source": "NHKニュース"
     },
     {
-      "title": "欧州為替：ドル・円は小動き、様子見ムードで 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwLVJsbUU2OFViRVlnVU85T0txQTd4RXV6Q2Zaek4wZzdZZlk1RnVWX2ZSQlljZDB1VzdEZVo1X2JRd3JGc0IydlRZQTI2aDBlTUViR2NCbUs3TWxHUWI4WUY4bTdTNUE?oc=5",
-      "pubDate": "2026-08-18T18:15:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
       "title": "欧州為替：ドル・円は小動き、様子見ムードで(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY0d6NnA2VExTRlJxTEtYeTFFLVduemhhYUxxbkx6TEIyc3B5TkpQMUt1V2tjTGRuRGJxakp0QjNDT2JfS2NPajhpaUxtMFdnSFMxajVuVl83OHJSR1N6b25BSmdGZGg5ck83YlNuYnZTOVhDdzFNNEJGSmxTNjNlaEQwNEl1TUU?oc=5",
       "pubDate": "2026-08-18T18:13:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "source": "finance.yahoo.co.jp"
     },
     {
       "title": "外為：1ドル159円67銭前後と小幅なドル安・円高で推移(株探ニュース)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzJseHJ4Wk82dm1SM05rbkZwVjRZX2NRV283RTJmMTZGUWpJQVA3TGdmYXVnWnlheWRFVzNiLXpTZ3FYaEYyTDRlM2NXVHpDTkNaWXpBZkpxM3ptblUxYm0zRU96X09pcWJBSnJqYjBLTHcyZHFHemRKZ095VVBBMnoxYWdGeUU?oc=5",
       "pubDate": "2026-08-18T18:01:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "source": "finance.yahoo.co.jp"
     },
     {
       "title": "東京為替概況：ドル・円は伸び悩み、午後は上値に重さ｜FX・為替ニュース",
@@ -71,22 +83,10 @@
       "source": "時事通信ニュース"
     },
     {
-      "title": "ドル円１５９．７０近辺、ユーロドル１．１５７５近辺＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYRGplbE51NnRtRzFLdFF3ZUtXQWFqdXpiRmwzZ1hER2Y4N0h0QW4yUUYzc3dGcDJud3JvOVdVU1EyeWZfNkJ6aQ?oc=5",
-      "pubDate": "2026-08-18T17:07:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
       "title": "東京外国為替市場概況・17時 ドル円、堅調(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZE1kQ283d255T3d4SDB3NmlWZzJaTWFnbW5EM0JLVjJQMWlxT2E1YUNiVzNXa0hqdUIzOWY3Z1BoN3hmYUpIWnZnVlFjWU9aYjFzSF9sT0VqdW5BTmxOSUJDUFlGTTNxai1mcGhZNjJxZHh0czVMUVZrSHlKY1JMUTZmclJtbVU?oc=5",
       "pubDate": "2026-08-18T17:06:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "【FX】ライブトレード 欧州タイムを攻略だ！「ドル/円、160円試すか…原油高を背景としたドル買い・円売り地合い」ドル円分析＆取引 2026/8/18 17:00",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKdEF0WW9Ic254UHI2R1VKaHZ5N29vUWJGdDI0eUVtbWhyVFRGY1psLUFqTVplOUt6UFl5MEVZdnliMnlEckk4LUlCaXNES0dMRWMyTDRLcjE4Tks2M2lWbDJNWQ?oc=5",
-      "pubDate": "2026-08-18T16:30:00+09:00",
-      "source": "外為どっとコム"
+      "source": "finance.yahoo.co.jp"
     }
   ]
 }
