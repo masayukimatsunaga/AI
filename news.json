@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-19T07:00:04+09:00",
+  "updatedAt": "2026-08-19T07:43:20+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "様子見の中、ドル円はじりじりと１６０円をうかがう展開＝ＮＹ為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iYWdOM0tCRjVBb3dyNnBmcER2QU9EdGkxYW1tVWZ0cS05VjNaU205YVZSeGlnZlNrR2Y2eEV2cHJocnkzR09HZA?oc=5",
+      "pubDate": "2026-08-19T07:12:12+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "１８日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEaVN6elVuWTk4aWVrejlhSFF1b1JqT0h4bWx6aGQwUldUaDJXdTFTc08ydGk5NWtWV1kyajJybUFjeG4zQ0E?oc=5",
@@ -17,12 +23,6 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "様子見の中、ドル円はじりじりと１６０円をうかがう展開＝ＮＹ為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iYWdOM0tCRjVBb3dyNnBmcER2QU9EdGkxYW1tVWZ0cS05VjNaU205YVZSeGlnZlNrR2Y2eEV2cHJocnkzR09HZA?oc=5",
-      "pubDate": "2026-08-19T05:40:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
       "title": "ドル円159円台半ば、米住宅着工がパンデミック以来の低水準で上値重く",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXYkpMUmdjc3ZOV0VZaVpFQ195T1RNcWt2MHJpc19xcVkzSmtkX0FfZm1lUEFUeTg4RjBydEtsNVdaZFpkNmZKVGpGcUZvRGlMRFoyUEtqU1FsT1V2R19iaTI5bDdfZzRLNDJwbWdpQXQ0aWpH?oc=5",
       "pubDate": "2026-08-19T05:05:00+09:00",
@@ -32,7 +32,7 @@
       "title": "【テクニカル】乖離ランク＝ドル円が最下位",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91Nkx3aVZRUmJlOVJZQm9mSnB4WE9xZU1xZV9hSG5ZTVgwNHhqTndwTWlpYm5rcFB4WGxkRVR1d2UxWl9EaTV0VWUxckZzTlppSmFBdmNOakRzakFicjhwWXNWVQ?oc=5",
       "pubDate": "2026-08-19T04:45:33+09:00",
-      "source": "gaitame.com"
+      "source": "外為どっとコム"
     },
     {
       "title": "ドル円、じりじりと１６０円の戻りをうかがう展開＝ＮＹ為替",
@@ -51,12 +51,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54LWcyYlZvTkg0ZmprRm00ajdlN1NWUnI3SlNKY2V2b01ud3lGOXZ5T2ZQeTZvTE1mMFFMZTZ2RExicVNtYS0zdUhJYWVuTHpNUFIyLU54YzBvRXhsWFd6d0VIdjN3alBZdmZwNA?oc=5",
       "pubDate": "2026-08-19T04:00:00+09:00",
       "source": "日本経済新聞"
-    },
-    {
-      "title": "欧米為替見通し: ドル・円は底堅い値動きか、米経済指標は低調も円売りがサポート(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTmVUX1JrNXE1ZWFUeEVmVHB2ZGotcnZJTVFseF9PQ0NSaHFYQzc3WU1nVHBLdnA1cTA0TmhHZ01YX19SWHpXRlRRMnZGYm5nTFdQZ281OEtIZTZDUWtzMnBUN3ZCUmFUc3AwUGlfcFJOazFHd2pSRE1Ia2UzME5xSEhhLXdNUmc?oc=5",
-      "pubDate": "2026-08-19T02:37:14+09:00",
-      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "ニューヨーク外国為替市場概況・2時 ドル円、小動き(トレーダーズ・ウェブ)",
@@ -87,6 +81,12 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3RROU83UndsSWJJUmd6aDBsLU1mb1p4dlJHSVE5LUUxbG8tMXdoRzVMQkl2c2pWWGxWZi1QdGE1bzBvaUdVb2pSSUtIYUFJOFV0MEVsRUl3SlN2eU1Hck9SemNRTVB1WFZJV3FNanc3OFRRSXZJa0VKeTl6Yzh4eERKWGRPeVE?oc=5",
       "pubDate": "2026-08-18T23:07:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "日米円買い協調介入は「逆効果」、不介入ならより円高に－ドイツ銀行",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpWFdkYVRwUHNDdzJnaWtPaENhSHVTUVdUcFZ6U19aNXAzN3kyZmZSV003VUJQZEdwSWxDNC1YWUU1RDdhc19KRjhfaFBQeENSSmM4eDRjamh0T1hUT2VHS0kzWktLWEdJSWk5MUZ1OGJhaVBqY0lv?oc=5",
+      "pubDate": "2026-08-18T23:05:01+09:00",
+      "source": "Bloomberg"
     }
   ]
 }
