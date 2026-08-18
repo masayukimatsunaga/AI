@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-08-19T04:42:30+09:00",
+  "updatedAt": "2026-08-19T05:00:30+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "【テクニカル】乖離ランク＝ドル円が最下位",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91Nkx3aVZRUmJlOVJZQm9mSnB4WE9xZU1xZV9hSG5ZTVgwNHhqTndwTWlpYm5rcFB4WGxkRVR1d2UxWl9EaTV0VWUxckZzTlppSmFBdmNOakRzakFicjhwWXNWVQ?oc=5",
+      "pubDate": "2026-08-19T04:45:33+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル円、じりじりと１６０円の戻りをうかがう展開＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KLVZqV1ZuVjNoQ0pOb2hSbk9EdHNoLXl0Uk5ZMVR5U3BjMldYQTZhNlBHUV92bG5QLXlpMjZtUEZTRDd3dUwwRQ?oc=5",
+      "pubDate": "2026-08-19T04:33:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "ニューヨーク外国為替市場概況・4時 ドル円、こう着(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVpPdTNZS3VJQUtiVVBnWEpkdGRCX2NRSlFSeFZRTTVUX0dIVjlvanlMdXRKRmRReFVGSnZaWl9SLS1lRVpkTDIxTVFEVlduTl9OTjlocTZaTVFhWTBEUG9WbUQ4OXBJc2h4dWRFdkNKSzAzeS11bGJBN051S3lCYjJQQXVrNEE?oc=5",
@@ -74,18 +86,6 @@
       "title": "ドル円のピボットは１５９．５８円付近＝ＮＹ為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lR0ZPYVJycVJGUVJlUmJINjNSc3lodWdLX3FEVVpVX2NMNFFFUEhnbC1MTDk0cGc1eHczbHdNdXppVUhNZXc3ag?oc=5",
       "pubDate": "2026-08-18T22:00:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【速報】ドル・円159.71円、ドル底堅い、米・中古住宅販売成約指数や輸入物価は予想下回る(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU2FHWVFyMlp2dExCbVNyNzI1al9mckJjTWtId2o1NTZUb0ZrUUU5NVZBekh1REVwb1h2QkhUTDdoZGdmRHprcTlWbWh0QnJuaGRJNGFwVG52LU5USjFrd016eEY3dl8weVJoVWpoVGdYUzBrek9EMWtBeVpsWWRFRHgzWTZ5YWM?oc=5",
-      "pubDate": "2026-08-18T21:46:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "主要通貨は前日比ドル高水準にとどまる、ドル円１５９円台後半＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9MTEZkVmR5VkprWTVzVFFONDRyY3FZeTFNTTZpaDh4SEtiZ0dFT3ktMzJzN2k1dmQ4bzdTYXI3ZmRqTWhvMXpSRg?oc=5",
-      "pubDate": "2026-08-18T20:57:44+09:00",
       "source": "みんかぶ FX/為替"
     }
   ]
