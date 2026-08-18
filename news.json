@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-19T05:00:30+09:00",
+  "updatedAt": "2026-08-19T05:42:26+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル円159円台半ば、米住宅着工がパンデミック以来の低水準で上値重く",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXYkpMUmdjc3ZOV0VZaVpFQ195T1RNcWt2MHJpc19xcVkzSmtkX0FfZm1lUEFUeTg4RjBydEtsNVdaZFpkNmZKVGpGcUZvRGlMRFoyUEtqU1FsT1V2R19iaTI5bDdfZzRLNDJwbWdpQXQ0aWpH?oc=5",
+      "pubDate": "2026-08-19T05:05:00+09:00",
+      "source": "finance.biggo.jp"
+    },
     {
       "title": "【テクニカル】乖離ランク＝ドル円が最下位",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91Nkx3aVZRUmJlOVJZQm9mSnB4WE9xZU1xZV9hSG5ZTVgwNHhqTndwTWlpYm5rcFB4WGxkRVR1d2UxWl9EaTV0VWUxckZzTlppSmFBdmNOakRzakFicjhwWXNWVQ?oc=5",
@@ -26,7 +32,7 @@
       "title": "円相場、26年末に1ドル=155円 三井住友信託の山本氏",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54LWcyYlZvTkg0ZmprRm00ajdlN1NWUnI3SlNKY2V2b01ud3lGOXZ5T2ZQeTZvTE1mMFFMZTZ2RExicVNtYS0zdUhJYWVuTHpNUFIyLU54YzBvRXhsWFd6d0VIdjN3alBZdmZwNA?oc=5",
       "pubDate": "2026-08-19T04:00:00+09:00",
-      "source": "日本経済新聞"
+      "source": "nikkei.com"
     },
     {
       "title": "欧米為替見通し: ドル・円は底堅い値動きか、米経済指標は低調も円売りがサポート(フィスコ)",
@@ -53,22 +59,16 @@
       "source": "毎日新聞"
     },
     {
+      "title": "日米円買い協調介入は「逆効果」、不介入ならより円高に－ドイツ銀行",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpWFdkYVRwUHNDdzJnaWtPaENhSHVTUVdUcFZ6U19aNXAzN3kyZmZSV003VUJQZEdwSWxDNC1YWUU1RDdhc19KRjhfaFBQeENSSmM4eDRjamh0T1hUT2VHS0kzWktLWEdJSWk5MUZ1OGJhaVBqY0lv?oc=5",
+      "pubDate": "2026-08-18T23:27:37+09:00",
+      "source": "Bloomberg.com"
+    },
+    {
       "title": "【速報】ドル・円159.53円、ドル軟調、米・7月中古住宅販売成約指数が予想外の2カ月連続マイナス(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3RROU83UndsSWJJUmd6aDBsLU1mb1p4dlJHSVE5LUUxbG8tMXdoRzVMQkl2c2pWWGxWZi1QdGE1bzBvaUdVb2pSSUtIYUFJOFV0MEVsRUl3SlN2eU1Hck9SemNRTVB1WFZJV3FNanc3OFRRSXZJa0VKeTl6Yzh4eERKWGRPeVE?oc=5",
       "pubDate": "2026-08-18T23:07:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、159.54円付近まで小幅に下押し 低調な米住宅指標が重し(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVnNMVjB4dWhPOHdIanNKdnplM1pNY0M1X0RiYjlUcVo4QXgyU3I5YklZRklhVE55TmNzaEwzSTNFOHF1X3BoTkVDWF9aeDJFcUlqZy1kcHZYV1Z6ejM1cTNodWhXamFWSFpnRGJHbE9DSkRVa1I4RTdwdmkyUHZHNjcxZHZ5bEE?oc=5",
-      "pubDate": "2026-08-18T23:04:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、159.54円付近まで小幅に下押し 低調な米住宅指標が重し｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YcGdCMEJCNURJb194czRKRmtqNkRNNEhZM2pHQUZXcTdkU3FhbS1ycXFLUkpzRElTUjEzMFRqSF9OTmtLdXVSUUt0Sm5FNGxvcUE?oc=5",
-      "pubDate": "2026-08-18T23:04:00+09:00",
-      "source": "ザイFX！"
     },
     {
       "title": "ドル円、１５９．７０円付近でのレンジ取引 リスク回避的の雰囲気も反応薄＝ＮＹ為替序盤 -",
