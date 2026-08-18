@@ -1,14 +1,26 @@
 {
-  "updatedAt": "2026-08-19T03:14:44+09:00",
+  "updatedAt": "2026-08-19T04:01:00+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "欧米為替見通し: ドル・円は底堅い値動きか、米経済指標は低調も円売りがサポート(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTmVUX1JrNXE1ZWFUeEVmVHB2ZGotcnZJTVFseF9PQ0NSaHFYQzc3WU1nVHBLdnA1cTA0TmhHZ01YX19SWHpXRlRRMnZGYm5nTFdQZ281OEtIZTZDUWtzMnBUN3ZCUmFUc3AwUGlfcFJOazFHd2pSRE1Ia2UzME5xSEhhLXdNUmc?oc=5",
+      "pubDate": "2026-08-19T02:37:14+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
       "title": "ニューヨーク外国為替市場概況・2時 ドル円、小動き｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qbi1hdXkxU0YyMXpYYzhXM2tVdFpveFZYSERGMEdCR1p3OFVWU290aFZDX0lRYzVRaVhvdkh3VWxFTmFJV0ZXM1U3T0kyTHBteUE?oc=5",
       "pubDate": "2026-08-19T02:06:00+09:00",
       "source": "ザイFX！"
+    },
+    {
+      "title": "質問なるほドリ：円買い為替介入、何のため？ 円の価値を下げすぎない 外国と協力も＝回答・成澤隼人",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EZHpoQkF1alRaRDNuTjNwMFhJRVVWQWVrWF9wdUhKcGxDMnRlVjJ0ZXFxOWdKaE55cUpJVUc2TVlMUDlvZVpLQ2dtcG1pUlVBQXdibEtEa29JWlk1Mkl5blhEb3pCSWZf?oc=5",
+      "pubDate": "2026-08-19T02:01:21+09:00",
+      "source": "毎日新聞"
     },
     {
       "title": "【速報】ドル・円159.53円、ドル軟調、米・7月中古住宅販売成約指数が予想外の2カ月連続マイナス(フィスコ)",
@@ -41,6 +53,12 @@
       "source": "みんかぶ FX/為替"
     },
     {
+      "title": "【速報】ドル・円159.71円、ドル底堅い、米・中古住宅販売成約指数や輸入物価は予想下回る(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU2FHWVFyMlp2dExCbVNyNzI1al9mckJjTWtId2o1NTZUb0ZrUUU5NVZBekh1REVwb1h2QkhUTDdoZGdmRHprcTlWbWh0QnJuaGRJNGFwVG52LU5USjFrd016eEY3dl8weVJoVWpoVGdYUzBrek9EMWtBeVpsWWRFRHgzWTZ5YWM?oc=5",
+      "pubDate": "2026-08-18T21:46:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
       "title": "主要通貨は前日比ドル高水準にとどまる、ドル円１５９円台後半＝ロンドン為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9MTEZkVmR5VkprWTVzVFFONDRyY3FZeTFNTTZpaDh4SEtiZ0dFT3ktMzJzN2k1dmQ4bzdTYXI3ZmRqTWhvMXpSRg?oc=5",
       "pubDate": "2026-08-18T20:57:44+09:00",
@@ -51,12 +69,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBybExDSVByM1EyUWV4c2RDOEFLYVRHc2Q5cmlPdGtiTGV6OUNVeGFqMU8zLXBrZFNwanNFMHJtWGhzYU5aZTNXTWxMYWpnaWt2Nmc?oc=5",
       "pubDate": "2026-08-18T20:16:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "欧州為替：ドル・円は底堅い、ユーロ買いは限定的 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85S0RsbG1hU2pkUml2cmR3SEZicWlyOFhHY0JNeXp1NG4tZGprREdGa2RTekhTMF91VDE5aDFiZEJuZGUwSFBVSlRhaHJCXzZLT1U0TGstaHpUMFVaRW02cmNrMzZ2c3c?oc=5",
-      "pubDate": "2026-08-18T20:15:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     },
     {
       "title": "中東リスクを受けて原油高、ドル円は１５９円台後半に高止まり＝ロンドン為替概況",
@@ -75,18 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rUFRYTjhBSmRYQWJONExNR3pqeV94VWxyc1FvUkdLbWZENm1KMUctZ2l1RjF2YmhxdlY5MWRzMTRHQS1UT1E0SjVUOWhTT2FmSmZwRVN6YVAyb3dqeDVOQXhtaw?oc=5",
       "pubDate": "2026-08-18T20:00:00+09:00",
       "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル・円は下げ渋り、原油・米金利にらみ｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QUTNmbzg1SmxIbUdTNXpzS2lHQlhhaWFlNC0wMGpaT2hnRklzeERyYVdjNnFvekpWVk02aWVYSDdKdC1kM2c5aUlEWGJhMnNQbGc?oc=5",
-      "pubDate": "2026-08-18T19:42:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "欧州為替：ドル・円は下げ渋り、原油・米金利にらみ(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTVJzTWJ6R1JoUDE1T1M3akh5eXVOaGFyeG1ISFlqSy0yM3FHZ1BId3VEZFZWQndTRXB3VkZIQmI0VFBzMWV3V1RvVGdaTUdOMnNTZ3RHZVRsSi1wdE9DdERpYkFuSTNkTGFHQTNTak9DTWNtY2NGQ1gteGFGNE1zbzdnTHoxNHc?oc=5",
-      "pubDate": "2026-08-18T19:32:00+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
