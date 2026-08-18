@@ -1,13 +1,49 @@
 {
-  "updatedAt": "2026-08-19T07:43:20+09:00",
+  "updatedAt": "2026-08-19T08:02:51+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "外為：1ドル159円59銭前後とドル安・円高で推移",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kNUE1dXRjSXBVRGVqT3lTQk5ENE1pY3cxWkcyVF95VjFZaWtZQ2t3NktlWGxCZzZiR3JHTUNVZ0Z6MThGOHl5Tms5bEhGeWp5aVE?oc=5",
+      "pubDate": "2026-08-19T08:01:01+09:00",
+      "source": "株探"
+    },
+    {
+      "title": "【市場概況】東京為替見通し＝ドル円、中東情勢を見極め 揺らぐトランプ政権の足元",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9acGNpYmlCYUw1aW1BTzBYcGc5VkV3TUdmbnpHRVBocHkxeG0zVWlXcXIzbjl3S0xUR2FJMjVTNFRDZXlOa2Zyazd1MUZ0bC1UNG02OE8tUmtOWEdEZEIxVXZ5QQ?oc=5",
+      "pubDate": "2026-08-19T08:00:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル円午前の為替予想、円安地合い継続も米財政悪化懸念が重石 2026/8/19",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aZjFHM2YtNTBSVnhfSDhDY1VxVlJ5WFNLSEpaVDBCQngyT3M4Q2gxeERSZWp0TmI3WkhVS0xtMUtNQlJrTFUxbFdJNTJCZ0Zmb1BKcWpiRFpWaW5Pb3U5RmRPTQ?oc=5",
+      "pubDate": "2026-08-19T07:52:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "【本日の見通し】ドル円は堅調地合いを維持か、FOMC議事要旨にも注意",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1M3I1S3gzMll3TDRqQWtUVmgxMU1Pc0p2cTVvNjhSbjBscl9wZkwxMlNaVEdFUDhSeUE4X2xqc0ZLYWlmSy1GVQ?oc=5",
+      "pubDate": "2026-08-19T07:45:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し 2026年8月19日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10dUtWcVZFcTVkRkRWdGRYbkFWTlNKOTh2UXgtTDhjVEpnSzZLb3IwOWpHbXlic0pxLXBQcFFMUjcxUE1iX0I2Mnd6cTVYRVkwcndEbk54V1FxWnhHS1JsTlNZQQ?oc=5",
+      "pubDate": "2026-08-19T07:44:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
       "title": "様子見の中、ドル円はじりじりと１６０円をうかがう展開＝ＮＹ為替概況",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iYWdOM0tCRjVBb3dyNnBmcER2QU9EdGkxYW1tVWZ0cS05VjNaU205YVZSeGlnZlNrR2Y2eEV2cHJocnkzR09HZA?oc=5",
       "pubDate": "2026-08-19T07:12:12+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "朝のドル円は１５９．６０円前後での推移＝東京為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CcW8tQWEyQTVaTHJLcEs1MS1FQTA2RHp6dmV6TFAwMVRFTzFHRnAxNVhWdHNzQTN0ZTZmRzF2Y0N5eXA5NUtiTw?oc=5",
+      "pubDate": "2026-08-19T07:03:44+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
@@ -51,42 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54LWcyYlZvTkg0ZmprRm00ajdlN1NWUnI3SlNKY2V2b01ud3lGOXZ5T2ZQeTZvTE1mMFFMZTZ2RExicVNtYS0zdUhJYWVuTHpNUFIyLU54YzBvRXhsWFd6d0VIdjN3alBZdmZwNA?oc=5",
       "pubDate": "2026-08-19T04:00:00+09:00",
       "source": "日本経済新聞"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・2時 ドル円、小動き(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkJrNkpEVmVGU0plMk56eVJYNHBnd0twTGNWX2dpN0xsbmNNVktDd1ZWM0ZyQzhPTGttWGxjeWlhMHVMLUVQdDZqb0d5YlA4Vzc3MUlOelRrTzAtUExiS3JRVElQdDZJZW1RMUExM0ZXWTVzMU5qNm1DaW9IbUxVNEQxSkRMVWc?oc=5",
-      "pubDate": "2026-08-19T02:07:49+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・2時 ドル円、小動き｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qbi1hdXkxU0YyMXpYYzhXM2tVdFpveFZYSERGMEdCR1p3OFVWU290aFZDX0lRYzVRaVhvdkh3VWxFTmFJV0ZXM1U3T0kyTHBteUE?oc=5",
-      "pubDate": "2026-08-19T02:06:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "質問なるほドリ：円買い為替介入、何のため？ 円の価値を下げすぎない 外国と協力も＝回答・成澤隼人",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EZHpoQkF1alRaRDNuTjNwMFhJRVVWQWVrWF9wdUhKcGxDMnRlVjJ0ZXFxOWdKaE55cUpJVUc2TVlMUDlvZVpLQ2dtcG1pUlVBQXdibEtEa29JWlk1Mkl5blhEb3pCSWZf?oc=5",
-      "pubDate": "2026-08-19T02:01:21+09:00",
-      "source": "毎日新聞"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・24時 ドル円、上値重い｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lV0Utd0dMMVVhcmt5LVUtZXF3eVhTalc0bnAyaV9jbFRkMV9TTnBNc1NmVHRYdVB5VG91ZlFFb1BTdFZiUm8tXzhvS2VZeG05eUE?oc=5",
-      "pubDate": "2026-08-19T00:04:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【速報】ドル・円159.53円、ドル軟調、米・7月中古住宅販売成約指数が予想外の2カ月連続マイナス(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3RROU83UndsSWJJUmd6aDBsLU1mb1p4dlJHSVE5LUUxbG8tMXdoRzVMQkl2c2pWWGxWZi1QdGE1bzBvaUdVb2pSSUtIYUFJOFV0MEVsRUl3SlN2eU1Hck9SemNRTVB1WFZJV3FNanc3OFRRSXZJa0VKeTl6Yzh4eERKWGRPeVE?oc=5",
-      "pubDate": "2026-08-18T23:07:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "日米円買い協調介入は「逆効果」、不介入ならより円高に－ドイツ銀行",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpWFdkYVRwUHNDdzJnaWtPaENhSHVTUVdUcFZ6U19aNXAzN3kyZmZSV003VUJQZEdwSWxDNC1YWUU1RDdhc19KRjhfaFBQeENSSmM4eDRjamh0T1hUT2VHS0kzWktLWEdJSWk5MUZ1OGJhaVBqY0lv?oc=5",
-      "pubDate": "2026-08-18T23:05:01+09:00",
-      "source": "Bloomberg"
     }
   ]
 }
