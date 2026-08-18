@@ -1,45 +1,26 @@
 {
-  "updatedAt": "2026-08-19T01:50:36+09:00",
+  "updatedAt": "2026-08-19T02:45:43+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "NY外為:カナダドル売り、米の対加報復追加関税を警戒、米加首脳は通商合意に達せず",
-      "link": "https://zai.diamond.jp/articles/-/494155",
-      "pubDate": "2026-08-19T00:41:00+09:00",
+      "title": "ニューヨーク外国為替市場概況・2時 ドル円、小動き｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qbi1hdXkxU0YyMXpYYzhXM2tVdFpveFZYSERGMEdCR1p3OFVWU290aFZDX0lRYzVRaVhvdkh3VWxFTmFJV0ZXM1U3T0kyTHBteUE?oc=5",
+      "pubDate": "2026-08-19T02:06:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・24時 ドル円、上値重い",
-      "link": "https://zai.diamond.jp/articles/-/494154",
-      "pubDate": "2026-08-19T00:04:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【速報】ドル・円159.53円、ドル軟調、米・7月中古住宅販売成約指数が予想外の2カ月連続マイナス",
-      "link": "https://zai.diamond.jp/articles/-/494150",
-      "pubDate": "2026-08-18T23:07:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【速報】ドル・円159.53円、ドル軟調、米・7月中古住宅販売成約指数が予想外の2カ月連続マイナス｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVRUJ5MjF4VnFsTEVVMThXeEYyYU9EWkdPZ0FEZUVMTlpQVlN0cmE4cUYxbkt5M0lFclRWNzZzREdXMV80Z2NhdWNGS1BDZFlTcXc?oc=5",
-      "pubDate": "2026-08-18T23:07:00+09:00",
-      "source": "ザイFX！"
+      "title": "質問なるほドリ：円買い為替介入、何のため？ 円の価値を下げすぎない 外国と協力も＝回答・成澤隼人",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EZHpoQkF1alRaRDNuTjNwMFhJRVVWQWVrWF9wdUhKcGxDMnRlVjJ0ZXFxOWdKaE55cUpJVUc2TVlMUDlvZVpLQ2dtcG1pUlVBQXdibEtEa29JWlk1Mkl5blhEb3pCSWZf?oc=5",
+      "pubDate": "2026-08-19T02:01:21+09:00",
+      "source": "mainichi.jp"
     },
     {
       "title": "【速報】ドル・円159.53円、ドル軟調、米・7月中古住宅販売成約指数が予想外の2カ月連続マイナス(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3RROU83UndsSWJJUmd6aDBsLU1mb1p4dlJHSVE5LUUxbG8tMXdoRzVMQkl2c2pWWGxWZi1QdGE1bzBvaUdVb2pSSUtIYUFJOFV0MEVsRUl3SlN2eU1Hck9SemNRTVB1WFZJV3FNanc3OFRRSXZJa0VKeTl6Yzh4eERKWGRPeVE?oc=5",
       "pubDate": "2026-08-18T23:07:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、159.54円付近まで小幅に下押し 低調な米住宅指標が重し",
-      "link": "https://zai.diamond.jp/articles/-/494149",
-      "pubDate": "2026-08-18T23:04:00+09:00",
-      "source": "ザイFX！"
     },
     {
       "title": "ドル円、159.54円付近まで小幅に下押し 低調な米住宅指標が重し(トレーダーズ・ウェブ)",
@@ -54,12 +35,6 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "欧州外国為替市場概況・22時 ドル円、もみ合い",
-      "link": "https://zai.diamond.jp/articles/-/494140",
-      "pubDate": "2026-08-18T22:06:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "欧州外国為替市場概況・22時 ドル円、もみ合い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeW1UcnFoLVRlazZrbVNYc25QSG51cHhzOTUzQzI5eEtnUWZsUnBnc2pQM0gwZEc0a1B3elZibUZfMDY1ZUFGWVRrQ1lTTzcweHRNME96OW1LUXhNbk9XQVhSVTAwTWRhRFRhc1BENEtLZlBCa3FjbDhpc0xfaldjSWRVdzNYaWs?oc=5",
       "pubDate": "2026-08-18T22:06:00+09:00",
@@ -72,12 +47,6 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "【速報】ドル・円159.71円、ドル底堅い、米・中古住宅販売成約指数や輸入物価は予想下回る",
-      "link": "https://zai.diamond.jp/articles/-/494137",
-      "pubDate": "2026-08-18T21:46:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "主要通貨は前日比ドル高水準にとどまる、ドル円１５９円台後半＝ロンドン為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9MTEZkVmR5VkprWTVzVFFONDRyY3FZeTFNTTZpaDh4SEtiZ0dFT3ktMzJzN2k1dmQ4bzdTYXI3ZmRqTWhvMXpSRg?oc=5",
       "pubDate": "2026-08-18T20:57:44+09:00",
@@ -87,6 +56,36 @@
       "title": "ドル・円は底堅い、ユーロ買いは限定的｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBybExDSVByM1EyUWV4c2RDOEFLYVRHc2Q5cmlPdGtiTGV6OUNVeGFqMU8zLXBrZFNwanNFMHJtWGhzYU5aZTNXTWxMYWpnaWt2Nmc?oc=5",
       "pubDate": "2026-08-18T20:16:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "欧州為替：ドル・円は底堅い、ユーロ買いは限定的 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85S0RsbG1hU2pkUml2cmR3SEZicWlyOFhHY0JNeXp1NG4tZGprREdGa2RTekhTMF91VDE5aDFiZEJuZGUwSFBVSlRhaHJCXzZLT1U0TGstaHpUMFVaRW02cmNrMzZ2c3c?oc=5",
+      "pubDate": "2026-08-18T20:15:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
+      "title": "中東リスクを受けて原油高、ドル円は１５９円台後半に高止まり＝ロンドン為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tOFlSdUlfZXRNTVdfLVlTbGxOcnhpcVlUaWJWcHBiYTVldzFjTWdtamtyWGpYQ3RUdGU4bFBaLUpWaWhqS2k5VQ?oc=5",
+      "pubDate": "2026-08-18T20:14:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "欧州外国為替市場概況・20時 ドル円、底堅い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUlZjcTIxZkwzbDA2TFVDVnl1NEFuSWJZdjJMdTFfbXdyRC1HdkVrTWxKMG40V1c3V2VLaFk5cE5rbmhpRkhQNW9VZU5QazkxOXVjcmg5NWlEZ0pIZXg1ZEJJbEVnNHJpWm1DalV2UjRQektXYk8tcVBGbXlFNl9FZDlhdEJQSms?oc=5",
+      "pubDate": "2026-08-18T20:06:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "FX実践解説、円安是正「日銀の利上げだけでは限界露呈」（2026年8月18日）",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rUFRYTjhBSmRYQWJONExNR3pqeV94VWxyc1FvUkdLbWZENm1KMUctZ2l1RjF2YmhxdlY5MWRzMTRHQS1UT1E0SjVUOWhTT2FmSmZwRVN6YVAyb3dqeDVOQXhtaw?oc=5",
+      "pubDate": "2026-08-18T20:00:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル・円は下げ渋り、原油・米金利にらみ｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QUTNmbzg1SmxIbUdTNXpzS2lHQlhhaWFlNC0wMGpaT2hnRklzeERyYVdjNnFvekpWVk02aWVYSDdKdC1kM2c5aUlEWGJhMnNQbGc?oc=5",
+      "pubDate": "2026-08-18T19:42:00+09:00",
       "source": "ザイFX！"
     }
   ]
