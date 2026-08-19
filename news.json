@@ -1,14 +1,50 @@
 {
-  "updatedAt": "2026-08-19T21:03:14+09:00",
+  "updatedAt": "2026-08-19T22:11:22+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "欧州為替：ドル・円は底堅い、159円台を維持 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VMThSR0JkaUFua0R1dWJkQzlmUlhMaDZzeXFJU2czZjQ1bzRaS0tKZmV1NF8yVXdZSjBuUmtBS1lfenlkY2tFX192clhYSmg2VUg5dksxLXNSV1FKQVFMMTBpUDAzVnM?oc=5",
-      "pubDate": "2026-08-19T20:15:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+      "title": "欧州外国為替市場概況・22時 ドル円、急落(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGlnS3U5Q0oxUUtZM1c0Q0t2WjBZRHhhU2xKMG51dWFpUjVzUU5sOGRCWjloeHB2bElZc3A3c1NyWHphNmh0dlhXc3lzbzRmZkxqSzJtTWx5cmJITlJfSGpDM2huN1Z4VTl5cDhoMW9uMzFwWmk5TmxNLUR1N1VXNUtncXpjOU0?oc=5",
+      "pubDate": "2026-08-19T22:06:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【速報】ドル・円158.17円、ドル売り強まる、米長期金利が低下(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEdCc0oxUXl4bFNXdkJRRU0tSjh1NUVoTlB0d0FWU2FsV1Zub21FTk0zRFRYbVZmSVRhenBZZnB2OUZyVHN4M2dOemVpbElIQXlaS0FjUTFiRVNGVzJmem94U2VfN3RLQjFENmIteGFYekJGcUozWjBTQjdXSk5iZHZncjcteWM?oc=5",
+      "pubDate": "2026-08-19T21:47:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円一気に１５８．１７レベルまで下落、米財務省発表を受けて＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pcE92azZFa1NENWlmaUxDQ3V5R3FyOUE1V3FFV3hTbFpWUXlhS2FCVUNiaVhlSEdYZmsxMlFUOWhJUE13RlN6cg?oc=5",
+      "pubDate": "2026-08-19T21:45:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル円、158.24円まで急落 米財務省が国債の買い戻しを発表｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEZUhMeFZjSm9aYU1HTWt5WFpLYnZlMTNNMUliZE56MkJHU2UwUzhQVElkNnEwWXEzbkNWRU9yTTlIMHJlUzFPZFRsYkpiVXloc3c?oc=5",
+      "pubDate": "2026-08-19T21:41:00+09:00",
+      "source": "zai.diamond.jp"
+    },
+    {
+      "title": "ドル円、軟調 158.90円台まで下落(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2d4bXpDZjFvQy1NLWhJLXpBcHA3bFZaRlBqR2NyUjBJai1feVJ2YmJGWFlOUUJMdlhQTWNCWktUQ05VU1BoZEFtNkdYLWxwOHA5VHYyMUhGQjR3bHJ0YXRnb084SGVtYThQRXl3RHJzNXdHVzY4TDUyWmdIYlpVWXhwSWFWZjg?oc=5",
+      "pubDate": "2026-08-19T21:34:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、軟調 158.90円台まで下落｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HQVd4OEItZl9aSl9ScThCdG9CVHBrRzJOWlhNZHplSzJUTTlWV1kzMkVJSl85T2NfZ1d6MHBYNC1Ba01vTHl4bjl0UUxMNC1wcUE?oc=5",
+      "pubDate": "2026-08-19T21:34:00+09:00",
+      "source": "zai.diamond.jp"
+    },
+    {
+      "title": "ドル円一時１５８．９３レベル、原油高が一服＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03VWtUbWc2dVU2azhEN0ZTOWhSSW5kV1liRmNoakY2VEFMaUc4ekszZlNnTnRVTnRMOXc0M3R0NjNUY3pzOWExZQ?oc=5",
+      "pubDate": "2026-08-19T21:27:44+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
       "title": "欧州外国為替市場概況・20時 ドル円、上値が重い(トレーダーズ・ウェブ)",
@@ -32,7 +68,7 @@
       "title": "ドル・円は上昇一服、原油相場に連動｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ObTlZeU1DeC05WXRsTlJyVnVLQ1ZPQ1FUR1JxcUlUSnc5Q190QTVldGZWdUxNbHFENTZtYXZPTEVzR1oyTVlXLUFRc05GR1gzMWc?oc=5",
       "pubDate": "2026-08-19T19:29:00+09:00",
-      "source": "ザイFX！"
+      "source": "zai.diamond.jp"
     },
     {
       "title": "ドル売り継続、ドル円一時１５９．０２レベル＝ロンドン為替",
@@ -51,42 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5USXd0NElaZzlzSy1QYlQ4bnpoT1IxX2hWTnlZMkdHREtOejJheDRrVGFHeldlcUhUOTlXUmcxZS1LVVh3b1Q3STg5X0UxMGdfRlpIQjRCbGZEMjRKZzJF?oc=5",
       "pubDate": "2026-08-19T19:00:47+09:00",
       "source": "NHKニュース"
-    },
-    {
-      "title": "ドル・円は小じっかり、ドルに買戻し｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uTmNobUdaSGpIQkpsZndhN2FyaEdhVUdmR2lDOHMtRXZRaV9LNDFlQVNRVlVWTjF1X1h3dFB2azV4Yk1WTjBVRjNKcUZUbmpLU1E?oc=5",
-      "pubDate": "2026-08-19T18:37:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "為替介入がもたらした株式市場の変化…円高メリット銘柄「ニトリ」の底力に期待",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15QmNpMWY0OVFSZ1lSSURudDNqUUxMMy1yX3lkN3k5MVRXVndyVkE1VDhKRkxIMDNIdk5fZnMyTjRycUdpNi1HbUE3MXdQMlNmcG5ZN1l2Wlhfdw?oc=5",
-      "pubDate": "2026-08-19T18:30:00+09:00",
-      "source": "ニューズウィーク日本版"
-    },
-    {
-      "title": "東京為替概況：ドル・円は軟調、午後もドル売り継続｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCMDA2ZDk0Nzd5UHJsUXhCblh6MFBtbFprdXFvZkFDeDIxTjFUYmZ6VEtrd3Q1UHVDekxueVUyLU81aklBNi1Lb0VOSnk4YXB6WFE?oc=5",
-      "pubDate": "2026-08-19T18:20:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "日銀為替市況（ドル円・午後５時）",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40eDYzT2luVDNUczZETnBGQ0RmRF9fRDJOOGVUNDlNWTMtajNsckJlajB2dWJ3a3I0aVhuTnk3WXNGc1Q2YlE?oc=5",
-      "pubDate": "2026-08-19T17:49:12+09:00",
-      "source": "みんかぶ"
-    },
-    {
-      "title": "東京為替：ドル・円は軟調、午後もドル売り継続(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ2RneENtSzBKNmd5N0tfVkRJajJQT2l1TFNoX2d2azRNLV92czRtbkN4dVNFZUUwdk1kaHYzV3hpVFNlOFh6bjZnbU5hZk8yWmdDR2I4dXRtTXVXbVRqZGxaeXRrWW1xSHBnd3JuS2pRbTNNSFd1QVJpbUdVXzNiZ2oyc1VyUVE?oc=5",
-      "pubDate": "2026-08-19T17:30:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "欧米為替見通し: ドル・円は伸び悩みか、米引き締め姿勢継続も為替介入に警戒(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWE93azJNWmZBV0V0dnUweWVVNC01bHNvTnFuX2hoYW1hOGhqUkVHR2pwVnQ4NWRNSlRBell2TmhtbXBuWi1HOGQwcldqaWJsM2pGNUtVdGVfVTFXU1FnTFhDTGNFNk80Qkd2aWRmVjNfM0Nmd25vMlpPZ1dtU2oyUm1jT3AxMHc?oc=5",
-      "pubDate": "2026-08-19T17:25:00+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
