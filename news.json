@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T06:43:05+09:00",
+  "updatedAt": "2026-08-20T07:02:42+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -9,6 +9,12 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1OWFRTVXhMYUtNUHZKbzNZdVJUVlpQM3lWS3ZoWHM1X2hiRWNIMDVkeWZEOXdaTW5rbC1vZjZXa1c0dDl3Wnc?oc=5",
       "pubDate": "2026-08-20T06:30:00+09:00",
       "source": "みんかぶ"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・19日 ドル円、3日ぶり反落(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZHkwaEpFOTJjczFobjdXQ1lOZExkbm5GcjQ4Y3BUUmFQVzBPaDVYMDRuUlh0b2M0LVVFQTRjQ3RYMmlSNzdZZldpakpWU2R1UXFNR0E0Sm1tcDBsa3ZIUWFiaURzYjNVd2hfaV9DejVEcnhWd2tRSE9idWYyX0Vacm5GTTZDaWs?oc=5",
+      "pubDate": "2026-08-20T06:09:34+09:00",
+      "source": "finance.yahoo.co.jp"
     },
     {
       "title": "ドル安が強まる ドル円は一時１５８円割れを試す 米財務省の発表で利回り急低下＝ＮＹ為替概況 -",
@@ -26,7 +32,7 @@
       "title": "ニューヨーク外国為替市場概況・4時 ドル円、上値重い｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WQzdDWVFsWnZPXzNoS0dIU2JOdE1fdWpmNnBCbklwYjlfNlJiSUZmdTF1NEVkcWRCQnNlem44cGNxWmJJbHNrb2pvblE5YlJmbFE?oc=5",
       "pubDate": "2026-08-20T04:06:00+09:00",
-      "source": "zai.diamond.jp"
+      "source": "ザイFX！"
     },
     {
       "title": "米財務省、長期国債買い戻し増額発表でドル円急落｜大橋ひろこ",
@@ -38,13 +44,7 @@
       "title": "ドル円、158.40円台まで伸び悩み FOMC議事要旨を受けて(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnZYLUJFV1VoNDQycWlRVUhKR2ZjZVl1aE45UlhrcmRkMF80V2IzRXBHczhZS3BEREl3X2haOGFEa25IMTJwdFJLNVhkdXV1UkV0OUtocHBUR3dMbV9NUzhaQ25oTWhQLWxmN1ZrMm5nMDQ5cFMxdXpWMUpuNC1wV1lpNmQ3bUU?oc=5",
       "pubDate": "2026-08-20T03:09:58+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、158.40円台まで伸び悩み FOMC議事要旨を受けて｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95bWU0Q2tSdlFMRzBTNVRRMEg1c1hLMlFjRDVGN2w1ZnV5R2wwbmFmcEhGc21yMmlnMmNCSlp2YjVxQ1oycGJBc2hnTV9KWnNzUHc?oc=5",
-      "pubDate": "2026-08-20T03:08:00+09:00",
-      "source": "zai.diamond.jp"
+      "source": "finance.yahoo.co.jp"
     },
     {
       "title": "NY為替、ドル円は158円台で売り一服 FOMC議事要旨控え様子見",
@@ -56,7 +56,7 @@
       "title": "ニューヨーク外国為替市場概況・2時 ドル円、売り一服(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR3ZqUEMxMW1KMjUyMnllVTlETWh6cXNVT1ZwSVdIbDRSMTZIb1FIV0FXNDJHVUoxbjlMNW1MUml6NGMxeUhVODdUMDRzUEw4UTVqTFI2cm41YU0yNGZqWGt4eldrUy1sMjdvNTR6cFNCMEdSQmZ3VXdHVVFKT2VWdVdHa2FsY0E?oc=5",
       "pubDate": "2026-08-20T02:14:05+09:00",
-      "source": "Yahoo!ファイナンス"
+      "source": "finance.yahoo.co.jp"
     },
     {
       "title": "ドル円、１５８円台半ば 通貨安はもはや主要なインフレ圧力ではないとの指摘＝ＮＹ為替 -",
@@ -74,7 +74,7 @@
       "title": "欧州外国為替市場概況・22時 ドル円、急落｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xTGRLNjg3dHNneVc3aVowM1lUQ1JqRVdnVWtFWG9KbU9wQ0lJdTRET085TmZScENJbm9DTHAxZTZGeXFFcWd4bW5fRDhKbDNiTkE?oc=5",
       "pubDate": "2026-08-19T22:06:00+09:00",
-      "source": "zai.diamond.jp"
+      "source": "ザイFX！"
     },
     {
       "title": "ドル円のピボットは１５８．８０円付近＝ＮＹ為替",
@@ -86,7 +86,7 @@
       "title": "【速報】ドル・円158.17円、ドル売り強まる、米長期金利が低下(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEdCc0oxUXl4bFNXdkJRRU0tSjh1NUVoTlB0d0FWU2FsV1Zub21FTk0zRFRYbVZmSVRhenBZZnB2OUZyVHN4M2dOemVpbElIQXlaS0FjUTFiRVNGVzJmem94U2VfN3RLQjFENmIteGFYekJGcUozWjBTQjdXSk5iZHZncjcteWM?oc=5",
       "pubDate": "2026-08-19T21:47:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "source": "finance.yahoo.co.jp"
     }
   ]
 }
