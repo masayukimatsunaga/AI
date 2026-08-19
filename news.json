@@ -1,14 +1,44 @@
 {
-  "updatedAt": "2026-08-19T10:54:45+09:00",
+  "updatedAt": "2026-08-19T12:12:22+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "東京為替：ドル・円は引き続き冴えない展開(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWVRUlp5ZV9LRWZvTzBLWENaMWVwSUlaLUx2UzI3SmM4NnprVWU4ODJES1BnbzdlTm9FQVpDQXRtQmpUdFVFeDdfWmFldTVMdG1IcWRjeDBFcUNWNmlWZElOWGRmNC1vd1ZXTjVLaElIM3pjR1pOZEpUU3ZCMzRvREh2RXlkLXM?oc=5",
-      "pubDate": "2026-08-19T10:35:00+09:00",
+      "title": "外為：1ドル159円36銭前後とドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYmM2UEQtTm1qZ1RtXzYzMlQycEpibFRnd0Y1cWZLejNKTFF4Y2J2TTBWZW9rWTZBcnBNMTY5VWNoRy0zV2dYZ19yUS1IWnhwY0xaRHVkbm5HZ1ZfdUIyWUVuMGcwUHJsbXh5VHJjc0hacFI4MzZvZHdCd1hIZ2puWG1QRFFheW8?oc=5",
+      "pubDate": "2026-08-19T12:01:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【FX】8/19 トリプル安で「日本売り」も ドル円が上げ渋る理由 ｜為替市場ニュースの振り返り、今日の見通し",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3Tnl5endfSEoyM2hPbGlwR29MdkZfVUZEbVZSZXdiYTVtd1JUZ2xCQ2VlVGhMckZNSXNsT003U1JselRQOENGVE52OTdBM1BPMmxHUTNhRFhrVXc2UnVpN2NCSQ?oc=5",
+      "pubDate": "2026-08-19T11:30:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル円、159.32円まで下落 ドル／カナダドルにつれた動きに｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pTGlmSzhKcnpJdng1bmdSMTN6VThOSVZyd2FoejJKQ3YxR1hSdWE1MF9Ja1NsRDh4WVg4WWlKVUpiMzEwWUppN244b0didjdjYnc?oc=5",
+      "pubDate": "2026-08-19T11:30:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【テクニカル】日足テクニカル・ドル円＝基準線を上回る水準への定着図る展開予想",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1idE1XZ3dlSms4UzNlc1A5c3lpYVppSDEyWk9Ed2VsNzVSVzE0d2NzbGwtVGRBNnBjWWFjSzlLekZDd050RXR6UkRuMWxEamktUHlvWG1mQnFvLUdsNFVrRi05cw?oc=5",
+      "pubDate": "2026-08-19T11:22:09+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "外為：1ドル159円45銭前後とドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0lkQ3ZCMTZDTk1palFjckVZblFRUW41enhvdGVNRTl3U2ZwRE1HNmh3Wm9MZ21rQ19fOENySkxUNHJVZXRRV2x6MTYzV2RiNjFoOE5qby1DeVZ5dGE5ZnZwbmFJanY2a1F5d2x6R2lyWVI3N2MySm5oQk4yVWNlQ2E1NldtQVk?oc=5",
+      "pubDate": "2026-08-19T11:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "通貨オプション ボラティリティー ドル円１週間５％台後半",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLd2l6Tk9Ic210UV9McG9ieVV2UUtCYTJyWEtOVzZnQndqdEd4SkdZNXRTVU1YZ0sxYkdxM0llVHlRT2YwYjRhUQ?oc=5",
+      "pubDate": "2026-08-19T10:45:44+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
       "title": "外為：ブラジルレアル、30円57銭前後とレアル安・円高で推移(株探ニュース)",
@@ -57,36 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWFRcVE4aEE2NW5waXhnSWUxelMxQ2VpSDVUczZ3NFlhZzlmTUlNendaUFF3Qjk3aDlNZGhsTThnZjZhRG5ORUw5SmNjMVViQTNXcmNtN1IwaVZaTy1YTGFwWnEySW5WNTN6bFlPY2NETDVqX3I3ekFrVWJsOFJpczdPOVh6SGM?oc=5",
       "pubDate": "2026-08-19T09:49:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "東京為替：ドル・円は159円43銭まで下落後にやや持ち直す",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zVDRwdmJySEV6aGMtR28wRlEybldDb081eVFSOGdzMlZHbUg4VkdPaTEzcFd4QVM3Vl9nOW5pSFhualZNTkJlcjU4YTFieHlEYkE?oc=5",
-      "pubDate": "2026-08-19T09:36:05+09:00",
-      "source": "s.kabutan.jp"
-    },
-    {
-      "title": "ドル円159円台後半で小動き、方向感欠く展開続く",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuNnZ5M0l4bG90eGpXUUNaTjlXYTAxa3pTcGdnSWllZnkzQkxTY3NkaFlBdjBsYWhMR2FFdVFkczhLYmV1WUpKMzdWQWlNZms0NkczWk5yZmtKNm1qOFdHLXJjZFdFVGxCdldPRUx6NGg1VURI?oc=5",
-      "pubDate": "2026-08-19T09:25:00+09:00",
-      "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "18日は原油WTIが上昇、ドル円も上昇",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS1lpbHVQNl9MQmhvV2U2N3lCQklqMk1LOGlTaXRuYk4tbFhDcXJ2cFRaZFNiVHh3T2VmRDBxSTFVcmgxWTFzbTFoakZ5MWM2b3NUUzlqMEZFVkx0WGxIOVRfSlVoZU11eHFGOG1GSWFyTDdwZ0JpSzZUOG5hQUlCbXNR?oc=5",
-      "pubDate": "2026-08-19T09:23:00+09:00",
-      "source": "forex.com"
-    },
-    {
-      "title": "ドル円理論価格 1ドル＝158.66円（前日比-0.19円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fNHNuaFVlSUk1bGtqMWJYVkUtU1ZFblFnVTNXMXBtVHF2Rnh3Y2l5QVBpeGJScHhGdVFRMnFuY2FqSDJTZmxtXw?oc=5",
-      "pubDate": "2026-08-19T09:15:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円、小安い 159.46円まで下押し｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LYTRYNU5DckN6US1nZjZIclRGaWU4UU5JeDNQdHZ1Rzc1Q0NmaUZZNUo1UWllMExienVIQjNOY1hiaEhZQ1BzbW5YaTEyek1RdkE?oc=5",
-      "pubDate": "2026-08-19T09:11:37+09:00",
-      "source": "ザイFX！"
     }
   ]
 }
