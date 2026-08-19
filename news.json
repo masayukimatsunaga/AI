@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-19T20:43:11+09:00",
+  "updatedAt": "2026-08-19T21:03:14+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "欧州為替：ドル・円は底堅い、159円台を維持 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VMThSR0JkaUFua0R1dWJkQzlmUlhMaDZzeXFJU2czZjQ1bzRaS0tKZmV1NF8yVXdZSjBuUmtBS1lfenlkY2tFX192clhYSmg2VUg5dksxLXNSV1FKQVFMMTBpUDAzVnM?oc=5",
+      "pubDate": "2026-08-19T20:15:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
     {
       "title": "欧州外国為替市場概況・20時 ドル円、上値が重い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWHFDTTU4SWc3TklEWkxLMHNFRE1JUG41Z2UyZldpemFpbllqcVk4S3Vtd0picnczY1hKTk5NSjF1RkZZM0tOUVc5MTRhN3k3NzA4c0JZRm5IUEE5RVNZTXpEWlpCNXhTaWFIaXBua0FwcGNzVmdpMTNjdWxCbFFVWWIwZnNYN2s?oc=5",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWE93azJNWmZBV0V0dnUweWVVNC01bHNvTnFuX2hoYW1hOGhqUkVHR2pwVnQ4NWRNSlRBell2TmhtbXBuWi1HOGQwcldqaWJsM2pGNUtVdGVfVTFXU1FnTFhDTGNFNk80Qkd2aWRmVjNfM0Nmd25vMlpPZ1dtU2oyUm1jT3AxMHc?oc=5",
       "pubDate": "2026-08-19T17:25:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル売り継続、ドル円一時１５９．０８レベル＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1majhYUnl5ajJwYUZRYlg1QUN4bU5wMWRuUEZkT3JZclo5Vk1ucVR2LXRhaWhWcDdQNjVwTEdKRW1sX2NQTTI5Qw?oc=5",
-      "pubDate": "2026-08-19T17:17:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
