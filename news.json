@@ -1,9 +1,70 @@
 {
-  "updatedAt": "2026-08-20T03:02:01+09:00",
+  "updatedAt": "2026-08-20T03:55:28+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "米財務省、長期国債買い戻し増額発表でドル円急落｜大橋ひろこ",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Oc3BsUnRBQkUtNE56Sy1IbUxMZHBNdTZRSXgwWkI2OTYweXNzSXF2R0QySHZBRkRya2lNMy1ReFBtMnZoQ213eng5Uk5wdmVMMER1V29ON3VoZw?oc=5",
+      "pubDate": "2026-08-20T03:44:09+09:00",
+      "source": "note"
+    },
+    {
+      "title": "【FOMC議事録】「参加者はインフレリスクが上方に傾斜したと判断」",
+      "link": "https://zai.diamond.jp/articles/-/494233",
+      "pubDate": "2026-08-20T03:14:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【FOMC議事録】「多くの参加者は、政策金利据え置きを支持」",
+      "link": "https://zai.diamond.jp/articles/-/494234",
+      "pubDate": "2026-08-20T03:14:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【FOMC議事録】「ウォーシュFRB議長は年6回FOMC会合の案を提示」",
+      "link": "https://zai.diamond.jp/articles/-/494232",
+      "pubDate": "2026-08-20T03:11:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、158.40円台まで伸び悩み FOMC議事要旨を受けて",
+      "link": "https://zai.diamond.jp/articles/-/494231",
+      "pubDate": "2026-08-20T03:08:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、158.40円台まで伸び悩み FOMC議事要旨を受けて｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95bWU0Q2tSdlFMRzBTNVRRMEg1c1hLMlFjRDVGN2w1ZnV5R2wwbmFmcEhGc21yMmlnMmNCSlp2YjVxQ1oycGJBc2hnTV9KWnNzUHc?oc=5",
+      "pubDate": "2026-08-20T03:08:00+09:00",
+      "source": "zai.diamond.jp"
+    },
+    {
+      "title": "【FOMC議事録】 「多くがもし、インフレ鈍化しなければ、利上げ必要となる可能性を指摘」",
+      "link": "https://zai.diamond.jp/articles/-/494230",
+      "pubDate": "2026-08-20T03:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "NY為替、ドル円は158円台で売り一服 FOMC議事要旨控え様子見",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBObkNJcW04YUJFNy1JRUtZeE9KSEFhVEh6ci03YzM0cmR5QVZhQjlpZzBxcVhBdFRTYXRuclB0NG92ZWxnQmNnTkIydGp3SlJ5RzZDdUkycnRqOC0xQjMzRDFldTJ4alRRa0pZYTcwRjFFY0Nn?oc=5",
+      "pubDate": "2026-08-20T02:55:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "NY外為:ドル下げ止まる、原油価格が上昇、UAEイラン関係悪化",
+      "link": "https://zai.diamond.jp/articles/-/494229",
+      "pubDate": "2026-08-20T02:29:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・2時 ドル円、売り一服",
+      "link": "https://zai.diamond.jp/articles/-/494228",
+      "pubDate": "2026-08-20T02:09:00+09:00",
+      "source": "ザイFX！"
+    },
     {
       "title": "ドル円、１５８円台半ば 通貨安はもはや主要なインフレ圧力ではないとの指摘＝ＮＹ為替 -",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vcDhfZEtXdDJnVG5sWUdEcGU3UVNqT0ZIWkhOYXpRM1ljSU5TQkduYm9HSkhFZ0s1RmVnRW10VTVHeUFQeFpjQw?oc=5",
@@ -11,82 +72,22 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ドル円、１５８円台前半に急落 米財務省の発表でドル安が強まる＝ＮＹ為替序盤",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jYWFqcXRUb0JiWHpxdlA0V3FNTFM1V0ZqTkhNQ29yTWxTV3hrMTFvN3hCb2hoZVZWZlMyWHcyWUFmcWNNR25FRw?oc=5",
-      "pubDate": "2026-08-19T22:20:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、急落｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xTGRLNjg3dHNneVc3aVowM1lUQ1JqRVdnVWtFWG9KbU9wQ0lJdTRET085TmZScENJbm9DTHAxZTZGeXFFcWd4bW5fRDhKbDNiTkE?oc=5",
-      "pubDate": "2026-08-19T22:06:00+09:00",
+      "title": "ニューヨーク外国為替市場概況・24時 ユーロドル、しっかり",
+      "link": "https://zai.diamond.jp/articles/-/494222",
+      "pubDate": "2026-08-20T00:06:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "【速報】ドル・円158.17円、ドル売り強まる、米長期金利が低下(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEdCc0oxUXl4bFNXdkJRRU0tSjh1NUVoTlB0d0FWU2FsV1Zub21FTk0zRFRYbVZmSVRhenBZZnB2OUZyVHN4M2dOemVpbElIQXlaS0FjUTFiRVNGVzJmem94U2VfN3RLQjFENmIteGFYekJGcUozWjBTQjdXSk5iZHZncjcteWM?oc=5",
-      "pubDate": "2026-08-19T21:47:00+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "ドル円、軟調 158.90円台まで下落(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2d4bXpDZjFvQy1NLWhJLXpBcHA3bFZaRlBqR2NyUjBJai1feVJ2YmJGWFlOUUJMdlhQTWNCWktUQ05VU1BoZEFtNkdYLWxwOHA5VHYyMUhGQjR3bHJ0YXRnb084SGVtYThQRXl3RHJzNXdHVzY4TDUyWmdIYlpVWXhwSWFWZjg?oc=5",
-      "pubDate": "2026-08-19T21:34:00+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "ドル円、軟調 158.90円台まで下落｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HQVd4OEItZl9aSl9ScThCdG9CVHBrRzJOWlhNZHplSzJUTTlWV1kzMkVJSl85T2NfZ1d6MHBYNC1Ba01vTHl4bjl0UUxMNC1wcUE?oc=5",
-      "pubDate": "2026-08-19T21:34:00+09:00",
+      "title": "NY外為:カナダドル反発、米が加輸入品に対する追加関税賦課延期発表",
+      "link": "https://zai.diamond.jp/articles/-/494221",
+      "pubDate": "2026-08-19T23:43:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円一時１５８．９３レベル、原油高が一服＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03VWtUbWc2dVU2azhEN0ZTOWhSSW5kV1liRmNoakY2VEFMaUc4ekszZlNnTnRVTnRMOXc0M3R0NjNUY3pzOWExZQ?oc=5",
-      "pubDate": "2026-08-19T21:27:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円１５９．１０近辺、ユーロドル１．１６０５近辺＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82bG5TRnJyeWZXQXN5Tm9hX2Y0dXhiMkNMeFA4TXZJWTdrNTVGd0xXQWM0UTNsUGlWTEdzTklRdl9XdDZTODZUag?oc=5",
-      "pubDate": "2026-08-19T21:09:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル・円は底堅い、159円台を維持｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BNklIQ2JydEVTbTFMVEpDTGRBQ1ZNRk1odFowMktzZUVnLTZvQlg4eVhTUzZaMGpJTHAzMEgwaWZydmxfdkV4M2lHZWZQZU0wWkE?oc=5",
-      "pubDate": "2026-08-19T20:18:00+09:00",
+      "title": "【NY為替オープニング】米財務省の長期債流動性支援でドル反落、FOMC議事要旨に注目",
+      "link": "https://zai.diamond.jp/articles/-/494219",
+      "pubDate": "2026-08-19T23:13:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "欧州外国為替市場概況・20時 ドル円、上値が重い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWHFDTTU4SWc3TklEWkxLMHNFRE1JUG41Z2UyZldpemFpbllqcVk4S3Vtd0picnczY1hKTk5NSjF1RkZZM0tOUVc5MTRhN3k3NzA4c0JZRm5IUEE5RVNZTXpEWlpCNXhTaWFIaXBua0FwcGNzVmdpMTNjdWxCbFFVWWIwZnNYN2s?oc=5",
-      "pubDate": "2026-08-19T20:07:00+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "FX実践解説、新たな介入「米財務省、米長期債オペ拡大でドル円急落」（2026年8月19日）",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90OHJFSkpPREZGYUFkSF8tbGZUOURQMnZ0ZkhzcjJVcTJUcUswN0NOTFdIZmh3akc1RW4yX09CbG0yQm9PeVgtamhxMHpsZE9KaDlRby1wUjlsMXVLbEgxOGZYaw?oc=5",
-      "pubDate": "2026-08-19T20:00:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル売り継続、米FOMC議事録を控えて ドル円一時１５９円付近＝ロンドン為替概況 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2N1AtT0ZTU2ZsMm5uMGlyYk1fSjZjbExKX0kwb0tIWHdSRWtkc0RYeXdzQ0lKVTBQOEdPa3kxb281VF8zc0F6bA?oc=5",
-      "pubDate": "2026-08-19T19:58:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル売り継続、ドル円一時１５９．０２レベル＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52djdCYUpFdHlNTnl4d1ZxY29GMl83MW5zV2Z4THRaUkxTTF9BMTlpV2laT1NIMzAzTG0tWmlGNWoxeGJEM19Heg?oc=5",
-      "pubDate": "2026-08-19T19:21:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "東京為替：ドル・円はしっかり、原油・米金利にらみ(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNEtrdWRfTGZXa3ZwSzljc3UxV0xTZHVQZ2lTV0FUNXRZZkJSU1cxamcxUm9seENmX2VneU5JQTRlU1Bpb1l6MFFnTUVsS0dWWnNwd1NCMEZMRHNnV2xaMG1Jb044WGhzSDhkdWhTaGhOOURnZjB6UFhCZmVFZzRRYTh4MWpVU2M?oc=5",
-      "pubDate": "2026-08-19T19:05:34+09:00",
-      "source": "finance.yahoo.co.jp"
     }
   ]
 }
