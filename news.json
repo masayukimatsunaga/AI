@@ -1,20 +1,44 @@
 {
-  "updatedAt": "2026-08-20T17:57:53+09:00",
+  "updatedAt": "2026-08-20T18:51:19+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "欧州為替：ドル・円は失速、ドル売り優勢｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51TEFYOTV3TlJXYktDU18ycWhtVGQ2cmVaeDFldm44TDFiLVl1bGFjM2V4YVl4aHI0UmswZmhsbVE0Ynd6dWpyYVZ3VHhJODhCcnc?oc=5",
+      "pubDate": "2026-08-20T18:47:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "欧州為替：ドル・円は失速、ドル売り優勢(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMm1SUVhjeTZzbWJXOXhhUy1tbFRxM0JHckJvLUtBY3JsMDJkVDQzMmRHWlRMT19qS0xUcWlGcFdrQ3N4dElzQ2l2LXZMNHQ0WUlTSGdSQzJkcWxQN2s0WE1aLThTc3dOWEo4TW9KajBMaXh2YUlRT192Q3NzWTk0SDBiaGZ6ZWc?oc=5",
+      "pubDate": "2026-08-20T18:37:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京円、158円台前半 円高進行、米長期債買い戻し倍増で金利差縮小意識",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLeERaNUNWbzdnMjh4cmtHSW1aWnVtWlM3MjI2dHlsLVRQb3dRRkVvczl4NWk1NkVfazZYVndNRWtJQ3h2TUFudGhsUVE5NFJMa25tMGxJLVdqei11TENITjJmSWhiY2RPSWNGQURvMW5scnZCNlE?oc=5",
+      "pubDate": "2026-08-20T18:29:17+09:00",
+      "source": "産経ニュース"
+    },
+    {
+      "title": "バイバックで高まる為替介入警戒 円じり安シナリオに冷や水",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tZGpFaWtmZEh2dzFpdmp6U2QzMWxWZTN6TndBSW54ZkwyNXpkdFBIcWtQTm40QUdRd2o2RTdJQmVBSndRbGNnOWt4UkRIWUtBdERUV2lTQmp6VjN0NXZvSU1WaWZBT1FoZGJGZw?oc=5",
+      "pubDate": "2026-08-20T18:13:18+09:00",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "【2026年ドル円見通し】日銀9月に利上げか？それでも円安が止まらない3つの理由 2026年8月20日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85ck8wb0EycjRiejdkQ05nRXVFSExCcFFUTzJhSlBZV3kwQWN4MXVrQmZNQWp2c2VyZmY4cmtsaGpVUGppRnJwMURGcUpiQlNvNDZVZTV0WFY5eEEyNWs1cUNpSQ?oc=5",
+      "pubDate": "2026-08-20T18:02:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
       "title": "東京為替概況：ドル・円は伸び悩み、夕方にかけて失速｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0d001TmlqZDdjOHFtY1c4bF9LM3ljOVR3TVFrdTJxS0ZBMU9uZF80TjdaWF9sd2NkQ01KbG96dmwyNHFMZUVmank3WFFHNXEzclE?oc=5",
       "pubDate": "2026-08-20T17:39:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "欧米為替見通し:ドル・円は底堅い値動きか、前日の大幅安でドルに買戻し(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd08zcXJkRnZ1bGFUeHk5a1ZoRFhDWm5BNk84a0o0eXdISHcxYWRCa1JrVWtJR215Z2xzcklqdUY1Ny11NTNWUV9OMjBscGJXbExoeTQ5ZXRyNVhRcjh0VmZqanJaeEJkandsS21vZW02R0NDd2tFQlRZRFRKTFFIZEdYX3BqOU0?oc=5",
-      "pubDate": "2026-08-20T17:25:00+09:00",
-      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "ドル円158円台で戻り試しと小刻みな振幅が交錯｜158.00に買いオーダーが控える 今日の外為注文情報 2026/8/20 17:00",
@@ -63,30 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdUl6a05NdmthVDB6c3N0NmJHT21jdjJlUFJDUzZyWFVfUEFpUVE5RXFrVzJBMXNTcVNJUXVuT1hodGxGQXUzNlJ3Q20wdWE1REtYeDBDTkdKTFBsbkJ0bV93TDlCOWtSVm1TU3pBS2pLbDUzNGtVb1RKU2R5OTUxWWc0WTEwOHM?oc=5",
       "pubDate": "2026-08-20T16:01:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "２０日の東京外国為替市場＝ドル・円、１５８円台半ばで推移 速報",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fT3Y4UDU2VUc0bEdKd3ZPcFUwQkc4c0hrRnBEUlU4NnkwVmZhWG9mUUNrUlFIaVNoWnRwQ2RHd2Z4U1Z1c3NN?oc=5",
-      "pubDate": "2026-08-20T15:32:00+09:00",
-      "source": "kabushiki.jp"
-    },
-    {
-      "title": "２０日の東京外国為替市場＝ドル・円、１５８円台半ばで推移(ウエルスアドバイザー)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHVLUmxIamQ2bERIZDVGN05RTFV4blJBLU1YYlUxeU1NTEJPZW1WdF91eUk5NDU0UG8tLTNScC1DcWxXZHhTTEh0RWkyZnFuai1VZW1taWw3amc4SklvWTVya0NQMXhSeEJvczVTaGtoV28zVnR1dktBLS1ReFlwSG42MnBOSUU?oc=5",
-      "pubDate": "2026-08-20T15:32:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、クロス円はしっかり＝東京為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNTUE0N0dYVTJFa0p2S2NoNS1hUG8yak5YMXpqbHRpZGZWYUdQWWlkVE9Pb0x4VDZnWWxvNEhMaXA4U0NWVDZBag?oc=5",
-      "pubDate": "2026-08-20T15:29:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "FX個人投資家動向｜米国債買い入れオペ2カ月間増額でドル円急落、トルコリラがシェアを拡大 2026年8月20日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZTJwZGdydHVGN1dRa1BpaXB5S090V1E4endESzV6ZElEamNHdldPbjR4M0hIR3ZPcW1fdDdsN1FBZ0ZBSUZUa1JEWjN6TXpwTkhoVE5XTDZqRW5wMm5KNjUxTQ?oc=5",
-      "pubDate": "2026-08-20T15:16:00+09:00",
-      "source": "外為どっとコム"
     }
   ]
 }
