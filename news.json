@@ -1,10 +1,45 @@
 {
-  "updatedAt": "2026-08-20T16:58:03+09:00",
+  "updatedAt": "2026-08-20T17:57:53+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "東京為替概況：ドル・円は伸び悩み、夕方にかけて失速｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0d001TmlqZDdjOHFtY1c4bF9LM3ljOVR3TVFrdTJxS0ZBMU9uZF80TjdaWF9sd2NkQ01KbG96dmwyNHFMZUVmank3WFFHNXEzclE?oc=5",
+      "pubDate": "2026-08-20T17:39:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "欧米為替見通し:ドル・円は底堅い値動きか、前日の大幅安でドルに買戻し(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd08zcXJkRnZ1bGFUeHk5a1ZoRFhDWm5BNk84a0o0eXdISHcxYWRCa1JrVWtJR215Z2xzcklqdUY1Ny11NTNWUV9OMjBscGJXbExoeTQ5ZXRyNVhRcjh0VmZqanJaeEJkandsS21vZW02R0NDd2tFQlRZRFRKTFFIZEdYX3BqOU0?oc=5",
+      "pubDate": "2026-08-20T17:25:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円158円台で戻り試しと小刻みな振幅が交錯｜158.00に買いオーダーが控える 今日の外為注文情報 2026/8/20 17:00",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04bzRrUHN1cUloYjYtaWpnS09XMmpfSlpIRGpLNnIzbm10TTZqbkszZk41X1FITG9VQVhPVUQ2YXBNV1hWV2VQRDhnb1Z5LWpkMlJBWGZUcTM3VEdPTXJSQWJNNA?oc=5",
+      "pubDate": "2026-08-20T17:19:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "通貨オプション ボラティリティー ドル円１週間６．５％付近に落ち着く",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCOHU3cTVSVGE0YmVxR2k3UDdDNWZTSE82eGRpQ1Z0ck1aNTAzck1GQml4OXB0MHo4VWNCRV95ekhPUlZIdGNnYg?oc=5",
+      "pubDate": "2026-08-20T17:17:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "円相場、１５８円４３～４３銭＝２０日午後５時現在",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SZDhIYTBpbzJDVEFyMXpZZmV3eDl5M3NycjZNakhVWlZEWHFINVA1OEx5MGxfQ2JLYUNPRFBiSHhBZWdtb0xMS1pZUXVnVWV2YThETQ?oc=5",
+      "pubDate": "2026-08-20T17:07:00+09:00",
+      "source": "時事通信ニュース"
+    },
+    {
+      "title": "為替介入がもたらした株式市場の変化…円高メリット銘柄「ニトリ」の底力に期待（ニューズウィーク日本版）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DamJnd1ZIekgzZDZFWmdKYWpxdFpRNVlEYmVyQ0tyRndwcEIzR2JBSElkbjZaN1RBaHBMV1NRYmFfaTRaMHJaNEQ3d2tkTmtYeExrRXhzYXhBQTBzcWdRMF9qM1dseWhYbl9xc25SZFd3ZG4zUXY2Mm9MR0RNVFE?oc=5",
+      "pubDate": "2026-08-20T17:02:34+09:00",
+      "source": "Yahoo!ニュース"
+    },
     {
       "title": "【FX】ライブトレード 欧州タイムを攻略だ！「ドル/円、158円割れの可能性は？…米長期債買い戻し規模倍増の影響は」ドル円分析＆取引 2026/8/20 17:00",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94NTc2RVBuS1RXNEhoNTMxb2JrNjNxczBZOU9DSUhYaExWeGdtMzNKVVQ5c2NYNUxpSXpCd3VzRUIzTkdxQkExTDdicURBOXM3YnJna2NFVVYwRHN0Y1VnN3Bubw?oc=5",
@@ -24,34 +59,10 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "東京為替:ドル・円は伸び悩み、午後は上げ幅縮小",
-      "link": "https://www.zaikei.co.jp/article/20260820/866699.html",
-      "pubDate": "2026-08-20T16:07:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "ロシア輸入増が通貨ルーブルを圧迫、5月以降に対ドル約20%安",
-      "link": "https://jp.reuters.com/opinion/URWDMWT5GFIJ3EWZRQBOU3E7SM-2026-08-20/",
-      "pubDate": "2026-08-20T16:01:00+09:00",
-      "source": "reuters"
-    },
-    {
       "title": "外為：1ドル158円36銭前後と大幅なドル安・円高で推移(株探ニュース)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdUl6a05NdmthVDB6c3N0NmJHT21jdjJlUFJDUzZyWFVfUEFpUVE5RXFrVzJBMXNTcVNJUXVuT1hodGxGQXUzNlJ3Q20wdWE1REtYeDBDTkdKTFBsbkJ0bV93TDlCOWtSVm1TU3pBS2pLbDUzNGtVb1RKU2R5OTUxWWc0WTEwOHM?oc=5",
       "pubDate": "2026-08-20T16:01:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル・円は底堅い値動きか、前日の大幅安でドルに買戻し｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44NnV2R1FySHBHbi1QX0sxdmxwRmIxaklxTHNZVTBHcTNtOWlyNVJiTUg5dGtuSnVsRUtvR0ZQSEtBU0Q3VEdZU29qZ2ZFc2FDWEE?oc=5",
-      "pubDate": "2026-08-20T15:47:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、158円台後半で上昇一服も高値圏維持 中東リスクと原油高が下支え",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFVEJXQmR1TGloSDZHTjY4UUpEeXJ2X2xENF83aGtCMk91SFJiQV84R3QyVUpmSnNPVzNvQjZBbkpLUlR1X3FLYmpEcERQMEhJQUNXOWdIZTAxOHdubjl2MnZGN0ZxejRqNkN2Z0J3Q2dOQmlm?oc=5",
-      "pubDate": "2026-08-20T15:35:00+09:00",
-      "source": "BigGo ファイナンス"
     },
     {
       "title": "２０日の東京外国為替市場＝ドル・円、１５８円台半ばで推移 速報",
@@ -72,22 +83,10 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "東京為替:ドル・円は上昇一服、高値圏を維持",
-      "link": "https://www.zaikei.co.jp/article/20260820/866693.html",
-      "pubDate": "2026-08-20T15:16:00+09:00",
-      "source": "財経新聞"
-    },
-    {
       "title": "FX個人投資家動向｜米国債買い入れオペ2カ月間増額でドル円急落、トルコリラがシェアを拡大 2026年8月20日",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZTJwZGdydHVGN1dRa1BpaXB5S090V1E4endESzV6ZElEamNHdldPbjR4M0hIR3ZPcW1fdDdsN1FBZ0ZBSUZUa1JEWjN6TXpwTkhoVE5XTDZqRW5wMm5KNjUxTQ?oc=5",
       "pubDate": "2026-08-20T15:16:00+09:00",
       "source": "外為どっとコム"
-    },
-    {
-      "title": "東京外国為替市場概況・15時 ドル円 じり高(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2FGOEd4eG9GOTItMnF0cVlVbDJTQWRMMTlyUDl4bmZvdUZXb3lPM2tHcFgtUDd0VjRhMlNRbXZLS0JxUXJTMktnaC1WVUVmVVlSdG1MSThaOUgtQTByNVJEcnRndmp6TGswZ2xQUE1jbWlOM08xb1J4LVB2Vm9aM1dSLVdXUFk?oc=5",
-      "pubDate": "2026-08-20T15:07:00+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
