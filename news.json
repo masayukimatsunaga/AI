@@ -1,6 +1,7 @@
 {
-  "updatedAt": "2026-08-21T06:45:46+09:00",
+  "updatedAt": "2026-08-21T07:10:05+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
@@ -17,7 +18,13 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "日米協調介入で円ショート7割を殲滅、それでも円安基調に引き戻す実需の円売り、上期の貿易黒字転換も楽観視できず 【唐鎌大輔の為替から見る日本】貿易黒字は原油備蓄放出の特殊要因、旅行収支の黒字縮小とサービス赤字拡大が重荷に",
+      "title": "ニューヨーク外国為替市場概況・20日 ドル円、反発",
+      "link": "https://zai.diamond.jp/articles/-/494318",
+      "pubDate": "2026-08-21T06:03:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "日米協調介入で円ショート7割を殲滅、それでも円安基調に引き戻す実需の円売り、上期の貿易黒字転換も楽観視できず 【唐鎌大輔の為替から見る日本】貿易黒字は原油備蓄放出の特殊要因、旅行収支の黒字縮小とサービス赤字拡大が重荷に(1/4)",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FOXZLbmpKY0F5TW1FSGZhb0l6M0tZd0I1SkJqcHl0NmVhWVJNeEQzWmI4dkxKeTFDX2ZEUUZaeTllTXNUU0FIei1RVUdfUUV1ZGlRa3l3?oc=5",
       "pubDate": "2026-08-21T06:00:00+09:00",
       "source": "JBpress"
@@ -27,6 +34,12 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yMmJqang2dUJqek1ORklKOGxBME84Nm5Yc01lMF9GWjNoamtvZTVma3RTUmQxazEwRGVqNTdPMUo5R0FtejRqRQ?oc=5",
       "pubDate": "2026-08-21T05:40:44+09:00",
       "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "NY外為市場=ドル上昇、米債買い戻し効果見極め 一時の下げから持ち直す",
+      "link": "https://jp.reuters.com/opinion/LG7NEJ7LXRPDBMNILPFTQZUUXY-2026-08-20/",
+      "pubDate": "2026-08-21T05:39:00+09:00",
+      "source": "reuters"
     },
     {
       "title": "【衝撃試算】日本は為替介入で「5.7兆円」荒稼ぎしていた",
@@ -39,6 +52,18 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPYVp1TXBUYjc4ZFJsNG93eDF6QnV1czFKaW4zQ3VaT0toczFnZkltWFpYSThuNks1Q1ZlOXd5bUxncjItYnN1VjBJU3pmdDlmWERsVDMyYmM3dk9JOGdzZGkwQlFqUnNKUWJCcUM1T2haQnViQXdaYkE2dWI3QQ?oc=5",
       "pubDate": "2026-08-21T05:00:00+09:00",
       "source": "日本経済新聞"
+    },
+    {
+      "title": "NY外為:ドル買戻し、原油高やベッセント米財務長官が強いドル政策再表明",
+      "link": "https://zai.diamond.jp/articles/-/494316",
+      "pubDate": "2026-08-21T04:15:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・4時 ドル円、じり高",
+      "link": "https://zai.diamond.jp/articles/-/494315",
+      "pubDate": "2026-08-21T04:05:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "ニューヨーク外国為替市場概況・4時 ドル円、じり高｜FX・為替ニュース",
@@ -63,30 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYTNFLXA0cXh3M1hXTFRfRm1mY3VhOTJFZ3llNDJlTzhSQVYzYTFhVkRRUElBa1dDWmd2TVBRa2VTV3gtMDlITC1oRE1OeXVRUER0Z1daYTBDVFdoLVZMOVVwOWdLcFNwcXlsdlRlUHRqQk1Ed1hxTnlzTF8ycEhBSWRHQVdJM1E?oc=5",
       "pubDate": "2026-08-21T03:27:41+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・2時 ドル円、底堅い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbEp5OFZ0MTNsbTB5azNXcFlPcDdLaXo3VDBJWG5FNkRJVDkwQlRjZlRKaFFCNmV5TWJvNUJMOUlVTUhjZi1wTkdhRzh3UXlBaWhCWmZ1MXdmdXpjNElteV9CRHV5dmdvM21CdlYxZzZXcmdYSVdLdUh2MEhycElqNDktc0gyWHM?oc=5",
-      "pubDate": "2026-08-21T02:10:45+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、底堅い 一時159.10円まで上昇(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeWFyNjQ5eWlROFlSY1BLdlVoaGxOUkh5MFFBMzA1M0FwbzcyWlB5YWhual9SUGJLSFdJTm41MGVuczdsb1o0dzBzWjRuR1ZfY0xXZkpnY25URE9BcFNkaWtuZEt2NXVhU0JkYnFBMkZIR0xfaEhtMzJ4ajBXSXNheXR2d2FzZnM?oc=5",
-      "pubDate": "2026-08-21T01:36:49+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、底堅い 一時159.10円まで上昇｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jdFJ2MWNUem9uNEcxT3ZjbS1sVDhXbG16M081NDBncmhFZGZWaTlvdVl0OVNETDhVN2hCLXJGWFJTUWdCRkliSjZNcHZCakpmMlE?oc=5",
-      "pubDate": "2026-08-21T01:31:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、底堅い 米財務長官の発言に反応限定｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yaEc3ZjNTbUlVQjhGT1FielV4NWJMbzlkcTNxRFBIa3JodHRxSnhxZzl0cjB0MU5EcEtqSGI4UnViNTlzUjN0VHVaQjFRWGdVU0E?oc=5",
-      "pubDate": "2026-08-21T00:34:00+09:00",
-      "source": "ザイFX！"
     }
   ]
 }
