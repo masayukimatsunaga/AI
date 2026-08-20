@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-21T04:47:41+09:00",
+  "updatedAt": "2026-08-21T05:48:47+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "日本経済を衰退させる円安、巨大な成長企業を生み出した米国との違い",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPYVp1TXBUYjc4ZFJsNG93eDF6QnV1czFKaW4zQ3VaT0toczFnZkltWFpYSThuNks1Q1ZlOXd5bUxncjItYnN1VjBJU3pmdDlmWERsVDMyYmM3dk9JOGdzZGkwQlFqUnNKUWJCcUM1T2haQnViQXdaYkE2dWI3QQ?oc=5",
+      "pubDate": "2026-08-21T05:00:00+09:00",
+      "source": "日本経済新聞"
+    },
     {
       "title": "ニューヨーク外国為替市場概況・4時 ドル円、じり高｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IZE5VYTEySlJmVTQtNXJFRjlCazhMZXRzWGtXNlNFSzRZaF9uemNDUk9zdHhaS2ZhVFVaZ3RNVzc3Z0RpQVN3MXlBY2gtVHl1OWc?oc=5",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMG05cjZ6bFVnQVZSNVVGLW5mOFppdWNYVXV6dGNXZmNQMUt2ZVZxSlo0RTFfTVVLVXlVTHlvYlY3bEQydWF3dTZ5TUVNRFdsX05Jdjl6dGdjMTdId2FXOHZnc3ZLQlU1VkFEdzh0Y1g2VnNSTWdLS2dHdkRud3BLWDhUc1BOUFk?oc=5",
       "pubDate": "2026-08-20T22:06:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円のピボットは１５８．５２円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PNVo4UjRMODlEb0I4NU5uNl9ZdlRjUXo0ekpEckUxUHNxRXlISnlqdFY0WDV5TTB6clJSZWFQS3dONmRSQm0yRA?oc=5",
-      "pubDate": "2026-08-20T22:00:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
