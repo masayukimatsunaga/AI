@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-20T08:40:15+09:00",
+  "updatedAt": "2026-08-20T09:00:52+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "２０日の東京外国為替市場見通し＝ドル・円、上値の重い展開か(ウエルスアドバイザー)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWpMRFNoY3U2TGw4dTVVWndlb2plMWIxdF9OeTFQR05JaWtZaDd2VU5RZnhObUxjRlY3YWhRYVFmWGZhcUpHMjJPX0d4X3BmVzF0SlVzUHhsNkY4VDlBMUdBc2dyc2NxRTcxdkVIR1U4SU9RUDd5dmw5MzlKcjhRSUVkbzhTY00?oc=5",
+      "pubDate": "2026-08-20T08:44:39+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "FX/為替「ドル/円今日の見通し｜米債買い戻し倍増の影響見定めへ」 外為どっとコム トゥデイ 2026年8月20日号",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xVXRpcHoxU0drT1VBeFVEVmhod3NhT0VWNm1uMmlibzUtbUc1M01mY0VLR1Z3aWRrSFo3ckV2YTJHV3RXUmhicjJUWHRhSTBhbkRfSFM3WFk0N3RySHl4WTEtTQ?oc=5",
@@ -35,16 +41,16 @@
       "source": "Yahoo!ファイナンス"
     },
     {
+      "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し 2026年8月20日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBONjlpcFp0VXdqamw1d1NkMlFMVDFvdVhjS2N3dVRXMlhoVEk1ZmVZaUlzWGhoa1MyVzl0MmNDTXBWaWE0ekpCVFZ5czNtVkhvM3k0R3llWi1CSnhwSEJRRUZqWQ?oc=5",
+      "pubDate": "2026-08-20T07:51:30+09:00",
+      "source": "外為どっとコム"
+    },
+    {
       "title": "【本日の見通し】ドル安継続の見込み、ドル円は介入後の戻り局面一服か",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJcC14MWt3cmk3M0h6RlZYdDRUNTNZVkxSRE1ockt0Qk5OaWxQUW1mdm5iQkFLMFozaTA1MDlsZ1hSOXBCY2p3ag?oc=5",
       "pubDate": "2026-08-20T07:48:44+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し 2026年8月20日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBONjlpcFp0VXdqamw1d1NkMlFMVDFvdVhjS2N3dVRXMlhoVEk1ZmVZaUlzWGhoa1MyVzl0MmNDTXBWaWE0ekpCVFZ5czNtVkhvM3k0R3llWi1CSnhwSEJRRUZqWQ?oc=5",
-      "pubDate": "2026-08-20T07:48:00+09:00",
-      "source": "外為どっとコム"
     },
     {
       "title": "ドル円午前の為替予想、米債買い戻し倍増の影響見定めへ 2026/8/20",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Fc3dsNHJSUE5ETHdxTXhoZmx0bWxBZjhGYVdQNjAxZkg1SDNSLVVMd0ZzTmhjLU5MU1FNcnVEV1N0bjl4YmlybA?oc=5",
       "pubDate": "2026-08-20T06:56:44+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "１９日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1OWFRTVXhMYUtNUHZKbzNZdVJUVlpQM3lWS3ZoWHM1X2hiRWNIMDVkeWZEOXdaTW5rbC1vZjZXa1c0dDl3Wnc?oc=5",
-      "pubDate": "2026-08-20T06:30:00+09:00",
-      "source": "みんかぶ"
     }
   ]
 }
