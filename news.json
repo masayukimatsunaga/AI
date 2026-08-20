@@ -1,10 +1,15 @@
 {
-  "updatedAt": "2026-08-21T07:10:05+09:00",
+  "updatedAt": "2026-08-21T07:47:25+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル円、１５９円台を回復 ドル安一服や根強い円安で＝ＮＹ為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yMmJqang2dUJqek1ORklKOGxBME84Nm5Yc01lMF9GWjNoamtvZTVma3RTUmQxazEwRGVqNTdPMUo5R0FtejRqRQ?oc=5",
+      "pubDate": "2026-08-21T07:12:42+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "２０日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBSUHc5RUZiU2pxMTYxMmxQTUd1aF9lN0dqRzNCUWpmakNKZWtvZkx2TUR6ajdhaVY3RjFNNjRrYTNzZElEWVY1VA?oc=5",
@@ -18,28 +23,10 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・20日 ドル円、反発",
-      "link": "https://zai.diamond.jp/articles/-/494318",
-      "pubDate": "2026-08-21T06:03:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "日米協調介入で円ショート7割を殲滅、それでも円安基調に引き戻す実需の円売り、上期の貿易黒字転換も楽観視できず 【唐鎌大輔の為替から見る日本】貿易黒字は原油備蓄放出の特殊要因、旅行収支の黒字縮小とサービス赤字拡大が重荷に(1/4)",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FOXZLbmpKY0F5TW1FSGZhb0l6M0tZd0I1SkJqcHl0NmVhWVJNeEQzWmI4dkxKeTFDX2ZEUUZaeTllTXNUU0FIei1RVUdfUUV1ZGlRa3l3?oc=5",
       "pubDate": "2026-08-21T06:00:00+09:00",
       "source": "JBpress"
-    },
-    {
-      "title": "ドル円、１５９円台を回復 ドル安一服や根強い円安で＝ＮＹ為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yMmJqang2dUJqek1ORklKOGxBME84Nm5Yc01lMF9GWjNoamtvZTVma3RTUmQxazEwRGVqNTdPMUo5R0FtejRqRQ?oc=5",
-      "pubDate": "2026-08-21T05:40:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "NY外為市場=ドル上昇、米債買い戻し効果見極め 一時の下げから持ち直す",
-      "link": "https://jp.reuters.com/opinion/LG7NEJ7LXRPDBMNILPFTQZUUXY-2026-08-20/",
-      "pubDate": "2026-08-21T05:39:00+09:00",
-      "source": "reuters"
     },
     {
       "title": "【衝撃試算】日本は為替介入で「5.7兆円」荒稼ぎしていた",
@@ -48,22 +35,16 @@
       "source": "newspicks.com"
     },
     {
+      "title": "欧米為替見通し: ドル・円は伸び悩みか、米引き締め姿勢継続も為替介入に警戒(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWE93azJNWmZBV0V0dnUweWVVNC01bHNvTnFuX2hoYW1hOGhqUkVHR2pwVnQ4NWRNSlRBell2TmhtbXBuWi1HOGQwcldqaWJsM2pGNUtVdGVfVTFXU1FnTFhDTGNFNk80Qkd2aWRmVjNfM0Nmd25vMlpPZ1dtU2oyUm1jT3AxMHc?oc=5",
+      "pubDate": "2026-08-21T05:28:49+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
       "title": "日本経済を衰退させる円安、巨大な成長企業を生み出した米国との違い",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPYVp1TXBUYjc4ZFJsNG93eDF6QnV1czFKaW4zQ3VaT0toczFnZkltWFpYSThuNks1Q1ZlOXd5bUxncjItYnN1VjBJU3pmdDlmWERsVDMyYmM3dk9JOGdzZGkwQlFqUnNKUWJCcUM1T2haQnViQXdaYkE2dWI3QQ?oc=5",
       "pubDate": "2026-08-21T05:00:00+09:00",
       "source": "日本経済新聞"
-    },
-    {
-      "title": "NY外為:ドル買戻し、原油高やベッセント米財務長官が強いドル政策再表明",
-      "link": "https://zai.diamond.jp/articles/-/494316",
-      "pubDate": "2026-08-21T04:15:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・4時 ドル円、じり高",
-      "link": "https://zai.diamond.jp/articles/-/494315",
-      "pubDate": "2026-08-21T04:05:00+09:00",
-      "source": "ザイFX！"
     },
     {
       "title": "ニューヨーク外国為替市場概況・4時 ドル円、じり高｜FX・為替ニュース",
@@ -87,6 +68,24 @@
       "title": "欧州マーケットダイジェスト・20日 株まちまち・円安・ドル底堅い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYTNFLXA0cXh3M1hXTFRfRm1mY3VhOTJFZ3llNDJlTzhSQVYzYTFhVkRRUElBa1dDWmd2TVBRa2VTV3gtMDlITC1oRE1OeXVRUER0Z1daYTBDVFdoLVZMOVVwOWdLcFNwcXlsdlRlUHRqQk1Ed1hxTnlzTF8ycEhBSWRHQVdJM1E?oc=5",
       "pubDate": "2026-08-21T03:27:41+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【速報】ドル・円159円台に戻る、米長期金利が上昇に転じる｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85MDVKSG1BLVp5REdsMnoybzJqT3JXUktBaTRBRGFSSUJqUGUtb0Q3MC1yOHZDSkJzR2ZwZURmejZPbm1wTlR0UTlrckxKb3dPQ2c?oc=5",
+      "pubDate": "2026-08-21T03:26:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・2時 ドル円、底堅い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbEp5OFZ0MTNsbTB5azNXcFlPcDdLaXo3VDBJWG5FNkRJVDkwQlRjZlRKaFFCNmV5TWJvNUJMOUlVTUhjZi1wTkdhRzh3UXlBaWhCWmZ1MXdmdXpjNElteV9CRHV5dmdvM21CdlYxZzZXcmdYSVdLdUh2MEhycElqNDktc0gyWHM?oc=5",
+      "pubDate": "2026-08-21T02:10:45+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、底堅い 一時159.10円まで上昇(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeWFyNjQ5eWlROFlSY1BLdlVoaGxOUkh5MFFBMzA1M0FwbzcyWlB5YWhual9SUGJLSFdJTm41MGVuczdsb1o0dzBzWjRuR1ZfY0xXZkpnY25URE9BcFNkaWtuZEt2NXVhU0JkYnFBMkZIR0xfaEhtMzJ4ajBXSXNheXR2d2FzZnM?oc=5",
+      "pubDate": "2026-08-21T01:36:49+09:00",
       "source": "Yahoo!ファイナンス"
     }
   ]
