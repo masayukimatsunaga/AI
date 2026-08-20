@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-21T02:47:34+09:00",
+  "updatedAt": "2026-08-21T04:02:00+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "欧州マーケットダイジェスト・20日 株まちまち・円安・ドル底堅い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYTNFLXA0cXh3M1hXTFRfRm1mY3VhOTJFZ3llNDJlTzhSQVYzYTFhVkRRUElBa1dDWmd2TVBRa2VTV3gtMDlITC1oRE1OeXVRUER0Z1daYTBDVFdoLVZMOVVwOWdLcFNwcXlsdlRlUHRqQk1Ed1hxTnlzTF8ycEhBSWRHQVdJM1E?oc=5",
+      "pubDate": "2026-08-21T03:27:41+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "ニューヨーク外国為替市場概況・2時 ドル円、底堅い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbEp5OFZ0MTNsbTB5azNXcFlPcDdLaXo3VDBJWG5FNkRJVDkwQlRjZlRKaFFCNmV5TWJvNUJMOUlVTUhjZi1wTkdhRzh3UXlBaWhCWmZ1MXdmdXpjNElteV9CRHV5dmdvM21CdlYxZzZXcmdYSVdLdUh2MEhycElqNDktc0gyWHM?oc=5",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zWDFsVEpIbG11dVFMOUJfS1RqMTJ2SGpCXzQzVENiZ3lkSlpvMW82UmU2S1Myek8weTVFc1NqWmplOTFMUUJIdkZWaWZhX25CRU9XNFQ0em5LYzhHQXIzUXE1b0QyWW5sS3FsSktucUFaNl9zZVRJS0ZVeFA3Yzg?oc=5",
       "pubDate": "2026-08-20T21:20:14+09:00",
       "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "ドル円、158.80円まで上昇 米長期金利は昨日の買いオペ増額発表前の水準上回る(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLW1TdFpPZm5kSFdxS3daUjZ0T2IzeHVQTlcxa1g2cVduUWxOSjNyb2NqdURBRlUxOEFvUEVSRnNMOFhWVGRsb3d1OW9PaVI4alVLcEh0cFA2YU5tSFdnb2t6SW0yWVlIMHFfamdtM2dQa1BMV2dDblJtZUJ3LUpwbk5mS3ZBMU0?oc=5",
-      "pubDate": "2026-08-20T21:13:00+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
