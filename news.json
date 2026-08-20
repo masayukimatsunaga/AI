@@ -1,14 +1,57 @@
 {
-  "updatedAt": "2026-08-20T16:08:58+09:00",
+  "updatedAt": "2026-08-20T16:58:03+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "【FX】ライブトレード 欧州タイムを攻略だ！「ドル/円、158円割れの可能性は？…米長期債買い戻し規模倍増の影響は」ドル円分析＆取引 2026/8/20 17:00",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94NTc2RVBuS1RXNEhoNTMxb2JrNjNxczBZOU9DSUhYaExWeGdtMzNKVVQ5c2NYNUxpSXpCd3VzRUIzTkdxQkExTDdicURBOXM3YnJna2NFVVYwRHN0Y1VnN3Bubw?oc=5",
+      "pubDate": "2026-08-20T16:30:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "【ドル/円、今夜の見通し】ドル/円、158円台で底堅い展開＿米財務省、長期国債買い戻し規模増額も影響は限定的！？2026/8/20",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zaEt3X0ZKbXVSQU5pYUZVS1RkZkcwblQ5VkMzdzgxTUlPS05xZHhsTmhXQjNLYTdlR2hDX2VDZExfSkwzTDRTTlVqbXdpb1ptSTdYZVlUcDNaeXhHTm4wRzZwbw?oc=5",
+      "pubDate": "2026-08-20T16:15:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル円１５８．４０近辺、ユーロドル１．１６８０近辺＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5obk5KTG9SUmkzdkR2MURpVmgwaG8xSi1pWkpLUXlWQy1SWUFsUVRGMU0yMVZXdmZTX3RoQkw3MnB6ZDgwMG12Yg?oc=5",
+      "pubDate": "2026-08-20T16:12:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "東京為替:ドル・円は伸び悩み、午後は上げ幅縮小",
+      "link": "https://www.zaikei.co.jp/article/20260820/866699.html",
+      "pubDate": "2026-08-20T16:07:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "ロシア輸入増が通貨ルーブルを圧迫、5月以降に対ドル約20%安",
+      "link": "https://jp.reuters.com/opinion/URWDMWT5GFIJ3EWZRQBOU3E7SM-2026-08-20/",
+      "pubDate": "2026-08-20T16:01:00+09:00",
+      "source": "reuters"
+    },
+    {
+      "title": "外為：1ドル158円36銭前後と大幅なドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdUl6a05NdmthVDB6c3N0NmJHT21jdjJlUFJDUzZyWFVfUEFpUVE5RXFrVzJBMXNTcVNJUXVuT1hodGxGQXUzNlJ3Q20wdWE1REtYeDBDTkdKTFBsbkJ0bV93TDlCOWtSVm1TU3pBS2pLbDUzNGtVb1RKU2R5OTUxWWc0WTEwOHM?oc=5",
+      "pubDate": "2026-08-20T16:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "ドル・円は底堅い値動きか、前日の大幅安でドルに買戻し｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44NnV2R1FySHBHbi1QX0sxdmxwRmIxaklxTHNZVTBHcTNtOWlyNVJiTUg5dGtuSnVsRUtvR0ZQSEtBU0Q3VEdZU29qZ2ZFc2FDWEE?oc=5",
       "pubDate": "2026-08-20T15:47:00+09:00",
       "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、158円台後半で上昇一服も高値圏維持 中東リスクと原油高が下支え",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFVEJXQmR1TGloSDZHTjY4UUpEeXJ2X2xENF83aGtCMk91SFJiQV84R3QyVUpmSnNPVzNvQjZBbkpLUlR1X3FLYmpEcERQMEhJQUNXOWdIZTAxOHdubjl2MnZGN0ZxejRqNkN2Z0J3Q2dOQmlm?oc=5",
+      "pubDate": "2026-08-20T15:35:00+09:00",
+      "source": "BigGo ファイナンス"
     },
     {
       "title": "２０日の東京外国為替市場＝ドル・円、１５８円台半ばで推移 速報",
@@ -29,64 +72,22 @@
       "source": "みんかぶ FX/為替"
     },
     {
+      "title": "東京為替:ドル・円は上昇一服、高値圏を維持",
+      "link": "https://www.zaikei.co.jp/article/20260820/866693.html",
+      "pubDate": "2026-08-20T15:16:00+09:00",
+      "source": "財経新聞"
+    },
+    {
       "title": "FX個人投資家動向｜米国債買い入れオペ2カ月間増額でドル円急落、トルコリラがシェアを拡大 2026年8月20日",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZTJwZGdydHVGN1dRa1BpaXB5S090V1E4endESzV6ZElEamNHdldPbjR4M0hIR3ZPcW1fdDdsN1FBZ0ZBSUZUa1JEWjN6TXpwTkhoVE5XTDZqRW5wMm5KNjUxTQ?oc=5",
       "pubDate": "2026-08-20T15:16:00+09:00",
       "source": "外為どっとコム"
     },
     {
-      "title": "東京為替：ドル・円は上昇一服、高値圏を維持(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVNzaGdiWDFUS2VobGM2bktxU3BSUFM0cWRPS2Yzc3dvbmp4dU0yVEh3NTItRi1JbWtXb1pVSUp3a2ZYZXlFNmdwUG41ZHZVOG5tWlo5Vnc2Q193NWpkN3l5bEFkX083NVJEaUpLZUxZQWpoV1FiaVJYa05zcldIOERhUDdIeEk?oc=5",
-      "pubDate": "2026-08-20T15:16:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "東京外国為替市場概況・15時 ドル円 じり高(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2FGOEd4eG9GOTItMnF0cVlVbDJTQWRMMTlyUDl4bmZvdUZXb3lPM2tHcFgtUDd0VjRhMlNRbXZLS0JxUXJTMktnaC1WVUVmVVlSdG1MSThaOUgtQTByNVJEcnRndmp6TGswZ2xQUE1jbWlOM08xb1J4LVB2Vm9aM1dSLVdXUFk?oc=5",
       "pubDate": "2026-08-20T15:07:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル・円はじり高、買戻し継続で｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5aFVoR3B0ZGk3V2hNNVdTeEM2OFkwd1BjdEhLTnNTYVF4TXpzT1NyYXdyY3J2SDFkSnNqNk0yeEw5M3VQbFh2d0k3N0djay1naHc?oc=5",
-      "pubDate": "2026-08-20T14:56:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "東京為替：ドル・円は値を小高い、値を戻す展開(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWFYaDgyQjdVMksxelNRQkwySHRUUjBpSzFXUTI4QnhoaTZRNHRocW4wRUNSWGJ6dGJBSVd5MlFDWU1ZT0h0eWdRaFB6VkJHR1NaeFpaTmZ6ME1QdHZJem93RVg0U0RVOTAtcWJaRXcxeGVqaXZNYmNSSmhZVWw3Qi0yT1c4akE?oc=5",
-      "pubDate": "2026-08-20T14:44:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "東京為替：ドル・円は値を小高い、値を戻す展開 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aVWNOaHVZNVNvZ0gzX3VYZFZBVEtadEszbGN5a2ZYZHozanEtYzBkZG45VUpXQ1o5MkMtUjZqZ3Z0LVROVjlsSm1IZS10dVo1SjN6TEU5RFZGTG5PODlpckZ0VW9Qek0?oc=5",
-      "pubDate": "2026-08-20T14:44:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "外為：1ドル158円57銭前後と大幅なドル安・円高で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbkI5bWF5TVRBcnZGSjhZUXg3NnRkOS01bm1IMC1abnBITGFOelZBck5pakRjUVlzOHlmbFFYdEdCRzNVU1dkRW1vUl9xdWRTR2hFaG9qcTMyTkQ1UzhKQ0VpQUZMZUdRRU9UN1Byb2J6dnBESlVkV2doU3hjdFFpOVpIa09USUE?oc=5",
-      "pubDate": "2026-08-20T14:01:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、再び上昇 158.63円まで本日高値更新(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONGVPMmtUNDNpNkxrXzUyQTlHZm9SUGlCanEyMFBaQ2VnSDVwM2Z6UV9sVUVLUGFUT2tGcEtVMlk3WlhLaVk3T3BMYjVGTUlWZjBjRDlhY0dKUmlSVUxHNHczdHhPeWlfaTdyZDV0TUR1aXJ0eXJyZ0c5bGwzTy16Zkg2OWc3MW8?oc=5",
-      "pubDate": "2026-08-20T13:58:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "東京為替：ドル・円は高値付近、ドルに買戻し",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4Vk5QQXUxNk0tbnRxdVlLRExXWGxYc1ExSGVvb3pPdWdaQWJfOTZ1M19yRldqanQ3TWREQWZoeGk2X2lRUDFYQkoxQ19EclEteUlUc3FEa21FLVVKLTd5Tw?oc=5",
-      "pubDate": "2026-08-20T13:52:27+09:00",
-      "source": "株探"
-    },
-    {
-      "title": "東京為替：ドル・円は高値付近、ドルに買戻し 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UMC1JZ2RNRWN6LWw4eEV6c3FOX3p2MkplSFZ2STNlSERHeFIwLW9tMFhKRjJVUDR0ZjNZMnRlUGF1d2d1cTJSR25MTnZKVnNuLTlpT3RZMkJINGJJWjNzcE5fMkdQcjg?oc=5",
-      "pubDate": "2026-08-20T13:52:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     }
   ]
 }
