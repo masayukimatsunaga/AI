@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-08-20T23:04:29+09:00",
+  "updatedAt": "2026-08-20T23:56:58+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル円、底堅い 一時158.89円まで上昇｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rSHB3QWlkck1oa3JVR3RVTkhjV1U2RTJqWEI1YWxsd0hDdzR3VUNGM3dHN2VlTkpFajJab0pEOVBRWVVMMkhUcUt6ckNpZUoybVE?oc=5",
+      "pubDate": "2026-08-20T23:07:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、底堅い 一時158.89円まで上昇(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdG1rZUk5MFRtb1poWlJUOHhfemFnWW1CMXdMSUlSWEJPbV9FalFZcmxpYnNSeFNtcHBPYUMtczFnc2FVUy1kMGt1LVQ2Rk5PRTctSXZLX2V6OEQxUWZEdmxNalhzLV9UNktObHV0bE02VzRYbzhzc0xlempWVHNYQ2s1UUxXQ3M?oc=5",
+      "pubDate": "2026-08-20T23:07:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "ドル円、１５８円台半ば ドル安は継続も円安も根強い＝ＮＹ為替序盤",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96NGlCbHJuNWpvNFJCejdpRnFxRnF3dUxZU19XM0M4c3lOeTV5RFBLM1JoMGF6eHBUN0QwVXlEcnJIRXF6RU5nUQ?oc=5",
@@ -15,6 +27,12 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMG05cjZ6bFVnQVZSNVVGLW5mOFppdWNYVXV6dGNXZmNQMUt2ZVZxSlo0RTFfTVVLVXlVTHlvYlY3bEQydWF3dTZ5TUVNRFdsX05Jdjl6dGdjMTdId2FXOHZnc3ZLQlU1VkFEdzh0Y1g2VnNSTWdLS2dHdkRud3BLWDhUc1BOUFk?oc=5",
       "pubDate": "2026-08-20T22:06:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円のピボットは１５８．５２円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PNVo4UjRMODlEb0I4NU5uNl9ZdlRjUXo0ekpEckUxUHNxRXlISnlqdFY0WDV5TTB6clJSZWFQS3dONmRSQm0yRA?oc=5",
+      "pubDate": "2026-08-20T22:00:44+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
       "title": "【速報】ドル・円158.75円、ドルじり高、新規失業保険申請件数は減少、フィリー連銀製造業は予想外に上昇(フィスコ)",
@@ -35,16 +53,22 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円、158.70円台 米長期金利上昇で再びドル買いに(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcy1RTk1kQlJqbUFXNWY0Mmwwckc2UHdFb3F0elM1SHZDVVJCTG5NV0NYOG5kQTl4UTg1dDZQcTdrRmhzUXhaTjNPNzFTb1ppMEFYSnFZc2ltMVNwSm9tTHZDTFE5ODFRdXNKSy1wRlVEZmVqbjZOWnNCNGJEWWloazUwTVRRZ2s?oc=5",
-      "pubDate": "2026-08-20T20:56:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "長期金利低下 円高進む 国債買い入れ消却 バイバックとは？",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XZi0xckxWYXQwV3hXM2NOWThOSWVDd2xEM1NsdzBmMXNqSDhLbDUteEpDSzZkSjJTU21IVkctTHg0b19DaExLVXNCb3RUQUd0RkpmNkpGb1JQdXo0Z2ZXVDg1YlY4eUNMbVE?oc=5",
+      "pubDate": "2026-08-20T21:00:00+09:00",
+      "source": "テレ東BIZ"
     },
     {
       "title": "ドル円、158.70円台 米長期金利上昇で再びドル買いに｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUQUVHcG93WFlJaEFYMkxXSm1QekZKdmZNYzIwc2JqdDBLWmxQemxibzBaSnhRRmhZclNGNjJ1LTVvMnJ4M1JxSDNxVm1jU29Sd3c?oc=5",
       "pubDate": "2026-08-20T20:56:00+09:00",
       "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、158.70円台 米長期金利上昇で再びドル買いに(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcy1RTk1kQlJqbUFXNWY0Mmwwckc2UHdFb3F0elM1SHZDVVJCTG5NV0NYOG5kQTl4UTg1dDZQcTdrRmhzUXhaTjNPNzFTb1ppMEFYSnFZc2ltMVNwSm9tTHZDTFE5ODFRdXNKSy1wRlVEZmVqbjZOWnNCNGJEWWloazUwTVRRZ2s?oc=5",
+      "pubDate": "2026-08-20T20:56:00+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年8月20日）",
@@ -63,30 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wT1RSQUltaUllUnAyaTNJSXM5VDdiODZDM0ZxRzBtVFZvVHYydVluVGtoTElHUWpIRGpPaHZwM08xTFo0ZUk1Z2NpeERIQWZaTEJpUUtKWV9BSVgtdWVwNzF4NE5yU0E?oc=5",
       "pubDate": "2026-08-20T19:15:00+09:00",
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "外為：1ドル158円35銭前後と小幅なドル安・円高で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmQ1M1RHOEw3NUQzaUV2QzR3ZXpGX09JSFlQS2lkWG1xb1ZDenhPZHlncGE5dGtrQ3RZT3BFejJFa0VBQ3Z5UlY3N2F3ekZicWdPVlBhVElsQWVYUVRicHl4cS0zZzgyU0lYODNJTkxmOXp0NWlMX2xVV0p5NUhMTTUzWW95SUk?oc=5",
-      "pubDate": "2026-08-20T19:01:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "米バイバック倍増、「投資家心理は改善」「円安変わらず」識者の見方",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tOUl2cU1yX2xLbGtqVk5WWE96VE9LVUUxQ3ZhSXFFWWRDQ3FxTkhkcG5jY1pKTGtIaWgzdzBaaFpBZFRZWnJiZEc1R2ZpenduS1NMMHFfRGdJeGVVZUNINDBjUmN4ZjlhdkZkVQ?oc=5",
-      "pubDate": "2026-08-20T18:59:20+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "欧州為替：ドル・円は失速、ドル売り優勢(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMm1SUVhjeTZzbWJXOXhhUy1tbFRxM0JHckJvLUtBY3JsMDJkVDQzMmRHWlRMT19qS0xUcWlGcFdrQ3N4dElzQ2l2LXZMNHQ0WUlTSGdSQzJkcWxQN2s0WE1aLThTc3dOWEo4TW9KajBMaXh2YUlRT192Q3NzWTk0SDBiaGZ6ZWc?oc=5",
-      "pubDate": "2026-08-20T18:37:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "東京円、158円台前半 円高進行、米長期債買い戻し倍増で金利差縮小意識",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLeERaNUNWbzdnMjh4cmtHSW1aWnVtWlM3MjI2dHlsLVRQb3dRRkVvczl4NWk1NkVfazZYVndNRWtJQ3h2TUFudGhsUVE5NFJMa25tMGxJLVdqei11TENITjJmSWhiY2RPSWNGQURvMW5scnZCNlE?oc=5",
-      "pubDate": "2026-08-20T18:29:17+09:00",
-      "source": "産経ニュース"
     }
   ]
 }
