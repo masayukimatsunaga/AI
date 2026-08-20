@@ -1,20 +1,26 @@
 {
-  "updatedAt": "2026-08-20T19:49:32+09:00",
+  "updatedAt": "2026-08-20T20:45:17+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年8月20日）",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrdFZoLUhuaXJHU3BVM3hnRUFMVFJkVl9iVFBfSlBXdVVtQ3B3VXVMeEk1aEJLQUZVaUNEV1o3TTVXb3piMlZLbnBYNlJjZFdhTVdGSFVQbkE0R0FLLUgxbzQwcw?oc=5",
+      "pubDate": "2026-08-20T20:00:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "欧州為替：ドル・円は底堅い、下げも一服 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iUmZhQzB0bEQzR1VDODIyQTBHcjlMbVR3N3BqWm5UMnA5b1BGQVN5T2RFbUJaSG5ORTYyUlEzeU9JYlNCamNsd24ycDJua0ZNOTBuYVZsREFOQ3EzTGVrejNpSTVFNjg?oc=5",
+      "pubDate": "2026-08-20T19:45:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
       "title": "ドル・円は底堅い、下げも一服｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZeDA2ckE3SEVORlNsMWxRYnplcXFzSjB2NXpwaXVqOHVXZEFfUHdjSTBvcW1BMm9jN0ZhenEyZVdpV2tzYlJxQWxUbzhoQW16YWc?oc=5",
       "pubDate": "2026-08-20T19:41:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "欧州為替：ドル・円は底堅い、下げも一服(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdWN6RENzemp6cHdVQ2NqTDRnMHRQNk9ZRWJ1dUR2ZG15NmJqcmhrYVJkdTVJMTBqUFJ3Vk9sSGxpc01kcFRlbEx4RHZGYkUxWEZRQmVGakRJaWxaUDA4WkRKSHg5YlkyTmhXTTR0SG5aZ3NUUG9CYjU4TUdCa3dxM0t0YVpZRFE?oc=5",
-      "pubDate": "2026-08-20T19:31:00+09:00",
-      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "欧州為替：ドル・円は失速、ドル売り優勢 執筆： Fisco",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04bzRrUHN1cUloYjYtaWpnS09XMmpfSlpIRGpLNnIzbm10TTZqbkszZk41X1FITG9VQVhPVUQ2YXBNV1hWV2VQRDhnb1Z5LWpkMlJBWGZUcTM3VEdPTXJSQWJNNA?oc=5",
       "pubDate": "2026-08-20T17:19:00+09:00",
       "source": "外為どっとコム"
-    },
-    {
-      "title": "通貨オプション ボラティリティー ドル円１週間６．５％付近に落ち着く",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCOHU3cTVSVGE0YmVxR2k3UDdDNWZTSE82eGRpQ1Z0ck1aNTAzck1GQml4OXB0MHo4VWNCRV95ekhPUlZIdGNnYg?oc=5",
-      "pubDate": "2026-08-20T17:17:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
