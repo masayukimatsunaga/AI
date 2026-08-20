@@ -1,13 +1,49 @@
 {
-  "updatedAt": "2026-08-21T07:47:25+09:00",
+  "updatedAt": "2026-08-21T08:42:45+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "ドル円、１５９円台を回復 ドル安一服や根強い円安で＝ＮＹ為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yMmJqang2dUJqek1ORklKOGxBME84Nm5Yc01lMF9GWjNoamtvZTVma3RTUmQxazEwRGVqNTdPMUo5R0FtejRqRQ?oc=5",
-      "pubDate": "2026-08-21T07:12:42+09:00",
+      "title": "FX/為替「ドル/円今日の見通し｜米債利回りとともに全戻し！落ち着きどころを探る展開に」 外為どっとコム トゥデイ 2026年8月21日号",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBybXZHaTk3YkNZb3RPTDBTMk00eVhZTjZuUHp6RXFPb0ZKVi1hSndESVNFS2JzcnRGNjR1R1FkM0ZTaDVnUVZ1dGpkdEZrWmpycWxULUJ1ck84Z3B3SjFCR0Vyaw?oc=5",
+      "pubDate": "2026-08-21T08:30:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル/円見通し(為替/FX ニュース )：ドル円は円安で159円付近｜米10年債利回りの上昇に伴い買い戻しが活発(2026年8月21日)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQQzFVZGFLN194a0t0NW5iVmdzakJydFVjUDY4TmJORnpNOGZfZFlmVGlOTFRyeEQ5WUR6dVoxTG81YXVXd0JEdnBfaTZtdG1Ya1BQRUpiXzBxaWE0SEc2cXlYV2hNRmoySjJtRVJhT0hOcms?oc=5",
+      "pubDate": "2026-08-21T08:10:45+09:00",
+      "source": "OANDA証券"
+    },
+    {
+      "title": "外為：1ドル158円95銭前後と大幅なドル高・円安で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWVBaWRIMEJsMnBsMndiSTVVN2xPVWVUNm8wYS02VTJ2NTlrOC1sd3BPNjU0bE9RaDNjdXo5U0Q2Y1AzX2xrNEZxQVVJckZmTnpmQllJSnVGT3JzYkFTZDF6N2duaUUwckhKdzBzZnhVamczeTNJdWNHRkxyNWx2dnFfeWEzUkE?oc=5",
+      "pubDate": "2026-08-21T08:06:20+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "円安、人件費高騰、助成打ち切り…メキシコの世界遺産、発掘が危機に",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ha01VY0J5T01CMkRleVhVS2FlVVYwLU5sMnF2QVhsOEdOMDFPYnQzb3RLdHNSOE5WYzZPZmpTcy0tUV8tbElvM2djWVJxTmVUMWRVeXdDeHFrVXR3SEE5Vm55WGlVVGM?oc=5",
+      "pubDate": "2026-08-21T08:00:00+09:00",
+      "source": "朝日新聞"
+    },
+    {
+      "title": "ドル円午前の為替予想「米債利回りとともに全戻し 落ち着きどころを探る展開に」2026/8/21",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLS0pjbWRia0xzQU1tRHpQTnRoWlI0OTc4TzF1UVlTSFp6U3U0M29Oa1JpOVA1SVQtdTRObGRfU0xNNUVDRDQyMkJZVi1uNjFBTU5qR3RzLUp1N3FCM1RyeTBhOA?oc=5",
+      "pubDate": "2026-08-21T07:53:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し 2026年8月21日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92eHlaQk1uMUZ3VXVQUFRyVEt5emxkbmtsX0RvOEdNd3NFNTZRdnFad0Z2a01JekN6REhtZElKbjl5enRaSThCS3gwMktZdG5iaXdvS0hlM0hlVHdPRmpHc1VhOA?oc=5",
+      "pubDate": "2026-08-21T07:48:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "【本日の見通し】ドル円は底堅い動きが継続か",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZQ3BRek1Rci12Tm4zaF9OTHJNTDRibzI0TERfZFo4c1NSQ0t1ZHR4endMZUFQMlNYQzk0YzI3X21xMHNmcE9ndQ?oc=5",
+      "pubDate": "2026-08-21T07:45:44+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
@@ -29,6 +65,12 @@
       "source": "JBpress"
     },
     {
+      "title": "ドル円、１５９円台を回復 ドル安一服や根強い円安で＝ＮＹ為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yMmJqang2dUJqek1ORklKOGxBME84Nm5Yc01lMF9GWjNoamtvZTVma3RTUmQxazEwRGVqNTdPMUo5R0FtejRqRQ?oc=5",
+      "pubDate": "2026-08-21T05:40:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
       "title": "【衝撃試算】日本は為替介入で「5.7兆円」荒稼ぎしていた",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tRGF0SDVGMXdYeUZvU0c1TDIweWQyUzdtWHBXVmN1c0xIVzRUaGtHcFpGOC1DNXVad3hzUmFMZ0M3SFNqeERDX1BXQngxV3BiUWdv?oc=5",
       "pubDate": "2026-08-21T05:30:01+09:00",
@@ -45,48 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPYVp1TXBUYjc4ZFJsNG93eDF6QnV1czFKaW4zQ3VaT0toczFnZkltWFpYSThuNks1Q1ZlOXd5bUxncjItYnN1VjBJU3pmdDlmWERsVDMyYmM3dk9JOGdzZGkwQlFqUnNKUWJCcUM1T2haQnViQXdaYkE2dWI3QQ?oc=5",
       "pubDate": "2026-08-21T05:00:00+09:00",
       "source": "日本経済新聞"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・4時 ドル円、じり高｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IZE5VYTEySlJmVTQtNXJFRjlCazhMZXRzWGtXNlNFSzRZaF9uemNDUk9zdHhaS2ZhVFVaZ3RNVzc3Z0RpQVN3MXlBY2gtVHl1OWc?oc=5",
-      "pubDate": "2026-08-21T04:05:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbWxqc1ltSU1ndEE0VElnZldUTGdyRVJpOTdKeXBsc0RDSm40dm9kLTJqaDZlOVpoR2E5eEZIX1o0bFR1SFR2N2k4WjRiTnN5dHVBTHJn?oc=5",
-      "pubDate": "2026-08-21T03:55:43+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-08-21T03:35:35+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "欧州マーケットダイジェスト・20日 株まちまち・円安・ドル底堅い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYTNFLXA0cXh3M1hXTFRfRm1mY3VhOTJFZ3llNDJlTzhSQVYzYTFhVkRRUElBa1dDWmd2TVBRa2VTV3gtMDlITC1oRE1OeXVRUER0Z1daYTBDVFdoLVZMOVVwOWdLcFNwcXlsdlRlUHRqQk1Ed1hxTnlzTF8ycEhBSWRHQVdJM1E?oc=5",
-      "pubDate": "2026-08-21T03:27:41+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "【速報】ドル・円159円台に戻る、米長期金利が上昇に転じる｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85MDVKSG1BLVp5REdsMnoybzJqT3JXUktBaTRBRGFSSUJqUGUtb0Q3MC1yOHZDSkJzR2ZwZURmejZPbm1wTlR0UTlrckxKb3dPQ2c?oc=5",
-      "pubDate": "2026-08-21T03:26:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・2時 ドル円、底堅い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbEp5OFZ0MTNsbTB5azNXcFlPcDdLaXo3VDBJWG5FNkRJVDkwQlRjZlRKaFFCNmV5TWJvNUJMOUlVTUhjZi1wTkdhRzh3UXlBaWhCWmZ1MXdmdXpjNElteV9CRHV5dmdvM21CdlYxZzZXcmdYSVdLdUh2MEhycElqNDktc0gyWHM?oc=5",
-      "pubDate": "2026-08-21T02:10:45+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、底堅い 一時159.10円まで上昇(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeWFyNjQ5eWlROFlSY1BLdlVoaGxOUkh5MFFBMzA1M0FwbzcyWlB5YWhual9SUGJLSFdJTm41MGVuczdsb1o0dzBzWjRuR1ZfY0xXZkpnY25URE9BcFNkaWtuZEt2NXVhU0JkYnFBMkZIR0xfaEhtMzJ4ajBXSXNheXR2d2FzZnM?oc=5",
-      "pubDate": "2026-08-21T01:36:49+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
