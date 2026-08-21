@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-21T20:44:32+09:00",
+  "updatedAt": "2026-08-21T22:15:28+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "円安や不漁で…タコ高騰。その裏で開発！タコを一切使わず、練り物技術で弾力再現！“ほぼタコ”って？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0bDU1QmdJUWJVNUhVbThNeGRSQWhodlF6VV9kbC1fVTdBenZZVjNDRWhEQm8tNEExY0htYm9KV2dtZjFlVmU5YU5DQmhOd0ItaEFxNm1wTQ?oc=5",
+      "pubDate": "2026-08-21T21:23:20+09:00",
+      "source": "TBS NEWS DIG"
+    },
     {
       "title": "欧州外国為替市場概況・20時 ドル円、下げ渋り(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYUUwQ0doMUV3bDFVYVZ4WkZkWUZfVmJ6N0pDbElJbXlHRUl4TUdmbmQzdG9nX3FsR1JySFdnNlYyS29ETDlFbjR3TjlFS1BwTExPRnhnVExOX25DVjl0d3NXOVF2OS1nd0cxZkJMZzBtWTBBbFZkUjQ0a3Q1c01CaHpockNIUjQ?oc=5",
@@ -15,12 +21,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oN1k1Z25FM0MwV081UVM2TGRmOG1BN3IzSjQtdVc2NS02T1pHOUllOHFGS016ZjJUMHlUUWxjUXpxOUlJeDlmSTZpdFdsQWZpY3lsTHVOTmJuRVF3VEJWMHV0WQ?oc=5",
       "pubDate": "2026-08-21T20:00:00+09:00",
       "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル・円は下げ一服、米金利にらみ｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vRWsyNEZWQmdfREFlamRjdDhaUUJCN0pBbHFraE45amV2OW5lVnNDQ1FuLWJiRnN5bUFzRi1Zc0wzMURpYnNRX2J0ZGh2Y3BzaUE?oc=5",
-      "pubDate": "2026-08-21T19:35:00+09:00",
-      "source": "ザイFX！"
     },
     {
       "title": "欧州為替：ドル・円は下げ一服、米金利にらみ 執筆： Fisco",
@@ -65,12 +65,6 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円が一段安、一時１５８．３６レベル＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vZmxISVQ1anlQbVVfV0cyVWoyVEdoaXd2TnJQUWdwTjZMdzhGR2s5eWsxd0FmWXRRSllQTEc3UktvbVV2emtaUA?oc=5",
-      "pubDate": "2026-08-21T18:14:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
       "title": "欧州為替：ドル・円は弱含み、原油・米金利の下落で",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12eE12SmJ5X0ZMb0o1Q1FpSERvbGVhTUVXMW9udlZST2VVYk9McFRkWFBIckU4OGxzb3N5Zm5oUnRUVWx6YUhuT2U2V01aZVZvdnc?oc=5",
       "pubDate": "2026-08-21T18:08:00+09:00",
@@ -87,6 +81,12 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVXlkY1AyNXktVU5ULTZlRXZnTGotdXZ1b0hTbk95RktUc3ViT3ZHNnF1MHlLN2dmenRBNzFrR1ZBZjJ6N1A1V1FLQXdsTzV2R0U4M05GVmx4YkxzVGlfaEw3VHRtNGtRTmFSR3QwazdUN3gxNlVfOVFPUktBSFFTZzlNSTEzZGs?oc=5",
       "pubDate": "2026-08-21T18:00:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円一時１５８．５７レベル、本日の安値を更新＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WbTh3dmRERlZ1WXVOcmM2MElqdGhrXzNXQVVxVDJfSDFxOFFVQVJjODZqdUhFVGc2LXZQNjZ4TkJOckpSdW9idQ?oc=5",
+      "pubDate": "2026-08-21T17:45:44+09:00",
+      "source": "みんかぶ FX/為替"
     }
   ]
 }
