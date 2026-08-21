@@ -1,9 +1,51 @@
 {
-  "updatedAt": "2026-08-21T18:20:09+09:00",
+  "updatedAt": "2026-08-21T19:13:16+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "外為：1ドル158円60銭前後とドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHB3VkpxWWVUc2pRQWNGODdaTFR4dVZMOTNaWEtNa1pBeWtYYUptNU9PS0dJS2N1NzU0ZzV4YkJMTURKeGI3LUE5eFo2ZS1KbHA2NXNZalhBZDFmaXdMZjVKLWdZLVRtT3A4ZFh4OG9MTE1wOHVBallncXB2ckU0SWJudS1nY2s?oc=5",
+      "pubDate": "2026-08-21T19:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円は158円台後半で軟調、週末控え調整売り優勢に",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MRHpKbmpwV0VfZnhCUFQzaVJPQzMxTTVCejBhbEhKclJaN3phMGI0RU9KVlA5ay1MNkw1ZnpXbEM1ZmRWT28tQzZqbzhmWVU1NGUwVmYxZ2FSa0M0NWVxWWlHaFZRSDctUDNVcTNzX09fTElH?oc=5",
+      "pubDate": "2026-08-21T18:56:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "円相場 小幅に値下がり 日米の金利差拡大が意識され",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBST01GbjRIeHkxMUhSWEcxdjZKMTdmWEtfYlFfZm1MOXktWFNiN3dHUmVnQmtjb1cxbWttTFBFRDhCSm9UaW9vY1RSQnRjbGxpVkktRng3c09TbHIwV1Iw?oc=5",
+      "pubDate": "2026-08-21T18:27:50+09:00",
+      "source": "NHKニュース"
+    },
+    {
+      "title": "東京為替概況： ドル・円は軟調、夕方にかけて一段安｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlR2JLVW9yMXdsSEpXRnJGRDJEY3VQNlBiSzN0UmtGajU4TEFiT29EaVdDVVFkWVV5R3Bqa0gyWnNQZUdIbnNBUGJzUU00MjRoYVE?oc=5",
+      "pubDate": "2026-08-21T18:26:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、158.36円まで下げ幅拡大 ポンドドルは6カ月超ぶりの高値水準(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVUzNlN1VFVHTXhxc2ZwcUFWZVNCcjZCMk5UaTlTb1hVXzlkODRRWXY0clpPSXI5LTZUR2wxdGNwY2J5cEdqUEVmWTZuVW5HVmhYRGJiVGctWTRsZjlDU0JwYzE2S1VuZnM1WEl4UkhPTTlfeFptbWpncDhvM1AteHpENWdoWjQ?oc=5",
+      "pubDate": "2026-08-21T18:16:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、158.36円まで下げ幅拡大 ポンドドルは6カ月超ぶりの高値水準｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1Qk03YnRfQ1lYR3ZHbnpQY1NSWE1YTVJhLUNpaWc3RXVhUHVZcFQ4dW1CLU5RQ3BjTWxmc3c2Q0dUdmg5Y2xvdm4wOEgybEtldVE?oc=5",
+      "pubDate": "2026-08-21T18:16:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円が一段安、一時１５８．３６レベル＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vZmxISVQ1anlQbVVfV0cyVWoyVEdoaXd2TnJQUWdwTjZMdzhGR2s5eWsxd0FmWXRRSllQTEc3UktvbVV2emtaUA?oc=5",
+      "pubDate": "2026-08-21T18:14:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "欧州為替：ドル・円は弱含み、原油・米金利の下落で",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12eE12SmJ5X0ZMb0o1Q1FpSERvbGVhTUVXMW9udlZST2VVYk9McFRkWFBIckU4OGxzb3N5Zm5oUnRUVWx6YUhuT2U2V01aZVZvdnc?oc=5",
@@ -17,16 +59,22 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "日銀為替市況 午後５時時点、１５８円８２～８４銭のドル高・円安",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA5aUtkYW83MXY3V1hicDhab21UMThTdUNSU3ZJaDluMEo2eGFXNVJUNUphRDQzQ3F6a3pGVDhwczlwODZUSFE?oc=5",
-      "pubDate": "2026-08-21T17:56:34+09:00",
-      "source": "みんかぶ"
+      "title": "円相場、158円82～82銭＝21日午後5時現在(時事通信)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVXlkY1AyNXktVU5ULTZlRXZnTGotdXZ1b0hTbk95RktUc3ViT3ZHNnF1MHlLN2dmenRBNzFrR1ZBZjJ6N1A1V1FLQXdsTzV2R0U4M05GVmx4YkxzVGlfaEw3VHRtNGtRTmFSR3QwazdUN3gxNlVfOVFPUktBSFFTZzlNSTEzZGs?oc=5",
+      "pubDate": "2026-08-21T18:00:00+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "日銀為替市況（ドル円・午後５時）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sWHBvU1I4RmVIQkZqV2tBNHVHWmtjVkFNaVFobDFOdFN3QXJEVURReTNkdDh6SkhmaGozQVNYOWh1Q0pYa2p1SA?oc=5",
-      "pubDate": "2026-08-21T17:56:12+09:00",
-      "source": "みんかぶ"
+      "title": "ドル円一時１５８．５７レベル、本日の安値を更新＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WbTh3dmRERlZ1WXVOcmM2MElqdGhrXzNXQVVxVDJfSDFxOFFVQVJjODZqdUhFVGc2LXZQNjZ4TkJOckpSdW9idQ?oc=5",
+      "pubDate": "2026-08-21T17:45:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル円、158.63円まで弱含み 米長期金利の低下に連れる(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa1NwbURKdlg1Vy1kN19wOTZkOWtacTlqZ2xFZnhISWxyTlI4NDB1NTNlQnoyTXQ3MDJLSFdJU1A5cmJ3X0RVMkZjdnlNYTZGU2xJenM0d2s1Y3hBMW9MYkp3bld4N09EX1J1UEQ3X2ZGN0JSOE05SW5icUk0SzF4a2tDY3NNMmM?oc=5",
+      "pubDate": "2026-08-21T17:40:00+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "ドル円、158.63円まで弱含み 米長期金利の低下に連れる｜FX・為替ニュース",
@@ -39,54 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kZHhCdE1ENlpLRUt3T05zRm9nTG44Mmd4OG5NdHZSY1JiektPa0NBZ3RZUkRjcHB1ODZldjdRZDhDTVdIQ1dGU1V3R2dHTVFqRE5EaWdvLUJUTEozVXpOM0JiV1E0LWtOVDlzVEdGQkJBeExP?oc=5",
       "pubDate": "2026-08-21T17:25:00+09:00",
       "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "ドル円158円後半へ下落、ヘッドライン相場で個人投資家は成行注文をメインに取引 今日の外為注文情報 2026/8/21 17:00",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PemZPZnlMMG43aUxVNHJSeGhzSXY5c2NtNWVxbm9hOTdyTGt0QjRDaU0teGg0LWdhd2hSTkVnc3N6Uk0zYjlKc0JnOHRLTS1OWGxyWDg5cmJORVRpTE8wWXE0OA?oc=5",
-      "pubDate": "2026-08-21T17:19:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "東京外国為替市場概況・17時 ドル円、上値が重い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHBmSUdsUEpiYklnTWR4V3o5LTFaRHBrLWlQMjItMDhXTFg1YlFQQk9ZWEVjQU5sWHVLb1ptSDV4bUg2blNhT1NvTzExY3V3XzlwR1d3a19ZWWNMdm45Rnk1eVdlU3NmQ1YyWjFIVS12Y0NySFdwYjFfNmstSUJuTTg0SlptWUE?oc=5",
-      "pubDate": "2026-08-21T17:06:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円一時１５８．７４レベル、クロス円も軟調＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5POGV6R3RyRF9FemludTZLMnlTdXJmbVNMVGVVcUw0RjYyS1V1TmI2eUYwRzF2WFIxbENNSFYyOVA1YmtyQWxraw?oc=5",
-      "pubDate": "2026-08-21T17:03:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【ドル/円、来週の見通し】ドル円、158円割れ？160円回復？ジャクソンホール会合の注目ポイントを解説＿2026/8/21",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZd0ZhYlFnT0p4YnptcVRLSDNfV0E2MHZsZkZ5MnM5R2pRVm9yM19XdGN4by14b2Q5SElhTldrM0o5R0FpMVdPNi1Sc0ZmdF92YU5RX2N4UDJERE0yVXQ1WFdKaw?oc=5",
-      "pubDate": "2026-08-21T16:56:16+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "世界遺産発掘研究に危機 円安・米の助成金打ち切り… テオティワカン遺跡",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfTHVjVTdpOW14azAzcnVFUmtZWG1GSXVxd19zNzZpeTRDZ1V1R2V3dWlVU2lwWlJ5UUx1Vlp0Q0JUSUtvMC11Y3ExTFI3Z3J0QWE3cW0wNGo3YVE3?oc=5",
-      "pubDate": "2026-08-21T16:30:00+09:00",
-      "source": "朝日新聞"
-    },
-    {
-      "title": "ドル円１５８．９０近辺、ユーロドル１．１６９５近辺＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iVnRoWDNHTHFLbmE5UzNkS2QxVXlIaWkxa0FfR25NQ29BUGFJMGdzWkNNQmQ4Tkx1cm01MG1nbXBLdld0cnJTdg?oc=5",
-      "pubDate": "2026-08-21T16:29:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【28年前の円買い協調介入の実体験から語る】資産2億円超のベテラン投資家が「次の実弾介入に備える銘柄選び」を解説 「円高メリットだけでは不十分」と見る理由は（マネーポストWEB）",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcTYzTjZMVnprWXhxQUM4VHREVGhuNWdVNll6YjI1RnBlbWNUcUFwZGhlc2tuOFFYWkp0VWNsaTcyOEpLdTZtRWlFeWNJdTBCY1NVY2lzOUFPU0gtS2s3dzBLc1VITmZMQUhCanJlSU9tdXNBWDV3N09OcDB4T0N3WEd6RF9lSFloaThzajhB?oc=5",
-      "pubDate": "2026-08-21T16:16:00+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "東京為替：ドル・円は軟調、米金利にらみ(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0J3TlBodU9RdTZvZGtQdkhXYkEtWE1iM3FzQ3doaG5jZGRGRXYyMzFlQnpsd0xDcjVTU1Fmc0FFWkRieWVQUXhLajEzUU5ERGUyMzN4STlEdnllWmpKMGFIQ2g2UDV3VGE1RmZIOEE4VjJSLWI1LUhjQW9kdHpiRnQ1NkxtaG8?oc=5",
-      "pubDate": "2026-08-21T16:12:00+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
