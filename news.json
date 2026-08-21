@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-22T06:41:45+09:00",
+  "updatedAt": "2026-08-22T07:01:31+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "NY為替・21日＝ドル円が小反落 終値は158.95円(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmh3Z0hwRTBheFplR2lfQk1tRWhXX0NfU2g3ZUNFOG1xREJrRmV3QnB0ejI1TC1sR3NBRmpJakdaN0dPeUM1ODFFY0pRXzhia28tQnFjTGZwSVhEa1FWZk4tZG5MMWltSkw3N3ZDcU41am15d2huU3FHVUtKTE5yZ05Wd2RpZ3M?oc=5",
+      "pubDate": "2026-08-22T06:55:50+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "｢円安は日本にとってプラス｣は時代遅れ…それでも方針転換しない高市首相が国民より必死で守りたいもの",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSTZpcVd1TU45SUwxZ1l2NE94aUdrZDRSY2FqQUpWSDVYRU9aMnZsS25sMzlOcGpQNXZrLTg5S0hzQ2hXLWxJTDFGcWd5WlZ5RmtnYmtoT2dPWk1QVmFEQnZLc2hoZUNKeDN1YjZQcGt2VlZtSEhwVUdGRjR0Mks1XzBGUXFOdEp6RTJIRGJ3?oc=5",
@@ -21,12 +27,6 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9XakpXNUx6M3ptbDZoRHlYQmwyNm1GVFR4RWdLVnNSXy00SHpzdS1RUWRmNnZrcVZtWnVOSjB1QUh0MjhWMXc?oc=5",
       "pubDate": "2026-08-22T06:12:00+09:00",
       "source": "みんかぶ"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・21日 ドル円、小反落(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQckdtYlVwbnpLUVB4X0JuSUFFSDZFNUMwV1V1aVBxV2dJUi0xU0ZmRF9qMFB1b3VBeU9xTl9kRFZLQk5obndsTXpSMFRhd00wT2JEckswb2Z0MDVVTGFIYTR0OEZweGdFeHAySDl0Nm9Rc1dILUJ5NFlqNzdqSGJvS1VUUWNfUjg?oc=5",
-      "pubDate": "2026-08-22T06:07:03+09:00",
-      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "来週の為替予想（米ドル/円）下がり切らないドル円、160円台を試す条件は ハロンズFX 2026/8/22",
@@ -65,12 +65,6 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-08-22T00:38:46+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "【速報】ドル・円158.85円、製造業PMIは予想外に下方修正もサービス業PMIは上方修正(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbUpTQ2JiOTFaZG4xcFZPSnhfVWxVTm4tZ01nTTVyc0Nic1V6SUpSajBTczlpSVlLRXZXTlpPeEx5SjN1aVRGaG1sX3RGYWg1ay1GSDZDTFNQTUpRV2lUQmZ6TDhCX2VHR0JSS2tnUWF6c0RkeGlMVHNpb3lrQ013X3FMVWxwWTQ?oc=5",
       "pubDate": "2026-08-21T22:50:00+09:00",
@@ -87,6 +81,12 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEZyX2Y0NWpQVlJDRkFCWGlVNXF4UTNiZkxpTXQ4Vlh2ajRGQnVGWEFaQWd6TjI1ODIxY21WU05GWDJsSFRmamx4RC11ZGtDNmtiM29iN3JOQ2pUdGxSN0VSNzluYVRKc1YybkM1N2pPNU9nbjJTMFE4a0RZMURKLURRNEdpY2c?oc=5",
       "pubDate": "2026-08-21T22:06:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円のピボットは１５８．７５円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VWEFUd2JHMTMyNjhWcEhhUm5aY2hxbml1bTJ5NHVyVzNwdUcyMEJEOXZraWpDRkVXdkFhb1N1bGtWdy0zY0hhdg?oc=5",
+      "pubDate": "2026-08-21T21:45:44+09:00",
+      "source": "みんかぶ FX/為替"
     }
   ]
 }
