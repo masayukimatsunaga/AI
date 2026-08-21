@@ -1,9 +1,45 @@
 {
-  "updatedAt": "2026-08-22T06:03:09+09:00",
+  "updatedAt": "2026-08-22T06:41:45+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "｢円安は日本にとってプラス｣は時代遅れ…それでも方針転換しない高市首相が国民より必死で守りたいもの",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSTZpcVd1TU45SUwxZ1l2NE94aUdrZDRSY2FqQUpWSDVYRU9aMnZsS25sMzlOcGpQNXZrLTg5S0hzQ2hXLWxJTDFGcWd5WlZ5RmtnYmtoT2dPWk1QVmFEQnZLc2hoZUNKeDN1YjZQcGt2VlZtSEhwVUdGRjR0Mks1XzBGUXFOdEp6RTJIRGJ3?oc=5",
+      "pubDate": "2026-08-22T06:27:21+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "ドル円は１５９．００円前後まで戻してもみ合い＝ＮＹ為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ldjZaOTZ6dThtSkJyQkp4bDdFcEZVMHVXNnVleVExcmM0OEI0VXJqT1Zwd052V1RDUUFlQzRrUDVHVU9fdmo2Zg?oc=5",
+      "pubDate": "2026-08-22T06:17:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "２１日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9XakpXNUx6M3ptbDZoRHlYQmwyNm1GVFR4RWdLVnNSXy00SHpzdS1RUWRmNnZrcVZtWnVOSjB1QUh0MjhWMXc?oc=5",
+      "pubDate": "2026-08-22T06:12:00+09:00",
+      "source": "みんかぶ"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・21日 ドル円、小反落(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQckdtYlVwbnpLUVB4X0JuSUFFSDZFNUMwV1V1aVBxV2dJUi0xU0ZmRF9qMFB1b3VBeU9xTl9kRFZLQk5obndsTXpSMFRhd00wT2JEckswb2Z0MDVVTGFIYTR0OEZweGdFeHAySDl0Nm9Rc1dILUJ5NFlqNzdqSGJvS1VUUWNfUjg?oc=5",
+      "pubDate": "2026-08-22T06:07:03+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "来週の為替予想（米ドル/円）下がり切らないドル円、160円台を試す条件は ハロンズFX 2026/8/22",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JeHRCcDA4TUs1aHFvNVNfQUgxT1N6NEp6UUQ3Ujh0d013UG1DX0g2eUd0SUdBVGZaLTZpejlTX0RGRGpnWHhIZzl0aDRwalFNVEFnak5idFZ3S1czeWZWaFY5Zw?oc=5",
+      "pubDate": "2026-08-22T06:04:46+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "上半期の経常黒字17兆円超でも円高にならない理由、キャッシュフローベースではその3分の1程度の円買いにとどまる 【唐鎌大輔の為替から見る日本】旅行収支のピークアウト、デジタル赤字、対外直接投資が映す下半期の円安リスク",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KR0lfWGs5aGZEdGNwcDNBMElPU3R1NnA4NHRJN25abFZRRHhvUGlPRW9EQkFSbDdTaEp3SUxCbHZ5UUtyaks3dnNKRFdWS0NGLWp6MUlR?oc=5",
+      "pubDate": "2026-08-22T06:00:00+09:00",
+      "source": "JBpress"
+    },
     {
       "title": "ニューヨーク外国為替市場概況・4時 ドル円、高値圏で推移(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc1ZvMEhybW5qTktJamZId2VmSmZWVm5QdUNXLVJTR1dhR0UwMTVUNU9odDd3VHBrQlJPV0RlTGo0Ujk2dGljdkF0SFlxRy1URUtFa2pwWjh4ZV9qMlQ2ZUFZNEIwd1NKUzZ1NGwtRG0yM0xyZTl0Y2EyWkdMamlVclcxNHlWRm8?oc=5",
@@ -35,12 +71,6 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円は１５９円に迫る＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LR2JiTDByU1I3MDRsWWVOa1Y2MkNVeHpfazJla3VBRG5BdDRIaEJlMUdOYU5NcDlBdWlwdjQ0NnN3QTRKSC0yMg?oc=5",
-      "pubDate": "2026-08-21T23:37:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
       "title": "【速報】ドル・円158.85円、製造業PMIは予想外に下方修正もサービス業PMIは上方修正(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbUpTQ2JiOTFaZG4xcFZPSnhfVWxVTm4tZ01nTTVyc0Nic1V6SUpSajBTczlpSVlLRXZXTlpPeEx5SjN1aVRGaG1sX3RGYWg1ay1GSDZDTFNQTUpRV2lUQmZ6TDhCX2VHR0JSS2tnUWF6c0RkeGlMVHNpb3lrQ013X3FMVWxwWTQ?oc=5",
       "pubDate": "2026-08-21T22:50:00+09:00",
@@ -57,36 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEZyX2Y0NWpQVlJDRkFCWGlVNXF4UTNiZkxpTXQ4Vlh2ajRGQnVGWEFaQWd6TjI1ODIxY21WU05GWDJsSFRmamx4RC11ZGtDNmtiM29iN3JOQ2pUdGxSN0VSNzluYVRKc1YybkM1N2pPNU9nbjJTMFE4a0RZMURKLURRNEdpY2c?oc=5",
       "pubDate": "2026-08-21T22:06:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "円安や不漁で…タコ高騰。その裏で開発！タコを一切使わず、練り物技術で弾力再現！“ほぼタコ”って？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0bDU1QmdJUWJVNUhVbThNeGRSQWhodlF6VV9kbC1fVTdBenZZVjNDRWhEQm8tNEExY0htYm9KV2dtZjFlVmU5YU5DQmhOd0ItaEFxNm1wTQ?oc=5",
-      "pubDate": "2026-08-21T21:23:20+09:00",
-      "source": "TBS NEWS DIG"
-    },
-    {
-      "title": "ドル・円は値を戻す展開、原油・米金利に追随｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wYzZleG9pWVVudnNqcDVYZHZSTmtjRXlIRE1lZWt1bk5yNExPTnNRbTlXa0dVOTRLTDVLNkF1SlZyTFJkcVBkNVdHWTBjWmYzNGc?oc=5",
-      "pubDate": "2026-08-21T20:15:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "欧州外国為替市場概況・20時 ドル円、下げ渋り(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYUUwQ0doMUV3bDFVYVZ4WkZkWUZfVmJ6N0pDbElJbXlHRUl4TUdmbmQzdG9nX3FsR1JySFdnNlYyS29ETDlFbjR3TjlFS1BwTExPRnhnVExOX25DVjl0d3NXOVF2OS1nd0cxZkJMZzBtWTBBbFZkUjQ0a3Q1c01CaHpockNIUjQ?oc=5",
-      "pubDate": "2026-08-21T20:06:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "欧州為替：ドル・円は値を戻す展開、原油・米金利に追随(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUdBR2ZWdWtabld0UTFPb043S0pLRVZkTFBna051ZWhwZXpqSi1ITUs4NmQ1VzBzUktmNjc4N2xnaks3aVkteE9DcmtHeEpwenE0ZmpKWWhINTFVSkRCeXd6ZWh5eVU2dXNwZ0ZHZGlmbzZZTl90SF9jS09maHI4bkpjYjBfMEU?oc=5",
-      "pubDate": "2026-08-21T20:05:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "FX実践解説、円安相場にドル安懸念「ドル円、どないしはります？」（2026年8月21日）",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oN1k1Z25FM0MwV081UVM2TGRmOG1BN3IzSjQtdVc2NS02T1pHOUllOHFGS016ZjJUMHlUUWxjUXpxOUlJeDlmSTZpdFdsQWZpY3lsTHVOTmJuRVF3VEJWMHV0WQ?oc=5",
-      "pubDate": "2026-08-21T20:00:00+09:00",
-      "source": "外為どっとコム"
     }
   ]
 }
