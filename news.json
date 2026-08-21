@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T04:59:53+09:00",
+  "updatedAt": "2026-08-22T05:42:43+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -53,12 +53,6 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円のピボットは１５８．７５円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VWEFUd2JHMTMyNjhWcEhhUm5aY2hxbml1bTJ5NHVyVzNwdUcyMEJEOXZraWpDRkVXdkFhb1N1bGtWdy0zY0hhdg?oc=5",
-      "pubDate": "2026-08-21T21:45:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
       "title": "円安や不漁で…タコ高騰。その裏で開発！タコを一切使わず、練り物技術で弾力再現！“ほぼタコ”って？",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0bDU1QmdJUWJVNUhVbThNeGRSQWhodlF6VV9kbC1fVTdBenZZVjNDRWhEQm8tNEExY0htYm9KV2dtZjFlVmU5YU5DQmhOd0ItaEFxNm1wTQ?oc=5",
       "pubDate": "2026-08-21T21:23:20+09:00",
@@ -87,6 +81,12 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oN1k1Z25FM0MwV081UVM2TGRmOG1BN3IzSjQtdVc2NS02T1pHOUllOHFGS016ZjJUMHlUUWxjUXpxOUlJeDlmSTZpdFdsQWZpY3lsTHVOTmJuRVF3VEJWMHV0WQ?oc=5",
       "pubDate": "2026-08-21T20:00:00+09:00",
       "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル・円は下げ一服、米金利にらみ｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vRWsyNEZWQmdfREFlamRjdDhaUUJCN0pBbHFraE45amV2OW5lVnNDQ1FuLWJiRnN5bUFzRi1Zc0wzMURpYnNRX2J0ZGh2Y3BzaUE?oc=5",
+      "pubDate": "2026-08-21T19:35:00+09:00",
+      "source": "ザイFX！"
     }
   ]
 }
