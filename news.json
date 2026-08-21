@@ -1,10 +1,51 @@
 {
-  "updatedAt": "2026-08-21T15:17:34+09:00",
+  "updatedAt": "2026-08-21T16:30:19+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "東京為替：ドル・円は軟調、米金利にらみ(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0J3TlBodU9RdTZvZGtQdkhXYkEtWE1iM3FzQ3doaG5jZGRGRXYyMzFlQnpsd0xDcjVTU1Fmc0FFWkRieWVQUXhLajEzUU5ERGUyMzN4STlEdnllWmpKMGFIQ2g2UDV3VGE1RmZIOEE4VjJSLWI1LUhjQW9kdHpiRnQ1NkxtaG8?oc=5",
+      "pubDate": "2026-08-21T16:12:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "外為：1ドル158円88銭前後とドル高・円安で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLVBrTWk3YVZaZWFyOTVPNHRnYUw1R3diNXh0LTZCYzZycGJtbWt3YnlzSlhsUm94eVcwNG5LQV82MFROd1NVVW5JaTJlUG9lX1FXMng5dndDUF9GY2x3bGhwS2ZZOTRRb2M4dnJRa3lGa2JDZm5MNWJBUFRnZ2xFMm8waFQ5SFE?oc=5",
+      "pubDate": "2026-08-21T16:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル・円は伸び悩みか、ドル買い再開でも節目160円にらみ失速｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEdGMydnhjRFhkZUw1ODdZUWZPTkZBUHk1Zjl6ak53aXp3bHdnRHVxMWk4NU1HXzFJV2pITklRMjRJb29RSnZBV1Z1V3JPNERlWGc?oc=5",
+      "pubDate": "2026-08-21T15:50:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "２１日の東京外国為替市場＝ドル・円、１５８円台後半で推移 速報",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5tcV9pVGt2dzJNU3Yxc1RyMFAzWEVGNEF0QVJqOWptbUNRS2dIcm9jT0dFWUhtQTgxcmFWWjBRZnhNM2hpQ3BV?oc=5",
+      "pubDate": "2026-08-21T15:32:00+09:00",
+      "source": "kabushiki.jp"
+    },
+    {
+      "title": "２１日の東京外国為替市場＝ドル・円、１５８円台後半で推移(ウエルスアドバイザー)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONWJZNXpldGY3LVBndmZVMkIxMWJ6dl9QbEpROGQ5V0YyMWJUV3Z1UUQzMzdUbjVPNjJIZUtwR0QyTnk5QTJVcWNlamZQWmRaRktrSFYtOHE3T3JmODk3THB1bGtBS000aUlGQ3lpTVIyQVRQNHctMm1HS2RWS0NJeGYydWpSVDA?oc=5",
+      "pubDate": "2026-08-21T15:32:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル／円は中東情勢にらみ高止まり、米財政運営への懸念も＝来週の外為市場",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zNmdrd0xsZkFvaElIT1RVSld5SWtsY2tUaV9wZEVqSVh2VHZSWlBhRmxuX3FsaEJlMS1IS1hrSktTa2Fxa0wwRXZvN19vQmk4SUdnR3FqaDdNaG5Jd1o2QnFZdzRRLUpGSS03Y2d3LXNlQ2tpNDE5bg?oc=5",
+      "pubDate": "2026-08-21T15:25:00+09:00",
+      "source": "ロイター"
+    },
+    {
+      "title": "ドル円159円付近で膠着、米金利と原油安が綱引き",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWN0YzWTl3elNUaEh5RWJ2WUpyMlBTMmdZX2VMT0ZBLXdqY3BFTE1hOFV0RE96R2JKcjM2dklYNlUwS2RScXJxbzFPNUpNWHZjNG9HVHhRdjdNcV9YSGt2NFNpTVZQRk54emdHNmtuaHBTdnls?oc=5",
+      "pubDate": "2026-08-21T15:25:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
     {
       "title": "FX個人投資家動向｜円高期待のポジション増加、トルコリラ円はシェアを縮小 2026年8月21日",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UV01yZ3BDVG5YYWpxaGZqaUwzY2owWXNoZ2RtbVdXaVpDOEVoMkMyOFFKSk43TGpraHdLaUZPV1EwUm1nMlQ5MEU2UUZoX3BOM2VCdEt0cURGSzV0YTctcXR1WQ?oc=5",
@@ -18,28 +59,16 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "東京為替:ドル・円は安値もみ合い、ドル売り継続",
-      "link": "https://www.zaikei.co.jp/article/20260821/866895.html",
-      "pubDate": "2026-08-21T14:54:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替：ドル・円は安値もみ合い、ドル売り継続(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3Ywby1DOEduaEFQUC12RC03VFdfSnhEck5VSG9QRjJGUEhoWWxiOTBnQ2Z2ZDZmdTVSVmdicFVoWjlxVGI0b3lyRU5uZWpfWF9yamx5NHZUV29wU3JwNXozZnBscGh1MVJlQVh5MFJzWkUtNV9PbVkxTFptQ0tBTm4wQWJqNjQ?oc=5",
-      "pubDate": "2026-08-21T14:54:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "ドル・円は159円付近、ドルに売り買い交錯｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xRHV3TmswRjRhUFVLMkNJaFRkdUNqT2ZValdic3JoSmExSlFpNWxkS1huYjRoTFBZejNYVE4yUmpqTzY2dVFJQmowSG5wMktIRFE?oc=5",
       "pubDate": "2026-08-21T14:48:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "東京為替:ドル・円は159円付近、ドルに売り買い交錯",
-      "link": "https://www.zaikei.co.jp/article/20260821/866890.html",
+      "title": "東京為替：ドル・円は159円付近、ドルに売り買い交錯(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRk1vWG5aZFFPWTdIYTRBR29kSTJSNTY5UUxNVE1hOHI4YXQ0LTYteG9BUWRTTXJyakVLS3VZVGJzVm1wbGtSZC1lVmptenJxYVlMU0Y1eExlcVZJUU1FN1BiRXlVbTQ4aTZycHdseGx6c0RkUVZjbjhmVjJjTzF3SUNlb3JLejA?oc=5",
       "pubDate": "2026-08-21T14:02:00+09:00",
-      "source": "財経新聞"
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "外為：1ドル159円00銭前後と大幅なドル高・円安で推移(株探ニュース)",
@@ -58,36 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4RW9ZUUJ2dlF6a0JZbHJXalNRNFNWMkNLMldjdi05bE1ZYVpOU2xCcUFhbGw1cmRvR1ViNzZMZWZ2a0tZMFhuNQ?oc=5",
       "pubDate": "2026-08-21T13:50:44+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "東京為替:ドル・円は小動き、クロス円は上昇基調",
-      "link": "https://www.zaikei.co.jp/article/20260821/866885.html",
-      "pubDate": "2026-08-21T13:44:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替：ドル・円はもみ合い、ドル売り一服",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yWUdWbXB4UU1GdHF1YV94MC13cGxQTTZ3ZUV0V1JHQUF1a1NRYkd4c2ZibzAzOFdvNDFRNVVCN1JzdU5LZ0Rtd0Z4VG43SzR0dW1DYXZKbTEydEtxTGVYVQ?oc=5",
-      "pubDate": "2026-08-21T13:31:07+09:00",
-      "source": "株探"
-    },
-    {
-      "title": "東京為替:ドル・円はもみ合い、ドル売り一服",
-      "link": "https://www.zaikei.co.jp/article/20260821/866884.html",
-      "pubDate": "2026-08-21T13:31:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "外為：スイスフラン、198円80銭前後とフラン高・円安で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYml1N1BFUzh1VWp1TEtOdnlCTjQ3ajJNLU4xczhBZmo3VnMteDRUN2RoWkN2dWxuVS00ZGY0NUhPVl9JdFN0Q0doNWFZTTJCMDRuMWpJUzdPQnVDWEg4NEsxTGNSWXFJVjZoZXlYU0VFQjZkNkM3YjNwNzVWYV9VZDladk9weFE?oc=5",
-      "pubDate": "2026-08-21T13:31:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル・円：ドル・円はやや軟調、米金利にらみ｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42OWhjMmlMNF9Hb043dVVoVjdRR1hLYk5FNTNoNzRHa2tFU3ZEa3hRZjJZajZYTzNId0p4eEJPZHZ5MWpqZHhjUkxSVDRscF9EZkE?oc=5",
-      "pubDate": "2026-08-21T12:47:00+09:00",
-      "source": "ザイFX！"
     }
   ]
 }
