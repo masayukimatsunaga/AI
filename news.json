@@ -1,6 +1,7 @@
 {
-  "updatedAt": "2026-08-22T08:03:06+09:00",
+  "updatedAt": "2026-08-22T08:41:49+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
@@ -11,10 +12,28 @@
       "source": "Moomoo"
     },
     {
+      "title": "NY金先物は続伸、米長期金利上昇下でも株安・地政学リスクを背景に質への逃避買い優勢",
+      "link": "https://zai.diamond.jp/articles/-/494390",
+      "pubDate": "2026-08-22T07:57:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
       "title": "来週の主な予定 ジャクソンホールと米雇用改定 為替介入実績 エヌビディア 米イラン制裁 -",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRQ25DQ2xIQkk5cEE2bUZzeXQxU1pEeEw1a25ZbTBRT3RtaU9GSTF0dG1EVDRiSWZ0ck9DdFk0ZjZ3ZjhQeXBwQQ?oc=5",
       "pubDate": "2026-08-22T07:40:44+09:00",
       "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "【来週の注目イベント】ジャクソンホール、ウォーシュFRB議長講演、米PCE、東京CPI",
+      "link": "https://zai.diamond.jp/articles/-/494389",
+      "pubDate": "2026-08-22T07:27:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "来週の為替予想 豪7月CPIが年内利上げの分水嶺に ドル円は160円攻防",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xbUhGOUFnYTZSYm5yRHJ2dFlGSlA3T3h0djNGY0IyZ3F5emN2SG03dnNNd0x5OUhrR1hxZFprMG5DR0ZEem5TT29GZ282U2hwZFFKUDd6SjNBTGxDaktBOVFxckxfQlVXeG80MHVVTEtQU3g2?oc=5",
+      "pubDate": "2026-08-22T07:05:00+09:00",
+      "source": "BigGo ファイナンス"
     },
     {
       "title": "NY為替・21日＝ドル円が小反落 終値は158.95円(トレーダーズ・ウェブ)",
@@ -47,46 +66,28 @@
       "source": "外為どっとコム"
     },
     {
+      "title": "ニューヨーク外国為替市場概況・21日 ドル円、小反落",
+      "link": "https://zai.diamond.jp/articles/-/494387",
+      "pubDate": "2026-08-22T06:03:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
       "title": "上半期の経常黒字17兆円超でも円高にならない理由、キャッシュフローベースではその3分の1程度の円買いにとどまる 【唐鎌大輔の為替から見る日本】旅行収支のピークアウト、デジタル赤字、対外直接投資が映す下半期の円安リスク",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KR0lfWGs5aGZEdGNwcDNBMElPU3R1NnA4NHRJN25abFZRRHhvUGlPRW9EQkFSbDdTaEp3SUxCbHZ5UUtyaks3dnNKRFdWS0NGLWp6MUlR?oc=5",
       "pubDate": "2026-08-22T06:00:00+09:00",
       "source": "JBpress"
     },
     {
+      "title": "NY外為市場=ドル、対ユーロで3カ月ぶり安値 米債買い戻し拡大計画が重し",
+      "link": "https://jp.reuters.com/opinion/DO2RUUME6RPQTA3Y6JFAMVXCOM-2026-08-21/",
+      "pubDate": "2026-08-22T04:57:00+09:00",
+      "source": "reuters"
+    },
+    {
       "title": "ニューヨーク外国為替市場概況・4時 ドル円、高値圏で推移(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc1ZvMEhybW5qTktJamZId2VmSmZWVm5QdUNXLVJTR1dhR0UwMTVUNU9odDd3VHBrQlJPV0RlTGo0Ujk2dGljdkF0SFlxRy1URUtFa2pwWjh4ZV9qMlQ2ZUFZNEIwd1NKUzZ1NGwtRG0yM0xyZTl0Y2EyWkdMamlVclcxNHlWRm8?oc=5",
       "pubDate": "2026-08-22T04:07:35+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "円相場再び160円視野、日米中銀幹部が講演へ 日経平均は上値重く",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53Y2tzYjRrMUpkNHJ1bE02SVphdWt3R3VTUmhEX0RJOFJEaHlZR3Y1UnhaQWR3c3A3Rlc3WFB2UlFBTl9pZWJBb1VXX215UHZHTUVPVFdCakpwM0U1c182QklRZXd0MjcxTmVZcg?oc=5",
-      "pubDate": "2026-08-22T04:00:00+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "ドル円は１５９．００円前後での推移＝NY為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GcW5qNVg4U3VoWWxFZWZJZkpuaXJvNnZfbnRUSUJDOU16dkNITFVRM3pPMHJnRHUwbVh1eVM4dFBVSU12RHB0OQ?oc=5",
-      "pubDate": "2026-08-22T03:04:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・2時 ドル円、小動き(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1eFhOVXhWaVY4cU1IMkRSSUhSSXBBVDM2X216dm5xdVN1alRjZm44ZVNiUVVGMTlaMjNQcmdtREpZZkRBYXVDTk9xV2JfbzBYZ3h1bng5anBfTV9QMGxfZC1jQ0JwSGNTTGNqTThKSUNUV3pNVkh3VnhadUtjXzdMbDJ1bkE?oc=5",
-      "pubDate": "2026-08-22T02:07:09+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "【速報】ドル・円158.85円、製造業PMIは予想外に下方修正もサービス業PMIは上方修正(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbUpTQ2JiOTFaZG4xcFZPSnhfVWxVTm4tZ01nTTVyc0Nic1V6SUpSajBTczlpSVlLRXZXTlpPeEx5SjN1aVRGaG1sX3RGYWg1ay1GSDZDTFNQTUpRV2lUQmZ6TDhCX2VHR0JSS2tnUWF6c0RkeGlMVHNpb3lrQ013X3FMVWxwWTQ?oc=5",
-      "pubDate": "2026-08-21T22:50:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円は１５８円台後半、一時のドル安が落ち着く＝ＮＹ為替序盤",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oYVBzSVBDeS02aVo0bWVuUHBJWnNhR1paSFV0NDRISkhOM2t2VkR5em1XeVhMeEV0M3JJR0tzSnkyMVcxbEZRZg?oc=5",
-      "pubDate": "2026-08-21T22:16:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
