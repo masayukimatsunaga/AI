@@ -1,10 +1,39 @@
 {
-  "updatedAt": "2026-08-21T12:17:38+09:00",
+  "updatedAt": "2026-08-21T13:24:02+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル・円：ドル・円はやや軟調、米金利にらみ｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42OWhjMmlMNF9Hb043dVVoVjdRR1hLYk5FNTNoNzRHa2tFU3ZEa3hRZjJZajZYTzNId0p4eEJPZHZ5MWpqZHhjUkxSVDRscF9EZkE?oc=5",
+      "pubDate": "2026-08-21T12:47:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円 本日NYカット含む複数OP観測159.00円を挟んで上下(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbHZJUnNjaHRwaS1kS183bUdLNVdSR1VwLW13RzZ5Yk54QWhtWkdUMlpEVjlGS0cwMEQxMG1sNG54SjNGQWYzZDhYb0lCaFRTaVIzV1dLVjZRbGhqSVpFUVRQZ0g0dExxSnJ5OFFOY0V6LUpQNTZQcW0wVm1JOUdQUWdscl9pRHM?oc=5",
+      "pubDate": "2026-08-21T12:44:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円 本日NYカット含む複数OP観測159.00円を挟んで上下｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85M1ZZNldfRTlIcEdsZEVjNmg3NDhFNFBCUllUanVDaFA5aHZ6ZUh6OGpkdG1yZkZ4b1k5cU5RVjlrNGduMl9Ed3FvNFkxVzMtZ2c?oc=5",
+      "pubDate": "2026-08-21T12:44:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル・円はやや軟調、米金利にらみ｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUTdfOFN1SlI1OHhld2tNNzFmMlZCWG1UbXJkZ0ZkQWtwVlJTb2JWUU9veTA4Z21fMVRXYVFkMHByRENrZWRQNG5wZEdRdXJDWWc?oc=5",
+      "pubDate": "2026-08-21T12:31:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "円安阻止へ「日米通貨同盟」の皮算用 「FIMAレポ」の日本にとっての不都合な真実とは",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRk81dFFkd09ZUVh6SGlJS0lWS1dZV3d1aFFFcm9DeGJQY2VGZmlYMXZBeG1JcUVScTdXdGZ6YWxydTA3aVNpVVRoVk1uYVFrcGtFTVdDb1BKeWktWGU5MC1VcUJqUXZLT2tmQU9YdHV6YVF1TTREVlNEWldub3o4ZnppRG4yZXU3TGc?oc=5",
+      "pubDate": "2026-08-21T12:24:06+09:00",
+      "source": "JAPAN Forward"
+    },
     {
       "title": "米ドル/円は160円手前で失速も、円安基調は変わらず！ もみ合いで介入リスクが低下、今はメキシコペソ/円などクロス円の買いを持つのに非常に良い状況｜今井雅人の「どうする？ どうなる？ 日本経済、世界経済」",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QcmYzTkxfc0NCLUVJOXRmX09TOEtjMVJ6QVpGNS1JbURKcmFNSVd4WTBqbGtDeHVYU1ByWERlZUVnOHlCbDBBZlNoRzF5QVlpQ2c?oc=5",
@@ -12,22 +41,22 @@
       "source": "ザイFX！"
     },
     {
-      "title": "円相場、158円97~97銭 21日正午現在",
-      "link": "https://www.jiji.com/jc/article?k=2026082100486&g=eco",
+      "title": "東京外国為替市場概況・12時 ドル円、伸び悩み(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNl9tTFlObWlfN3N0amlvYkZWNEZOX0dwTmVpVGhjSHp2TEFReE1OLUZtLXBNelgzMDF4d2hVSWpZX2FzcGV1djhTOUpQazhhRzVYU3FyaFF1a0ZrQmVIU1RUX3JxVGRTdUJmQWduLVdRQWxnaU16bHBBd0JwRDlWanFER1k2NHc?oc=5",
       "pubDate": "2026-08-21T12:06:00+09:00",
-      "source": "時事ドットコム"
-    },
-    {
-      "title": "円相場、１５８円９７～９７銭＝２１日正午現在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IZ0xFQ213Z3RmanYzRi1ZYkxYRWZlcThHdzNWbGFpNHJOejRlaUpwdEZDaGxaU1lOYWFxSTl5VkxTTUVqdFRXckVWcUVBUW1rRUZOeA?oc=5",
-      "pubDate": "2026-08-21T12:06:00+09:00",
-      "source": "時事通信ニュース"
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "円相場、再び下落へ・バークレイズの門田氏 経済環境に変化なし",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52Vm9hd3UwdGFUbWRHZnIyOU80NWdMbkpSN19Ma3FzTVVRekpfQTRmSG13RnJQQkJ1SkFLakZXV2Y4c0l2VmY5Z2NaWDBPanFJeXBfN3NB?oc=5",
       "pubDate": "2026-08-21T11:59:43+09:00",
       "source": "QUICK Money World"
+    },
+    {
+      "title": "【来週の円相場】対ドル160円手前でもみ合い、中銀の情報発信で変動（Bloomberg）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kY1Nselg2cWpkSVdQNUlpVjlYOTVyNjJuZk1sOHlqVlpmOXBFaXk2cVQ0YnNDNGtxdjhXUWFvV3FvUHprc2FadnYyeVpoNnFpeXpjQ1pOZUN2Yk12Vmh0OURDcTRnUS1QSFh5Uno2NVFCOHdkZW5Jdy1GcTljOTQ?oc=5",
+      "pubDate": "2026-08-21T11:59:38+09:00",
+      "source": "Yahoo!ニュース"
     },
     {
       "title": "円安・ドル安、ドル円159円付近 米市場安定化期待と日本消費者物価",
@@ -48,46 +77,16 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "円相場、159円台前半に下落 中東情勢と原油高でドル買い優勢",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ETTJJWlA2Tk51bm9Nb1dxb2xoUGFIWV9rSVg2Zk44QkxmZTRZeS1QYjFrNURkZ05oeGxGNzM5U1lPMmRXR0trX2tlSV91b0xWb0k1d2dPcmkyQVI4WDZEbl9WblBpaThEcC1YaHlmOG91VEtn?oc=5",
-      "pubDate": "2026-08-21T11:05:00+09:00",
-      "source": "BigGo ファイナンス"
+      "title": "外為：1ドル158円94銭前後と大幅なドル高・円安で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNDRKWDRLVzVINEhkTzM3eEtVOWtPeUFJcTgyRW1zS2NWMWVnZUw4YkVmOEM3RkJVR0ZlcV9hUkVfNzhucXU4MlBqU1Q1bzlubjROZzZnRm1NR1ZMN2xVRG9wRElLN25tVDlFd1BSS2NqVkpYQmhsSFFHQ1kzTV9HNTBTbkZldEU?oc=5",
+      "pubDate": "2026-08-21T11:02:00+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "通貨オプション ボラティリティー ドル円の一週間ものは小動き",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JQnZ3azBLZVhZNnVGNGRFYTdFcnJEMXpVME9tb2hsRTg4VkZRZklVeFN3SmJlUnVVWU5IZWNaWDJJU3hXejNQQg?oc=5",
       "pubDate": "2026-08-21T11:00:44+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ウルトラファブリックスHD、上半期は円安メリットを在庫削減による減益効果で相殺",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40QlRQUktwTFB5LVcxQ0VGc2RubHJ1ektIbFJiUzVmYTRCMERnVFNPMFg1YUNvUC12ZGtWT1p6b2RJOGFlWHQydw?oc=5",
-      "pubDate": "2026-08-21T11:00:02+09:00",
-      "source": "みんかぶ"
-    },
-    {
-      "title": "長期金利、一時2.885%に上昇 原油高と円安で国債売り",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93Mkd2TXdaVS02bG10bXBZdDZsRTl6UEhVbzRKbGQ1c0xrNGJPSGtWak0tQVNCd1h2bjhuZjJJSmh5VjRQSkl4QzlRRFV1RmFoX1FERWw0a3FNSDBYZTBENGQ0ZGtubGFyRksxRw?oc=5",
-      "pubDate": "2026-08-21T10:48:03+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "東京為替：ドル・円は持ち直した後再び159円割れ",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95VUY5eVZXS1k0WGlST2l5blo3Z1E3aDlFcW95V182OC1MdXlFeFhhTG5SaGtWZEw2UjRZaTVfZk10ZTdfT1gwWXRCMzFZcF9JUVE?oc=5",
-      "pubDate": "2026-08-21T10:37:07+09:00",
-      "source": "株探"
-    },
-    {
-      "title": "東京為替:ドル・円は持ち直した後再び159円割れ",
-      "link": "https://www.zaikei.co.jp/article/20260821/866830.html",
-      "pubDate": "2026-08-21T10:37:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "ドル円予想レンジ158.30～159.70円 注目通貨はユーロ（8/21）",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuTUtpZ29WejJpLXZqNW9va3Y5ZmxsSGstVnFIYmgxZGQ2b3l5ZUM0eE1KOGlOaUhraGU3M2I2Y3plcEpqZHZDWjJUZkQ1SXpBOHBKYQ?oc=5",
-      "pubDate": "2026-08-21T10:33:41+09:00",
-      "source": "日経CNBC online"
     }
   ]
 }
