@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:42:43+09:00",
+  "updatedAt": "2026-08-22T06:03:09+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -33,6 +33,12 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
       "pubDate": "2026-08-22T00:38:46+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円は１５９円に迫る＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LR2JiTDByU1I3MDRsWWVOa1Y2MkNVeHpfazJla3VBRG5BdDRIaEJlMUdOYU5NcDlBdWlwdjQ0NnN3QTRKSC0yMg?oc=5",
+      "pubDate": "2026-08-21T23:37:44+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
       "title": "【速報】ドル・円158.85円、製造業PMIは予想外に下方修正もサービス業PMIは上方修正(フィスコ)",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oN1k1Z25FM0MwV081UVM2TGRmOG1BN3IzSjQtdVc2NS02T1pHOUllOHFGS016ZjJUMHlUUWxjUXpxOUlJeDlmSTZpdFdsQWZpY3lsTHVOTmJuRVF3VEJWMHV0WQ?oc=5",
       "pubDate": "2026-08-21T20:00:00+09:00",
       "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル・円は下げ一服、米金利にらみ｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vRWsyNEZWQmdfREFlamRjdDhaUUJCN0pBbHFraE45amV2OW5lVnNDQ1FuLWJiRnN5bUFzRi1Zc0wzMURpYnNRX2J0ZGh2Y3BzaUE?oc=5",
-      "pubDate": "2026-08-21T19:35:00+09:00",
-      "source": "ザイFX！"
     }
   ]
 }
