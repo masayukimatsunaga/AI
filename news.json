@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:42:39+09:00",
+  "updatedAt": "2026-08-22T20:37:50+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -41,16 +41,10 @@
       "source": "Yahoo!ニュース"
     },
     {
-      "title": "【注目トピックス 市況・概況】英ポンド週間見通し：伸び悩みか、英インフレ再加速も為替介入に警戒",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBOE9uekktcXdxUTdSMkc2ZDJnUFZuOXVobURUVWRvdldqVVVrWUlTQ2tpc2NFOFhyU2lOOWFRd2JUR1FZNXp3?oc=5",
-      "pubDate": "2026-08-22T14:39:12+09:00",
-      "source": "マネーポストWEB"
-    },
-    {
-      "title": "ユーロ週間見通し：伸び悩みか、域内景況感は良好でも為替介入に警戒",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSVFLVUx6TzI0Q2xrRkQ1d0htYmI3QzVLbExibjhGVzhNa0VBMUkwRkV2WS1CVVJEV1N6VGpabTZHcU9PazZBTmdZbWszVkxRZHdLcU5RTTgzRzZUSlZ4MS1XNFpkSjFYWF8ybWNubWxvc2o3d3ZSNHhSUXFfc0czZXVIVmh4NmfSAYwBQVVfeXFMTmF1emFJbFRKZjBvZVdlNi1HNlJNZE5lQkRaM0F2dXFEUkROTDlhb0lPdVM4VXJydkdCZ3hRMWY4dTUyeGxxQ3d1bGRoaFlUMkNSOVo5d1ljNGZMRTkyS2x4bEJaNWRkOXpWcW51SGFhT0tQaWVFUGx0bnNPZ2tnQWpweERfMlRHUmpRYW0?oc=5",
+      "title": "ユーロ週間見通し：伸び悩みか、域内景況感は良好でも為替介入に警戒(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFI5a2N1emtoTTFwSkRTeXY0Wk9mMGlvdnltQWlHRzVJWlFYMUMtb2VObEFOamV4OGpOTnNhN3I0UkZlOXdVLVFvbnFiLWwycThmVks5aTh5cDlOUms2U19PUnpQNGh3QzhrV0dzejZLTmxjcHZ6aUVCZzdFZ1ZKV1o1ejh6ekE?oc=5",
       "pubDate": "2026-08-22T14:39:00+09:00",
-      "source": "ｄメニューニュース"
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "英ポンド週間見通し：伸び悩みか、英インフレ再加速も為替介入に警戒",
@@ -87,6 +81,12 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vS3FfSXUzYW1LVkpHUHk0clJVaUMtcGV6ZkVHQTg1RlRIeHVYOU5vaGswdlg2RFVXVW1ka3pMQmZGMk5LTjAyellYYXJuS1JhYU1TZ2Q3WEQtcktjVW9YY250bw?oc=5",
       "pubDate": "2026-08-22T10:00:00+09:00",
       "source": "外為どっとコム"
+    },
+    {
+      "title": "来週の主な予定 ジャクソンホールと米雇用改定 為替介入実績 エヌビディア 米イラン制裁 -",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRQ25DQ2xIQkk5cEE2bUZzeXQxU1pEeEw1a25ZbTBRT3RtaU9GSTF0dG1EVDRiSWZ0ck9DdFk0ZjZ3ZjhQeXBwQQ?oc=5",
+      "pubDate": "2026-08-22T07:40:44+09:00",
+      "source": "みんかぶ FX/為替"
     }
   ]
 }
