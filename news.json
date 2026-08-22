@@ -1,7 +1,6 @@
 {
-  "updatedAt": "2026-08-23T05:42:04+09:00",
+  "updatedAt": "2026-08-23T06:01:40+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
@@ -30,16 +29,22 @@
       "source": "ゴールドオンライン"
     },
     {
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-08-23T00:49:40+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル/円160円手前で膠着、介入警戒後退でクロス円買いに妙味",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rZ2d1ZXhKbkpwRk56cGZaQ3VFVkdROC1lSTJCRXNuMnRMQVhxYS12Rm9nOFlRcURya1M4b1hsMVdycVh5UnpjYnJtLU9LWlRpS0dvbzVQTXBodUFVLWhHVksxT25XREZBZVJUMlNEYkRKUmdR?oc=5",
+      "pubDate": "2026-08-22T16:35:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
       "title": "米ドル/円は160円手前で失速も、円安基調は変わらず！ もみ合いで介入リスクが低下、今はメキシコペソ/円などクロス円の買いを持つのに非常に良い状況(ザイＦＸ！)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmtSSjJrLVFHRnZCb2dLMU1FREtzeFBaV2I2elZhUzlrMDVJbmRpU0Y4SzJlOGlodWJ0LTJWeGx0cTI1QmNoa0dFc1dueGdBM3dOQUZnQTVBNVNuVVBubmhDbXV1dTVWWWFYV3kzTkJJazlfSW5FODQ4UVpTRUkyVnJvTDYwVlU?oc=5",
       "pubDate": "2026-08-22T16:06:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "来週の相場で注目すべき3つのポイント:米エヌビディア決算、ジャクソンホール会議、外国為替平衡操作の実施状況",
-      "link": "https://www.zaikei.co.jp/article/20260822/866986.html",
-      "pubDate": "2026-08-22T15:47:00+09:00",
-      "source": "財経新聞"
     },
     {
       "title": "「日本の眼鏡」訪日客に人気、高品質と円安の割安感に加え…欧米では必須の「処方箋不要」が追い風に（読売新聞オンライン）",
@@ -60,24 +65,6 @@
       "source": "Yahoo!ニュース"
     },
     {
-      "title": "為替週間見通し:伸び悩みか、ドル買い継続で160円視野も為替介入に警戒",
-      "link": "https://www.zaikei.co.jp/article/20260822/866973.html",
-      "pubDate": "2026-08-22T14:46:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "ユーロ週間見通し:伸び悩みか、域内景況感は良好でも為替介入に警戒",
-      "link": "https://www.zaikei.co.jp/article/20260822/866977.html",
-      "pubDate": "2026-08-22T14:39:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "英ポンド週間見通し:伸び悩みか、英インフレ再加速も為替介入に警戒",
-      "link": "https://www.zaikei.co.jp/article/20260822/866976.html",
-      "pubDate": "2026-08-22T14:39:00+09:00",
-      "source": "財経新聞"
-    },
-    {
       "title": "ユーロ週間見通し：伸び悩みか、域内景況感は良好でも為替介入に警戒(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFI5a2N1emtoTTFwSkRTeXY0Wk9mMGlvdnltQWlHRzVJWlFYMUMtb2VObEFOamV4OGpOTnNhN3I0UkZlOXdVLVFvbnFiLWwycThmVks5aTh5cDlOUms2U19PUnpQNGh3QzhrV0dzejZLTmxjcHZ6aUVCZzdFZ1ZKV1o1ejh6ekE?oc=5",
       "pubDate": "2026-08-22T14:39:00+09:00",
@@ -88,6 +75,18 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMXVYQXNXdk9VYXBtV0VaVUdwQk1nWmlUUWRyclZULWUyMGhjakhyOWRxckt6Rk50NVp2TV8wVWh4bTM2ZldMVnhBY1BydDNCd2g0cDdMRngxemZYU2VEdEtKa2o0Rm9rOFFuMHVLOEJzeDlQVDFKelg4cmoxeXdKb3BqZW5rM0k?oc=5",
       "pubDate": "2026-08-22T14:38:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "米ドル/円は160円が上値の目安も、レンジ相場で売りはスワップ負担が重い。注目は120円を目指す高金利の豪ドル/円！",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONUtqaDJIWXNDaFpFeTJGYkFpYkJ5RHFOeEEzWjNxaWRGa2U2Q2VON05Gdk5naS1rdWF6Y2VYX1FpZEhCOFJlbjJHUWotSVV4amlhX2JjN3REc2R0OUhxTV9PdThfdXgzZUs3MHhDSGt5QkNGbllMWXQyVExGZnlZVm96ZjJ3SlE?oc=5",
+      "pubDate": "2026-08-22T14:06:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円見通し｜ジャクソンホール会議とは？ドル円が動く理由と2026年の注目点を解説 2026年8月22日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vS3FfSXUzYW1LVkpHUHk0clJVaUMtcGV6ZkVHQTg1RlRIeHVYOU5vaGswdlg2RFVXVW1ka3pMQmZGMk5LTjAyellYYXJuS1JhYU1TZ2Q3WEQtcktjVW9YY250bw?oc=5",
+      "pubDate": "2026-08-22T10:00:00+09:00",
+      "source": "外為どっとコム"
     }
   ]
 }
