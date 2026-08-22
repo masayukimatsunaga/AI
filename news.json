@@ -1,9 +1,16 @@
 {
-  "updatedAt": "2026-08-22T16:01:13+09:00",
+  "updatedAt": "2026-08-22T16:47:23+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "来週の相場で注目すべき3つのポイント:米エヌビディア決算、ジャクソンホール会議、外国為替平衡操作の実施状況",
+      "link": "https://www.zaikei.co.jp/article/20260822/866986.html",
+      "pubDate": "2026-08-22T15:47:00+09:00",
+      "source": "財経新聞"
+    },
     {
       "title": "「日本の眼鏡」訪日客に人気、高品質と円安の割安感に加え…欧米では必須の「処方箋不要」が追い風に",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCSUR3OEt1c3FPRkhzNXZjTWRfcmwzVjZMbXNGa0hiMzFfRmw1Ry1RMU9HNnlIdVZ5VlMtQVV3LUk1OTY0a1pHcUEzSDR3bTBZYU9JczlfMVc2c2lpbTZXS2xPczk?oc=5",
@@ -21,6 +28,24 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wQXFfckFidmowa2l4VXRYdFBvMTQ1OXlRRmhLMmowVmNfZVZjNzNqRjkyeWV5MklSRklCbEZId2U5bkNYNE1sVUJGMXpLbzJFVEMtZFlWdWU5bEdLcWx6R0NPYTItNTNLanZFVnpXMTFxWkt6U0ozVzl0WW0zT28?oc=5",
       "pubDate": "2026-08-22T15:15:00+09:00",
       "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "為替週間見通し:伸び悩みか、ドル買い継続で160円視野も為替介入に警戒",
+      "link": "https://www.zaikei.co.jp/article/20260822/866973.html",
+      "pubDate": "2026-08-22T14:46:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "ユーロ週間見通し:伸び悩みか、域内景況感は良好でも為替介入に警戒",
+      "link": "https://www.zaikei.co.jp/article/20260822/866977.html",
+      "pubDate": "2026-08-22T14:39:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "英ポンド週間見通し:伸び悩みか、英インフレ再加速も為替介入に警戒",
+      "link": "https://www.zaikei.co.jp/article/20260822/866976.html",
+      "pubDate": "2026-08-22T14:39:00+09:00",
+      "source": "財経新聞"
     },
     {
       "title": "ユーロ週間見通し：伸び悩みか、域内景況感は良好でも為替介入に警戒",
@@ -59,34 +84,10 @@
       "source": "財経新聞"
     },
     {
-      "title": "ドル円見通し｜ジャクソンホール会議とは？ドル円が動く理由と2026年の注目点を解説 2026年8月22日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vS3FfSXUzYW1LVkpHUHk0clJVaUMtcGV6ZkVHQTg1RlRIeHVYOU5vaGswdlg2RFVXVW1ka3pMQmZGMk5LTjAyellYYXJuS1JhYU1TZ2Q3WEQtcktjVW9YY250bw?oc=5",
-      "pubDate": "2026-08-22T10:00:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
       "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-08-22T09:42:08+09:00",
+      "pubDate": "2026-08-22T12:42:37+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "来週の主な予定 ジャクソンホールと米雇用改定 為替介入実績 エヌビディア 米イラン制裁 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRQ25DQ2xIQkk5cEE2bUZzeXQxU1pEeEw1a25ZbTBRT3RtaU9GSTF0dG1EVDRiSWZ0ck9DdFk0ZjZ3ZjhQeXBwQQ?oc=5",
-      "pubDate": "2026-08-22T07:40:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "NY為替・21日＝ドル円が小反落 終値は158.95円(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmh3Z0hwRTBheFplR2lfQk1tRWhXX0NfU2g3ZUNFOG1xREJrRmV3QnB0ejI1TC1sR3NBRmpJakdaN0dPeUM1ODFFY0pRXzhia28tQnFjTGZwSVhEa1FWZk4tZG5MMWltSkw3N3ZDcU41am15d2huU3FHVUtKTE5yZ05Wd2RpZ3M?oc=5",
-      "pubDate": "2026-08-22T06:53:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円は１５９．００円前後まで戻してもみ合い＝ＮＹ為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ldjZaOTZ6dThtSkJyQkp4bDdFcEZVMHVXNnVleVExcmM0OEI0VXJqT1Zwd052V1RDUUFlQzRrUDVHVU9fdmo2Zg?oc=5",
-      "pubDate": "2026-08-22T06:17:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
