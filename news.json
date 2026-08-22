@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-23T02:01:56+09:00",
+  "updatedAt": "2026-08-23T02:38:39+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-08-23T00:49:40+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "ドル/円160円手前で膠着、介入警戒後退でクロス円買いに妙味",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rZ2d1ZXhKbkpwRk56cGZaQ3VFVkdROC1lSTJCRXNuMnRMQVhxYS12Rm9nOFlRcURya1M4b1hsMVdycVh5UnpjYnJtLU9LWlRpS0dvbzVQTXBodUFVLWhHVksxT25XREZBZVJUMlNEYkRKUmdR?oc=5",
@@ -65,28 +71,22 @@
       "source": "みんかぶ FX/為替"
     },
     {
+      "title": "｢円安は日本にとってプラス｣は時代遅れ…それでも方針転換しない高市首相が国民より必死で守りたいもの",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUhWTk1UYTNSVG5VandZeFhLT004bVJVWUg0U0VIRmFrQ3VBQVQtTjdiQk9rMTdyRGRpd3RYTFdGdTkycFZreUR6dHlPOTNVVUxhdnE2UnIwMWZxRE80T2swOHlnR2tjV2UxX3BhUEU5LWxDUzcxdS1lYnBHWFhqa0pKd0pqT0dL?oc=5",
+      "pubDate": "2026-08-22T06:15:41+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
       "title": "来週の為替予想（米ドル/円）下がり切らないドル円、160円台を試す条件は ハロンズFX 2026/8/22",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JeHRCcDA4TUs1aHFvNVNfQUgxT1N6NEp6UUQ3Ujh0d013UG1DX0g2eUd0SUdBVGZaLTZpejlTX0RGRGpnWHhIZzl0aDRwalFNVEFnak5idFZ3S1czeWZWaFY5Zw?oc=5",
       "pubDate": "2026-08-22T06:04:46+09:00",
       "source": "外為どっとコム"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・21日 ドル円、小反落｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OOGxxeHJBRzlfVGU3RXMzdnRhSjdfUzNsbjFoZWpoelFWSVRPZ0ZtTHpTR29hdU10eVB5Sm1fVktqT0UxMzZuR0RRWmZFcDZNMVE?oc=5",
-      "pubDate": "2026-08-22T06:03:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "２１日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EbjM5cHltX0NyZG9IR2VhLUw1cTluTGhfQi1XM0JPQWZ1bzgtWHZrZVEwX293bjhDSWw5SVRwakw1ZmRPS1hBQw?oc=5",
       "pubDate": "2026-08-22T06:02:44+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "上半期の経常黒字17兆円超でも円高にならない理由、キャッシュフローベースではその3分の1程度の円買いにとどまる 【唐鎌大輔の為替から見る日本】旅行収支のピークアウト、デジタル赤字、対外直接投資が映す下半期の円安リスク",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KR0lfWGs5aGZEdGNwcDNBMElPU3R1NnA4NHRJN25abFZRRHhvUGlPRW9EQkFSbDdTaEp3SUxCbHZ5UUtyaks3dnNKRFdWS0NGLWp6MUlR?oc=5",
-      "pubDate": "2026-08-22T06:00:00+09:00",
-      "source": "JBpress"
     }
   ]
 }
