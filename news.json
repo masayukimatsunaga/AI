@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-08-23T00:37:33+09:00",
+  "updatedAt": "2026-08-23T00:58:44+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "FOMC議事録公表でドル円160円攻防、為替介入警戒と米長期金利上昇が焦点",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fdDZzdFRrYzNja0twOUhqYjRwNmROUmpfZVZjYjZaZmRkZTh0aGpEeEdGMEsxZndjUGhDZGNydVp1REFxeXcwU0w5UmZrLVFxU0JMMHZjUG92MmJMYzdhaExuUGNDNWRrc2NTenpicUE0V2VZ?oc=5",
-      "pubDate": "2026-08-19T08:06:00+09:00",
-      "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "来週の為替展望：ドル円は159円台でこう着、日銀利上げ観測とFOMC議事要旨が焦点",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HU2lvZjNhT0gzWFdSVEsxQVo4dVItaXBzS05KUmdSOFhLRFppRGlMRXQ2QUdocjdncnJLelRGem52OFdaSzU1RUxqTEFnNlNUYUFaTks1ck9lelNLRzJqT2FCZ0M4ZDctNXQyaWNFdElXRWtR?oc=5",
-      "pubDate": "2026-08-15T07:05:00+09:00",
-      "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "米ドル/円は年内170円、ユーロ/円は200円を視野に！ FOMC据え置きでも円安構造は変わらず、悪い金利上昇と原油高、新NISAが支える｜西原宏一の「ヘッジファンドの思惑」",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpVFE1ZzhxNVpQdTNuRzFyNk1rT3dmZ0ZPY3RmZ2dkQlJvbzQzbjdkRjV2VHFxdW5PcDZVOGhWU1c5dThULTQ0RFVNWU1HS2hSWUE?oc=5",
-      "pubDate": "2026-07-30T16:00:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "為替介入か？ドル円5円超の円高へ｜大橋ひろこ",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93LUxHN3hnRTlpWGVCVWxlTm96TG1sVVAyN0VXMzBsWHg3N2JQOHBhRUNBOHVNd1NUVVhYWnlaZmdSWlM1Wmw5alF1b25MbGp0b013VTJCaEJSZw?oc=5",
-      "pubDate": "2026-07-30T16:00:00+09:00",
-      "source": "note"
-    },
-    {
-      "title": "ドル円163円台後半で膠着、FOMCと中東緊迫化で様子見ムード",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlNHc4YWNuWnp5NVl5WVNNWHh3TEh4U0xOeU5mZFcxTExNZUlnU25vYzZPczRCdXBOWnNsOVB6NnloY1hMdDVyWTlhWXRBRW4zWlNTbUgwRHNMZ1h0dEpMYm5SNTZZZFhtLU91T1FiN1JubGFs?oc=5",
-      "pubDate": "2026-07-29T16:00:00+09:00",
-      "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "【来週の注目材料】米FOMC及び日銀会合はともに据え置き見込み",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjeVRLNERwaGQ1aHpZY0RvSU43bjhmWDJrdDFreF9Bdy0yS3NQY1JoY3FYd055RzQ4V3JLZF9WcnF4YWtmZmI4OQ?oc=5",
-      "pubDate": "2026-07-25T16:00:00+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "来週の為替予想（米ドル/円）164円は通過点？ それとも天井か｜FOMC・日銀会合で試される上値 ハロンズFX 2026/7/25",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WNnRCTEJaTVo5ZmQwdDZkMklabWNFbl9KREVKZXpUemVpTnZ4V3RqUGU1aVQ4RTBmQ1c0QnBLSTh1SVlVMDgtYnJmX1BZOEFEYTZLUjBsT0IybVYzNE9lcm96WQ?oc=5",
-      "pubDate": "2026-07-25T16:00:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル円163円台で神経戦、FOMCと日銀会合控え介入警戒と利上げ思惑が交錯",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80VVBQbVc1LXhDYjVEbl9iMkVMMFNBNWN6NG5EUFoxemMtYWxCakpTY09vZ0w0aFFwS3dvUWZZZFl0eUdZeFl0UjBwUlNEMVAxMFNEQnM5UWs4dGk1YXotdEhvQlBGNUtNYnRucHczd0RNVUpS?oc=5",
-      "pubDate": "2026-07-24T14:13:03+09:00",
-      "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "1ドル＝161円超えで「歴史的円安」に肉薄…米利上げ観測は円安要因も、日本の“断固たる措置”でドル円反転なるか【今週の米ドル／円予想レンジ「157～162円」の根拠】（THE GOLD ONLINE（ゴールドオンライン））",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXbWhHb2pnM1dzNnpEVHlHSGdFQ0t5MExlb2N0MWxEcTE3TzlxWXZiVW9MRlhBOGxJc0QyUU85WmRpRG4wMVYxM2J1b3dTMm1KUGpuckcyRDRjb2U4Mlk2WFNiV0gtU1V1NWpTVjZ6eTNCcE1CSkxZbnhoQ0dCbnM?oc=5",
-      "pubDate": "2026-06-23T16:00:00+09:00",
+      "title": "「日本の眼鏡」訪日客に人気、高品質と円安の割安感に加え…欧米では必須の「処方箋不要」が追い風に（読売新聞オンライン）",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTzFJY3g3TXVSR0Q5WllUb2JHNGRYdnA3SHlhRHo5N09TR0VKb0hJeDJvbkpvLWMwUnVIdzVGTHJiY3Utd0Y4VmdQX00tUXYtQkdwN2hEd2ZLVC1MYUVneVFQVnJRMFRleVNjUUkzVHkya0l5V0JfSDNCejRVTFhxQlF0UVpucUdr?oc=5",
+      "pubDate": "2026-08-22T18:55:45+09:00",
       "source": "Yahoo!ニュース"
     },
     {
-      "title": "【為替】6/22～6/26の米ドル／円を予想する",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBodU0wRW5PVVVBR2NYOWFBZ0ZjNG5veWltSi0zZ0tTWU44b3MyTFl4cG5BNXR6VlZPLVVBUnZMTnRTc2pJeUliUDFxVDV2a1Iwd25XNtIBV0FVX3lxTE00OXVVTURrTVJXdTI4cVZXQWlrZzhYQ2NMdDJNSnBhMjY1ZEtDVVVab0cwNG92Rncyal8tODd1MTc3cHVVWkhfRFI0Snh4MHVacHFObEI5TQ?oc=5",
-      "pubDate": "2026-06-22T16:00:00+09:00",
-      "source": "マネクリ"
-    },
-    {
-      "title": "来週のドル円相場はどうなる？6/22週のイベント予定 2026年6月21日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53ZDhxMDNGeGpNNUEzYXBoM2l3NzAxNWhFNTE3QjRnbExaM3ZGejFRV2lEaE9GYXdrZGRWRmYtUHdWTVlWZXpZLXQ2X2V3bTBlSnVVRkNFMDFRaXE5a3dBdWRUSQ?oc=5",
-      "pubDate": "2026-06-21T16:00:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル円161円台、40年ぶり高値圏で介入警戒 植田総裁「主な意見」に市場注視",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wbVp6NElyRDc0OHFsSHdyZF9XdF9zakNjRy1IWEk2VkU0dFZEbUkwNmxHZWJNbGRaR3dfT0hpRXN5RGo0S1FXMTE3ZndpZ3pzZ1o5Z29qRlRrXzd2VWR0YlZId0Y5N0xDeWZaSG5WR2pxc1JR?oc=5",
-      "pubDate": "2026-06-19T16:00:00+09:00",
+      "title": "ドル/円160円手前で膠着、介入警戒後退でクロス円買いに妙味",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rZ2d1ZXhKbkpwRk56cGZaQ3VFVkdROC1lSTJCRXNuMnRMQVhxYS12Rm9nOFlRcURya1M4b1hsMVdycVh5UnpjYnJtLU9LWlRpS0dvbzVQTXBodUFVLWhHVksxT25XREZBZVJUMlNEYkRKUmdR?oc=5",
+      "pubDate": "2026-08-22T16:35:00+09:00",
       "source": "BigGo ファイナンス"
     },
     {
-      "title": "今日のFX予想：日銀利上げでも円安 FOMCに注目移る 2026/6/17",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwbFdnRUZfYjFqWHRIUUViOXZXVnVNdXYtdms2aWk1S1FtSnZZZXlJdmk3QVVqNTl1MVExdmh4MHY3Z1ZBS1N2WjlMZ1V3YTZQYklOOVRJenZBVXByZHR6VWdQQQ?oc=5",
-      "pubDate": "2026-06-17T16:00:00+09:00",
+      "title": "米ドル/円は160円手前で失速も、円安基調は変わらず！ もみ合いで介入リスクが低下、今はメキシコペソ/円などクロス円の買いを持つのに非常に良い状況(ザイＦＸ！)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmtSSjJrLVFHRnZCb2dLMU1FREtzeFBaV2I2elZhUzlrMDVJbmRpU0Y4SzJlOGlodWJ0LTJWeGx0cTI1QmNoa0dFc1dueGdBM3dOQUZnQTVBNVNuVVBubmhDbXV1dTVWWWFYV3kzTkJJazlfSW5FODQ4UVpTRUkyVnJvTDYwVlU?oc=5",
+      "pubDate": "2026-08-22T16:06:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "「日本の眼鏡」訪日客に人気、高品質と円安の割安感に加え…欧米では必須の「処方箋不要」が追い風に",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCSUR3OEt1c3FPRkhzNXZjTWRfcmwzVjZMbXNGa0hiMzFfRmw1Ry1RMU9HNnlIdVZ5VlMtQVV3LUk1OTY0a1pHcUEzSDR3bTBZYU9JczlfMVc2c2lpbTZXS2xPczk?oc=5",
+      "pubDate": "2026-08-22T15:30:00+09:00",
+      "source": "読売新聞"
+    },
+    {
+      "title": "日米為替介入を機に億り人たちが注目する「円高メリット」銘柄の数々 「Bコミ」坂本慎太郎氏はニトリHD、JACK氏は配当利回り4％台後半の沖縄電力に注目（マネーポストWEB）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZm9CTkxfVkprTjQ0SVBsdXRpREMydWdYTXBRNHppUE1RbGZoeERYeEpNYVBaRWNEaW5FQkZnVnpvN1ktREhzWmh5aTdKMzhpRDJ2clpudzh2ZGVmVV9wY1BHeW10QklSNmJMYXhoLXZXU2RQR2kzS1k2LWtXS00?oc=5",
+      "pubDate": "2026-08-22T15:15:00+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "ユーロ週間見通し：伸び悩みか、域内景況感は良好でも為替介入に警戒(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFI5a2N1emtoTTFwSkRTeXY0Wk9mMGlvdnltQWlHRzVJWlFYMUMtb2VObEFOamV4OGpOTnNhN3I0UkZlOXdVLVFvbnFiLWwycThmVks5aTh5cDlOUms2U19PUnpQNGh3QzhrV0dzejZLTmxjcHZ6aUVCZzdFZ1ZKV1o1ejh6ekE?oc=5",
+      "pubDate": "2026-08-22T14:39:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "英ポンド週間見通し：伸び悩みか、英インフレ再加速も為替介入に警戒",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0pISTlJVlV5RGE5Y2JtT2RTN0kyekk3ajlSVkFVRzcyS1dBUFM3MHFDalByTmR1eF9CcnJCdS1FR3AyZnQ1MXJlWmZlODM0NFFKRnVuR2hzSWJGWmxibUdPZGYzQ3FRYUJtUGlqb3Z3ZXg5RFJMa3pTS1FYTzlwNDhyaW1ZREXSAYwBQVVfeXFMT01Wd2ZPcy1JaFhVYkQtaTlLVzhURmVXS2M2ME90UU43UlFLRUNCaERZN2pYVzdETWdLMGtWNVBKNHRaZXM5cFppVHVCUVdfNjFOT09Bckg3aW1HUmRBd0lSRl9mUHhTeDJ2eWE3SnRjU0JtS0lNeU11U2VSSzd4RVkyalNCZkF3azhnNnc?oc=5",
+      "pubDate": "2026-08-22T14:39:00+09:00",
+      "source": "ｄメニューニュース"
+    },
+    {
+      "title": "為替週間見通し：伸び悩みか、ドル買い継続で160円視野も為替介入に警戒(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMXVYQXNXdk9VYXBtV0VaVUdwQk1nWmlUUWRyclZULWUyMGhjakhyOWRxckt6Rk50NVp2TV8wVWh4bTM2ZldMVnhBY1BydDNCd2g0cDdMRngxemZYU2VEdEtKa2o0Rm9rOFFuMHVLOEJzeDlQVDFKelg4cmoxeXdKb3BqZW5rM0k?oc=5",
+      "pubDate": "2026-08-22T14:38:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "米ドル/円は160円が上値の目安も、レンジ相場で売りはスワップ負担が重い。注目は120円を目指す高金利の豪ドル/円！",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONUtqaDJIWXNDaFpFeTJGYkFpYkJ5RHFOeEEzWjNxaWRGa2U2Q2VON05Gdk5naS1rdWF6Y2VYX1FpZEhCOFJlbjJHUWotSVV4amlhX2JjN3REc2R0OUhxTV9PdThfdXgzZUs3MHhDSGt5QkNGbllMWXQyVExGZnlZVm96ZjJ3SlE?oc=5",
+      "pubDate": "2026-08-22T14:06:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円見通し｜ジャクソンホール会議とは？ドル円が動く理由と2026年の注目点を解説 2026年8月22日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vS3FfSXUzYW1LVkpHUHk0clJVaUMtcGV6ZkVHQTg1RlRIeHVYOU5vaGswdlg2RFVXVW1ka3pMQmZGMk5LTjAyellYYXJuS1JhYU1TZ2Q3WEQtcktjVW9YY250bw?oc=5",
+      "pubDate": "2026-08-22T10:00:00+09:00",
       "source": "外為どっとコム"
     },
     {
-      "title": "ドル円午前の為替予想、ドル/円、日銀利上げでも下値堅い 次の焦点はFOMC 2026/6/17",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nLWg4eEZFN1NZQlU4RE9tWmcwbno5alQ3OHV2UUtqUHNKNF9rYU9MTl9KZ3V4ZmdldzRlN0hvMDBzOHJ6Mkp2YUtJOVo2S0dENE56Y29vY0taS1pCQmpnTUI1UQ?oc=5",
-      "pubDate": "2026-06-17T16:00:00+09:00",
+      "title": "来週の主な予定 ジャクソンホールと米雇用改定 為替介入実績 エヌビディア 米イラン制裁 -",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRQ25DQ2xIQkk5cEE2bUZzeXQxU1pEeEw1a25ZbTBRT3RtaU9GSTF0dG1EVDRiSWZ0ck9DdFk0ZjZ3ZjhQeXBwQQ?oc=5",
+      "pubDate": "2026-08-22T07:40:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル円は１５９．００円前後まで戻してもみ合い＝ＮＹ為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ldjZaOTZ6dThtSkJyQkp4bDdFcEZVMHVXNnVleVExcmM0OEI0VXJqT1Zwd052V1RDUUFlQzRrUDVHVU9fdmo2Zg?oc=5",
+      "pubDate": "2026-08-22T06:17:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "｢円安は日本にとってプラス｣は時代遅れ…それでも方針転換しない高市首相が国民より必死で守りたいもの",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUhWTk1UYTNSVG5VandZeFhLT004bVJVWUg0U0VIRmFrQ3VBQVQtTjdiQk9rMTdyRGRpd3RYTFdGdTkycFZreUR6dHlPOTNVVUxhdnE2UnIwMWZxRE80T2swOHlnR2tjV2UxX3BhUEU5LWxDUzcxdS1lYnBHWFhqa0pKd0pqT0dL?oc=5",
+      "pubDate": "2026-08-22T06:15:41+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "来週の為替予想（米ドル/円）下がり切らないドル円、160円台を試す条件は ハロンズFX 2026/8/22",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JeHRCcDA4TUs1aHFvNVNfQUgxT1N6NEp6UUQ3Ujh0d013UG1DX0g2eUd0SUdBVGZaLTZpejlTX0RGRGpnWHhIZzl0aDRwalFNVEFnak5idFZ3S1czeWZWaFY5Zw?oc=5",
+      "pubDate": "2026-08-22T06:04:46+09:00",
       "source": "外為どっとコム"
     }
   ]
