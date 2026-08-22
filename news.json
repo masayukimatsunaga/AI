@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T03:50:31+09:00",
+  "updatedAt": "2026-08-23T04:38:32+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -21,6 +21,12 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmtSSjJrLVFHRnZCb2dLMU1FREtzeFBaV2I2elZhUzlrMDVJbmRpU0Y4SzJlOGlodWJ0LTJWeGx0cTI1QmNoa0dFc1dueGdBM3dOQUZnQTVBNVNuVVBubmhDbXV1dTVWWWFYV3kzTkJJazlfSW5FODQ4UVpTRUkyVnJvTDYwVlU?oc=5",
       "pubDate": "2026-08-22T16:06:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "「日本の眼鏡」訪日客に人気、高品質と円安の割安感に加え…欧米では必須の「処方箋不要」が追い風に（読売新聞オンライン）",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTzFJY3g3TXVSR0Q5WllUb2JHNGRYdnA3SHlhRHo5N09TR0VKb0hJeDJvbkpvLWMwUnVIdzVGTHJiY3Utd0Y4VmdQX00tUXYtQkdwN2hEd2ZLVC1MYUVneVFQVnJRMFRleVNjUUkzVHkya0l5V0JfSDNCejRVTFhxQlF0UVpucUdr?oc=5",
+      "pubDate": "2026-08-22T15:30:30+09:00",
+      "source": "Yahoo!ニュース"
     },
     {
       "title": "「日本の眼鏡」訪日客に人気、高品質と円安の割安感に加え…欧米では必須の「処方箋不要」が追い風に",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JeHRCcDA4TUs1aHFvNVNfQUgxT1N6NEp6UUQ3Ujh0d013UG1DX0g2eUd0SUdBVGZaLTZpejlTX0RGRGpnWHhIZzl0aDRwalFNVEFnak5idFZ3S1czeWZWaFY5Zw?oc=5",
       "pubDate": "2026-08-22T06:04:46+09:00",
       "source": "外為どっとコム"
-    },
-    {
-      "title": "２１日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EbjM5cHltX0NyZG9IR2VhLUw1cTluTGhfQi1XM0JPQWZ1bzgtWHZrZVEwX293bjhDSWw5SVRwakw1ZmRPS1hBQw?oc=5",
-      "pubDate": "2026-08-22T06:02:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
