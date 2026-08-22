@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T06:38:55+09:00",
+  "updatedAt": "2026-08-23T06:59:42+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -27,6 +27,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10dnNFalVibHQzWlBIbkM2SmZmZmNjVHNyZkpuMDduYzIxWW80U2FHWUd3bjRnWERUaF9FLVJZZ3V1SzFmcG5ycUZWRlR6TW4yV2c?oc=5",
       "pubDate": "2026-08-23T05:00:00+09:00",
       "source": "ゴールドオンライン"
+    },
+    {
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-08-23T00:49:40+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "円安で得する人と損する人は？！円安の2つの側面を知ろう！",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vS3FfSXUzYW1LVkpHUHk0clJVaUMtcGV6ZkVHQTg1RlRIeHVYOU5vaGswdlg2RFVXVW1ka3pMQmZGMk5LTjAyellYYXJuS1JhYU1TZ2Q3WEQtcktjVW9YY250bw?oc=5",
       "pubDate": "2026-08-22T10:00:00+09:00",
       "source": "外為どっとコム"
-    },
-    {
-      "title": "来週の主な予定 ジャクソンホールと米雇用改定 為替介入実績 エヌビディア 米イラン制裁 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRQ25DQ2xIQkk5cEE2bUZzeXQxU1pEeEw1a25ZbTBRT3RtaU9GSTF0dG1EVDRiSWZ0ck9DdFk0ZjZ3ZjhQeXBwQQ?oc=5",
-      "pubDate": "2026-08-22T07:40:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
