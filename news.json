@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-24T04:38:14+09:00",
+  "updatedAt": "2026-08-24T05:41:41+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "円相場、年末に1ドル=160円 海外投資が円安促す",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmZWNwcjZzTTZ1Y2xSbGNtTFdzYU9yT19xT0RxbGJvZG4zaFFVcmRSTXpSbkRHQUZITWE2aFd6NHpPOU5PWnVzYUthSndTM2Fra0JqYVZ2QnRKb3dOQkYzbFBVb1J2V1ZVTDNCTTFXMmlUSFc3RVdtM2ljMWR4QQ?oc=5",
+      "pubDate": "2026-08-24T05:00:00+09:00",
+      "source": "日本経済新聞"
+    },
     {
       "title": "日本の借入コスト28年ぶり高水準、円安はビットコインに影響か",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MWGZ3TEtaR0t0VmNiYk1hYlZHbjVYdEZnVldRMVl4bThnakJiLURFN1AxVWowdVR6NE1HelowOXlCOXUtMG51UmpfQ2Vkc1NfOUVsN2hDTUp0YXN4WGRBVGlNZjVMZnBOMEFxSjNYMjZBM2s?oc=5",
@@ -51,12 +57,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEd0xfWXJJMjN2cTdXa2Y4NEwyVFQ1NU41TGZmNWNPRFNKMTZSNDZ5cW41LTdESjczSnZqaVJkdEVyc1hlUUFmaWNYdlVCN3kwbkNzdDJMQ0dyOEEtUmpQX1V2RGN5MmM?oc=5",
       "pubDate": "2026-08-23T05:18:00+09:00",
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "ニュースワード「為替介入」（時事通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56R1o0VkFLWFhPQjZ0N2ZzcjZ1eFJtTkxlbU1zQ1FjMC0xUTRIYnRWcWhSWXFPWlB5eW0zMmVJeUZFZk93Y2wyUVlpLXhtdUlpYjhGUVFRVE00eFB0elNfWnpCeUJ6QXBwU1dzWjFlTE5Ea1pHTW8zbDJyVE1NYm8?oc=5",
-      "pubDate": "2026-08-23T05:01:22+09:00",
-      "source": "Yahoo!ニュース"
     },
     {
       "title": "「来春までに海外旅行したい」大学生の約6割 円安でも意向高く",
