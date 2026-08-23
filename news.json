@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-08-24T05:41:41+09:00",
+  "updatedAt": "2026-08-24T06:38:22+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "28年ぶりの円買い協調介入、円安の主因はマクロ経済政策、問われる政府・日銀の転換",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9za0tvWlVoM05ZQm56VEZMYS1kYkhVZVMzTDZjd0dBbGo1YTBlblV3QTA2d29VcW5qbFp5Nm9qVExsVmpORk5lRW9XRlPSAU9BVV95cUxNX0pfRmdDTXdQQWQyeHpEZ2tGWUJRWFJiV2RSTWNtWFZxbkZ1R0YteklaUERqWElEUHFhaXhTUXhlbzJ4eDNBbmRMY2dBNHpV?oc=5",
+      "pubDate": "2026-08-24T06:15:00+09:00",
+      "source": "ダイヤモンド・オンライン"
+    },
+    {
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-08-24T05:30:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "円相場、年末に1ドル=160円 海外投資が円安促す",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmZWNwcjZzTTZ1Y2xSbGNtTFdzYU9yT19xT0RxbGJvZG4zaFFVcmRSTXpSbkRHQUZITWE2aFd6NHpPOU5PWnVzYUthSndTM2Fra0JqYVZ2QnRKb3dOQkYzbFBVb1J2V1ZVTDNCTTFXMmlUSFc3RVdtM2ljMWR4QQ?oc=5",
@@ -15,12 +27,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MWGZ3TEtaR0t0VmNiYk1hYlZHbjVYdEZnVldRMVl4bThnakJiLURFN1AxVWowdVR6NE1HelowOXlCOXUtMG51UmpfQ2Vkc1NfOUVsN2hDTUp0YXN4WGRBVGlNZjVMZnBOMEFxSjNYMjZBM2s?oc=5",
       "pubDate": "2026-08-24T04:34:29+09:00",
       "source": "BeInCrypto"
-    },
-    {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-08-24T01:03:59+09:00",
-      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "円相場、再び160円迫る展開か 日米中銀幹部の発言に市場注視",
@@ -59,6 +65,12 @@
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     },
     {
+      "title": "ニュースワード「為替介入」（時事通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56R1o0VkFLWFhPQjZ0N2ZzcjZ1eFJtTkxlbU1zQ1FjMC0xUTRIYnRWcWhSWXFPWlB5eW0zMmVJeUZFZk93Y2wyUVlpLXhtdUlpYjhGUVFRVE00eFB0elNfWnpCeUJ6QXBwU1dzWjFlTE5Ea1pHTW8zbDJyVE1NYm8?oc=5",
+      "pubDate": "2026-08-23T05:01:22+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
       "title": "「来春までに海外旅行したい」大学生の約6割 円安でも意向高く",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUaFd6SkQyX3RLZXU5LVBBT0RabTJXcllvajFGTG81cDZuQ2w1OVlpYjdCZFp5S01PRjhIem41ZHg5WDdUemxlenNQZzhzNUcyM1pCTkVQcW55WTBJVThoRUlRTjJQbm5ILUs5Vw?oc=5",
       "pubDate": "2026-08-23T05:00:00+09:00",
@@ -75,18 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFI5a2N1emtoTTFwSkRTeXY0Wk9mMGlvdnltQWlHRzVJWlFYMUMtb2VObEFOamV4OGpOTnNhN3I0UkZlOXdVLVFvbnFiLWwycThmVks5aTh5cDlOUms2U19PUnpQNGh3QzhrV0dzejZLTmxjcHZ6aUVCZzdFZ1ZKV1o1ejh6ekE?oc=5",
       "pubDate": "2026-08-22T14:39:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円見通し｜ジャクソンホール会議とは？ドル円が動く理由と2026年の注目点を解説 2026年8月22日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vS3FfSXUzYW1LVkpHUHk0clJVaUMtcGV6ZkVHQTg1RlRIeHVYOU5vaGswdlg2RFVXVW1ka3pMQmZGMk5LTjAyellYYXJuS1JhYU1TZ2Q3WEQtcktjVW9YY250bw?oc=5",
-      "pubDate": "2026-08-22T10:00:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル円は１５９．００円前後まで戻してもみ合い＝ＮＹ為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ldjZaOTZ6dThtSkJyQkp4bDdFcEZVMHVXNnVleVExcmM0OEI0VXJqT1Zwd052V1RDUUFlQzRrUDVHVU9fdmo2Zg?oc=5",
-      "pubDate": "2026-08-22T06:17:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
