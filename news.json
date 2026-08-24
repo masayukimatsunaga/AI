@@ -1,9 +1,33 @@
 {
-  "updatedAt": "2026-08-25T07:09:42+09:00",
+  "updatedAt": "2026-08-25T07:46:26+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し 2026年8月25日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iSkppc2xUT2JzZ0dqNXMxaGkyaWduSk9hM2QxNXFfNXpyQS1iWld1ZHFtQW1EZmxMNGtubG5tZ0d0a0I3T3A2NHVYdkhXczlIR1dIVmVXWVVrNHlwWUdqdWx1dw?oc=5",
+      "pubDate": "2026-08-25T07:37:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル円午前の為替予想「米長期金利とドルの下落余地は限定的か」2026/8/25",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wSlkwRFhyOGRGUWpyV0lhM3htaGhXOWxNclFlNEtmV2xiT2NHNWo3aFl5Tm9WN2VGb0ZyQmZHeEV5c3lhZVU4Z21iVnRhdFhoTHdPVDJ6QS14WFZndmQ3XzJfYw?oc=5",
+      "pubDate": "2026-08-25T07:37:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "朝のドル円は１５９．００円台＝東京為替",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9rSC1iNUZKSWRUSWh1NDhkdDJDUHh0MDc1di1mallZYlA1SjRHQlVrNFN4dUxEY3FyQld6aFU3UzJhX2Y3ZEE?oc=5",
+      "pubDate": "2026-08-25T07:15:00+09:00",
+      "source": "みんかぶ"
+    },
+    {
+      "title": "ドル円、１５９円台前半 介入警戒に加え、米財政を巡る懸念が上値を抑える＝ＮＹ為替概況 -",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wV01vOWVXQnEzaVVMSEl1Q2JfZm5ybEh3UDVTTUw1U0pNbnNhNnRVYzhfQ1hOYk1VWmlCMC1PdlRxUXZ3TEgxZw?oc=5",
+      "pubDate": "2026-08-25T07:12:41+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "２４日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE14WmxjRlI4QzJUV0Z6dEowRXlnSkV5MTRtMy1YM3FxdWpPa3BGMXMzSjZYU3FUcTZTcEpDNEtJcjVCbHl3N0E?oc=5",
@@ -21,12 +45,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wN1JjVWp6clJyYWUyYnc2Vnozbjdmd01sNGVuOEI0SXZvdko3eEJVa3A5cUxVc3o2anVvc1lfU3k5RF9uZWxIS0NUYTU1cHIzbmNockFIYWxUdGpE?oc=5",
       "pubDate": "2026-08-25T05:45:00+09:00",
       "source": "テレ東BIZ"
-    },
-    {
-      "title": "ドル円、１５９円台前半 介入警戒に加え、米財政を巡る懸念が上値を抑える＝ＮＹ為替概況 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wV01vOWVXQnEzaVVMSEl1Q2JfZm5ybEh3UDVTTUw1U0pNbnNhNnRVYzhfQ1hOYk1VWmlCMC1PdlRxUXZ3TEgxZw?oc=5",
-      "pubDate": "2026-08-25T05:40:44+09:00",
-      "source": "みんかぶ FX/為替"
     },
     {
       "title": "【テクニカル】乖離ランク＝ドル円のみのマイナス続く",
@@ -62,31 +80,13 @@
       "title": "円安と燃油高受け、水供給を国内生産へ転換",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oM2VXSFRMbEZMV2tFNnJPVVdFM2hwVms2Rl9zMHZhSFJibmdrYTdtbXVvNHVUSEZOdWZhbkhuclR1bGJxWWF4Tg?oc=5",
       "pubDate": "2026-08-25T00:06:33+09:00",
-      "source": "LOGISTICS TODAY"
+      "source": "logi-today.com"
     },
     {
       "title": "【テクニカル】週足テクニカル・ドル円 サポート＆レジスタンス",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pY01IUG1KSnFUMm1kdWFxWnV3VTctVEwybjhXQW5FRXBCeEFQUFlKMEx3dW5sYS0yY0hFZGNCTjM5V3dNX2VSb2xEVnRGUFB5Mkk2c2tJZ19EaVhTTm9XWkdjQQ?oc=5",
       "pubDate": "2026-08-24T23:03:12+09:00",
       "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル円、１５９円台に再上昇 米財政を巡る懸念や日銀の早期利上げ観測が上値抑える＝ＮＹ為替序盤",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuX295U0tGSGxJeVliYlg2UXVMM21iTDRrVkJvODVac1NDcHFjOWw1bHZ5ZFNzRFE3WXNwVWlEQ1VIcW9lVlQweA?oc=5",
-      "pubDate": "2026-08-24T22:28:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、弱含み(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNi1OVGl2bDViektGX2lwTDE5MmVyLWV2RU9XYkJSZDRnM3UzMHc0Tkw4QWxCTzl1SEE2R09Vb09ZX01GdU1lNWtmbFZyRTZuTl9LdVlsa1phOVR3Z090dHpqZGpaMzNwMjg3a3RtbVVtS3ZlcTZMOG1ZNW1vUVAyWTFHN0VkYVE?oc=5",
-      "pubDate": "2026-08-24T22:06:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円のピボットは１５８．９３円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tUGpZbDNnZWN0RVFfQkxMcmU5OTRWNWVZbjlJYUVjZTBLYnlsQmNrOE9wamNrV2VTc3BHWUhuckpRTVVNaWpEaA?oc=5",
-      "pubDate": "2026-08-24T21:50:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
