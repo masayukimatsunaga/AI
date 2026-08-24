@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-24T23:26:47+09:00",
+  "updatedAt": "2026-08-25T00:23:54+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "円安と燃油高受け、水供給を国内生産へ転換",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oM2VXSFRMbEZMV2tFNnJPVVdFM2hwVms2Rl9zMHZhSFJibmdrYTdtbXVvNHVUSEZOdWZhbkhuclR1bGJxWWF4Tg?oc=5",
+      "pubDate": "2026-08-25T00:00:00+09:00",
+      "source": "LOGISTICS TODAY"
+    },
     {
       "title": "【テクニカル】週足テクニカル・ドル円 サポート＆レジスタンス",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pY01IUG1KSnFUMm1kdWFxWnV3VTctVEwybjhXQW5FRXBCeEFQUFlKMEx3dW5sYS0yY0hFZGNCTjM5V3dNX2VSb2xEVnRGUFB5Mkk2c2tJZ19EaVhTTm9XWkdjQQ?oc=5",
@@ -21,6 +27,12 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNi1OVGl2bDViektGX2lwTDE5MmVyLWV2RU9XYkJSZDRnM3UzMHc0Tkw4QWxCTzl1SEE2R09Vb09ZX01GdU1lNWtmbFZyRTZuTl9LdVlsa1phOVR3Z090dHpqZGpaMzNwMjg3a3RtbVVtS3ZlcTZMOG1ZNW1vUVAyWTFHN0VkYVE?oc=5",
       "pubDate": "2026-08-24T22:06:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円のピボットは１５８．９３円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tUGpZbDNnZWN0RVFfQkxMcmU5OTRWNWVZbjlJYUVjZTBLYnlsQmNrOE9wamNrV2VTc3BHWUhuckpRTVVNaWpEaA?oc=5",
+      "pubDate": "2026-08-24T21:50:44+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
       "title": "【日本株】海外売上比率が高く｢円安｣で業績アップに期待の2銘柄！ 海外売上比率が約8割の｢マキタ｣、船舶用レーダーや防衛装備品が好調な｢古野電気｣に注目！（ダイヤモンド・ザイ）",
@@ -75,18 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXF3aFB5WkN2VWdGWnpVU01PUm9ObFdpc0l1V2czaXFSN0J2TWlqY1BQeDFwNWFyUlZzdHZBRXluRzhmUy1vdDJUZnY1RHMzZTFzTm4wLUJtVGFNLXpMSDdaVGVYaDRkZ1NFY3hUdjJMdUVDSUxXTUNPdGdYUjRXSkpBaS15QVE?oc=5",
       "pubDate": "2026-08-24T19:05:44+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円が一時159円台前半に切り返す、米財政懸念と中東リスクで方向感欠く",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUR0RIRGprWWRpcldrN0I1STgzRE9vV25nYmtmY1Jvdno0cTNqempHbm5ndzdoT3A2STc4ZjAwQ2VRdGFvN0Etdm52cHc3eTl5NmZLTDBndS1YUUs0YUdWZUFtdlBrNmdlbDJUT1BKMndVcUhx?oc=5",
-      "pubDate": "2026-08-24T19:00:48+09:00",
-      "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "ドル円一時１５９．２８レベル、欧州勢はドル買い先行＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41Zm5XVHFfWm11UGJBSTdkT25iU3VKMmdlMHZfYXhvWGpOV1o2eWF3ZGJkdlg2NGdKMlFMWkE3QjhLNEZvNWFHdw?oc=5",
-      "pubDate": "2026-08-24T18:09:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
