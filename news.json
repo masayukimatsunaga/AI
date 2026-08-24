@@ -1,93 +1,92 @@
 {
-  "updatedAt": "2026-08-24T08:59:18+09:00",
+  "updatedAt": "2026-08-24T10:59:09+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "２４日の東京外国為替市場見通し＝ドル・円、１５９円ちょうど近辺でもみ合いか(ウエルスアドバイザー)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeDc5QWt4UUtheG5IcERkRmQ1UUNwbEFxZnBEQWhYMW1Vb3VORHQyeTJGRXR2M0pQek44Uk9JRWpjdVRRaFBWbXhuWVlRbWNjdXdDZThOYjJFY0YyR3IwRGZnaXZIdHEzdzVMcEE0YXEwZWZmMC03ajVuQUxRdm1LNWRiUUhseDA?oc=5",
-      "pubDate": "2026-08-24T08:46:32+09:00",
+      "title": "東京為替：ドル・円は158円71銭まで下落後に持ち直す展開に(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONGt6SnZ2Z2MzQTJNNXdEQUh5eUQ2cE9ReW0xN21XZjczWC1GTUZDN000anQtZ1VzY09wWl9QYWJPOW9LWEtCMHZOc3lQdVJnU3puSFZHTkVqZm1vWGUyaThtdHlBbllwNl9sN0JaQzluUTkzMDRZX1MxX1N0TTlnRkRDbUlTeEU?oc=5",
+      "pubDate": "2026-08-24T10:35:00+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル・円は方向感を探る展開か、今週のジャクソンホール会議でのウォーシュFRB議長講演待ち｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBabVlYWW9hWW9jODJ5RTVTT21oX2hUYnNkWUlSblVzRTY3VGZIRTJIczViVUhkUlhGbFlHVFBTTWRuTDFDMnZvSUxiWjdNNTZYQ0E?oc=5",
-      "pubDate": "2026-08-24T08:46:00+09:00",
+      "title": "外為：スイスフラン、198円50銭前後と小幅なフラン高・円安で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOXp4MGpjYUJkV0xpVWFWZWVQQ3Y5cjY3eldNcmZDb0lpN1ZUa3hqU2w3U1ZJeklzTEpocXZxZzV3cEM4VWRkaG9hZ09vdUV5M0tYSXZtZThqaXp4WnlSSTd4c085RWY0RkpucFNhd3YtN2lVdWhza01ySlQ5VnB1emIydE9CRXc?oc=5",
+      "pubDate": "2026-08-24T10:31:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円予想レンジ157.00～161.00円 注目通貨は人民元（8/24週）",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBud2NmQTFDRE1Dd3o2TVY4QVZ0UmZyMU1Ic2hyUFNJRXFmMmF6dTl1T0dHV1BaMVNkNUZab3h5dWl5b0xPZ3haVnV3ZnBFSkhmUnAzeA?oc=5",
+      "pubDate": "2026-08-24T10:24:00+09:00",
+      "source": "日経CNBC online"
+    },
+    {
+      "title": "東京外国為替市場概況・10時 ドル円、上値が重い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZVJEWkJJa0U0M0xJSk94VlJMa0dyQXRMbFRBa2U2YlVzelJjcTctM3JIbUI4OE45UTFwUnFheldITlAyb1R2endjaG8xTW5tc1pFQkdHcGJhYWR3bDNReTQtYXdPanp5eG5oSlR2WlpZcUhDTGtJZ0xzTXBDQ2JockQtMnRtYU0?oc=5",
+      "pubDate": "2026-08-24T10:07:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "24日のドル・円、売り・買い要因＆支持抵抗ライン(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemkzMG5hNHJXTWQyWWdfU2ZFQlVyeF9xYTBYQm54bkVyRVktdXlpYmZtc1ZjN1pJTnF0WGtPZXhVY3hqNGRWZ2JadER6QS0yLWlfX2drM0VmNThDejRiUm85MkNaQ0VfQk93dHpFenhkVnlPazh6ekJ4OGRCa0RZd1FIUnZVbFU?oc=5",
+      "pubDate": "2026-08-24T10:05:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京為替：ドル・円は158円71銭まで下落",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX1c0R1g0NmtJV2xST0dDbDVQdXB4cHZ1YlA2VWZ1aHJGZ0t2Q09fZkduVHZTR3NncHROM0RHY09BQkZWUnUyaVFhNWlYV2ZyLXNKWU9pc21IOTU5a3M1bzAtdy0xWGJRaWFJZzl2eUpDcnF3N0Y5cUhEU0lBR3dQOURmM0ZLbGdXTzJaOTBZZVFVMmhLZzhOTms5MzQtSFdZZ2tGZk5hRjdYN09LdTBqSWoxRzkwRFVoV0Z0Y3Bra0RoR0xYWkwzYmxPMDJWNlZaSUFyWlkwbS12dkF00gGMAUFVX3lxTFBKZTdIWnRIOVdNR2xiOFFrajFMSlRiLUYzQjRxWVg4NGlyMk03WmMwX2N1ckNPTVNtYS04SjJpZldBTFRQYXd3QTkzRXdYUldFa3J0dHdXWnkwNDdSMktKQlJfQ3U2dzRPcUlWcVdkRlJKMmNIVU5vVHJzZ1ZGMGFYdnhIM2NZQ0dmTFdL?oc=5",
+      "pubDate": "2026-08-24T10:03:00+09:00",
+      "source": "ｄメニューニュース"
+    },
+    {
+      "title": "外為：1ドル158円73銭前後と小幅なドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORkhBRUpleW02dmV3dFVuWGhqc1ZxazZpWVVMaW1zNXJFYzZ4OElWSlkwNWdqcEpiUExPV3NTX0hYOEtwcTM5cEFHZG9JNkZ0T1dBOGFEdXVwcXhaazNzblE3b2VOdkFpeWh6akdURjk5bldpNlhMVEFZOEhCVjlVZjV2Z29uMmM?oc=5",
+      "pubDate": "2026-08-24T10:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円仲値、158.81円 三菱UFJ銀行(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzhpbHQydEZjS1FXZjl1UW1aUnlsMlpFN2RxaDBhMHo3a241bGxvRE9TQTFwWUNyTFY5T3Q2ZjE4S3FNNVVmNjM2U1lkcGludjEyeGNQbk1ya1pHLXpELXNWZ205bGYtdU1iLVBUMVBRZW1rY29aLU80N3lMX0N1RksxRVZTbmM?oc=5",
+      "pubDate": "2026-08-24T09:59:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、ジャクソンホール前に様子見 米財務長官の対イラン制裁発表に警戒",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JTGp5U3E5WWYyR01WV1B2ZjhlV01yWGVRbjZZVUhoaC1xQnhOWVNMSklvVDUzbEkwSGJlTUk0bFlhMUg3SnBOcU1KMUdrX2gyRTFSSVlMeEVzRnZsWGR1U3hnQTdVbFU3aDkwaDhaOFJCTGdk?oc=5",
+      "pubDate": "2026-08-24T09:35:18+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "東京為替：ドル・円は158円73銭まで下落",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53U1phSTcyRlM4Y0lFWGZuVmg1aTVFeTVhVHJhbktRblRFLTBseUljTnk0YUZVcklGTjZoODh5VFlaOXpiVElWdjg5M3hRYnVBb2c?oc=5",
+      "pubDate": "2026-08-24T09:32:58+09:00",
+      "source": "株探"
+    },
+    {
+      "title": "東京為替：ドル・円は158円73銭まで下落 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GWHpiVWRZUnhPOGxDNkxiWmFZTkRlN2E0OWxIZUpjQ1hqOVpZT0xYcFlDZ0M0SmVubnFRVUV2YlBwMnlvMDF5X3c0UGMzY0hiUDFDZm9JSzl3VjJDWXlNaWlZVHdvbzg?oc=5",
+      "pubDate": "2026-08-24T09:32:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
+      "title": "ドル円、再び下落 米長期金利の低下とともに上値切り下げる(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa05WV3Zlal9VSm9CUEVITnphekdpakM0TEt3dGRXemhPVU80VHE2SG9sb1FkVVFadDZNOUtrVElsWk1xNGFoaHFfRGtaN2pQMVc1c0otV3M5YURFSm52TS1zVjk5WmtweVVOS1hqLXRwTWVkWTFhNkpFM3FiWEd0akdSS1pMRTA?oc=5",
+      "pubDate": "2026-08-24T09:28:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、再び下落 米長期金利の低下とともに上値切り下げる｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zSy0zUUo5b25ib0ZDOTRBanN6LU52RmtUTzRzT0pmclpyYThVZnRqb1dWLTB6c0I1UXBoMnNYQ0paaWRLQ2c4eFRLVHFfNHJFbVE?oc=5",
+      "pubDate": "2026-08-24T09:28:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円、158.97円付近、SGX日経225先物は上昇してスタート(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXhqNE44V0pWeEJTaFlyVTN5QzZVZzJhM0ZiaDY2N0ZULUFkU0JUWW1wQ1JBdHVwTVJGdzJseWt1bEl4ZU93OUhrMU1Kd1h6ZHptQXRoU2VCczNXR2RxV3EtZmstNmhvYVA5V2ZhTVZleWVQSGN6bm9WOHp5bmFhaHRMU0ZWcjQ?oc=5",
-      "pubDate": "2026-08-24T08:38:31+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、158.97円付近、SGX日経225先物は上昇してスタート",
-      "link": "https://zai.diamond.jp/articles/-/494400",
-      "pubDate": "2026-08-24T08:35:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "FX/為替「ドル/円今日の見通し｜ジャクソンホール待ち 米財務長官発言に注意」 外為どっとコム トゥデイ 2026年8月24日号",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mYjZMMlNIaXpsYkhLT1JUTGEtSFZ2QzZvOVZkeTZZSXgwNlIxSWhaOU1JbWFQeU9RSGRObWZqWEt5VFhIOWNjOVl0endQdjN6NGJ0UnRFRFVPVGZtOU0ydTd6Zw?oc=5",
-      "pubDate": "2026-08-24T08:33:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "今日の為替市場ポイント:今週のジャクソンホール会議でのウォーシュFRB議長講演待ち",
-      "link": "https://www.zaikei.co.jp/article/20260824/867007.html",
-      "pubDate": "2026-08-24T08:26:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "〔外為・今日の材料〕ドル円、様子見か＝米財務長官の会見控え（24日）(時事通信)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0xfaTc2VUtrMXljalFnYWFPeUdQZHkyX2tVZWpGM3RCUXptdUxRSkl6dVZQamtQTzBYMXJsa0V6YUFpcC1HclpMUW5jVFl5X2VfUUYxN3RkdkpISk94ZnZISnNGNXZBaDk3SWZxeE80OTlpa216TmJyN1RLcDJqOExBSHZVX1U?oc=5",
-      "pubDate": "2026-08-24T08:24:22+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル/円見通し(為替/FX ニュース )：先週末のドル円は円高で158円台後半｜夕刻にかけて円高が進む(2026年8月24日)",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KcW9LYWpVSmpHT2pWUURRci1sU1VpbE1XcDRielJ4Y2ZwaEtoN1ctZ0UyU3Z0a3F3dWZIZWI2LWUxdzkwQmV6QjJzQWpuLTZfcUQ3eENaUGRpQ0hMdlJfZW1ZVGNNeGdneXYtSGNHY3ZJbkk?oc=5",
-      "pubDate": "2026-08-24T08:12:40+09:00",
-      "source": "OANDA証券"
-    },
-    {
-      "title": "外為：1ドル158円94銭前後とドル高・円安で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTmU1bWxFYTJZVDJXNUZsSzNmSy1IUmhNb1ZWQ20xN2lYSUd4a3FPd3M2MnowWmxrdVZpR2FhLW5ybzEzQUdqX2JERXRvOVJFbjJ1TTA1bXItQkxuWEJqdk9ZQ2RFWTRKYUpkV3ZyQWxpOWFZOUtYNlBPTk5YNDZpdGxHRjFWTGM?oc=5",
-      "pubDate": "2026-08-24T08:05:40+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "東京為替見通し=米債売り再燃に警戒、財政健全化策が試金石でドル安・円安地合い継続か",
-      "link": "https://zai.diamond.jp/articles/-/494399",
-      "pubDate": "2026-08-24T08:00:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【日本株】海外売上比率が高く｢円安｣で業績アップに期待の2銘柄！ 海外売上比率が約8割の｢マキタ｣、船舶用レーダーや防衛装備品が好調な｢古野電気｣に注目！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55b2t1MEhNWGhDLWM3NlBJajI5RU01TTZSN1J6Y0hCNFFXb0hPTnhGX0lndFNCbmFvd0trVUs0cXlGTEpXU0Y2OWFpbzdQdDZyb25R?oc=5",
-      "pubDate": "2026-08-24T08:00:00+09:00",
-      "source": "ダイヤモンド・オンライン"
-    },
-    {
-      "title": "【市場概況】東京為替見通し＝米債売り再燃に警戒、財政健全化策が試金石でドル安・円安地合い継続か",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uLVd5elc5eWkyRDdhVlBzNVoyX0k5Z05oU2MxSWJpS0xqN0M3Qkh4dlVhNVlJY0lNRFBqYXIwVnBwR3JUWjA0b21TRENZWHVidGpIRmNKdVktSnoxMkNXRzRBNA?oc=5",
-      "pubDate": "2026-08-24T08:00:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル円午前の為替予想、ジャクソンホール待ち 米財務長官発言に注意 2026/8/24",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPS2F2RFU4TDlxbTB0TW0zeldnSnVPY2tLZTZmV3hPbS1kLVgxc3pSVlp3VmV4MTk1aWtjUDZ1amJJTlpianVSbjNJdHJSYlplMjZtODRpQ2h3VThjSURDTzBCVQ?oc=5",
-      "pubDate": "2026-08-24T07:58:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル/円は中東情勢にらみ高止まり、米財政運営への懸念も=今週の外為市場",
-      "link": "https://jp.reuters.com/opinion/7TLLIA7DC5PVHNFOQJIQAQWANA-2026-08-23/",
-      "pubDate": "2026-08-24T07:32:00+09:00",
-      "source": "reuters"
+      "title": "21日は原油WTIが上昇、ドル円は下落",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnhyUHBOakN3MS1ReGZ2aVdMclJhSkxUa05hUDBHNHpLb2t6SFVIYVlxaDFqc0EtMWR0bUJfQnBVcC1vSVdKa1BfYWZ0bmpmTGZNSjd2M1pqVXlCRTBQckNIa2lSMmRhSnQ4ZFdZcGNrRWlYTkg4am9qWHJhUmlUcEZn?oc=5",
+      "pubDate": "2026-08-24T09:20:00+09:00",
+      "source": "FOREX.com"
     }
   ]
 }
