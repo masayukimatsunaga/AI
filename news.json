@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-25T01:59:59+09:00",
+  "updatedAt": "2026-08-25T02:48:28+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ニューヨーク外国為替市場概況･2時 ドル円 伸び悩む(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONmZ5ZlFKZ212ZEdydkJES0Nmc0RkSFFrcTZjRzNuWDhZM0YwYVpZOVhuLUlKVlVKNEFMYmJoelZ2NE5zRFdtUjVOWVlaOC1XbG5UMjQzcFdDOHJ0OTJlbjYyZXhib3Jxc1BNMmdMdzRMb21MTGd3QmE3WU42ZzV5bEpFYmhOb1E?oc=5",
+      "pubDate": "2026-08-25T02:08:01+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "ドル円は１５９円台前半 ウォーシュ議長が金融政策の具体的な方向性を示す可能性は低い＝ＮＹ為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5MWjRXYmptNkpkLWV3d3gtVXcxcW9SS3ZTQUhmc1NBbUNaWlJscFo0VjBaY1RLUlRWZDZGcEN0UG1WbllPVXlPdA?oc=5",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTAzNDNnY3BKMG5QM19RTkdWNUl1ZFVtWTl1cmF0Wmg0SVJfNUZ1UnhYZzA2akl0Skl2NGxic2VqbkNDSkJUQmliRDZ1QnhYV2QwTWR0S1pDS2NzWUJ4ek9BSGZsSldCcUhocnBMdzJJcThCVlVtTzFJX1RGMGd5dlNZRnpvcnM?oc=5",
       "pubDate": "2026-08-24T19:41:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル・円は伸び悩み、材料難で様子見｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTU3FkQnA0aExCOE9KZnlta0xqQl91N2NnVDFjTjJjQUhSeWFFbUZNRjB5ajAyWDM0UUhNeHpNM0oxS0hpTUFwamRtQzY4SkhpLWc?oc=5",
-      "pubDate": "2026-08-24T19:28:00+09:00",
-      "source": "ザイFX！"
     }
   ]
 }
