@@ -1,9 +1,40 @@
 {
-  "updatedAt": "2026-08-25T05:50:59+09:00",
+  "updatedAt": "2026-08-25T06:45:51+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "２４日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE14WmxjRlI4QzJUV0Z6dEowRXlnSkV5MTRtMy1YM3FxdWpPa3BGMXMzSjZYU3FUcTZTcEpDNEtJcjVCbHl3N0E?oc=5",
+      "pubDate": "2026-08-25T06:30:00+09:00",
+      "source": "みんかぶ"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24日 ユーロドル、下落",
+      "link": "https://zai.diamond.jp/articles/-/494461",
+      "pubDate": "2026-08-25T06:03:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "「オルカン一択」は見直すべきか？債券なし、米国集中、円高リスク、巨大テック偏重への批判の前に整理すべき論点",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91RzJ6VU5OZnplangwQVFhWkQtcGtaZWhRSWtwTWNzRTFDXzlJZlJDWTdoNGFZX1BzR2FXR3Z2d2E2eFlGR1EtN05pb1Fad2VSMGRINURB?oc=5",
+      "pubDate": "2026-08-25T06:00:00+09:00",
+      "source": "JBpress"
+    },
+    {
+      "title": "ドル円、１５９円台前半 介入警戒に加え、米財政を巡る懸念が上値を抑える＝ＮＹ為替概況 -",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wV01vOWVXQnEzaVVMSEl1Q2JfZm5ybEh3UDVTTUw1U0pNbnNhNnRVYzhfQ1hOYk1VWmlCMC1PdlRxUXZ3TEgxZw?oc=5",
+      "pubDate": "2026-08-25T05:40:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "NY外為市場=ドル上昇、対イラン制裁拡大で 米関税受けカナダドル急落",
+      "link": "https://jp.reuters.com/opinion/T57ESERYCBL5LNHWMACSV5D24A-2026-08-24/",
+      "pubDate": "2026-08-25T05:25:00+09:00",
+      "source": "reuters"
+    },
     {
       "title": "決算:キオクシア増益額8200億円、4〜6月首位 自動車は円安で上位",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiTHFqa2NRdG5aNkRqMkJWZ2pVdUVEeFJXYzVhcmowZjd3WktnM0NzM1pLY0ZQajBEVmQzOG03b1N3N2tiMEktdTFGRWV1UnptcnNNWDNrcG1DSmJnNDF6SW0zbGZIQ3BGVlo5QQ?oc=5",
@@ -15,6 +46,12 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GSTUzNW9LWC11U2NxZ2FMSG0zQkd2cktXWTNCVDNrWWVxZUtHcXctZnhSc216cmU1aC1Panc1ZnMyZ2oxMDRDYTVoWWQ3d1NxVjRfMWN6OEtTUF9pbWNJcFVkYw?oc=5",
       "pubDate": "2026-08-25T04:49:51+09:00",
       "source": "外為どっとコム"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･4時 ユーロドル やや重い",
+      "link": "https://zai.diamond.jp/articles/-/494459",
+      "pubDate": "2026-08-25T04:05:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "ドル円、１５９円台前半 米ファンダメンタルズが大きく変化しない限りさらに円安の余地＝ＮＹ為替 -",
@@ -29,64 +66,28 @@
       "source": "日本経済新聞"
     },
     {
+      "title": "NY外為:ドル強含む、米国はイランを経済孤立させる計画へ=ベッセント米財務長官",
+      "link": "https://zai.diamond.jp/articles/-/494456",
+      "pubDate": "2026-08-25T02:49:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
       "title": "ニューヨーク外国為替市場概況･2時 ドル円 伸び悩む(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONmZ5ZlFKZ212ZEdydkJES0Nmc0RkSFFrcTZjRzNuWDhZM0YwYVpZOVhuLUlKVlVKNEFMYmJoelZ2NE5zRFdtUjVOWVlaOC1XbG5UMjQzcFdDOHJ0OTJlbjYyZXhib3Jxc1BNMmdMdzRMb21MTGd3QmE3WU42ZzV5bEpFYmhOb1E?oc=5",
       "pubDate": "2026-08-25T02:08:01+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
+      "title": "ニューヨーク外国為替市場概況･2時 ドル円 伸び悩む",
+      "link": "https://zai.diamond.jp/articles/-/494448",
+      "pubDate": "2026-08-25T02:05:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
       "title": "ドル円は１５９円台前半 ウォーシュ議長が金融政策の具体的な方向性を示す可能性は低い＝ＮＹ為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5MWjRXYmptNkpkLWV3d3gtVXcxcW9SS3ZTQUhmc1NBbUNaWlJscFo0VjBaY1RLUlRWZDZGcEN0UG1WbllPVXlPdA?oc=5",
       "pubDate": "2026-08-25T01:11:44+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "円安と燃油高受け、水供給を国内生産へ転換",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oM2VXSFRMbEZMV2tFNnJPVVdFM2hwVms2Rl9zMHZhSFJibmdrYTdtbXVvNHVUSEZOdWZhbkhuclR1bGJxWWF4Tg?oc=5",
-      "pubDate": "2026-08-25T00:00:00+09:00",
-      "source": "LOGISTICS TODAY"
-    },
-    {
-      "title": "【テクニカル】週足テクニカル・ドル円 サポート＆レジスタンス",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pY01IUG1KSnFUMm1kdWFxWnV3VTctVEwybjhXQW5FRXBCeEFQUFlKMEx3dW5sYS0yY0hFZGNCTjM5V3dNX2VSb2xEVnRGUFB5Mkk2c2tJZ19EaVhTTm9XWkdjQQ?oc=5",
-      "pubDate": "2026-08-24T23:03:12+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル円、１５９円台に再上昇 米財政を巡る懸念や日銀の早期利上げ観測が上値抑える＝ＮＹ為替序盤",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuX295U0tGSGxJeVliYlg2UXVMM21iTDRrVkJvODVac1NDcHFjOWw1bHZ5ZFNzRFE3WXNwVWlEQ1VIcW9lVlQweA?oc=5",
-      "pubDate": "2026-08-24T22:28:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、弱含み(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNi1OVGl2bDViektGX2lwTDE5MmVyLWV2RU9XYkJSZDRnM3UzMHc0Tkw4QWxCTzl1SEE2R09Vb09ZX01GdU1lNWtmbFZyRTZuTl9LdVlsa1phOVR3Z090dHpqZGpaMzNwMjg3a3RtbVVtS3ZlcTZMOG1ZNW1vUVAyWTFHN0VkYVE?oc=5",
-      "pubDate": "2026-08-24T22:06:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円のピボットは１５８．９３円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tUGpZbDNnZWN0RVFfQkxMcmU5OTRWNWVZbjlJYUVjZTBLYnlsQmNrOE9wamNrV2VTc3BHWUhuckpRTVVNaWpEaA?oc=5",
-      "pubDate": "2026-08-24T21:50:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【日本株】海外売上比率が高く｢円安｣で業績アップに期待の2銘柄！ 海外売上比率が約8割の｢マキタ｣、船舶用レーダーや防衛装備品が好調な｢古野電気｣に注目！(ダイヤモンド・ザイ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3dINmFHeU5XcVp0dGhVamlZWERKWmFNLWF0dGcyZDk4X0NSQXl0ODlENTNwNHJ2OTg3SURGeTVQNHRhNUtHZUFKS1BabnJTbDBFTEZDV2kxamdHMHNpZW95WDA3cG5NQjd5VG5mYmZIR2MwTXQ5emFRNU5VbzFkbkVRMXpBbUk?oc=5",
-      "pubDate": "2026-08-24T21:20:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "米財務省関連の記事に、ドル売り反応 ドル円１５９．１０近辺＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UT1NPbTZlTjFjYVdEQ0FGNURPMGYxWDZwcTFFaTk1c2FUQW81NmhOY3ZWU3NMQXltZjk0R0dHbzl4Si1mVDdERw?oc=5",
-      "pubDate": "2026-08-24T20:56:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円 159.00円前後まで弱含み、米国債バイバック資金に一般会計活用報道(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTBvQUY2NlFmdmQzNTA4MTdBSjZDNWpMWGRFWW5UeXZhaW94bUt3b0k4TVdnUVVZS0NfSWNuZ0VNWjY2Y3FHOFB0R1pNV2tqcXdEV3VCc05JOGNULThVeHhvMzRhQlFZbWVTcDRxN3AxcGluMmZNUUwyeHprRUJWdGdSRGozUGc?oc=5",
-      "pubDate": "2026-08-24T20:47:00+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
