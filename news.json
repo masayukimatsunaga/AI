@@ -1,9 +1,33 @@
 {
-  "updatedAt": "2026-08-24T14:25:36+09:00",
+  "updatedAt": "2026-08-24T15:25:14+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "東京為替：ドル・円はほぼ横ばい、ドル売りは抑制(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSm9XbE01NkRVd2lDYUZMRE5LYXB0SE44cWtmYmg2eXplRHZ3OVZZYWZfVTBqZGxRdWZJSTI0TjJqVXRuckxjSng3dU84cWg1UmdkYjJGeW9HdE54anhpLS0xdWltSnNub3RZUWJiM21UejFtUVdxVTJwVk05UkhYcHQta3RuQW8?oc=5",
+      "pubDate": "2026-08-24T15:15:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京外国為替市場概況・15時 ドル円、動意薄(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOUNlWndMMUxKSGtSa0dZc2Y2b2dTaS0xbmVXVEJGNkVSYzB1aG1WR3JIa0UwYTR3VTg2YndBdG9QWWlBNjM0b3JYMFZHdjNvTFNNVUdBMEhfazYxSlYxN0dQa1RPbjE4WkwzbTlkUU1hVlI2T0UzY1lUY1pnUFZCeldENDQxN2s?oc=5",
+      "pubDate": "2026-08-24T15:06:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル・円は底堅い、ドル売りは抑制｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MOW04WkwyYmVyNVAxbGtUeFBpaGc4XzM4WjVoSjktSEVWcXBiVlVYc1ZoR2stTHk1TXlhSWU5aDUtVDVJZjhKRXRvUGJMSURBckE?oc=5",
+      "pubDate": "2026-08-24T14:53:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円158円後半で底堅く、財政再建期待が下支え",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDLWpuN3dJU0w4Rk16N1dlUlNXSVpNMjZMZFhha0JPTjBOOXJKYjFBUi1uTVV3MDd5OTY3MmJZa0xBcF9rN1BVVmpzbU9hemFfSElNVndSSm9rblFTUWYxWWZ0bk9ZeHhTR2hCeTBJbDFJZ19D?oc=5",
+      "pubDate": "2026-08-24T14:40:30+09:00",
+      "source": "BigGo ファイナンス"
+    },
     {
       "title": "東京為替：ドル・円は底堅い、ドル売りは抑制 執筆： Fisco",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wMlk3OVNMSm81WUFWTGJYalBDbnJFSjRxcC02V1BncC00TzJhSTQ5S3JtNGRnaTRwUjM1VmlYNF9LZjZsLWtKVmQ4djVMU08tUThEclpBMEdmbkROajZEQTF3cVBpMWc?oc=5",
@@ -11,10 +35,10 @@
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     },
     {
-      "title": "東京為替：ドル・円は底堅い、ドル売りは抑制(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkE3Qm5yYmV4QTJTY2lJZERhR2RHaVpjcjIxREI0ZWx3Yzl3MEZLVFprZm1lUkVqZ0pIMEt6aE9JTngxVjhHVjFJVUsxT0dFVUZpajBsY1U1M25VVnJiOHRsazdCaDh0aTVSelNublNKSWZoSEo3a0VZX214Yi16UTRnVjNZUUE?oc=5",
-      "pubDate": "2026-08-24T14:07:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "「円安ホクホク」「輸出企業は儲かっている」などを信じている“高市支持者”が知ろうとしない真実 #エキスパートトピ",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeEtpXzhaSUhZOEVoYUJrVm9QX2NQdDFLbDd1bDdkcXNGeVlTdmxPQTVtaGpwR0hIclU1SnAzaVNYWmMxU01EbURWNDlRcXBfTERTVHhuRGJMczItVTVNTm1GMHR5cEs4eXJRWVMxYlVZTGpfN1NzQWdjNTBQZFg2aERHOGdjeEFo?oc=5",
+      "pubDate": "2026-08-24T14:12:00+09:00",
+      "source": "Yahoo!ニュース"
     },
     {
       "title": "外為：1ドル158円88銭前後と小幅なドル高・円安で推移(株探ニュース)",
@@ -29,40 +53,16 @@
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     },
     {
-      "title": "東京為替：ドル・円は変わらず、全般的に動意薄",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzBRQ2tQLWhNY1JCcWpxQTdsdDRzTTZZdFZGSnA0cUhrQ0xJUTdid0NITFRhcW41NzRqanF4RXNyQ0VkSlgxa2lpYlpBdnZvY3NYQzFfMk5peDhWSXZmb2NYbDJ1cDFNQWRBZUJfUUowQWRKWDhhakd6UE5JWDhkVUZLby0zRlVnbG1sTVJoZHFzNXNzVFRMTjN30gGMAUFVX3lxTE9Dc3pUeHhVSDJGay0tcHNqVG03SGxpU2V1RG9NTWQwX3VieHkwRlNQSUpxc3ZYUTB1NFZKVHNUWlBKX0M0ejFkdTZqVnJkY0dIVXZod3BEYXBUR2RlQTdwSGhyM2dyOE1XUFJ1b0ZDQ01La0FleEw5WDUtbGNrSE8tUkdnNVptMXFkUDdX?oc=5",
-      "pubDate": "2026-08-24T13:54:00+09:00",
-      "source": "ｄメニューニュース"
-    },
-    {
-      "title": "外為：ブラジルレアル、30円90銭前後とレアル高・円安で推移",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82VDB6YURkWUJmcTJ0VmRRT3pZTV92aDdTTWNUa3p1aUI5OTBNSlVwazZ3VTF0NEdydHpHd1hWQmJybHUwcVBOU1BvUXBvUktjZkE?oc=5",
-      "pubDate": "2026-08-24T13:31:06+09:00",
-      "source": "株探"
-    },
-    {
-      "title": "外為：スイスフラン、198円50銭前後と小幅なフラン高・円安で推移",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PZ2ktVS02OXNGRDIxaXZSZHhMWkZEbFB5UEczSlBRR0NPaTUxUkZTWGdqYnkwcTBKSllKN2pUTHB5b3V6N3ZncGNSelE3R0hnQlE?oc=5",
-      "pubDate": "2026-08-24T13:31:04+09:00",
-      "source": "株探"
-    },
-    {
-      "title": "欧米為替：デイリー見通し ドル・円／米金利にらみ(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmNRRzZSYko2YzhDbUVfZHlRZC1lRjh1dmFHQkw0cVNmemE3d1hMWnhLbkJQM1UwX0NHbTlJM25VMzNqTUVNQ1hpNUZjNi1BUG1PQUZJejREYjNNY0FaWDZFRkNMWWpKUTVDY1FtMlJHMEhVaDFRV2dVR012SEVwLV9wemFFa1E?oc=5",
-      "pubDate": "2026-08-24T13:22:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "東京為替：ドル・円は底堅い、高値圏で推移",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEZ01UT01vTkhqR1hNUFo2UXpWcVZObWJPdUtWcXJKcEFCNGdyZ3hvU2Jma1VUR3UxaWp2QzlXZHV6ZkY2RXNNRldzMWlaakNJVEpIT2MzdHY4cEFra01EOA?oc=5",
       "pubDate": "2026-08-24T13:10:41+09:00",
       "source": "株探"
     },
     {
-      "title": "外為：1ドル158円93銭前後とドル高・円安で推移",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5leUx0M1dkX0lDZDZSQWM3dVhHMkd3TEU1RVRTX05yVUtkbzg5cFI2YTNsdzJtSUowakhEWnhGMldUbDFwMG1SYXJNS2tnS2c3VUE?oc=5",
-      "pubDate": "2026-08-24T13:01:01+09:00",
-      "source": "株探"
+      "title": "外為：1ドル158円93銭前後とドル高・円安で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME5CU0lhVEJnVU93SGg2ZDNnc1VjUXpKQ2dyeG5jQmVQejRoQ0tDelFIaGpGSW9MZnZ0bVNrWjdvd3RyQzJyeGxWaFBITWk0bU1qWXZ0bkhTMzBEd1d0NTdvVUxFUmtFTkFXU1YzSUoxOTJrdFo0aG5KLTFxbmZiWFhIQW9UWHM?oc=5",
+      "pubDate": "2026-08-24T13:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "テクニカルポイント ドル円 10日線、21日線のある159円台前半がポイント",
@@ -83,10 +83,10 @@
       "source": "日本経済新聞"
     },
     {
-      "title": "円相場、１５８円８７～８８銭＝２４日正午現在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SQVVzem5oNlhHRUdDc1gxVHBoN3NwTDdBUGl4ZS1keDFWSk1EaDg2cmpjV2ZscW1EUEFBYTlDN184QVBMbldaRmxEUjllOXMzWnlrag?oc=5",
-      "pubDate": "2026-08-24T12:09:00+09:00",
-      "source": "時事通信ニュース"
+      "title": "東京為替：ドル・円は底堅い、ドルに買戻し 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5paGNYYW92SmlDM3lWaER2TVpmQlNETVZfdzl6RzlWdng1eS1VZDVOaTdNMnRvRk1PMUxNeEtUZW11dTZjdkhHUFZpN0t0dFdPaHpuZnh3MkxOc2Nud2RiWC1kTkF1c0U?oc=5",
+      "pubDate": "2026-08-24T12:13:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     }
   ]
 }
