@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-25T01:16:38+09:00",
+  "updatedAt": "2026-08-25T01:59:59+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル円は１５９円台前半 ウォーシュ議長が金融政策の具体的な方向性を示す可能性は低い＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5MWjRXYmptNkpkLWV3d3gtVXcxcW9SS3ZTQUhmc1NBbUNaWlJscFo0VjBaY1RLUlRWZDZGcEN0UG1WbllPVXlPdA?oc=5",
+      "pubDate": "2026-08-25T01:11:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "円安と燃油高受け、水供給を国内生産へ転換",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oM2VXSFRMbEZMV2tFNnJPVVdFM2hwVms2Rl9zMHZhSFJibmdrYTdtbXVvNHVUSEZOdWZhbkhuclR1bGJxWWF4Tg?oc=5",
@@ -77,16 +83,10 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円１５９．２０近辺、ユーロドル１．１６６５近辺＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzZFdfY00yZjhuOWdLbkhHQ2ExQjJtMHp0WFpKVjRrV1JCd1VOc2R2Q1ZsaGo0M1locDVidjRzU2tRMGpwckZTSw?oc=5",
-      "pubDate": "2026-08-24T19:14:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "外為：1ドル159円20銭前後と小幅なドル高・円安で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXF3aFB5WkN2VWdGWnpVU01PUm9ObFdpc0l1V2czaXFSN0J2TWlqY1BQeDFwNWFyUlZzdHZBRXluRzhmUy1vdDJUZnY1RHMzZTFzTm4wLUJtVGFNLXpMSDdaVGVYaDRkZ1NFY3hUdjJMdUVDSUxXTUNPdGdYUjRXSkpBaS15QVE?oc=5",
-      "pubDate": "2026-08-24T19:01:00+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "ドル・円は伸び悩み、材料難で様子見｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTU3FkQnA0aExCOE9KZnlta0xqQl91N2NnVDFjTjJjQUhSeWFFbUZNRjB5ajAyWDM0UUhNeHpNM0oxS0hpTUFwamRtQzY4SkhpLWc?oc=5",
+      "pubDate": "2026-08-24T19:28:00+09:00",
+      "source": "ザイFX！"
     }
   ]
 }
