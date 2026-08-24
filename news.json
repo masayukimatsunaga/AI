@@ -1,20 +1,32 @@
 {
-  "updatedAt": "2026-08-24T20:13:09+09:00",
+  "updatedAt": "2026-08-24T20:46:18+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "欧州為替：ドル・円は底堅い、ドル売りは限定的(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0VkWVAtMXo1czVTR3ZQZTlPbnhNNElXYjJTRk1DcDBFb0hpNzcwbzRJM1JDMmlXLS1pNjdRc0FEQnRNVEw1TFU4WVRNMmNVa0dBSzVaS2NtY2ZnT290YUJlSkNzRnVvaXpuZk9hOXpSTTZ3SGIyQ0lmZ1ZYT0otWXhnblpreGc?oc=5",
-      "pubDate": "2026-08-24T20:03:00+09:00",
+      "title": "欧州外国為替市場概況・20時 ドル円、上昇一服(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPanlmVEl4WUtkdTQ3STlrS015YUx0VXRnWWxzVVJESVpmdzBXN0ZWY0xIdW9Ib3duaDNLYS1pNHJZSWd5SHJOYVdDcjlPUFZLTWpQcVFKbDRaZWdvQUctdU5CNFRJTGpkQjA4elF4WDc5cTZHcXkyOHhWbEcxUTNHU0VwR25NUEU?oc=5",
+      "pubDate": "2026-08-24T20:06:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "1ドル＝163円台に下落した2026年夏 その後も円安ドル高基調が止まらない 「この局面で外貨購入は無謀ですか」【FPが解説】",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TdGJCOGpvRnFmVmhVRjRrQmNwQ2VmS2FTYURkaXVZX1VBMWFMSkNMbFRDTllVQ0QxYUYyOHByQVBIY183OEdMaFl5eG5LOHdKWmpsYmZVNGcwV05uSXhmaFZidHlUbXhoWk9qMExmWGZwTnpSOFRVZ0lRekNKcTg?oc=5",
+      "pubDate": "2026-08-24T20:00:05+09:00",
+      "source": "Yahoo!ニュース"
     },
     {
       "title": "円相場 イランへの経済制裁見据え値下がり",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56TUlIMjNfUXRyZk5tMG1NcE9XOHFmcnlVbW0ySGVHZHA0Uk1zd0JDekpLYUVLck0xQ1dtSWl4VWpsVzRMZV8xbjlRNDhmN0ZpanNDS25JcnRGVXBiZmlj?oc=5",
       "pubDate": "2026-08-24T19:47:08+09:00",
       "source": "NHKニュース"
+    },
+    {
+      "title": "NY為替見通し＝ドル円、中東情勢や米国債券市場を睨みながらの展開か(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTAzNDNnY3BKMG5QM19RTkdWNUl1ZFVtWTl1cmF0Wmg0SVJfNUZ1UnhYZzA2akl0Skl2NGxic2VqbkNDSkJUQmliRDZ1QnhYV2QwTWR0S1pDS2NzWUJ4ek9BSGZsSldCcUhocnBMdzJJcThCVlVtTzFJX1RGMGd5dlNZRnpvcnM?oc=5",
+      "pubDate": "2026-08-24T19:41:00+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "ドル円１５９．２０近辺、ユーロドル１．１６６５近辺＝ロンドン為替",
@@ -39,6 +51,12 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LT0Q4TnNpY3Z1SmoxeGxwQTBPd3FObmZ1QjZzcWIyTDJGWkpCRmNRdzZZV1gxNnhVekRvVWhnNlY5ZE8xZHF0MVhwZS1XamV0aUVPak5nRW5sMXRRZS1iSks2dDc?oc=5",
       "pubDate": "2026-08-24T17:55:00+09:00",
       "source": "読売新聞"
+    },
+    {
+      "title": "東京円、３３銭円安の１ドル＝１５９円１５〜１７銭",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeFRqV2QzMU9xaHpaQ2lUOW92dDFuOTJPWmJWeDBkZEU4Wl9KOFJOTWtVbm5sSGFXSGdKU2hJbzU2TkVKVW1aZW5YSXRuc0MzTzJZR1FVemlGS1ZSV2ppSEJabGozZWEzTVBRU2FON0xMSndKTHQyRVdhV2Vjd0VTQS1Jc2lqSHPSAYwBQVVfeXFMTkdHeThrTnRPbzRfLUJTSEdRdkxWQl9MRWtqZjNnOV9oSVQ3Q2pIbk5VcFpxcFZZeXhOcmpxMHlqQ3FZQkc5T3hTNHR0MzJ6d3FmNk1rOWNqSFJRdlMyUG9mQjM4bk1zMDBXZWRBMGlkLV8zR1dwU0g2VlFJeC1uamJNbnlVX21Ec0JpSTU?oc=5",
+      "pubDate": "2026-08-24T17:55:00+09:00",
+      "source": "ｄメニューニュース"
     },
     {
       "title": "銅建値2万円安 234万円に改定（日刊産業新聞）",
@@ -69,24 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeWo3OEpybDlzTk85M2wxZVY5dTZBNVRtYzJIakNHMjFpRFRzNGdaNVRRR0gzVnVSTkZLVnJnb3JpX0xHWVd6b0lYSnp4T2wwSzBrTWJPT1hQQXo4SEVGRHJnUmpka0ZCd0xOSjRCc1hvVFZZNU9VNzk5Y3dZUHpCNjFRekNlOGs?oc=5",
       "pubDate": "2026-08-24T17:06:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "円相場、１５９円１５～１６銭＝２４日午後５時現在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tTk1YNGt3VFMycTFjdnZqSUtEX1p3ajhzUTc3R0hSUzllME51UnNvSlItbjBGZzFlRVhYUG50SVhzZENxTDUxdXhFOERyNVNCS015aA?oc=5",
-      "pubDate": "2026-08-24T17:06:00+09:00",
-      "source": "時事通信ニュース"
-    },
-    {
-      "title": "米中間選挙、ドル円は何を見る？｜議会構成→財政→米金利で整理 2026年8月24日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HRmVUUEVOcGNEQVZwUFhTeWZzcmRQcUoyMkd6Q3JOTDJJUkVrVXAwTWNfdHlncE4zR3NNT1NOYU5QeWdsQmROZUM3cG1HRk1XZzlhQTc2V2pCdmh5QTRJc0Vobw?oc=5",
-      "pubDate": "2026-08-24T17:00:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ロンドン序盤はややドル買い、ドル円一時１５９．１４レベル＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NS0hTV3ZEVmNxVWwxdklKTHdGa0lEYmJ2dXN6WWpHVkU2cklLN2h6UnVJVzM3bTgya2ZjbG1Wa1BPeTNOcUd1WQ?oc=5",
-      "pubDate": "2026-08-24T16:21:44+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
