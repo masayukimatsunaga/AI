@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-08-24T22:38:29+09:00",
+  "updatedAt": "2026-08-24T23:26:47+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "【テクニカル】週足テクニカル・ドル円 サポート＆レジスタンス",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pY01IUG1KSnFUMm1kdWFxWnV3VTctVEwybjhXQW5FRXBCeEFQUFlKMEx3dW5sYS0yY0hFZGNCTjM5V3dNX2VSb2xEVnRGUFB5Mkk2c2tJZ19EaVhTTm9XWkdjQQ?oc=5",
+      "pubDate": "2026-08-24T23:03:12+09:00",
+      "source": "外為どっとコム"
+    },
     {
       "title": "ドル円、１５９円台に再上昇 米財政を巡る懸念や日銀の早期利上げ観測が上値抑える＝ＮＹ為替序盤",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuX295U0tGSGxJeVliYlg2UXVMM21iTDRrVkJvODVac1NDcHFjOWw1bHZ5ZFNzRFE3WXNwVWlEQ1VIcW9lVlQweA?oc=5",
@@ -17,12 +23,6 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円のピボットは１５８．９３円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tUGpZbDNnZWN0RVFfQkxMcmU5OTRWNWVZbjlJYUVjZTBLYnlsQmNrOE9wamNrV2VTc3BHWUhuckpRTVVNaWpEaA?oc=5",
-      "pubDate": "2026-08-24T21:50:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
       "title": "【日本株】海外売上比率が高く｢円安｣で業績アップに期待の2銘柄！ 海外売上比率が約8割の｢マキタ｣、船舶用レーダーや防衛装備品が好調な｢古野電気｣に注目！（ダイヤモンド・ザイ）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xZTZmSzIxQktxN2FWU3RLWUZtSWd2aGoxWHZpSEpwN3pWV1NDWWl3LW9SbXpVckNzZnJUNERwSFNKMUJkQjRacTQ0LU9jRW1yVVRpY0t2eTFsMUUzYVV4SlZITk1EYzRXV0tFOTJoWnNBTDJnNTY5MVUyZkRiYjA?oc=5",
       "pubDate": "2026-08-24T21:20:30+09:00",
@@ -33,6 +33,12 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UT1NPbTZlTjFjYVdEQ0FGNURPMGYxWDZwcTFFaTk1c2FUQW81NmhOY3ZWU3NMQXltZjk0R0dHbzl4Si1mVDdERw?oc=5",
       "pubDate": "2026-08-24T20:56:44+09:00",
       "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル円 159.00円前後まで弱含み、米国債バイバック資金に一般会計活用報道(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTBvQUY2NlFmdmQzNTA4MTdBSjZDNWpMWGRFWW5UeXZhaW94bUt3b0k4TVdnUVVZS0NfSWNuZ0VNWjY2Y3FHOFB0R1pNV2tqcXdEV3VCc05JOGNULThVeHhvMzRhQlFZbWVTcDRxN3AxcGluMmZNUUwyeHprRUJWdGdSRGozUGc?oc=5",
+      "pubDate": "2026-08-24T20:47:00+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "欧州外国為替市場概況・20時 ドル円、上昇一服(トレーダーズ・ウェブ)",
@@ -71,22 +77,16 @@
       "source": "Yahoo!ファイナンス"
     },
     {
+      "title": "ドル円が一時159円台前半に切り返す、米財政懸念と中東リスクで方向感欠く",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUR0RIRGprWWRpcldrN0I1STgzRE9vV25nYmtmY1Jvdno0cTNqempHbm5ndzdoT3A2STc4ZjAwQ2VRdGFvN0Etdm52cHc3eTl5NmZLTDBndS1YUUs0YUdWZUFtdlBrNmdlbDJUT1BKMndVcUhx?oc=5",
+      "pubDate": "2026-08-24T19:00:48+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
       "title": "ドル円一時１５９．２８レベル、欧州勢はドル買い先行＝ロンドン為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41Zm5XVHFfWm11UGJBSTdkT25iU3VKMmdlMHZfYXhvWGpOV1o2eWF3ZGJkdlg2NGdKMlFMWkE3QjhLNEZvNWFHdw?oc=5",
       "pubDate": "2026-08-24T18:09:44+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "東京円、３３銭円安の１ドル＝１５９円１５～１７銭",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LT0Q4TnNpY3Z1SmoxeGxwQTBPd3FObmZ1QjZzcWIyTDJGWkpCRmNRdzZZV1gxNnhVekRvVWhnNlY5ZE8xZHF0MVhwZS1XamV0aUVPak5nRW5sMXRRZS1iSks2dDc?oc=5",
-      "pubDate": "2026-08-24T17:55:00+09:00",
-      "source": "読売新聞"
-    },
-    {
-      "title": "東京為替概況：ドル・円は切り返し、夕方は堅調｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XaEl0RkxBYlNPYWVDckF4V0JfelNIMWF0Q05jd3RDaWM2bWQzNEtVd3hoVElHRkRidUl3LVNOd3d5MDQzV1k3NDFvcGQ1RzZIY0E?oc=5",
-      "pubDate": "2026-08-24T17:45:00+09:00",
-      "source": "ザイFX！"
     }
   ]
 }
