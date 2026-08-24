@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T02:48:28+09:00",
+  "updatedAt": "2026-08-25T04:01:44+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -8,6 +8,12 @@
       "title": "ニューヨーク外国為替市場概況･2時 ドル円 伸び悩む(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONmZ5ZlFKZ212ZEdydkJES0Nmc0RkSFFrcTZjRzNuWDhZM0YwYVpZOVhuLUlKVlVKNEFMYmJoelZ2NE5zRFdtUjVOWVlaOC1XbG5UMjQzcFdDOHJ0OTJlbjYyZXhib3Jxc1BNMmdMdzRMb21MTGd3QmE3WU42ZzV5bEpFYmhOb1E?oc=5",
       "pubDate": "2026-08-25T02:08:01+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbWxqc1ltSU1ndEE0VElnZldUTGdyRVJpOTdKeXBsc0RDSm40dm9kLTJqaDZlOVpoR2E5eEZIX1o0bFR1SFR2N2k4WjRiTnN5dHVBTHJn?oc=5",
+      "pubDate": "2026-08-25T01:13:48+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
@@ -47,10 +53,10 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "【日本株】海外売上比率が高く｢円安｣で業績アップに期待の2銘柄！ 海外売上比率が約8割の｢マキタ｣、船舶用レーダーや防衛装備品が好調な｢古野電気｣に注目！（ダイヤモンド・ザイ）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xZTZmSzIxQktxN2FWU3RLWUZtSWd2aGoxWHZpSEpwN3pWV1NDWWl3LW9SbXpVckNzZnJUNERwSFNKMUJkQjRacTQ0LU9jRW1yVVRpY0t2eTFsMUUzYVV4SlZITk1EYzRXV0tFOTJoWnNBTDJnNTY5MVUyZkRiYjA?oc=5",
-      "pubDate": "2026-08-24T21:20:30+09:00",
-      "source": "Yahoo!ニュース"
+      "title": "【日本株】海外売上比率が高く｢円安｣で業績アップに期待の2銘柄！ 海外売上比率が約8割の｢マキタ｣、船舶用レーダーや防衛装備品が好調な｢古野電気｣に注目！(ダイヤモンド・ザイ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3dINmFHeU5XcVp0dGhVamlZWERKWmFNLWF0dGcyZDk4X0NSQXl0ODlENTNwNHJ2OTg3SURGeTVQNHRhNUtHZUFKS1BabnJTbDBFTEZDV2kxamdHMHNpZW95WDA3cG5NQjd5VG5mYmZIR2MwTXQ5emFRNU5VbzFkbkVRMXpBbUk?oc=5",
+      "pubDate": "2026-08-24T21:20:00+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "米財務省関連の記事に、ドル売り反応 ドル円１５９．１０近辺＝ロンドン為替",
@@ -65,6 +71,12 @@
       "source": "Yahoo!ファイナンス"
     },
     {
+      "title": "ドル・円は底堅い、ドル売りは限定的｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WaGlPX3ZwZE9JSm1LSTdyYUtPWWtuSzIxNmhxa3Z0R0pNcXQyaVV6LVVmdFdOVk1SU3J6SFA5dFl2Z19DVzdNTmlybGlDMzlDalE?oc=5",
+      "pubDate": "2026-08-24T20:14:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
       "title": "欧州外国為替市場概況・20時 ドル円、上昇一服(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPanlmVEl4WUtkdTQ3STlrS015YUx0VXRnWWxzVVJESVpmdzBXN0ZWY0xIdW9Ib3duaDNLYS1pNHJZSWd5SHJOYVdDcjlPUFZLTWpQcVFKbDRaZWdvQUctdU5CNFRJTGpkQjA4elF4WDc5cTZHcXkyOHhWbEcxUTNHU0VwR25NUEU?oc=5",
       "pubDate": "2026-08-24T20:06:00+09:00",
@@ -75,18 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TdGJCOGpvRnFmVmhVRjRrQmNwQ2VmS2FTYURkaXVZX1VBMWFMSkNMbFRDTllVQ0QxYUYyOHByQVBIY183OEdMaFl5eG5LOHdKWmpsYmZVNGcwV05uSXhmaFZidHlUbXhoWk9qMExmWGZwTnpSOFRVZ0lRekNKcTg?oc=5",
       "pubDate": "2026-08-24T20:00:05+09:00",
       "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "円相場 イランへの経済制裁見据え値下がり",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56TUlIMjNfUXRyZk5tMG1NcE9XOHFmcnlVbW0ySGVHZHA0Uk1zd0JDekpLYUVLck0xQ1dtSWl4VWpsVzRMZV8xbjlRNDhmN0ZpanNDS25JcnRGVXBiZmlj?oc=5",
-      "pubDate": "2026-08-24T19:47:08+09:00",
-      "source": "NHKニュース"
-    },
-    {
-      "title": "NY為替見通し＝ドル円、中東情勢や米国債券市場を睨みながらの展開か(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTAzNDNnY3BKMG5QM19RTkdWNUl1ZFVtWTl1cmF0Wmg0SVJfNUZ1UnhYZzA2akl0Skl2NGxic2VqbkNDSkJUQmliRDZ1QnhYV2QwTWR0S1pDS2NzWUJ4ek9BSGZsSldCcUhocnBMdzJJcThCVlVtTzFJX1RGMGd5dlNZRnpvcnM?oc=5",
-      "pubDate": "2026-08-24T19:41:00+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
