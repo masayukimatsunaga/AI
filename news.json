@@ -1,21 +1,38 @@
 {
-  "updatedAt": "2026-08-26T07:09:07+09:00",
+  "updatedAt": "2026-08-26T07:47:46+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し 2026年8月26日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lRjBtNDk0RU5IeTB0cmdLWlRUWnNKN2MxeWY5THJudXlONG5tbzJBaHpBM1RLQy15bEpYcEZYZjNVMGsyR3l6SUxEcWVPX0dBU2trYjFLMW4temFoQWdqNXlVOA?oc=5",
+      "pubDate": "2026-08-26T07:43:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル円、狭いレンジでの推移継続 ウォーシュ議長の講演を控え様子見ムード＝ＮＹ為替概況 -",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11dTNmV3A2MklXMkt4c2pwdWkyS19hV00wNUx0MnY3MDctQlc3SVVFXzRLUUFjVkJfQ0gwd2M2VXl1RC14VkRjTw?oc=5",
+      "pubDate": "2026-08-26T07:13:41+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "アングル：円安定着、企業のヘッジ強化に介入の好機 経営戦略でリスク抑制も",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OQnJyR2tIbWV1RWxJcV9PcVhXYjRZcHBsdVhfVFpzMEhxeldqQlE3cHFvdmFudnZxd3h3QlRCMDd2RUJFcEtIdEpWc3luXzUtSmlyNGhxM0NKXzRDaXNBYXp1dncxdXpUY0FRNENHcXhWZm5qNmxLaA?oc=5",
+      "pubDate": "2026-08-26T07:00:09+09:00",
+      "source": "ロイター"
+    },
+    {
+      "title": "朝のドル円は１５９．２０円前後、昨日は１５９円台前半での推移に終始＝東京為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80Z0NwUFg2SGtEcjRBWWtyVEVUd3daWmRCN2J3aDJyb1dTb0lkdzhzY2thb1hPZmxQQTUzLXdxUndHMC1EQVJxag?oc=5",
+      "pubDate": "2026-08-26T06:56:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "米ユナイテッドが沖縄、大阪直行便を新設 2027年春 円安ドル高の追い風を受け",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UMjh4eDVoWHdnai1VNVVRY090cG9icDZLdkcwSW9LZ0VGbXhMSWdCTTFkNXdkM01QLVhxTXUzLWY3dXIzZWkzTkNtTEZJbnMtV3huTmhrWU5fbUtZQk5CUzRWeHBwWlRjRVZGQnl5OHd2SEY0R3c?oc=5",
       "pubDate": "2026-08-26T06:22:41+09:00",
       "source": "産経ニュース"
-    },
-    {
-      "title": "２５日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JeV9pUWQtMXFMVUs0R3gyTGRjZkZnTE9SM3RHSUNNZi1aelU2VXJYQ1lvekFoZWJZV3R4UGx2Z3R3dl9qWjJjRQ?oc=5",
-      "pubDate": "2026-08-26T06:20:44+09:00",
-      "source": "みんかぶ FX/為替"
     },
     {
       "title": "ひとまず円安を止めることには成功したけど…28年ぶりの日米協調介入で｢最大の犠牲者｣になったのは誰か",
@@ -36,40 +53,10 @@
       "source": "新潮QUE"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・25日 ユーロドル、小反発",
-      "link": "https://zai.diamond.jp/articles/-/494536",
-      "pubDate": "2026-08-26T06:03:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、狭いレンジでの推移継続 ウォーシュ議長の講演を控え様子見ムード＝ＮＹ為替概況 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11dTNmV3A2MklXMkt4c2pwdWkyS19hV00wNUx0MnY3MDctQlc3SVVFXzRLUUFjVkJfQ0gwd2M2VXl1RC14VkRjTw?oc=5",
-      "pubDate": "2026-08-26T05:40:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ユーロドル 1.1680ドルまで上昇、米長期金利低下幅拡大でドルが重い動き",
-      "link": "https://zai.diamond.jp/articles/-/494534",
-      "pubDate": "2026-08-26T05:14:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "【テクニカル】乖離ランク＝最下位のドル円もプラス水準へ",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92UGZaRS1iQi1jQmdCd29pRUF1X0JkbUdKNkY0NVg5R1N6N2lQZWkwMG12Q296M29IVjJDd2Q4b2Y5N0RUWDUxYkRQd0NtclJ3Q0kwUVFVaHVVZGp1VlhIeElNcw?oc=5",
       "pubDate": "2026-08-26T04:48:25+09:00",
       "source": "外為どっとコム"
-    },
-    {
-      "title": "NY外為市場=ドル小幅安、対イラン制裁や米債買い戻し拡大の影響を注視",
-      "link": "https://jp.reuters.com/opinion/ZR2WRA4BZNJQZCHZR4WM7QEM2Q-2026-08-25/",
-      "pubDate": "2026-08-26T04:38:00+09:00",
-      "source": "reuters"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円 動意薄",
-      "link": "https://zai.diamond.jp/articles/-/494532",
-      "pubDate": "2026-08-26T04:05:00+09:00",
-      "source": "ザイFX！"
     },
     {
       "title": "ニューヨーク外国為替市場概況･4時 ドル円 動意薄｜FX・為替ニュース",
@@ -78,15 +65,27 @@
       "source": "ザイFX！"
     },
     {
-      "title": "NY外為:ドル売り後退、コリンズ米ボストン連銀総裁は速やかな利上げ適切との見解、改善なければ",
-      "link": "https://zai.diamond.jp/articles/-/494530",
-      "pubDate": "2026-08-26T02:41:00+09:00",
-      "source": "ザイFX！"
+      "title": "百貨店売上高 7月は5％増 円安で訪日客好調",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85c2o2SDlKbk9ZRlBDRHJGUHQtT0dWaVBtU1c4U2M3dzFfSWNuS0ZKMGc2WF92WEFfMjU3Nm01YUtqZjNwMVFGV3RtazVFV1RFdVN4NnBHTzRDS2ZVUEE?oc=5",
+      "pubDate": "2026-08-26T03:57:00+09:00",
+      "source": "沖縄タイムス社"
     },
     {
       "title": "ニューヨーク外国為替市場概況･2時 ドル円 もみ合い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1B5QnhVQndIS2Q0WE4zWFBhUXZQOTdJcjRXd21NdlNiLURmNk1DQl9VVDFXQnBTOHZuMVlSOUpuWGV4bnVReXVUbDdRc1ZTM0w1VldXYTFyVlRldmVLcjFsQWhLMUNSd2hoRzAtMXRSbjBhUEdjaFpBVDNJeTRWcHJldVJ6U3M?oc=5",
       "pubDate": "2026-08-26T02:05:28+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円は１５９円台前半 米国債市場に相反する２つの力＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fdjRwYWN3aG1zZE9QZHQ5UW4tekx6MFh1Tnk0WFA3b2U2UXhabjdZbVhSOEZnME8tZDhnZGRRSW1zSzBZbTJLeA?oc=5",
+      "pubDate": "2026-08-26T01:42:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "月初来G10通貨騰落（対ドル）＝円の最下位続く(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazQ2NUtWbndURXFWMDNpSDdkTmt6V3M0ZFZCNnFkTHd1SG16bGN4cGhUbGRCbGFCZlFMV2JYaWY1ZHJQaWxodDI1Q2k2TkktcEY4Z3VQQWxyeE1vNzRiMkc2QTVNRUswSUdfei10MmR4aldKMlFDdkJ3NnZpWDM1Y29aNGN0aGM?oc=5",
+      "pubDate": "2026-08-26T01:22:25+09:00",
       "source": "Yahoo!ファイナンス"
     }
   ]
