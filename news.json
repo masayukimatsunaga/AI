@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-08-25T18:02:09+09:00",
+  "updatedAt": "2026-08-25T18:53:12+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "円相場 小幅な値動き 日米の中央銀行幹部の講演控え",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44c3oxTnlTZDZnZWdmdm9aVDJFcURQeHRUZFRteWUzZkdxVFM2YkxZMzkxOTdNNjQ0RGdtb3hnTWNpeExVTDlEWXV2NnV3VDBYbi11QkdTMEZuNURIemVz?oc=5",
+      "pubDate": "2026-08-25T18:45:10+09:00",
+      "source": "NHKニュース"
+    },
+    {
+      "title": "東京円、２９銭円安の１ドル＝１５９円４４～４５銭",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94QUxOUmpfcFdTWWxHek1YTHhXc3NCTFVhSEFsMGdWR1VxTnRob0N6YlpxUDdFcVhyU0FSQ2RpSXdqQmFhbEQ5TGhOTjRvYW5scy1GUEV2ZVVwTGRJZ0RVVjIwRXo?oc=5",
+      "pubDate": "2026-08-25T17:53:00+09:00",
+      "source": "読売新聞"
+    },
     {
       "title": "ドル円は159円台前半推移、ややしっかりも、値幅は限定的＝東京為替概況",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92VkRieTItcVNBUVRrWExXTktWR19RcHZ3cFhtQnFEVDFsU1JwcS1vSVF2QlBnZHVSdEhqWlBURVV4Vm9xUjZSbw?oc=5",
@@ -11,16 +23,22 @@
       "source": "みんかぶ FX/為替"
     },
     {
+      "title": "300学部を留学必修に、文科省が渡航費など支援 円安で負担増",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zVjZIdFdLcHg3cUtSVHZaVlgtOXFQczV6T0g2WXJzcmFDdktFVXFwdEY1THV6bVBnS0NwSEJBYkRnUDcwajZXdUI4dFlySVlLX1ZTRENJX3Q2V2o3VjhOUU4yNlNlVE5sSmpadg?oc=5",
+      "pubDate": "2026-08-25T17:50:08+09:00",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "東京為替概況：ドル・円はしっかり、午後はドル買い再開｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyYzFMUlNEVExzdzljM2dQbU1FNkVZRmVCNHpuc18xaXV1b1hjdXFndVBGc3dzcV93cjdTR0pYd2JEYTZtNHhQQmx4VHdzMVlxZ3c?oc=5",
+      "pubDate": "2026-08-25T17:50:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
       "title": "日銀為替市況（ドル円・午後５時）",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Fb3J5bU8xUzJiY05oLWctU0hrdmdJN1ZiVlFIQjFmU3JLQ1o4S2FWNnliUENGVW9VNHZqUVZMU21sTGlhcksyNw?oc=5",
       "pubDate": "2026-08-25T17:46:05+09:00",
       "source": "みんかぶ"
-    },
-    {
-      "title": "欧米為替見通し:ドル・円は伸び悩みか、米財政再建に思惑も160円を意識(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFp5emlRNnYtLTBWaWg2NXFzQUZqWXlNNUhrV1ZUT004RDZuY2poeDRPTkRiX2x2YldiMVhSQzNQQVNIUzJXaXp1MEsxeUJjdk5ySy1iV3h1UnN0QkdUVGgyc2pZV1BqM0x6eUtYVE9OTWdjeER2ZmRCRWtpQ3hkMVcxWmliMHc?oc=5",
-      "pubDate": "2026-08-25T17:25:00+09:00",
-      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "通貨オプション ボラティリティー ドル円１週間６．４％近辺",
@@ -35,16 +53,16 @@
       "source": "外為どっとコム"
     },
     {
-      "title": "円相場、１５９円４３～４５銭＝２５日午後５時現在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WUWVOMGhsSkhWUGY4V2NyamF1UC1DRmZkRmtCaUtZUGlwMTd4UmNaX3BYRE5qVkV3U0hzc3F5ZWJ5RHpDYjV2Q3dHbEJzT1hyUl91NQ?oc=5",
-      "pubDate": "2026-08-25T17:08:00+09:00",
-      "source": "時事通信ニュース"
-    },
-    {
       "title": "東京外国為替市場概況・17時 ドル円、小高い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTU0tNVMzQmxNdExuXzY5S24xS2RmQmFncUExZm9CVUZRWGJBNHJYbjFqdlJ4cnBabGhvNzMyUUJxcFJxci1DSVdHRkJmamQ5U2hiZ1VmU1lCODVEczlzUW55ak9BTUo2bVZ0SHY1YkpZN2ZiaC1OM0hRNlBUTDI5VEM3cnFGMlE?oc=5",
       "pubDate": "2026-08-25T17:08:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "円相場、１５９円４３～４５銭＝２５日午後５時現在",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WUWVOMGhsSkhWUGY4V2NyamF1UC1DRmZkRmtCaUtZUGlwMTd4UmNaX3BYRE5qVkV3U0hzc3F5ZWJ5RHpDYjV2Q3dHbEJzT1hyUl91NQ?oc=5",
+      "pubDate": "2026-08-25T17:08:00+09:00",
+      "source": "時事通信ニュース"
     },
     {
       "title": "ロンドン序盤、ドル円、クロス円が堅調＝ロンドン為替",
@@ -68,24 +86,6 @@
       "title": "東京為替：ドル・円は小じっかり、ドル買い地合いで(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTRzN01wTGJyYmstMEkzYVFtLTRGWm9DNXp6WjNRNWVvanR0ZGZMMWp4N3RiamFYYnRGOWJMVElUbHB5b052VjMzd1c5b1g3TXpyNnNaREtmVlMzWFpmbWNBYjFrWGpKNEg1NTNiaDBJLWt0RmFlT3djWDdyangtakNuUExzS3c?oc=5",
       "pubDate": "2026-08-25T16:14:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "アングル：円安定着、企業のヘッジ強化に介入の好機 経営戦略でリスク抑制も",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OQnJyR2tIbWV1RWxJcV9PcVhXYjRZcHBsdVhfVFpzMEhxeldqQlE3cHFvdmFudnZxd3h3QlRCMDd2RUJFcEtIdEpWc3luXzUtSmlyNGhxM0NKXzRDaXNBYXp1dncxdXpUY0FRNENHcXhWZm5qNmxLaA?oc=5",
-      "pubDate": "2026-08-25T16:03:00+09:00",
-      "source": "ロイター"
-    },
-    {
-      "title": "ドル買いの動き、ドル円一時１５９．４３レベルと高値僅かに更新＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84UDRBYWJ6UFBYNGlPaTlWT1l0SXZYT28wd3JfYXQyWFc4dHoySEhoTmh5cXowSW5PS1hjRkxWQXhscXUwbXRzdw?oc=5",
-      "pubDate": "2026-08-25T16:01:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "外為：1ドル159円40銭前後とドル高・円安で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNamY3QkhMZlBwa2Rmb0JWZy15OFNEbmNxeHI4V0xfYUhkZjJGSlFpZWwwT00zZmx0YWVIX3kxZUY3Mm55TDVRaEdEUDZBczZkdjFic2xJbHpZRlBlSXZVVld5YzdMR0t0a1JVQUtCaFYzWllRMXpMSS15LVczT09fY0V5OWdzNms?oc=5",
-      "pubDate": "2026-08-25T16:01:00+09:00",
       "source": "Yahoo!ファイナンス"
     }
   ]
