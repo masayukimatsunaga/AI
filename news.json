@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-25T23:28:47+09:00",
+  "updatedAt": "2026-08-26T00:28:18+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "米ユナイテッド航空、沖縄―サンフラン・大阪―LA便 円安で訪日商機",
+      "title": "米ユナイテッド航空、米西海岸から沖縄・大阪に直行便 円安で商機",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3aV9TSE0ydXpyNFhrb0RyWHR3TzFIQnQyZ1BMUUdDWTJodFR4NGFwUlFNbDRhdzV0d3FuTWlnZzZvZHg2YTFIOWd5RV9TNzc0b3ZkYld3LVZWNDUtQUxYRERQMEcyX2NZaVdxWg?oc=5",
       "pubDate": "2026-08-25T22:51:45+09:00",
       "source": "日本経済新聞"
@@ -15,6 +15,12 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BSXFiTXlYMkdNZ1psOFhjdzVhR0stSTMwXzFoVnU4WjZIRUVSUERZM3ZER05iMm9vaUZ6UExHSk9BSWxHNHhXdA?oc=5",
       "pubDate": "2026-08-25T22:25:44+09:00",
       "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-08-25T22:20:16+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "欧州外国為替市場概況・22時 ドル円、もみ合い(トレーダーズ・ウェブ)",
@@ -33,6 +39,12 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iWWNVMlJoV2s2RmU5cWFKdzVTTWcwX0VEUmpHaVJkdEYtdHJUd0E0QTA0QnNDMEFKaUJsYUlmLXh5aVlmYnlyMA?oc=5",
       "pubDate": "2026-08-25T21:55:44+09:00",
       "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "【速報】ドル・円159.27円、ドル堅調、米・8月フィラデルフィア連銀非製造業活動は予想外のマイナス(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObVNibVJrQTJGRlJleWF5SzFLZkNPMzBYa1R4elVpb0RRMk4tT1Zac0ptRExvMFlfaGdQOC1fMmRRMDduZ2U3SXlIRnNUd2VFYWVzSXdNV1ppWS12dW56ZjIyQ0JCSkRZTkdXUTFac0NhV2VwN0NLLVNpVGhydlpNTlduWTFjbVE?oc=5",
+      "pubDate": "2026-08-25T21:36:00+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "ドル・円は小動き、ドルの戻り一服｜FX・為替ニュース",
@@ -75,18 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsRFZFeFh5NEwyUjRVLWlzQUsyVTBBcXA2aFk3MGRpM2lvTVNrakJvd05CNFpkRTg5N3QwMEZGOHpkRjRPckRtdg?oc=5",
       "pubDate": "2026-08-25T19:00:44+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "円相場 小幅な値動き 日米の中央銀行幹部の講演控え",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44c3oxTnlTZDZnZWdmdm9aVDJFcURQeHRUZFRteWUzZkdxVFM2YkxZMzkxOTdNNjQ0RGdtb3hnTWNpeExVTDlEWXV2NnV3VDBYbi11QkdTMEZuNURIemVz?oc=5",
-      "pubDate": "2026-08-25T18:45:10+09:00",
-      "source": "NHKニュース"
-    },
-    {
-      "title": "欧州為替：ドル・円は軟調、ややドル売り 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSM09BcXBIWlhlVXNBaGZ5R2FwVVVFMjFtU2tydHQ5SXluMmEwb0x2TnpLWDYtc3B6cXRHVDBrOHNpTlNSVThhRUI0TGplWnFJN282VTNqQ2h0X0dTM3NHLTB3Ym9lRFU?oc=5",
-      "pubDate": "2026-08-25T18:45:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     }
   ]
 }
