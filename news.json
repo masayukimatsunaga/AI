@@ -1,9 +1,33 @@
 {
-  "updatedAt": "2026-08-25T18:53:12+09:00",
+  "updatedAt": "2026-08-25T19:51:43+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル・円は下げ渋り、ドル売りは限定的｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40eFgzcDZlVlNrWC1GVlhXRjllUzBVVkkxX1dVcDREVzNrdUlwOE90cnQxamJoWEN3bDNGSEM0QnlCTkhIbm1lNzY2R3B0YXJCNVE?oc=5",
+      "pubDate": "2026-08-25T19:27:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "欧州為替：ドル・円は下げ渋り、ドル売りは限定的(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMXdNTFFJYjdMSlRfc0dGN3dJekxtVkFuaHZwYjJVaXRwRkxBZjQ2UXFtNzd1cDhTZVRaUzRKcTRISFRzNFhxWWg0UEgzTnBuREFyWV9peEpmRVl3cVVFWkNSRVpSRlNlM1dhVnZScENVNHBrRzNhaGpPd3g0MWduT1UwVVNxaVU?oc=5",
+      "pubDate": "2026-08-25T19:17:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "外為：1ドル159円28銭前後とドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWmd5RE5ta216NG1ieDhYWFpaR2JQc01YX3d0eDVjSzI1eEhGVExnVl9TLTBoRzY2VTlpYjNvTWVlLXpMWFVTMmlHcWFHa0tuQTNnMnpDbWYxRnQzaHpKMEgwb0hVZExpbE9iZHRRaXRqeWNqb2pnVkNXVlp6VkZXQWhpWklJc0U?oc=5",
+      "pubDate": "2026-08-25T19:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円１５９．３０近辺、ユーロドル１．１６７０近辺＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsRFZFeFh5NEwyUjRVLWlzQUsyVTBBcXA2aFk3MGRpM2lvTVNrakJvd05CNFpkRTg5N3QwMEZGOHpkRjRPckRtdg?oc=5",
+      "pubDate": "2026-08-25T19:00:44+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "円相場 小幅な値動き 日米の中央銀行幹部の講演控え",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44c3oxTnlTZDZnZWdmdm9aVDJFcURQeHRUZFRteWUzZkdxVFM2YkxZMzkxOTdNNjQ0RGdtb3hnTWNpeExVTDlEWXV2NnV3VDBYbi11QkdTMEZuNURIemVz?oc=5",
@@ -11,22 +35,28 @@
       "source": "NHKニュース"
     },
     {
-      "title": "東京円、２９銭円安の１ドル＝１５９円４４～４５銭",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94QUxOUmpfcFdTWWxHek1YTHhXc3NCTFVhSEFsMGdWR1VxTnRob0N6YlpxUDdFcVhyU0FSQ2RpSXdqQmFhbEQ5TGhOTjRvYW5scy1GUEV2ZVVwTGRJZ0RVVjIwRXo?oc=5",
-      "pubDate": "2026-08-25T17:53:00+09:00",
-      "source": "読売新聞"
+      "title": "ドル・円は軟調、ややドル売り｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzN2t0bk9uNVFUbDRpVUhQeFZHQzdYMHZPT2htYS0wSkduZGV2cDR3LXVoLTZVYVJjOFRZMVZmVHg1N0FHU0g1V3BUbDFiemZpa1E?oc=5",
+      "pubDate": "2026-08-25T18:40:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "外為：1ドル159円35銭前後と小幅なドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdXF4UnhwWGNCWG81ckJ5Mk9iMWgzRjlLVUdFVWo3Vl8zbUYyMDZMcWxsYnVONzJXd0tjSzlPV081QjI3TmdJSndkZWxLM1lZQ0pfYUJkNFUtZ1lSZllLQzRSOEk0Ni1ieFlONkJXbDdtRDJtZDQ5ekoxcExfNmI0cUtsN0xuOE0?oc=5",
+      "pubDate": "2026-08-25T18:01:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京円、２９銭円安の１ドル＝１５９円４４～４５銭（読売新聞オンライン）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vY0tuMWVJSjJLaUx6OHg3dWFDSEJPdFAwRmUwRFphNExvU09HdVh0dHVsX2VNcTc5Zzd3VHlMSTlRb2oyYmlfblE3MUJpMVdZNmdKR1piRFBWS1lZUlVFNnBsaDJ1M1dPUVYzQmMwX1pNQVdiMGl4UDFWcmNtblU?oc=5",
+      "pubDate": "2026-08-25T17:54:09+09:00",
+      "source": "Yahoo!ニュース"
     },
     {
       "title": "ドル円は159円台前半推移、ややしっかりも、値幅は限定的＝東京為替概況",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92VkRieTItcVNBUVRrWExXTktWR19RcHZ3cFhtQnFEVDFsU1JwcS1vSVF2QlBnZHVSdEhqWlBURVV4Vm9xUjZSbw?oc=5",
       "pubDate": "2026-08-25T17:52:57+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "300学部を留学必修に、文科省が渡航費など支援 円安で負担増",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zVjZIdFdLcHg3cUtSVHZaVlgtOXFQczV6T0g2WXJzcmFDdktFVXFwdEY1THV6bVBnS0NwSEJBYkRnUDcwajZXdUI4dFlySVlLX1ZTRENJX3Q2V2o3VjhOUU4yNlNlVE5sSmpadg?oc=5",
-      "pubDate": "2026-08-25T17:50:08+09:00",
-      "source": "日本経済新聞"
     },
     {
       "title": "東京為替概況：ドル・円はしっかり、午後はドル買い再開｜FX・為替ニュース",
@@ -36,15 +66,9 @@
     },
     {
       "title": "日銀為替市況（ドル円・午後５時）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Fb3J5bU8xUzJiY05oLWctU0hrdmdJN1ZiVlFIQjFmU3JLQ1o4S2FWNnliUENGVW9VNHZqUVZMU21sTGlhcksyNw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA0Y2JhaEdUUXNtM0VySGpDVDNvejNFQm9SZkgyVy1fbXNCZnVjaThNcHVmOG1XbUJRamlSUkxvYWsxRjNKaGc?oc=5",
       "pubDate": "2026-08-25T17:46:05+09:00",
       "source": "みんかぶ"
-    },
-    {
-      "title": "通貨オプション ボラティリティー ドル円１週間６．４％近辺",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sMHBXVEJaMHBRQmNSYm9UbzFxX084c0h3UHQzeldvSTRrVUpPN3huOVNTeEVfNjJTV3kxa0xRLWJBbXNjOVZlLQ?oc=5",
-      "pubDate": "2026-08-25T17:17:44+09:00",
-      "source": "みんかぶ FX/為替"
     },
     {
       "title": "ドル円159円台で底堅い展開、個人投資家は利益確定を優先 今日の外為注文情報 2026/8/25 17:00",
@@ -63,30 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WUWVOMGhsSkhWUGY4V2NyamF1UC1DRmZkRmtCaUtZUGlwMTd4UmNaX3BYRE5qVkV3U0hzc3F5ZWJ5RHpDYjV2Q3dHbEJzT1hyUl91NQ?oc=5",
       "pubDate": "2026-08-25T17:08:00+09:00",
       "source": "時事通信ニュース"
-    },
-    {
-      "title": "ロンドン序盤、ドル円、クロス円が堅調＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PNTZYMXRmdFJaMVRQVDlCeUhsLTFzc29aOVpWQnpfZFAwaHFQTl80UWdmNGFzMXFvSzlaOXNZYXJoZXB5UDFGQg?oc=5",
-      "pubDate": "2026-08-25T16:57:44+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円今週の予想（8月24日）サンワード証券の陳氏(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa2toVEVLRzhsdkk5RWhhNzFqSXJ2RmNYT1E2UjUxUmpjMWRVTTNSY0RQT0tiRFJicFhORzNtcEloLTVHNWN1djVrS21QTHhDb1E0d2tST1h0SzBIbnpjTEtENXVDSmF0OGtrUkNSMEpOdm5sVHJFLTAxdXowSzBWeERHM1VJR1E?oc=5",
-      "pubDate": "2026-08-25T16:40:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "〔JPXエネルギー〕ドバイ原油、イラン制裁発表受け3日続伸＝円安も支援（25日）(時事通信)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaTZyQjRXaHo5TXNHVTJzY2E1YVBDc25TZjZ0RFJDVkxhQU5yNllrcFB5cWF5elRXRHBhbnFCa014V0V1YVBqa3puMVB6b0sySm9yTGFOaUx4Nl9uczdUcW1fcWdhQlBtd0R6OERRR01XUnVaNnljMTR5M0R3U2RKZHBOQUZrMHM?oc=5",
-      "pubDate": "2026-08-25T16:21:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "東京為替：ドル・円は小じっかり、ドル買い地合いで(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTRzN01wTGJyYmstMEkzYVFtLTRGWm9DNXp6WjNRNWVvanR0ZGZMMWp4N3RiamFYYnRGOWJMVElUbHB5b052VjMzd1c5b1g3TXpyNnNaREtmVlMzWFpmbWNBYjFrWGpKNEg1NTNiaDBJLWt0RmFlT3djWDdyangtakNuUExzS3c?oc=5",
-      "pubDate": "2026-08-25T16:14:00+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
