@@ -1,14 +1,26 @@
 {
-  "updatedAt": "2026-08-25T22:36:36+09:00",
+  "updatedAt": "2026-08-25T23:28:47+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "米ユナイテッド航空、沖縄―サンフラン・大阪―LA便 円安で訪日商機",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3aV9TSE0ydXpyNFhrb0RyWHR3TzFIQnQyZ1BMUUdDWTJodFR4NGFwUlFNbDRhdzV0d3FuTWlnZzZvZHg2YTFIOWd5RV9TNzc0b3ZkYld3LVZWNDUtQUxYRERQMEcyX2NZaVdxWg?oc=5",
+      "pubDate": "2026-08-25T22:51:45+09:00",
+      "source": "日本経済新聞"
+    },
+    {
       "title": "ドル円、狭いレンジでの推移続く ウォーシュ議長の講演控え様子見ムード＝ＮＹ為替序盤 -",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BSXFiTXlYMkdNZ1psOFhjdzVhR0stSTMwXzFoVnU4WjZIRUVSUERZM3ZER05iMm9vaUZ6UExHSk9BSWxHNHhXdA?oc=5",
       "pubDate": "2026-08-25T22:25:44+09:00",
       "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "欧州外国為替市場概況・22時 ドル円、もみ合い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMUswaFR3bXRGTkRXUVhBV2xwVWRYS3czcnJXaUR0SnEzTEhNT0diakp4N0FDa0ZyZU1tTFRBN0poWHU5VVdnM2FMQTRDck44UUR4UkZDeS1ueWVyYWQ5aGFxTng5ZVJ0cER0WjIydXNjbzB2TXRkcV9ZOGxoMUE3WkRXT3Jqd3M?oc=5",
+      "pubDate": "2026-08-25T22:05:00+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "欧州外国為替市場概況・22時 ドル円、もみ合い｜FX・為替ニュース",
@@ -75,18 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSM09BcXBIWlhlVXNBaGZ5R2FwVVVFMjFtU2tydHQ5SXluMmEwb0x2TnpLWDYtc3B6cXRHVDBrOHNpTlNSVThhRUI0TGplWnFJN282VTNqQ2h0X0dTM3NHLTB3Ym9lRFU?oc=5",
       "pubDate": "2026-08-25T18:45:00+09:00",
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "ドル・円は軟調、ややドル売り｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzN2t0bk9uNVFUbDRpVUhQeFZHQzdYMHZPT2htYS0wSkduZGV2cDR3LXVoLTZVYVJjOFRZMVZmVHg1N0FHU0g1V3BUbDFiemZpa1E?oc=5",
-      "pubDate": "2026-08-25T18:40:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "外為：1ドル159円35銭前後と小幅なドル安・円高で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdXF4UnhwWGNCWG81ckJ5Mk9iMWgzRjlLVUdFVWo3Vl8zbUYyMDZMcWxsYnVONzJXd0tjSzlPV081QjI3TmdJSndkZWxLM1lZQ0pfYUJkNFUtZ1lSZllLQzRSOEk0Ni1ieFlONkJXbDdtRDJtZDQ5ekoxcExfNmI0cUtsN0xuOE0?oc=5",
-      "pubDate": "2026-08-25T18:01:00+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
