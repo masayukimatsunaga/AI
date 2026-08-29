@@ -1,14 +1,25 @@
 {
-  "updatedAt": "2026-08-30T00:39:19+09:00",
+  "updatedAt": "2026-08-30T03:54:23+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "米財務長官ベッセント氏、円相場の変動が世界市場に波及するリスクを警告 執筆",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Kc21WTlp6a2tlZ3MzU1g4MVBsanIycER4TW95aEE0N3JDelBqWGFJeFBEXzZyR0ZweThud2pUUVlTc05oU2tmZGRXNTVReDJCeFJQXzMyVWNvcndTM2xsRU5Db1padnlsd2c?oc=5",
+      "pubDate": "2026-08-30T02:23:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-08-30T01:46:50+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
       "title": "円安再燃で1ドル160円台へ下落 日米協調介入の効果は1か月で後退",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14Z1BZd3hydHVtbXpvZlI5U082VDVIRGVWQk1fY2ltX2JOUUoyZEw1SUJteHZHdkQ5Y2dFRXdXanJ3REktZTlFWDJoZF9wcEFFQV84?oc=5",
-      "pubDate": "2026-08-29T23:54:14+09:00",
+      "pubDate": "2026-08-30T00:07:39+09:00",
       "source": "東京報道新聞"
     },
     {
@@ -18,28 +29,10 @@
       "source": "Yahoo!ニュース"
     },
     {
-      "title": "【ドル円予想2026/8/28】ウォーシュFRB議長の発言に注目!金融政策にヒントを示すか?★分かり易いFX情報番組",
-      "link": "https://www.youtube.com/watch?v=13do4BzX95s",
-      "pubDate": "2026-08-29T17:41:00+09:00",
-      "source": "ひまわり証券"
-    },
-    {
-      "title": "為替週間見通し:伸び悩みか、米インフレ高止まりも追加為替介入に警戒",
-      "link": "https://www.zaikei.co.jp/article/20260829/867862.html",
-      "pubDate": "2026-08-29T16:28:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "ユーロ週間見通し:伸び悩みか、域内景況感は良好でも追加為替介入に警戒",
-      "link": "https://www.zaikei.co.jp/article/20260829/867864.html",
+      "title": "ユーロ週間見通し：伸び悩みか、域内景況感は良好でも追加為替介入に警戒(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1ptblp4SHhnTm9wek5pMllBaEtIY0FTWEhtY245Vy1hOWNrYkVKZHhfT3N4ckhYdk5hM1FabU5ocHljalBuRExHX0RBZlJySVZQSjVERTFodC1VWE1qQ244VzJnR1BPVGtsV0RPTEpwYXlQOU5STHI0cXFTYi1zWjlpYjlwcVk?oc=5",
       "pubDate": "2026-08-29T16:22:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "英ポンド週間見通し:もみ合いか、英景況感の見極めも追加為替介入に警戒",
-      "link": "https://www.zaikei.co.jp/article/20260829/867863.html",
-      "pubDate": "2026-08-29T16:22:00+09:00",
-      "source": "財経新聞"
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "英ポンド週間見通し：もみ合いか、英景況感の見極めも追加為替介入に警戒(フィスコ)",
@@ -54,6 +47,12 @@
       "source": "Yahoo!ファイナンス"
     },
     {
+      "title": "「円の無秩序な動きは世界市場を不安定化させる」ベセント米財務長官、為替介入を正当化",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DLW5qNWlGZW1PUFA5SFZrTkJzLXBoOV8yc2NqNnR2cHBjWnlzcjNhOEhpaTBnc1JWc3VoT2gzVUI2MnFHSGNzZ1hDLWpscVBaWU53ZHp0STFELUw3eU9JRnlVbENON2V0TV9ZWERtYjE0LUVxWXc?oc=5",
+      "pubDate": "2026-08-29T14:34:30+09:00",
+      "source": "産経ニュース"
+    },
+    {
       "title": "米ドル/円には米ドル安が反映されにくい！ 拡大する「ディベースメントトレード」とはなにか？ 本命は豪ドル/円などのクロス円か",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWhwREpZNHJXaFhUbzNkTVZpbFFPQWhfMm51UVh1X0NGM0F6TkR0UHU0a2FBN3N5UHdELVF2Z0FjNEFpWTM2RmF4TnJwUi1SeUVsMXotYUstelU1bWFYZEgtdy1tZHZsMTdQU01KdTJIdGJMM3BBbEJRRy1tdWdyaDNZeTdBYzg?oc=5",
       "pubDate": "2026-08-29T14:06:00+09:00",
@@ -61,9 +60,9 @@
     },
     {
       "title": "「円の無秩序な動き」米長官警戒 為替介入を正当化",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YUGd5UThlZ2JfLUdJR1VoTWZOaFZ3bFNCcWEycjJ2VzF5WWhBRU1zRlhvdFNPTC1wYXRrMUp2aVFMWlpET1JTSFQ4dVhuNWdiUDR4QWF6WFhxdw?oc=5",
-      "pubDate": "2026-08-29T13:51:22+09:00",
-      "source": "北海道新聞デジタル"
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DQ0xIZDhUaTdTTFNpdEpPVmVnNmN5OW1NcGRTNTl2QjhQZU9kbUhhUlJzbDhoa3dsbVJaSFdJeFJnUzZYaFFJMC1RMjNiZW5hNFYwQzJQeGQ1TWtOSHpOOU5pbnNvQTUzR2Zn?oc=5",
+      "pubDate": "2026-08-29T13:43:25+09:00",
+      "source": "信濃毎日新聞デジタル"
     },
     {
       "title": "企業の「価格転嫁率」、円安やコストアップで再び4割下回る",
@@ -84,8 +83,8 @@
       "source": "Yahoo!ニュース"
     },
     {
-      "title": "過去1カ月の為替介入額は15兆3993億円と過去最大､期間中には日米協調 | 政治・経済・投資 | 東洋経済オンライン",
-      "link": "https://toyokeizai.net/articles/-/956247?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "title": "過去1カ月の為替介入額は15兆3993億円と過去最大､期間中には日米協調",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHSEFtZ0hEaF9pWldNeVpuWkl2YWREM1dMWGxONWJVa0dQRWhSUUtFelA5QmJtdnRGeXcwY3dveXFUSDhBUWlXM0p0bnZUTXlSQ0UyaFhnNC1VdG9IZlY0?oc=5",
       "pubDate": "2026-08-29T12:00:00+09:00",
       "source": "東洋経済オンライン"
     }
