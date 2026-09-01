@@ -28,6 +28,7 @@ RSS_URL = (
     "https://www.gaitame.com/media/rss/category/"
     + urllib.parse.quote("外為トゥデイ")
 )
+ORDER_GUIDE_URL = "https://www.gaitame.com/markets/order/det/"
 
 
 class TextExtractor(HTMLParser):
@@ -138,6 +139,29 @@ def extract_events(body: str) -> list[dict[str, str]]:
     return (important or rows)[:6]
 
 
+def extract_order_book_image(body: str) -> str:
+    section = re.search(
+        r"<h2\b[^>]*\bid=[\"']tool[\"'][^>]*>.*?</h2>(.*?)(?:<h2\b[^>]*\bid=[\"']range[\"']|<h2\b)",
+        body,
+        re.IGNORECASE | re.DOTALL,
+    )
+    if not section:
+        return ""
+    image_match = re.search(
+        r"<img\b[^>]*\bsrc=[\"']([^\"']+)[\"']",
+        section.group(1),
+        re.IGNORECASE | re.DOTALL,
+    )
+    if not image_match:
+        return ""
+    image_url = html.unescape(image_match.group(1)).strip()
+    parsed = urllib.parse.urlparse(image_url)
+    allowed_hosts = {"cdn-ak.f.st-hatena.com", "cdn.image.st-hatena.com"}
+    if parsed.scheme != "https" or parsed.netloc not in allowed_hosts:
+        raise RuntimeError(f"Unexpected order-book image URL: {image_url}")
+    return image_url
+
+
 def headline_from_title(title: str) -> str:
     match = re.search(r"ドル/円今日の見通し\s*(?:｜|\|)\s*(.*?)」\s*外為", title)
     return match.group(1).strip() if match else title.strip()
@@ -189,6 +213,8 @@ def parse_report(xml_text: str) -> dict[str, object]:
         "outlook": re.sub(r"^ドル/円の見通し\s*[：:]\s*", "", extract_heading(body, "h2", "outlook")),
         "factors": extract_factors(body),
         "events": extract_events(body),
+        "orderBookImage": extract_order_book_image(body),
+        "orderBookGuideUrl": ORDER_GUIDE_URL,
     }
 
 

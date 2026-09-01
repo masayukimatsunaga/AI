@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T15:12:17+09:00",
+  "updatedAt": "2026-09-01T15:34:56+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
@@ -38,6 +38,8 @@
         "text": "－ ◎ G20財務相・中央銀行総裁会議（31日～）",
         "importance": "high"
       }
-    ]
+    ],
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260901/20260901083949.png",
+    "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
