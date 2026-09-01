@@ -1,92 +1,93 @@
 {
-  "updatedAt": "2026-09-01T06:06:25+09:00",
+  "updatedAt": "2026-09-01T09:38:39+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "日本が「円高へ措置」 米財務長官、利上げ促す（時事通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5bjZTVjAwT2oxX01NMkxGREtVVE5Xb0R5d1FJYk1fNlc5T0c1akIyVGE1bXBKWlRLWjRSZGgzcXZEUTRKZVhnY1FiNUw2angxUkFuUnlWTFRSR1I1cElROXVfTk00WXM4MktNbmxVNW5iemxnU3EzbG5wcE03Um8?oc=5",
-      "pubDate": "2026-09-01T05:51:40+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "ドル円、１５９円台に伸び悩む １６０円台は従来ほど介入警戒は強くないとの指摘も＝ＮＹ為替概況 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XUnZqZmRNNkpvcVMzWl9oSkdKMFNrNHdPQWp4VGpMMHRXcjVzVWY4UWFubTJvUkdXcmZkbWd1ZVo1RWtlcUZQaw?oc=5",
-      "pubDate": "2026-09-01T05:40:33+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【急浮上】アメリカ利上げ説。まだ円安は止まらない",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JYkNqVWJac2NndDN3LVYxUVVyOFhiM0dUUTlMYV9HVmwyaVA4QkhSemI3Y00weUxHN0hmTXVCQ2s4XzJQaEsxSGlQR1cyUkJGaGhB?oc=5",
-      "pubDate": "2026-09-01T05:30:03+09:00",
-      "source": "newspicks.com"
-    },
-    {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-09-01T05:08:12+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "東京円相場１５９円台後半",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53V0tvMUtFWElIcmlfQmxlUU5nZnNSa19mazJlYzRseU1CV1JNRFRyUHlGRC0wU0RiRGhsMWJ2RVYyYmljM1FnV2ZRamZ5VVJWVThjMjQyU1RJR21JSHltOV9R?oc=5",
-      "pubDate": "2026-09-01T05:00:00+09:00",
-      "source": "琉球新報デジタル"
-    },
-    {
-      "title": "「どこまで乗っても60円」オーストラリア・ブリスベンの鉄道事情 円安＆物価高の海外旅行「水1本500円」だが交通は超格安",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UbDJIZ1UydzRTMDRPRDBMbEhzS25Da0NQMlk2eE9DTlY2UWdzM3R6a3FuMXhGQ2FtMFV2V09meXlDT2JUNVJjdGpiLWpWcHZRTGtaalRERkRud3drU3NQR0h4TGoyeW9pb2pMZmNUNkMxdldlc2pBYzEzTHBhbDQ?oc=5",
-      "pubDate": "2026-09-01T04:39:32+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "本日の円高傾向、短期間で効果が薄れるとの見方＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pNGlxNkQxNlFsbFhJZkVNbS04VUJkbTBUaEktaUpKN0NTSThKVGFjTUR4Q0lZbHB1bExzU0l6QWxZTUJmREQ4Yg?oc=5",
-      "pubDate": "2026-09-01T04:38:33+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "｢どこまで乗っても60円｣ブリスベンの鉄道事情 円安＆物価高で｢水1本500円｣だが交通は格安",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rdW5mYWhHd1pPbmJPQXJpNktmaWxCS1I1OUU5QWpMTlFOQTRQYkx3blc2cHJidGRTUUxjRkhxUkVvOHFGM2JYX3B4YkY4ZFhWbEE?oc=5",
-      "pubDate": "2026-09-01T04:30:00+09:00",
-      "source": "東洋経済オンライン"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・4時 ドル円、小じっかり(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVVlaNVpidW9heEg4YzJ2WVE4S1FmZGtERnFvY29DeVp4NHI5bW03S3RqOWlxcFhmTXA1YktRWWpFWk50VFVUc0pMUVpYRC1pNFZLOW5fYnRjbXR0dkxCVXpRdnhnYUxvWUFob3dWQ1B0bzhEMUJFellKa0F0SGFzOU1uRU5pOGc?oc=5",
-      "pubDate": "2026-09-01T04:09:13+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・4時 ドル円、小じっかり",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jTkpxY0o1dWpXcHBZNUJxQlU3bzZkQlYxUWdkYzRWTG5YeWxqQzlHTHhIbFFvbVBkbFRjQmxqanMzd2ZOdk1hd0lFUTJvMGxTWEE?oc=5",
-      "pubDate": "2026-09-01T04:05:00+09:00",
+      "title": "ドル円、159.66円まで下押し 本邦長期金利は約30年ぶりの水準",
+      "link": "https://zai.diamond.jp/articles/-/494842",
+      "pubDate": "2026-09-01T09:23:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "米財務長官「日本が円高につながる措置」 日銀の利上げに期待",
+      "title": "ドル円、159.66円まで下押し 本邦長期金利は約30年ぶりの水準(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdF93dXBQcGw2ZnJfVjFHSHVvOFM0NXVZS1BLNTdCNkpNUHZsa2Y5QmE4ZU81TE94Qk9YaXlQeFctMXV4a2Z1bU8yZi10c0FQdGVDRU1rTEFGcWlBY2kwQTZlemJIdXJGbkNUNVo3UGMtSnhmNWZIQU9XY2JoaVp5clRjQTc5S00?oc=5",
+      "pubDate": "2026-09-01T09:23:00+09:00",
+      "source": "finance.yahoo.co.jp"
+    },
+    {
+      "title": "ドル円理論価格 1ドル＝159.95円（前日比-0.11円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5MY0V4MW1nMUpMbXlEMjlNeWZ6NlVEdU5VOHVkM05IM3FoWVBaZXRrb0I2aHhtTzVJX3BkWWR0NG51ekNmc1ZKaQ?oc=5",
+      "pubDate": "2026-09-01T09:16:33+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "NY金先物は続落、ウォーシュFRB議長のタカ派発言を受けた米利上げ観測の高まりが重しに",
+      "link": "https://zai.diamond.jp/articles/-/494841",
+      "pubDate": "2026-09-01T09:14:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "米財務長官「日本が円高につながる措置を」 日銀の利上げに期待",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sUzQ5UkpBNm1DZzN6TnZOUy13N3N2WGZpVGhEYVFFZGJIX2Y1cjdQVnVlWDdHenVrX2h1cWdJanhyM3NRcWZOODJSN01GdmRObDRRS2RTQlZDLVRSSWxsNjh2bWNJNXhyejlOSQ?oc=5",
-      "pubDate": "2026-09-01T03:24:52+09:00",
+      "pubDate": "2026-09-01T09:09:59+09:00",
       "source": "日本経済新聞"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・2時 ドル円、戻り鈍い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbzBETFNZS1gxVHliVnhoSWVpXzNpT3otMDFqZmFjUzdzRTVVRTZSWEd4S0t2MnhfSlp2S2h0Z1dfRFZkNU5yZ0hPS2MybF92R2R5VDduUUhGQkpiUGpyRWk3UkkwcjRJV0lrcF9qck8yQ3lUd0IzR29oWm1CYkRZQXh0RldPQWc?oc=5",
-      "pubDate": "2026-09-01T02:08:32+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "円相場、159円74~76銭 1日午前9時現在",
+      "link": "https://www.jiji.com/jc/article?k=2026090100260&g=eco",
+      "pubDate": "2026-09-01T09:09:00+09:00",
+      "source": "時事ドットコム"
     },
     {
-      "title": "米財務長官、日本が円高につながる措置講じると確信",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdjRMRXNTeWN1dVFsNFBWSFRPd0dwUTBYT2xhaTNwY3hnY2pGSm5KMnNrVGRlY0JzaklhYnMxd2VDYnZaVzRUckhiQTZ1eHlrWV85U2dKWDY0RXN4bHFfdThCQ2xOT1gzVjBNdEtrb1V5Tkc2X2xXOVpBTHZldDBaVzR0UG94ZUoxYldv?oc=5",
-      "pubDate": "2026-09-01T01:34:15+09:00",
-      "source": "ロイター"
+      "title": "円相場、１５９円７４～７６銭＝１日午前９時現在",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4S01IaElMSDROX3hiZ3d6dV9YbmNrTkl2cUYtY2hPMDN4SlZsS3VGRmF3ZFRJekc2Ti1qRVFMQVJFSkNiWEZMWGh6aVN0UnU0LWNiNQ?oc=5",
+      "pubDate": "2026-09-01T09:09:00+09:00",
+      "source": "時事通信ニュース"
     },
     {
-      "title": "月初来G10通貨騰落（対ドル）＝円、最下位から抜け出せず(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPREQxY3d1MUh1WU1lbXhQN2dDQTdVUXdIYjJoN0lUSERiWkhHME5HMmNRS05Zd25KTTNWSkZtQzhxeUtMOXV2NDA2V0p0LTduSW9oTGJYVTJ6RjVNbzl2X2RmQ20zWkpBQlJ3S0htNGNwZHNqWURaNkZNOHNDamJ0ZGtQMnpxV1E?oc=5",
-      "pubDate": "2026-09-01T01:29:03+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "東京為替:ドル・円は足元で急速に持ち直す",
+      "link": "https://www.zaikei.co.jp/article/20260901/868098.html",
+      "pubDate": "2026-09-01T09:07:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "東京為替：ドル・円は足元で急速に持ち直す(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOamlBRVZRWGNWMkhGZy11Sk1SNnRiZHlrRENJTkU1eXJiYjBjUy1sYm85Z3VhaXQ1eE8zdzMxd0pFTkYzQjlhNkE3RE9PUFJfd1hZelRTNFA5MzdzVjhBVkNHU1FmaGw5T0ZVbVU4VjhOX014WF80OFc0eVQ1U3dzN3M4bjVqTjQ?oc=5",
+      "pubDate": "2026-09-01T09:07:00+09:00",
+      "source": "finance.yahoo.co.jp"
+    },
+    {
+      "title": "東京為替：ドル・円は足元で急速に持ち直す 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZQ2FoQW5FeGttdUZjWUZNUkJMYUkzZ0cwdHhRYm9zN2hNcFM1UDkzM0c3Ti1MU0UyNFFIeVFoUkVsWjh5ODgzTVlvTTdOU2NaWFdsdTEyYks0dFFDeVFVNm9ZMndUM0U?oc=5",
+      "pubDate": "2026-09-01T09:07:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
+      "title": "円相場、中東緊迫で159円台後半に下落 原油高で貿易赤字懸念",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hUGtjblBvQkRMb1E4ck44Mm11d3RlX1F6N0ZZb0wwb3l5SURhNjVNSHEzc09pX08xUXJ2eFZycGlJYWdtRTc3R1pHbFEzUUhSaGVlbWFnLUpFUHdJMGVYdUN2VHJwNDJHOGtyWTJwb3hBWENG?oc=5",
+      "pubDate": "2026-09-01T09:05:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "外為：1ドル159円75銭前後とドル高・円安で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmxQOU5EaE1SZnpxakNvN2daUXNqa25FWHVEV2RfT2Y4YTVyeDBWUGZkMmtkUy16NmNjZVpDR0VUTENSZlNHdU9CRExieno1NkZOZlpsZ1BCZ0tOcFRZeUtjV0FuSUN5QXdocDhsajVQQlEzZGlrWHdyOHNEc2g4Z01MSTRpR0k?oc=5",
+      "pubDate": "2026-09-01T09:01:00+09:00",
+      "source": "finance.yahoo.co.jp"
+    },
+    {
+      "title": "【為替】米国の「高市リフレ」けん制と円安是正",
+      "link": "https://media.monex.co.jp/articles/-/30054",
+      "pubDate": "2026-09-01T09:00:00+09:00",
+      "source": "吉田恒の為替デイリー"
+    },
+    {
+      "title": "９月１日の東京外国為替市場見通し＝ドル・円、１５９円台後半を軸にもみ合いか(ウエルスアドバイザー)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaDdVSnZOVUFYNWtYM3lPQTk3aXoyUDVlRXNhMWo0N2ZvV2ltS2N1SklqNGM4NUUtb0RJUW41dVNiTXlRcTVnNTJpclpEZXRqTVNkMWVDaWxCOEQ1SUsyVEpkSWdhUlpSRlFVRE5lemRwbEZlOTNkbWtFZEpmQVZEX1VfYlpTMTA?oc=5",
+      "pubDate": "2026-09-01T08:54:45+09:00",
+      "source": "finance.yahoo.co.jp"
     }
   ]
 }
