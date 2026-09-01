@@ -1,9 +1,45 @@
 {
-  "updatedAt": "2026-09-02T00:13:02+09:00",
+  "updatedAt": "2026-09-02T03:35:16+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "米財務長官、円安是正へ日本の対応を支持 日銀に健全な金融政策求める",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CQ0FOdlFwY2tyVlpPZ09zbmpoQzNDb2NPYk9xN1JMYWJPRm1tRkFUZzVxU0QySjVSSV9WNWx0Y0o3QkJTTmpSRVdYNzlZRWdsZmpBeWoybUhrQmptTVdBTnZvUXR3aXM4QXBwVkN4cWR4R09RZ1lHeg?oc=5",
+      "pubDate": "2026-09-02T01:26:08+09:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "米財務長官、円安是正へ日本の措置を「強く支持」 日銀総裁と会談（ロイター）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14LVpmRmpLZ3JLQU83WWFnMnlmRUhqV29QV3QwTFYzXzZBcDJnN3lYcjBwU1FkRXJpQnRLZ1NzVWlkNkY5X3NOYW5RZWhfbWJJTmc4WGQ2RW5pak1JdHBWN2RkaG9DenhhaWdvZGkzR2V4X3hOTVRkWGNNZVAtVUk?oc=5",
+      "pubDate": "2026-09-02T01:11:52+09:00",
+      "source": "news.yahoo.co.jp"
+    },
+    {
+      "title": "【速報】米長官、円安への日本の断固とした措置支持",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5Y1h5RjBoM2oxWUM5LWRZM3E5eVNPQnBnWjVfRU41VkJNcHl3Y3cxMUVKZnRMRGJxQ3RIVGlMdDVnLXk0RDJHQXBNQQ?oc=5",
+      "pubDate": "2026-09-02T01:09:47+09:00",
+      "source": "47NEWS"
+    },
+    {
+      "title": "米長官、円安への日本の断固とした措置支持",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44blJGX0NYb2FfYXhkeDloMnVOYk1OcElNV1BtRENGSTl3UDVZOWhBYUpqLUcxUzZxM1hWaXlEWjF0OVlZZHhDSVd1VDgyZmdkSzVtN1RNVXNzNFVrZUE?oc=5",
+      "pubDate": "2026-09-02T01:09:47+09:00",
+      "source": "沖縄タイムス社"
+    },
+    {
+      "title": "米財務長官、30日に日銀総裁と会談 「円安が日本のインフレ圧力強めている」と指摘(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFFnRldkM3hkUGhHdzJoQi1EdVpGcks2YlBDQ0NrUnBuX1pmeDAtRnFGaXNJT1BnX1dweFhFRUMzRGVWZlpsZ2Exd2pyanpHbFRINVVVaUwwaU9DeXVicWU1WGM5YktiTU9CVGl6Y2ctYkxhVTJmajJ4cTQ4c3plT3A0R3M0X28?oc=5",
+      "pubDate": "2026-09-02T00:53:06+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、テクニカル的には下値警戒の兆候も出ているとの指摘も＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43Y2lkZXNWVmpxMjVVYkdPNXc1Ti1hWlY0SHZjcjM5aWVFU3dkaGNSeFl3U1BPN0tOaVNMNmxIRVh0MHpFTGxpVg?oc=5",
+      "pubDate": "2026-09-02T00:31:33+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "ニューヨーク外国為替市場概況・24時 ドル円、上昇一服(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMFloMm9nSHZXOVZraHgyZUdrM0hsUWw1eDBWMndyZHp3ckQ5ZWVyc2lEc0lQX1V5Tkw4eXJ4eWJWSmFlems1S05yeFlFdUlsQ3Bod21pQjlsZFNGVWtFODloWkpIUVdTR0J6eGlrcXFqS3Y1SDRCdEowUy1fSDVMUEJCUjRXWm8?oc=5",
@@ -11,9 +47,9 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "【速報】ドル・円160円再び割り込む、ドル買い後退、米経済指標が予想下回る(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWmxJYV92MS1lZHpvTzNDWkJQN3FPbWlNNkswakFVRFVlYVNsQXR3UkFlN005eUhyWi02QmVKU2RwT215YWdLUGNTU0dhb0IzR2JmYW9Yc2EzOVl3Y3Jrd2RKQmczZXkxWlBmaTVuM1dyRDFwRjg2UVNhSk1kaXJhMmE3RTV3R1k?oc=5",
-      "pubDate": "2026-09-01T23:19:00+09:00",
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-09-01T23:12:16+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
@@ -50,43 +86,7 @@
       "title": "構造的円安と日本株一段高の可能性",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GX1lDT0FoM1g0WDF2b2M4M245NWdqZDYwaE9tSnBTUzdfOWQ0RkRsS1V0cnhSM3NCWEVqbndiT21VTGRscW81QVEtZWZKM3RZSUxzYmRIUU1EYmxfdGpxSA?oc=5",
       "pubDate": "2026-09-01T21:22:00+09:00",
-      "source": "株探"
-    },
-    {
-      "title": "「秩序だった円相場は不可欠」片山さつき財務大臣 日米協調介入後初めて ベッセント財務長官と会談",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QSmpORGU4S3ZNSVZWUW9fd2lyZ24xRG92cXVaOWtxUnRoSDZDUFlTNzdNOVN0Z294bXo1NUNfN0t6MjRTZDVHQmZBMzBqTnpCTVhHUkJMcw?oc=5",
-      "pubDate": "2026-09-01T20:52:00+09:00",
-      "source": "TBS NEWS DIG"
-    },
-    {
-      "title": "ドル円一時１６０．１４レベル、じりじりと高値を伸ばす＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hZ0d2VnhyTDFvNHptTWtYVktrT1J6MUtJUjROU3VUaXI3Tm5Ma3FVM242M3NydkhmUktNbWtYX3M5d01XaVVSQQ?oc=5",
-      "pubDate": "2026-09-01T20:12:33+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-09-01T20:11:20+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "欧州外国為替市場概況・20時 ドル円、底堅さ維持(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ25haG0wR2FTZ1VRODUySUI1ejVINjRSU3d2VjQyVjVwRHk2U1lLMllHcWtoX2hXRDhFU0poMkFnTF9TaGdmWWtRMmJ5U1A2Zk9LQ2lERm1FNW5KQWRJZFBGS1BvVlItTWpPRzJfNV8xVEY5OVhZemM3Vm5kMmZ4S0cyWmxpQms?oc=5",
-      "pubDate": "2026-09-01T20:06:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年9月1日）",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKRHBweWtPdDBqWldhYVQ3Zzl4LWFfR1dPT0tPY21ZQnRPTEhSOGEzdlFLeThzcVRVYk9QUXlSaXBGWk81LXAtdTZIOWVtTEw3bHFNOEp2dEJ3X1o3SmR2UUVGZw?oc=5",
-      "pubDate": "2026-09-01T20:00:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "日米財務相が円相場安定へ協調確認 片山氏「秩序だった円相場は世界の金融市場に不可欠」",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83MHJQM0N1REgxVHM4Q056UHVaaGo0WUtMRzZKeFJFaFVHakowZFJnS1hWdlRZb3RiQTV0Nm5EMWpIQTdYX2FJUGZhSTFPb0xZMFYtQVNwTXB3SVl3Vnp3T2dtQjNEai01YTF6UTJkUF85ekpVdWc?oc=5",
-      "pubDate": "2026-09-01T19:54:46+09:00",
-      "source": "産経ニュース"
+      "source": "kabutan.jp"
     }
   ]
 }
