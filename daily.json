@@ -1,0 +1,43 @@
+{
+  "updatedAt": "2026-09-01T15:12:17+09:00",
+  "source": {
+    "name": "外為どっとコム マネ育チャンネル",
+    "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
+    "cadence": "平日毎朝8:30〜9:00頃"
+  },
+  "report": {
+    "headline": "160円台定着に失敗　G20や米指標に注目",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜160円台定着に失敗　G20や米指標に注目」 外為どっとコム トゥデイ 2026年9月1日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/01/084548",
+    "publishedAt": "2026-09-01T08:45:48+09:00",
+    "createdAt": "2026-09-01T08:30:00+09:00",
+    "forecastRange": {
+      "low": 159.2,
+      "high": 160.4
+    },
+    "outlook": "G20や米指標に注目",
+    "factors": [
+      "米国、１カ月ぶりにイラン攻撃",
+      "独CPI、前月から伸び加速",
+      "米財務長官、「市場にはない情報を持っている」"
+    ],
+    "events": [
+      {
+        "text": "18:00 〇 (ユーロ圏) 8月消費者物価指数・速報値",
+        "importance": "medium"
+      },
+      {
+        "text": "23:00 ◎ (米) 8月ISM製造業景況指数",
+        "importance": "high"
+      },
+      {
+        "text": "23:00 〇 (米) 7月JOLTS求人件数",
+        "importance": "medium"
+      },
+      {
+        "text": "－ ◎ G20財務相・中央銀行総裁会議（31日～）",
+        "importance": "high"
+      }
+    ]
+  }
+}
