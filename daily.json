@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-09-02T13:40:56+09:00",
+  "updatedAt": "2026-09-03T13:37:44+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "有事のドル買いで160円台回復も米雇用情勢に不透明感",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜有事のドル買いで160円台回復も米雇用情勢に不透明感」 外為どっとコム トゥデイ 2026年9月2日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/02/085551",
-    "publishedAt": "2026-09-02T08:55:51+09:00",
-    "createdAt": "2026-09-02T08:30:00+09:00",
+    "headline": "158円台へ急落　日米金融政策が焦点に",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜158円台へ急落　日米金融政策が焦点に」 外為どっとコム トゥデイ 2026年9月3日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/03/084423",
+    "publishedAt": "2026-09-03T08:44:23+09:00",
+    "createdAt": "2026-09-03T08:30:00+09:00",
     "forecastRange": {
-      "low": 159.5,
-      "high": 160.7
+      "low": 158.0,
+      "high": 159.6
     },
-    "outlook": "原油高が続けば、高値更新の可能性",
+    "outlook": "日米金融政策が焦点に",
     "factors": [
-      "片山財務相、日米協調は「継続的な取り組み」",
-      "ユーロ圏CPI加速",
-      "米ISM製造業景況指数、前月から低下"
+      "日銀総裁、「有益な議論ができた」",
+      "豪四半期GDP、予想上回る",
+      "日銀の高田審議委員「連続利上げあり得る」"
     ],
     "events": [
       {
-        "text": "10:30 〇 (豪) 4-6月期GDP",
+        "text": "21:30 〇 (米) 新規失業保険申請件数",
         "importance": "medium"
       },
       {
-        "text": "21:15 ◎ (米) 8月ADP全国雇用者数",
+        "text": "23:00 ◎ (米) 8月ISM非製造業景況指数",
         "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260902/20260902085236.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260903/20260903084240.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
