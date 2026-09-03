@@ -1,92 +1,93 @@
 {
-  "updatedAt": "2026-09-03T18:53:41+09:00",
+  "updatedAt": "2026-09-04T03:06:25+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "円相場「引き続き臨戦態勢」と財務官",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xVERIVzdBWDN5RGUxYXJ1dG1RcGkzRHh1M2JVN0pUcEprUGpuTWgxNWEyOGFlRmE1RFNWY0k3ejdyYm5mRGRDVXVhb3NmSFBDRkxLNnBBZkt4Ukk?oc=5",
-      "pubDate": "2026-09-03T18:51:12+09:00",
-      "source": "下野新聞社"
-    },
-    {
-      "title": "日銀の利上げ観測で円相場1ドル＝156円台 3円以上円高進む 8月7日以来1か月ぶり",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jMW4zWkZQOXN2cF9uMDZwMlRQcDl2eHEwTWlkaENZZ2xZYVdzWDE0MVV2cHVmaGN4MGNkeHJXNlhFd3dMVDVubkpaOE5nTWwzcHFIZy16QQ?oc=5",
-      "pubDate": "2026-09-03T18:35:33+09:00",
-      "source": "TBS NEWS DIG"
-    },
-    {
-      "title": "ドル円再び１５６．４０台まで軟化、三村財務官発言で＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92WEVzbDNGUUpYckhOTzJ0ZE1aSy1vTThxZXg1WmU4MmxVTGJLajdoX3JaRFQyTWRoT1p4d2dQSlVXNnlQNkVOOQ?oc=5",
-      "pubDate": "2026-09-03T18:30:32+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州為替：ドル・円は安値圏、円買い地合い継続｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5ajlhT3h1UWI1MV9DTE9laGp3QXp5NzNRYVZwVG94dC1sOXE4MHpaSjRqVmVrR2FYZ3VpSy1Fa2hZQW55SS1VSy0tV09PY1JDdHc?oc=5",
-      "pubDate": "2026-09-03T18:23:00+09:00",
+      "title": "[通貨オプション]OP買い加速、ドル・円レンジ相場突破で",
+      "link": "https://zai.diamond.jp/articles/-/495076",
+      "pubDate": "2026-09-04T02:40:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "欧州為替：ドル・円は安値圏、円買い地合い継続(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlNOU3lvYzVtenRiZlRPSC0xNk5maWNRODBlcmpzQmR2d0ZmMlpHcDlpaFA4RzFEcTRrSHRXaVNfZmtUVkI5NHozb00yMHFMaFJucHlTbDViOHRuSGV2NWxKb3RsbUROWEJrMW5ITktfOWZvR1UxbFRZUS1FaVpmd3JJai10WlE?oc=5",
-      "pubDate": "2026-09-03T18:13:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "外為：1ドル156円67銭前後とドル安・円高で推移",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yZEtFZ0lfd1FvS3VhSUVtSWtFYzNsU3g1SUhIbGdIMnVROEYyek8yVkNUZ0tubGExcnNJQTNTV1BsYUZXSVZTV1RIUktHbENIVWc?oc=5",
-      "pubDate": "2026-09-03T18:01:01+09:00",
-      "source": "株探"
-    },
-    {
-      "title": "円相場が急騰 一時1ドル＝156円台前半に（日テレNEWS NNN）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Oa2l6bHEtOE1fU1VZNFN6SS1wcWFieUU2aVBvYXlFRDY0N2U3Q3ZjMXAyWklpRHBLZng0Y3FRX05MX2NZYXZGZ0NZVHFlb2l2ZUhlSmtDUjdDWXRSZkNzcGphZWppcGl3eTlVUHVXUU8zeTdpeTBnZDc1R0lxZ0U?oc=5",
-      "pubDate": "2026-09-03T18:01:00+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "円相場、157円03～06銭＝3日午後5時現在(時事通信)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXVfR2stczBOOWY5cmJvazAtaERaQ2xaVDhVTDJNZEc4N2xzQkViWGZJRk9lNzFFNHVMWmtnaVhIbGR2dWVRbjBrRVJqaWhLSGlpU19PN21GSGUzXy1SLTZlUjVqSXJXMzhLaUk1UlQ4Zm9UaTZmX09BQjQ0OUE5WXB1TGVQMm8?oc=5",
-      "pubDate": "2026-09-03T18:00:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "日銀為替市況（ドル円・午後５時）",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jRVJqSzltZnBTMXZKdVVoNkNHU0wyWWZUdzRfR3BQNFpSRFpDeHI0UW5IakYzUFlPbzlxUzJFcnd6VDNNVFE?oc=5",
-      "pubDate": "2026-09-03T17:51:07+09:00",
-      "source": "みんかぶ"
-    },
-    {
-      "title": "ドル・円は急落、午後は下げ足を速める｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJUURhS0M1WENHUTdzMDVYRnkwZjVkaGFOazIxVG1OWDFSUmdJejNxNjlydHB6RmRJMnZnSzVkbnBFdHNMU3ctTGFxdmlSYzV5VlE?oc=5",
-      "pubDate": "2026-09-03T17:37:00+09:00",
+      "title": "[通貨オプション]OP買い加速、ドル・円レンジ相場突破で｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByTTVNZEFCM0xuczVVYkZoUVYzdF9oUkFraGdhYjRQNmJHU0U4RGk3ajFmcXFBelczZl9XNmZKOHRtcklOcmdjWGFHenJ1c1M1T2c?oc=5",
+      "pubDate": "2026-09-04T02:40:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "円相場 一時1ドル＝156円台前半に 日銀の利上げが加速するという見方広がる｜Quebee キュエビー",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZng1LUtCRkpsQ3NqajFmaWlFZVN0OWRIcnJLdmJDNnhBLTN5ODg1OVdLQnFUX0tES1VwVEthcVFIWjdMeVR1eENpM2xCUXBYVlc2UTVDSHg?oc=5",
-      "pubDate": "2026-09-03T17:25:57+09:00",
-      "source": "QAB 琉球朝日放送"
+      "title": "円キャリー巻き戻しか、ドル円急落｜大橋ひろこ",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BRElXUHpNd09XTjF6N24yNUpRalRtWlZ0MlBtb2JNd0VNMWhoZ25YTmU3MlNpdW9RRlpXbl9Xcktmbks1ckJVaDFYUHJ3VzJsS0lsQlMwM0Jfdw?oc=5",
+      "pubDate": "2026-09-04T02:27:14+09:00",
+      "source": "note"
     },
     {
-      "title": "円相場 一時1ドル＝156円台前半に 日銀の利上げが加速するという見方広がる（テレビ朝日系（ANN））",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XOFNRZDB1RGlTcnhPVU9PTWhacUZhUjJxR2NWdUlhTkVzZFZKSkE2blpMcEtRdHFVckZYS2d2UHMybUs5RlhHczlRcndhbWE0ck5qRUhOQ1FRdUxxUmdGbHBleVRFZEhuRnRMb2dUUWdIQkx1UUJqTklmaXI1NTA?oc=5",
-      "pubDate": "2026-09-03T17:25:57+09:00",
-      "source": "Yahoo!ニュース"
+      "title": "ニューヨーク外国為替市場概況・2時 ドル円、上値が重い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGlrZjVDU1RBNVZEeEFnNHN3Q2JCM0pQaElSaldjeW5McV9UanRrT3d1cXB6aWJiMDdqMnV5Mzl2dXM5SWZ3STd2WTBENERXWmVvamJEaFdvX2E5TXlKMy1WQ2pzS28weGY1ejBQQW8waWVWSi1DQmhEbUhFTHZEMUliZjRWd2s?oc=5",
+      "pubDate": "2026-09-04T02:07:59+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "明日の為替相場見通し＝一段のドル安・円高進行はあるか",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zdDBvZHdhcXV3X1dkUmVHUVFSZGExcnRxQkpiNFhqcXFVajdTblRwY2pGMFRDUkxlZXk3WTlSYUowZDcyLXNFQUVyanM1cHdza1E?oc=5",
-      "pubDate": "2026-09-03T17:17:00+09:00",
-      "source": "株探"
+      "title": "ニューヨーク外国為替市場概況・2時 ドル円、上値が重い",
+      "link": "https://zai.diamond.jp/articles/-/495075",
+      "pubDate": "2026-09-04T02:05:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "ドル円１５６．９０近辺、ユーロドル１．１６０５近辺＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EQmdFQ2Y1OUx3M19Ycm5vZDV0SU9PcFhISkROU0xxYVFPUmcxblU5RnptcHoxTVNrdWRMb1NlYllBWHEzMGl4Yw?oc=5",
-      "pubDate": "2026-09-03T17:13:32+09:00",
-      "source": "みんかぶ FX/為替"
+      "title": "ドル円、１５５円割れなら売り加速との指摘 オプション分析＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WaEhUZVpjTmg3Q1VKMEI5ckhJaWtoMktDWkFsb1RmdDRqQnhVZnhvUmNaU2haNmtkaU16cnpXdjN2V0FrS2Jqeg?oc=5",
+      "pubDate": "2026-09-04T01:59:32+09:00",
+      "source": "fx.minkabu.jp"
+    },
+    {
+      "title": "月初来G10通貨騰落（対円）＝円高が進行(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnRQYWZ0QUV2ZUhNOFRDWDhsWkx0RWZsSDNPYk5sQThpTFJpakh3VFl5QklSdUs4b09MYWFic2s0QWx3LTNTcXJzV0I5Ym5jSmNPME9lM2tCWWtINmdnYlZzTUdxRjRRMy1oS0NhOW90c2JTQTJBVzZucWRDMWJudXZhQklEQ1U?oc=5",
+      "pubDate": "2026-09-04T01:19:57+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円が155円台に急接近、オプション売り圧力で下げ加速も",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNkt2dk5kcDY3cElEaXFwTlZ1YVd6UkxnQ3NVQWMxTEp5dFNQQXd0RGdYTFhFTW5VSzdHdzFORi1SUVRodnpUekwyWWl6WTlGblZqRE1WZDlOaXZCT1lCd0FnTlh6RWQzSTJsOXRJVkZFQzdU?oc=5",
+      "pubDate": "2026-09-04T01:08:45+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "NY外為:円続伸、日銀、今月の金融政策決定会合で0.25%利上げする公算=関係筋",
+      "link": "https://zai.diamond.jp/articles/-/495072",
+      "pubDate": "2026-09-04T00:23:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "円相場 一時 1ドル=155円台前半に 1か月ぶり高値",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260903de48058",
+      "pubDate": "2026-09-04T00:11:00+09:00",
+      "source": "NHK"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、さえない(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWlfNnZUSFdxaWNXREdneDJ6dmFXeXA3MS03MFpMVVhhYVQyOFB2VXF6QUF3M1lMcW9GdXNOREhzSVBUM01McHRzbFRPdXhINXJhZWpJOGNPZlJxNElrbmhoLS1abXN6dlQxaklvZFFSX1NVNzBWZTZLZE91X0xuTHBSOUZuQkE?oc=5",
+      "pubDate": "2026-09-04T00:09:47+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、さえない",
+      "link": "https://zai.diamond.jp/articles/-/495071",
+      "pubDate": "2026-09-04T00:07:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "円相場 一時1ドル＝155円台に",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQTVLTmIxeUpBakZ3VXJRQV9qQWoyX0tvU1dwUEItS2lURU5yOGxsQV8wcm1mdWlydU9qMEhpWlRzaWlYamp1aG0zb2NzRlFRcHlCNzVkOG5qVzNVZ3dyTTFFTklkTFlyLXctbl9wSi1IdHVReENUbWlTUUNlS25ubXl6ZTdaSlFZYjFoRkU3NVVtX1BMLTRSUzJDTmIzNzdnMWFDT2REbnFKUFlkXzV2V0x5TlNrcTFDLW41R2NxS3paVWpFeGlndXBzVlFKSG1ZREZNMmRfUGp4Y1pTaV9jcVp6YWpycUc0?oc=5",
+      "pubDate": "2026-09-03T23:55:44+09:00",
+      "source": "ABEMA"
+    },
+    {
+      "title": "ドル円、下げ渋り 8月3日の安値155.23円がサポート",
+      "link": "https://zai.diamond.jp/articles/-/495069",
+      "pubDate": "2026-09-03T23:41:00+09:00",
+      "source": "ザイFX！"
     }
   ]
 }
