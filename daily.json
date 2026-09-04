@@ -1,37 +1,45 @@
 {
-  "updatedAt": "2026-09-03T13:37:44+09:00",
+  "updatedAt": "2026-09-04T13:39:08+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "158円台へ急落　日米金融政策が焦点に",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜158円台へ急落　日米金融政策が焦点に」 外為どっとコム トゥデイ 2026年9月3日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/03/084423",
-    "publishedAt": "2026-09-03T08:44:23+09:00",
-    "createdAt": "2026-09-03T08:30:00+09:00",
+    "headline": "155円の攻防へ　カギは米雇用統計",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜155円の攻防へ　カギは米雇用統計」 外為どっとコム トゥデイ 2026年9月4日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/04/084901",
+    "publishedAt": "2026-09-04T08:49:01+09:00",
+    "createdAt": "2026-09-04T08:30:00+09:00",
     "forecastRange": {
-      "low": 158.0,
-      "high": 159.6
+      "low": 154.5,
+      "high": 157.5
     },
-    "outlook": "日米金融政策が焦点に",
+    "outlook": "カギは米雇用統計",
     "factors": [
-      "日銀総裁、「有益な議論ができた」",
-      "豪四半期GDP、予想上回る",
-      "日銀の高田審議委員「連続利上げあり得る」"
+      "豪貿易収支、予想上回る",
+      "片山財務相、「特に注文​はない」",
+      "FRB理事、9月会合で金利据え置きの可能性示唆"
     ],
     "events": [
       {
-        "text": "21:30 〇 (米) 新規失業保険申請件数",
+        "text": "17:50 〇 (英) ベイリーBOE総裁講演",
         "importance": "medium"
       },
       {
-        "text": "23:00 ◎ (米) 8月ISM非製造業景況指数",
+        "text": "21:30 ◎ (米) 8月非農業部門雇用者数",
+        "importance": "high"
+      },
+      {
+        "text": "21:30 ◎ (米) 8月失業率",
+        "importance": "high"
+      },
+      {
+        "text": "21:30 ◎ (米) 8月平均時給",
         "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260903/20260903084240.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260904/20260904084605.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
