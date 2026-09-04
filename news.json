@@ -1,9 +1,51 @@
 {
-  "updatedAt": "2026-09-05T06:03:40+09:00",
+  "updatedAt": "2026-09-05T08:03:38+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "一時１５５円台まで円高が進行した背景の整理",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EOFRlakczMHZaeXR5ZDF0bVk4VDd3TnNLb1VSOEtQT25qZ0d5YXlSVEsyb2lKQVB1WlphcU1lUEdtYTI1QjlrY240WkZUSTBkWGdEaWdLc3hDVENGZW5rU3I3YnNsWXY5eEdVVTBsd1VHejhnSnJnb1R1QmVlXzg?oc=5",
+      "pubDate": "2026-09-05T07:54:57+09:00",
+      "source": "ピクテ・ジャパン"
+    },
+    {
+      "title": "9月の日米金融政策で何を見極める？FOMC・日銀会合と金利、為替、企業利益",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSTldxSERNV2NjZ1lBRlJlNkFVTExlU1RCb1poN0VtdFdORV9LZm9mQ05vcGVnVWQzU0pfUFlGVGc3dk93OXZGTUpEOUFUT0p1NTk4Tkg1TFVqTkJpa1dxa2Jn?oc=5",
+      "pubDate": "2026-09-05T07:30:00+09:00",
+      "source": "Infoseek"
+    },
+    {
+      "title": "NY円、156円台前半 米雇用統計で一時円安進行",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUSjVfWE5MVWVDSWVZS3JtR1hjQnNtTXBJTm5ra2xSOTVZc3VTLWl2VGZlZU1GcHNoT2dZYS1zRHdfSmZOQ3B6VHdTOHdlaUNlZDBLWDRR?oc=5",
+      "pubDate": "2026-09-05T07:16:33+09:00",
+      "source": "nishinippon.co.jp"
+    },
+    {
+      "title": "NY為替・4日＝ドル円が3日ぶりに反発 終値は156.26円(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXZQNGJOc1RyMXRxLUoxLUt1czU1b1RaM1FSb0tyNl9fUjZiYTkwS29wRy05Uzh1TWlyRjJDcl8yaVNMUXRHTU1LMXZhT2NuMFRlM3RIeVJvbG1HZG9GcU9BNm83WnQwbnB3bjZuZ3lKQUdzZzNsNklETEk1TnBfNnkwUTNxMUE?oc=5",
+      "pubDate": "2026-09-05T06:53:24+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "4日レンジ ドル円155.30-156.75円(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeUhpSnJodE1MX1UwSWtlUmY5OFFrZ3dJZ0JpQlkzMlBtdjVRMnRjdE5MeXVYZ0NUZXFqT01reHVzOWx6TndKUWloMkM0Um1tZFU4NmpqRW1HTzU0Q3VaYUVXLTFnWlotOVYzUXB3QlplTHlSZW5OYmZhbC13bXFjN0t3VXk2R3c?oc=5",
+      "pubDate": "2026-09-05T06:31:21+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "来週の為替予想（米ドル/円）158円が戻りの壁、日銀とFRBどちらの利上げ観測が主導するか ハロンズFX 2026/9/5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9USk5UMVlyejdQNmlmdzJGUXFTUTZkOU1URUl6SFA4OG9hd2YtelUzNHVNaHprTzRWeUMtTkFySWx3T2VDZDQ4RGtCRFBnUnlHZ1EwNmliUlNzVWJxNWNzWXc3RQ?oc=5",
+      "pubDate": "2026-09-05T06:03:48+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "４日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOeV9lMXFPX3V3c3BRVjdjMEVaVWl1Wl82ZHVCSnhLTldLejBlU2VoYktvZk5OZU5tam55VzZ4dTZoNUVCV09GYg?oc=5",
+      "pubDate": "2026-09-05T06:03:33+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "茂木外相留任へ、片山財務相も有力…トランプ政権との外交の継続性・円安への対応重視",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52U3pISkJYYmhVZDNFaXFlOTlwbkZtNU5JOW5nNkxCNkpJWU9iNE1DV20xQmhvbmtoUXo3SHU0NnpNMGZjUFdfTlRYQ053WjRheVdfbFJ3R1FlZjJTUDJERXJVYWdZZw?oc=5",
@@ -38,55 +80,13 @@
       "title": "月初来G10通貨騰落（対円）＝円高が続くなかオセアニア通貨はまちまち(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQy1RWXVGQnQzbVZXVkhGQi1NcVRmc2dCWm43eVZSTXVrNUhkMTJtNG0xRWZZRG1jakFybXRCMVhoTUdPeWVENzdCMjEyWEkteXdRTWxEa293OEZaX3hYSWZYbXkwMkZLYWdSdk13MEI4MzJkcUVfeUJVRkxJbGpIVmo4STBFcGc?oc=5",
       "pubDate": "2026-09-05T01:23:29+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "NY外為：円買い一服、当局による円安是正介入の行方睨む｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ORFNBd0pKSlZXZnNRNmNtUXRfMnNYUnh5OEd3Q1I4aTZrcDdoV0FTQlFoMDVxcTRZSThUTUUzVEdrRkpscEdHQTVOb19RZTZDU1E?oc=5",
-      "pubDate": "2026-09-05T00:24:00+09:00",
-      "source": "ザイFX！"
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "ドル円は156.10円台、不安定な上下を経て、やや買い＝ＮＹ為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCN19rbTZCMm5Ib0xqX2NiRHFzQ0Zqal92c2tfdW91ck4tbEhiTm10emN1d0pnUUdEUlZ2R2RYaUlLRVRBU1VSVQ?oc=5",
       "pubDate": "2026-09-05T00:00:33+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円、神経質な動き トランプ大統領は利下げを要求(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVFHRExHQ3ZSY2NnMDF2OXpIV2F3VE5hc1hURHl3YlNKYTd5dG1YSkhSTDliZ1E3TzUwNUV0aV85aVUtSmg0TlktR3ZwOXJtb0E3a25wMHFZNEx0cEUxOUhOQURuallQeVpqTnNTcVJ0ZFBzWXpqcDFhREFIb2JQZnh0Q3lId1U?oc=5",
-      "pubDate": "2026-09-04T23:07:00+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "【米雇用統計】8月分は＋16.2万人と予想上回る 今後のドル円（USD/JPY）・ゴールド（XAU/USD）の見通し",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqZTRveHN0UDZ2dmlEZHZCR0ZIZXRCdWxBeXFYWXY5QkcwWWN1XzB2cDVWdjh4M1lfNG9XMXd3dzc3OHZReU1VT0FDeGd0ZjlZRlRnbzlGWEhpOVB4b05PRUIxMjV6djV1RHpiWl9qZzFaVXVpVFE?oc=5",
-      "pubDate": "2026-09-04T23:05:08+09:00",
-      "source": "OANDA証券"
-    },
-    {
-      "title": "NY外為：円対ユーロ、ポンドで1カ月ぶり高値へ反発、当局による円安是正介入警戒感根強く(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObzl4ZXFkTVpOM2xjZ3N6LWg0dnMxdjc4UGZLSERrOHdSMldPRUJqcDFFYjNsdUJURHUyNzNpUmxlV0daTWMzTUZBT2ZGb2hFc1Zrck1DZXlBanVBOUFybWUtTGJEQkxVQlhtTElFOF9vMGpnbVBURmZIRUZDVmNTTW1Xa01jdE0?oc=5",
-      "pubDate": "2026-09-04T22:31:00+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "ドル円は神経質な上下＝ＮＹ為替序盤",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZX0VZNmFCMENlT0laNnRWeEI1dkhBVC1LMC0xNzlSTTc4a0tna2JjV2ZGMkxHcTZSQl96M2ZMdHZCUWExWVB4Nw?oc=5",
-      "pubDate": "2026-09-04T22:25:33+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円は激しく上下、１５６円台を回復＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0X1ZvOE5zc0Q3WC1tQVdYNHRiV05QTmFOc09fdkZHd1l2dklDZmJraVNLYWxFRTZDRE53WlAzUldlSk9scFFCUA?oc=5",
-      "pubDate": "2026-09-04T22:08:32+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円 失速｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzUy1kbm13SzdWR1dNUkxxaTV5SjAtX19NQ0dmOUFPTUczeXNjWXRqR3ozN3NDRHRZMlVtSFJjSUVLUl9lWEdlVXBaQkJLWTJDQnc?oc=5",
-      "pubDate": "2026-09-04T22:07:00+09:00",
-      "source": "ザイFX！"
     }
   ]
 }
