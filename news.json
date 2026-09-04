@@ -1,9 +1,39 @@
 {
-  "updatedAt": "2026-09-05T00:09:36+09:00",
+  "updatedAt": "2026-09-05T03:27:21+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル円 週末を前に動き落ち着く＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB4QnNNbzJqU09hdXcyaVBMenRsdlJZMksxWGk1STRYQW1JeGcwVU9YeklReUFvMF9iSXJrQU56c2ZuWkx0X0E?oc=5",
+      "pubDate": "2026-09-05T03:11:00+09:00",
+      "source": "みんかぶ"
+    },
+    {
+      "title": "円相場 荒い値動き続く FRB 日銀の利上げ観測や介入警戒で",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wT3BpQk9nUHhvbFo5STdEeWRxR21YcGxseWpZTkNSVFQxY2czTHZTMGU5NmZHOEhJaFl0eTRQWlZ0OVQwLUhwczgxYnJ6eERIaUJna0tkOFVBWGVxZGRv?oc=5",
+      "pubDate": "2026-09-05T02:12:40+09:00",
+      "source": "NHKニュース"
+    },
+    {
+      "title": "月初来G10通貨騰落（対円）＝円高が続くなかオセアニア通貨はまちまち(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQy1RWXVGQnQzbVZXVkhGQi1NcVRmc2dCWm43eVZSTXVrNUhkMTJtNG0xRWZZRG1jakFybXRCMVhoTUdPeWVENzdCMjEyWEkteXdRTWxEa293OEZaX3hYSWZYbXkwMkZLYWdSdk13MEI4MzJkcUVfeUJVRkxJbGpIVmo4STBFcGc?oc=5",
+      "pubDate": "2026-09-05T01:23:29+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "NY外為：円買い一服、当局による円安是正介入の行方睨む｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ORFNBd0pKSlZXZnNRNmNtUXRfMnNYUnh5OEd3Q1I4aTZrcDdoV0FTQlFoMDVxcTRZSThUTUUzVEdrRkpscEdHQTVOb19RZTZDU1E?oc=5",
+      "pubDate": "2026-09-05T00:24:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円は156.10円台、不安定な上下を経て、やや買い＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCN19rbTZCMm5Ib0xqX2NiRHFzQ0Zqal92c2tfdW91ck4tbEhiTm10emN1d0pnUUdEUlZ2R2RYaUlLRVRBU1VSVQ?oc=5",
+      "pubDate": "2026-09-05T00:00:33+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "ドル円、神経質な動き トランプ大統領は利下げを要求(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVFHRExHQ3ZSY2NnMDF2OXpIV2F3VE5hc1hURHl3YlNKYTd5dG1YSkhSTDliZ1E3TzUwNUV0aV85aVUtSmg0TlktR3ZwOXJtb0E3a25wMHFZNEx0cEUxOUhOQURuallQeVpqTnNTcVJ0ZFBzWXpqcDFhREFIb2JQZnh0Q3lId1U?oc=5",
@@ -14,7 +44,7 @@
       "title": "【米雇用統計】8月分は＋16.2万人と予想上回る 今後のドル円（USD/JPY）・ゴールド（XAU/USD）の見通し",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqZTRveHN0UDZ2dmlEZHZCR0ZIZXRCdWxBeXFYWXY5QkcwWWN1XzB2cDVWdjh4M1lfNG9XMXd3dzc3OHZReU1VT0FDeGd0ZjlZRlRnbzlGWEhpOVB4b05PRUIxMjV6djV1RHpiWl9qZzFaVXVpVFE?oc=5",
       "pubDate": "2026-09-04T23:05:08+09:00",
-      "source": "oanda.jp"
+      "source": "OANDA証券"
     },
     {
       "title": "NY外為：円対ユーロ、ポンドで1カ月ぶり高値へ反発、当局による円安是正介入警戒感根強く(フィスコ)",
@@ -30,9 +60,9 @@
     },
     {
       "title": "ドル円は激しく上下、１５６円台を回復＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE55TmlWMFYzREIwYW5jOGRrWGJxXzVveFBSU0Z3SlVFQnI5RXg4QUFHdGN2M1JmTnU3aU40dHNGYVZOelpuLUE?oc=5",
-      "pubDate": "2026-09-04T22:16:00+09:00",
-      "source": "みんかぶ"
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0X1ZvOE5zc0Q3WC1tQVdYNHRiV05QTmFOc09fdkZHd1l2dklDZmJraVNLYWxFRTZDRE53WlAzUldlSk9scFFCUA?oc=5",
+      "pubDate": "2026-09-04T22:08:32+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
       "title": "欧州外国為替市場概況・22時 ドル円 失速｜FX・為替ニュース",
@@ -47,12 +77,6 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "【速報】8月米雇用統計は＋16.2万人、市場予想（＋5.8万人）を大きく上回る ドル円は発表直後156円台後半へ急騰",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tOWNqNVJvVXZvUGhmWXhJZnRBQ2N6eGNhVDVFa3lBRDFOVlBnMjk4YmRjVkJrdnQ5YWxCby1IX25qMmNFTUg3TjVaZmhPUFpZd1l1Q20yalRRWGtsUG9KcGZfamJONnY3UXZ6Y0VGOXRwWXZv?oc=5",
-      "pubDate": "2026-09-04T21:57:12+09:00",
-      "source": "oanda.jp"
-    },
-    {
       "title": "ドル円のピボットは１５６．１５円付近＝ＮＹ為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCak5XaW43ZmFoUHlxWnZrSVA3YUpEckdWak9hamhSMURxT2ptemFpcGdob0FpdXhvU05pRUlodXRlcDRuU2VpUg?oc=5",
       "pubDate": "2026-09-04T21:50:33+09:00",
@@ -63,30 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQmY4Z1hLay0yV2NhLW1XNHBSbjIyZ3Fyc0VYbFFheGZ1R3Z0cWNiYXF3Zl93djBOd0pQLUtoUGZrWHJ3TnBPakFCS2FiRDNlSkNnWkdoNW9XSFZ2TEJmcW1XeEo2OVdPZHl1X3YwdmRza280WjJrWDBMeGExWlp5dlowXzNHcEk?oc=5",
       "pubDate": "2026-09-04T21:38:00+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "米雇用統計受けてドル高、ドル円は156.75円まで上昇(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMHVadmJmTEJlSkE2Y3NDZmVSYTJDbkY0alV2eDFBbnRMbWRNaDlmSUs2SDRVSVhpanp1TFllZTFtTFFuVEM5RVdPZmxoOTc4aUtFWlNVOXNwaGVrZGI3LVNVc1o4cmJVRlI0UXRaUEduU0F3c19WZUE1S3Zma1hYclo4LXpad1k?oc=5",
-      "pubDate": "2026-09-04T21:37:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "米雇用統計を受けてドル円は１５６．７５円まで一時上昇＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqOTRzaWZfdDB2a1RwakFtT1VHb2JYMFpUVVJUdTVhT2ZiYzlCS1piVmtINVNTQVlJU2tKWVFweDZ4TDFrSkdNWg?oc=5",
-      "pubDate": "2026-09-04T21:36:32+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円、クロス円ともに本日の高値圏で米雇用統計待ちに＝ロンドン為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IUlRPVVBObEtoZHJ4ZGJoeWRHenJ1ZzZ2UldOeE8wSDJuNzdoZ3pTWk5penpkYmZSU01PUXdnQUYyRm5NTU9WSw?oc=5",
-      "pubDate": "2026-09-04T20:22:32+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州為替：ドル・円は失速、クロス円も追随 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLdW9tUDZPeU9Qa0QwWkF5ZkFPN1VvOU9ocFk2V0VvYmZFdGJGajdDQ1dqUkxFNFN5ZjhoYjRLRGljVEhDOVZLeWR2eXcxV1V6ZzREOTBUdVZzTk1rZVF5UzV0enpmTDA?oc=5",
-      "pubDate": "2026-09-04T20:15:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     }
   ]
 }
