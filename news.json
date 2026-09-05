@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-09-05T22:33:21+09:00",
+  "updatedAt": "2026-09-06T01:17:04+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-09-05T23:39:31+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "日米が協調為替介入、円安抑止には3つの当局対応か 追加介入、日銀利上げ加速、債券市場安定化策 野村證券・後藤祐二朗",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFRmdVMnUxSVFUSEgwTlRScllIaHVveXhEQ09rVmpzQlg2X2JCRlFEY090ZXk2ZktQbUlIWXJvcHNpbGRGdGx4TTQ3V3FFcHNEd25xMllxblVadXpGV0pz?oc=5",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOeV9lMXFPX3V3c3BRVjdjMEVaVWl1Wl82ZHVCSnhLTldLejBlU2VoYktvZk5OZU5tam55VzZ4dTZoNUVCV09GYg?oc=5",
       "pubDate": "2026-09-05T06:03:33+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・4時 ドル円、強含み｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aRVZWSGt3cjRjNW04M2hHekZXdUI1SlNHQ1ViZXhzZ3hjQThWUGtzOXpKelFFWEF2UzdYenhhUS14Qy1JVlNCNDlWWGh2WmwyOGc?oc=5",
-      "pubDate": "2026-09-05T04:05:00+09:00",
-      "source": "ザイFX！"
     }
   ]
 }
