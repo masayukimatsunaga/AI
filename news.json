@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T19:39:25+09:00",
+  "updatedAt": "2026-09-05T22:33:21+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -9,12 +9,6 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFRmdVMnUxSVFUSEgwTlRScllIaHVveXhEQ09rVmpzQlg2X2JCRlFEY090ZXk2ZktQbUlIWXJvcHNpbGRGdGx4TTQ3V3FFcHNEd25xMllxblVadXpGV0pz?oc=5",
       "pubDate": "2026-09-05T18:45:43+09:00",
       "source": "nomura.co.jp"
-    },
-    {
-      "title": "日本人海外旅行先の3割が「韓国」…1～7月で過去最多の228万人、円安・Kカルチャー人気追い風（KOREA WAVE）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50R0tJZ3BFaUFUUXBkcnFCTTMxMEZ0OWdCV0RzUTlFQV9Ualk2SGo5NWllZUhvUmVKUlJvVkZjMDBIVUNrSUtnWU9Ha1hOSzRYdlVZTVkzWVpEOGZNLTUzUjdWOW8tLXB5Z3hRczVsT282dWN6cFZscDVnSF9waTQ?oc=5",
-      "pubDate": "2026-09-05T18:27:16+09:00",
-      "source": "Yahoo!ニュース"
     },
     {
       "title": "米ドル/円は160円台から155円台へ急落！ 日銀「連続利上げ」の可能性とベッセントの「リフレ政策をやめるべき」発言で円安の流れは変わるのか？(ザイＦＸ！)",
@@ -59,12 +53,6 @@
       "source": "Infoseek"
     },
     {
-      "title": "NY円、156円台前半 米雇用統計で一時円安進行（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0R0M1czNZaWFiczVXUVpoT2UyZmVwaUpRZWctMEpLYXM2RTZjTjhvRzlPZktJZzVKb1o4TEtsb0poODRzWDY4LXdCX3l0dVpnUHR5bmlXQXVRaEpvZ0l4SjBwYjdqVDIzLWlZbkppNGNPY3RJbVZ4TFFBdzFuSlE?oc=5",
-      "pubDate": "2026-09-05T07:16:23+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
       "title": "NY為替・4日＝ドル円が3日ぶりに反発 終値は156.26円(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXZQNGJOc1RyMXRxLUoxLUt1czU1b1RaM1FSb0tyNl9fUjZiYTkwS29wRy05Uzh1TWlyRjJDcl8yaVNMUXRHTU1LMXZhT2NuMFRlM3RIeVJvbG1HZG9GcU9BNm83WnQwbnB3bjZuZ3lKQUdzZzNsNklETEk1TnBfNnkwUTNxMUE?oc=5",
       "pubDate": "2026-09-05T06:50:00+09:00",
@@ -87,6 +75,18 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9USk5UMVlyejdQNmlmdzJGUXFTUTZkOU1URUl6SFA4OG9hd2YtelUzNHVNaHprTzRWeUMtTkFySWx3T2VDZDQ4RGtCRFBnUnlHZ1EwNmliUlNzVWJxNWNzWXc3RQ?oc=5",
       "pubDate": "2026-09-05T06:03:48+09:00",
       "source": "外為どっとコム"
+    },
+    {
+      "title": "４日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOeV9lMXFPX3V3c3BRVjdjMEVaVWl1Wl82ZHVCSnhLTldLejBlU2VoYktvZk5OZU5tam55VzZ4dTZoNUVCV09GYg?oc=5",
+      "pubDate": "2026-09-05T06:03:33+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・4時 ドル円、強含み｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aRVZWSGt3cjRjNW04M2hHekZXdUI1SlNHQ1ViZXhzZ3hjQThWUGtzOXpKelFFWEF2UzdYenhhUS14Qy1JVlNCNDlWWGh2WmwyOGc?oc=5",
+      "pubDate": "2026-09-05T04:05:00+09:00",
+      "source": "ザイFX！"
     }
   ]
 }
