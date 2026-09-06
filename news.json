@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-09-06T09:14:08+09:00",
+  "updatedAt": "2026-09-06T13:47:29+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "【北浜流一郎のズバリ株先見！】 ─ 円高を利益につなげる投資戦略！",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JQXFSZ0JiN3NkNGh3XzI2VHc4QnRjQ2NTNHRzbndwMjRfVVlUYW1ndktKQ3NNZ0RCY3ROVWk3QUlvNFdWTWdUNHY2ZUVsVFhCU18xY3NucmxQRFJxblF6eQ?oc=5",
+      "pubDate": "2026-09-06T09:30:00+09:00",
+      "source": "株探"
+    },
     {
       "title": "ドル円、来週は米物価と日銀利上げ観測が焦点 155～159円で方向模索",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YQ2FXaWRlUWI1dXVMME5pZEtjdi11RmJYLUZYVkxSa0xGVEtYblhoVjZ0MVk3VjE2djl1VVhhMXg4d0F6clVIZm5xY0ROdXZZaTdVN2hNdFlBblZFLU9XUWc1dHdrSEF4amVPYnRKTmZMNzAz?oc=5",
@@ -20,13 +26,13 @@
       "title": "【ドル円週間見通し】下げ渋りか、日銀引き締めにらみ円買いもドルに買戻し",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBIX1Vrakl0M2RwZWJIa0x4ZzVObVkzdU5vLWVLa2hjaWVpR212blc4V2RFN2J5WWlZWlVHUFN2MWlCakxJdlBJ?oc=5",
       "pubDate": "2026-09-06T08:00:00+09:00",
-      "source": "moneypost.jp"
+      "source": "マネーポストWEB"
     },
     {
       "title": "｢円安は続く｣が多数派の今こそ､円高シナリオに備える理由",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55N3R2QUgxbnBNeUZSMmNFMEZiMjVkUzhMU29tMElXVUR6Z0JMdmlla293NkcyOXc0bEVoQ1NhOC1pLTVIcmtMTzNIWkRyZEFjSkxTUUFlSQ?oc=5",
       "pubDate": "2026-09-06T07:30:00+09:00",
-      "source": "shikiho.toyokeizai.net"
+      "source": "四季報オンライン"
     },
     {
       "title": "来週のドル円相場はどうなる？9/7週のイベント予定 2026年9月6日",
@@ -39,12 +45,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16TjJYRTdSWVprT2NjU2FhTERmdW5DTGhZZGticDdvRmlWWERkdThJUGFWa1VjMjB6TnRQZHZqbXN1RlFXYjZKMmtpb0RwX1YwcTE0eUk1VEo4UTgtNVVVMlVYZktVUQ?oc=5",
       "pubDate": "2026-09-06T06:03:45+09:00",
       "source": "外為どっとコム"
-    },
-    {
-      "title": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbWxqc1ltSU1ndEE0VElnZldUTGdyRVJpOTdKeXBsc0RDSm40dm9kLTJqaDZlOVpoR2E5eEZIX1o0bFR1SFR2N2k4WjRiTnN5dHVBTHJn?oc=5",
-      "pubDate": "2026-09-06T05:14:43+09:00",
-      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "円安・債券安「日本売り」阻止へ 日米財務相が連携アピール",
@@ -65,18 +65,6 @@
       "source": "nomura.co.jp"
     },
     {
-      "title": "米ドル/円は160円台から155円台へ急落！ 日銀「連続利上げ」の可能性とベッセントの「リフレ政策をやめるべき」発言で円安の流れは変わるのか？(ザイＦＸ！)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLTg0bmtaemlLemo4Vmd2QjhiM3pDWExOQlRHUTlfREI1RzQ2NC1WM250dVk2Q1NBTXByZkZSV0NJQy1ZTGNHdW1oZk1uUjBNcW1rdEZZSHFYNFNlU2NTS1V2U3JyNFBYelJRUjlPbjhKYkhlaV83Z2VHOXg3OFdvdThsczRISWc?oc=5",
-      "pubDate": "2026-09-05T16:06:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "マーケットコンシェルジュ代表・上野泰也が指摘する〝日銀「早期追加利上げ」が円安是正の国際協調と絡み合うことの危うさ〟",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN0gyZm8wQU1qY21TMVFFVEFqVHh1emtoWGJ4OHVHeWN1OTJNaHgyS0s1WHZ6Z2hOUV9LRmgtbWJNYnhxMVNjbV9YellBZ212UEZ1djI5MGg2YjBBMEE4S3g5ejB6NFhrY09jMWUwem1LTjlTVjVDMXpJVVFIQ1J6NVV1TWFMZzQ?oc=5",
-      "pubDate": "2026-09-05T11:30:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "ベッセント財務長官、目立つリフレ政策への言及 円安阻止を支持",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZYXJtWXo4Q0czaldqYUJscnI4dzJmejR3WEdVMU5QWVd4XzJ0aldtT1phN0ItZTJMejdfdTB5NmF2Y3RVcDEzdXhlNS05bmVKUTNKSy04UlRMMmhNUlhvRGVFTk1fSmF4aS1udw?oc=5",
       "pubDate": "2026-09-05T11:00:00+09:00",
@@ -87,6 +75,18 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95ZXFENTFVWlZoTnN6dkhrbUlkRFRScjd0dUxCRXhhcnNMQXVyT01CNko1U0dXTm04Qmw0X1BZWTFnT2lYTktUazFjMjNTRzVtajRJZHZaS2w?oc=5",
       "pubDate": "2026-09-05T09:10:06+09:00",
       "source": "マネーフォワード"
+    },
+    {
+      "title": "一時１５５円台まで円高が進行した背景の整理",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EOFRlakczMHZaeXR5ZDF0bVk4VDd3TnNLb1VSOEtQT25qZ0d5YXlSVEsyb2lKQVB1WlphcU1lUEdtYTI1QjlrY240WkZUSTBkWGdEaWdLc3hDVENGZW5rU3I3YnNsWXY5eEdVVTBsd1VHejhnSnJnb1R1QmVlXzg?oc=5",
+      "pubDate": "2026-09-05T07:58:19+09:00",
+      "source": "ピクテ・ジャパン"
+    },
+    {
+      "title": "NY為替・4日＝ドル円が3日ぶりに反発 終値は156.26円(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXZQNGJOc1RyMXRxLUoxLUt1czU1b1RaM1FSb0tyNl9fUjZiYTkwS29wRy05Uzh1TWlyRjJDcl8yaVNMUXRHTU1LMXZhT2NuMFRlM3RIeVJvbG1HZG9GcU9BNm83WnQwbnB3bjZuZ3lKQUdzZzNsNklETEk1TnBfNnkwUTNxMUE?oc=5",
+      "pubDate": "2026-09-05T06:50:00+09:00",
+      "source": "Yahoo!ファイナンス"
     }
   ]
 }
