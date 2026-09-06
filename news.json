@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-09-06T13:47:29+09:00",
+  "updatedAt": "2026-09-06T18:28:20+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "円相場「155円攻防」か “介入”よりも“日銀利上げ” 2日間で5円の急上昇 アメリカは雇用統計で利上げ観測再燃",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aMVo3ZkJPM3AzYVVBUVRvbERlNDV5ZVZfU25ZaWpubXgzWC11clZCNWxoY2FIUmp4YmR2N01KNzZvSVdqeUtGSkNZWERWUzVEN0tSNENZOHdmVVJ5WEYxakJzTDh1SFJhYlJ2NmRCcnZRUVhkLVlOOEFiQTg5aE0?oc=5",
+      "pubDate": "2026-09-06T17:00:40+09:00",
+      "source": "Yahoo!ニュース"
+    },
     {
       "title": "【北浜流一郎のズバリ株先見！】 ─ 円高を利益につなげる投資戦略！",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JQXFSZ0JiN3NkNGh3XzI2VHc4QnRjQ2NTNHRzbndwMjRfVVlUYW1ndktKQ3NNZ0RCY3ROVWk3QUlvNFdWTWdUNHY2ZUVsVFhCU18xY3NucmxQRFJxblF6eQ?oc=5",
@@ -15,18 +21,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YQ2FXaWRlUWI1dXVMME5pZEtjdi11RmJYLUZYVkxSa0xGVEtYblhoVjZ0MVk3VjE2djl1VVhhMXg4d0F6clVIZm5xY0ROdXZZaTdVN2hNdFlBblZFLU9XUWc1dHdrSEF4amVPYnRKTmZMNzAz?oc=5",
       "pubDate": "2026-09-06T08:05:00+09:00",
       "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "日本の長期金利と円相場はこれからどう動く？1ドル164円、10年国債利回り3.0%で年末着地か",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1KM1UwR1V1Q2VoS0tidTZCVHAxaEdlUUJFTkc3Tk55M2NDY2ExZ2dOOW13ZGZPNXBhYlI2elc3V3YwZGpx?oc=5",
-      "pubDate": "2026-09-06T08:04:10+09:00",
-      "source": "@DIME アットダイム"
-    },
-    {
-      "title": "【ドル円週間見通し】下げ渋りか、日銀引き締めにらみ円買いもドルに買戻し",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBIX1Vrakl0M2RwZWJIa0x4ZzVObVkzdU5vLWVLa2hjaWVpR212blc4V2RFN2J5WWlZWlVHUFN2MWlCakxJdlBJ?oc=5",
-      "pubDate": "2026-09-06T08:00:00+09:00",
-      "source": "マネーポストWEB"
     },
     {
       "title": "｢円安は続く｣が多数派の今こそ､円高シナリオに備える理由",
@@ -74,7 +68,7 @@
       "title": "9月の日米金融政策で何を見極める？FOMC・日銀会合と金利、為替、企業利益",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95ZXFENTFVWlZoTnN6dkhrbUlkRFRScjd0dUxCRXhhcnNMQXVyT01CNko1U0dXTm04Qmw0X1BZWTFnT2lYTktUazFjMjNTRzVtajRJZHZaS2w?oc=5",
       "pubDate": "2026-09-05T09:10:06+09:00",
-      "source": "マネーフォワード"
+      "source": "media.moneyforward.com"
     },
     {
       "title": "一時１５５円台まで円高が進行した背景の整理",
@@ -83,10 +77,16 @@
       "source": "ピクテ・ジャパン"
     },
     {
-      "title": "NY為替・4日＝ドル円が3日ぶりに反発 終値は156.26円(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXZQNGJOc1RyMXRxLUoxLUt1czU1b1RaM1FSb0tyNl9fUjZiYTkwS29wRy05Uzh1TWlyRjJDcl8yaVNMUXRHTU1LMXZhT2NuMFRlM3RIeVJvbG1HZG9GcU9BNm83WnQwbnB3bjZuZ3lKQUdzZzNsNklETEk1TnBfNnkwUTNxMUE?oc=5",
-      "pubDate": "2026-09-05T06:50:00+09:00",
+      "title": "4日レンジ ドル円155.30-156.75円(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeUhpSnJodE1MX1UwSWtlUmY5OFFrZ3dJZ0JpQlkzMlBtdjVRMnRjdE5MeXVYZ0NUZXFqT01reHVzOWx6TndKUWloMkM0Um1tZFU4NmpqRW1HTzU0Q3VaYUVXLTFnWlotOVYzUXB3QlplTHlSZW5OYmZhbC13bXFjN0t3VXk2R3c?oc=5",
+      "pubDate": "2026-09-05T06:26:00+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "来週の為替予想（米ドル/円）158円が戻りの壁、日銀とFRBどちらの利上げ観測が主導するか ハロンズFX 2026/9/5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9USk5UMVlyejdQNmlmdzJGUXFTUTZkOU1URUl6SFA4OG9hd2YtelUzNHVNaHprTzRWeUMtTkFySWx3T2VDZDQ4RGtCRFBnUnlHZ1EwNmliUlNzVWJxNWNzWXc3RQ?oc=5",
+      "pubDate": "2026-09-05T06:03:48+09:00",
+      "source": "外為どっとコム"
     }
   ]
 }
