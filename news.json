@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T03:39:38+09:00",
+  "updatedAt": "2026-09-07T05:52:05+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -17,16 +17,10 @@
       "source": "日本経済新聞"
     },
     {
-      "title": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbWxqc1ltSU1ndEE0VElnZldUTGdyRVJpOTdKeXBsc0RDSm40dm9kLTJqaDZlOVpoR2E5eEZIX1o0bFR1SFR2N2k4WjRiTnN5dHVBTHJn?oc=5",
-      "pubDate": "2026-09-06T23:17:56+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "円安を放置なら物価高は止まらず、利上げすれば住宅ローン上昇が重荷 高市首相「責任ある積極財政」の行く末",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tRkNaX3FsN1VfQjluODJJN0dpYm9lWU1MSS1BWVlPRWhSWHBSZ3BmaVJnLTg1eVFkTkh5aG1PQjhEMVo5a1g1NTZ6ZDB5Unp6ZEJRRFNBRzM3TW5SRDV3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUE5XzY1ejN4QVhsNTRCLUg4UnhOWGVLdkpFMUV2MThLQkxqbnRZUXN6NldUSGRKeE9XV19BNmY3WVRaVTFZb1JCeVlmZ1dlLWN3OWxSVllZbjhEOWdfRkdFUHptSkFsRFhxRHlFdDZ4T2NCSGxyWktYekVuOVFsQVdiYVFSbUh4?oc=5",
       "pubDate": "2026-09-06T19:10:00+09:00",
-      "source": "J-CAST ニュース"
+      "source": "Yahoo!ニュース"
     },
     {
       "title": "円相場「155円攻防」か “介入”よりも“日銀利上げ” 2日間で5円の急上昇 アメリカは雇用統計で利上げ観測再燃",
@@ -62,7 +56,7 @@
       "title": "円安・債券安「日本売り」阻止へ 日米財務相が連携アピール",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Lc0NXTXBGWXc3a3k3OVpIdUh5UlRUeGVMSTlaYzRHNWViUUpudzE0YWVEcG5oMDNYNU11MnlKZE1TTm5udlJ4Y0p4V2RGZFlSVjRDeXNIWQ?oc=5",
       "pubDate": "2026-09-06T05:01:49+09:00",
-      "source": "agrinews.co.jp"
+      "source": "日本農業新聞"
     },
     {
       "title": "日米が協調為替介入、円安抑止には3つの当局対応か 追加介入、日銀利上げ加速、債券市場安定化策 野村證券・後藤祐二朗",
@@ -87,6 +81,12 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84OHJ1OU9XVzhjZklTOXM2S2xwV0FSRElrVWplNFpkUjRNSnpNWnQ0eDNpRldWOXV0UzZaU1NpSVdaZHplMVFHTWdZamZSQ2dPUWR0M2NJdDJPbnNYbDNFVGRGT2FPajg?oc=5",
       "pubDate": "2026-09-05T10:45:00+09:00",
       "source": "朝日新聞"
+    },
+    {
+      "title": "9月の日米金融政策で何を見極める？FOMC・日銀会合と金利、為替、企業利益",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95ZXFENTFVWlZoTnN6dkhrbUlkRFRScjd0dUxCRXhhcnNMQXVyT01CNko1U0dXTm04Qmw0X1BZWTFnT2lYTktUazFjMjNTRzVtajRJZHZaS2w?oc=5",
+      "pubDate": "2026-09-05T09:10:06+09:00",
+      "source": "マネーフォワード"
     }
   ]
 }
