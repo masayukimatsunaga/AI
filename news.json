@@ -1,14 +1,26 @@
 {
-  "updatedAt": "2026-09-07T01:18:41+09:00",
+  "updatedAt": "2026-09-07T03:39:38+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "「2日で5円」円相場が急騰 市場が感じた“日銀の本気度”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rcWR1MExZd2h2U2FoVVF1RGY2Q2JWa285T2wxQnVRVzJ4OENCNXhMc1RTakFjdGNIbXR5T01rN0hjTHhuSnUtTHRxa3dBVnByQmk4UHphX0pPNHM?oc=5",
+      "pubDate": "2026-09-07T02:54:21+09:00",
+      "source": "ABEMA"
+    },
+    {
+      "title": "「超円安」転換の岐路 3日で5円上昇、市場は150円も視野",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdzNOSG1jQmZJZVUwM2xEMjd1YlRSdkxWZE9BaDJKYXhYVkVBeTI3MW5vVWhRVWJ4ZHdsZzZ2b2N5bmtzSGVnSmJGdEo2ZjFEdHgwS3F4LTU1bDBoY3lVX3RYTWpzMUNzMzRqVA?oc=5",
+      "pubDate": "2026-09-07T02:00:00+09:00",
+      "source": "日本経済新聞"
+    },
+    {
       "title": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbWxqc1ltSU1ndEE0VElnZldUTGdyRVJpOTdKeXBsc0RDSm40dm9kLTJqaDZlOVpoR2E5eEZIX1o0bFR1SFR2N2k4WjRiTnN5dHVBTHJn?oc=5",
       "pubDate": "2026-09-06T23:17:56+09:00",
-      "source": "finance.yahoo.co.jp"
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "円安を放置なら物価高は止まらず、利上げすれば住宅ローン上昇が重荷 高市首相「責任ある積極財政」の行く末",
@@ -29,12 +41,6 @@
       "source": "株探"
     },
     {
-      "title": "ドル円、来週は米物価と日銀利上げ観測が焦点 155～159円で方向模索",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YQ2FXaWRlUWI1dXVMME5pZEtjdi11RmJYLUZYVkxSa0xGVEtYblhoVjZ0MVk3VjE2djl1VVhhMXg4d0F6clVIZm5xY0ROdXZZaTdVN2hNdFlBblZFLU9XUWc1dHdrSEF4amVPYnRKTmZMNzAz?oc=5",
-      "pubDate": "2026-09-06T08:05:00+09:00",
-      "source": "BigGo ファイナンス"
-    },
-    {
       "title": "｢円安は続く｣が多数派の今こそ､円高シナリオに備える理由",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55N3R2QUgxbnBNeUZSMmNFMEZiMjVkUzhMU29tMElXVUR6Z0JMdmlla293NkcyOXc0bEVoQ1NhOC1pLTVIcmtMTzNIWkRyZEFjSkxTUUFlSQ?oc=5",
       "pubDate": "2026-09-06T07:30:00+09:00",
@@ -44,25 +50,19 @@
       "title": "来週のドル円相場はどうなる？9/7週のイベント予定 2026年9月6日",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uQjB4bjY0S2xTb3J3Zi1YNkRwVW8zSkhPaE5ZYk5xS3RWUUxkTzR5aXFpYTdXaU9CUGl4bUg3bENBOVVfM0ZsNmFzdXZKQmVjdERYSGtCRzVIb3dnLTE2U082RQ?oc=5",
       "pubDate": "2026-09-06T07:00:44+09:00",
-      "source": "gaitame.com"
+      "source": "外為どっとコム"
     },
     {
       "title": "トルコリラ/円 見通し「円高進行でリラ最安値更新...10日政策金利は据え置きの公算」注目の高金利通貨 9月6日号",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16TjJYRTdSWVprT2NjU2FhTERmdW5DTGhZZGticDdvRmlWWERkdThJUGFWa1VjMjB6TnRQZHZqbXN1RlFXYjZKMmtpb0RwX1YwcTE0eUk1VEo4UTgtNVVVMlVYZktVUQ?oc=5",
       "pubDate": "2026-09-06T06:03:45+09:00",
-      "source": "gaitame.com"
+      "source": "外為どっとコム"
     },
     {
       "title": "円安・債券安「日本売り」阻止へ 日米財務相が連携アピール",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Lc0NXTXBGWXc3a3k3OVpIdUh5UlRUeGVMSTlaYzRHNWViUUpudzE0YWVEcG5oMDNYNU11MnlKZE1TTm5udlJ4Y0p4V2RGZFlSVjRDeXNIWQ?oc=5",
       "pubDate": "2026-09-06T05:01:49+09:00",
-      "source": "日本農業新聞"
-    },
-    {
-      "title": "NY円156円前半 一時円安進行",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FRDZrVUdvQ1A1aGE2dTEyLVRZSnAwX0VCSURNendNYzNxZk1KUjF0MmRUaWM0Z1RsT1IyU3pRUWRZdmVVOEtBUFV6Smw5NEQzdWFPV19feXVhcTQwWnc?oc=5",
-      "pubDate": "2026-09-06T03:57:00+09:00",
-      "source": "沖縄タイムス社"
+      "source": "agrinews.co.jp"
     },
     {
       "title": "日米が協調為替介入、円安抑止には3つの当局対応か 追加介入、日銀利上げ加速、債券市場安定化策 野村證券・後藤祐二朗",
@@ -80,13 +80,13 @@
       "title": "ベッセント財務長官、目立つリフレ政策への言及 円安阻止を支持",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZYXJtWXo4Q0czaldqYUJscnI4dzJmejR3WEdVMU5QWVd4XzJ0aldtT1phN0ItZTJMejdfdTB5NmF2Y3RVcDEzdXhlNS05bmVKUTNKSy04UlRMMmhNUlhvRGVFTk1fSmF4aS1udw?oc=5",
       "pubDate": "2026-09-05T11:00:00+09:00",
-      "source": "nikkei.com"
+      "source": "日本経済新聞"
     },
     {
       "title": "奈良県内の宿泊客数、過去最多 万博と円安、外国人リピーター？ [奈良県]",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84OHJ1OU9XVzhjZklTOXM2S2xwV0FSRElrVWplNFpkUjRNSnpNWnQ0eDNpRldWOXV0UzZaU1NpSVdaZHplMVFHTWdZamZSQ2dPUWR0M2NJdDJPbnNYbDNFVGRGT2FPajg?oc=5",
       "pubDate": "2026-09-05T10:45:00+09:00",
-      "source": "asahi.com"
+      "source": "朝日新聞"
     }
   ]
 }
