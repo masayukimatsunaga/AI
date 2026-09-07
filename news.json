@@ -1,92 +1,91 @@
 {
-  "updatedAt": "2026-09-08T06:33:04+09:00",
+  "updatedAt": "2026-09-08T08:47:18+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "７日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fenJrazNZMEZqNGlFT28zZ19pNy1DdkhPV2lsQ2JSREZVVFlUQXNLcUZjWDczUWxYZUhfdFFsQ2ZzSXVncUFhTQ?oc=5",
-      "pubDate": "2026-09-08T06:20:33+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・7日 ドル円、3日続落(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVk94TWZWcVZ4Z0FPWDNXeG40RmtWQ2RPd2RHbWJqVWV2ZzJsV3cwOUtfTnRaWUpvclNrTHk0UXZ3aGtkcE0xNHRCQVVNNTlfR1ZiNHBYajg4dXlncjlMeXRaaDJkVGxGVmkyR2V1ekRKcTk0ZGpzNG1lWWo2UzB4Qm5zYWhQMVU?oc=5",
-      "pubDate": "2026-09-08T06:10:31+09:00",
+      "title": "８日の東京外国為替市場見通し＝ドル・円、上値重い展開か(ウエルスアドバイザー)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnE4bnVKTUV2VXI0MGxVT2V2U0stNlZCb2VraWQ0X1lNZVVPNDVmc0cxMnZFU1JlX184OFBrMWtPeUdLbTI1LW8zbHNZZGN0Z3NvNEtSa0VQUFNYTEhTMVdYZ3ZYc0FPX0ZKaC16NF9Pa3hCdlc1RlY1dHR5aFdMVHY2RHljREU?oc=5",
+      "pubDate": "2026-09-08T08:46:17+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・7日 ドル円、3日続落",
-      "link": "https://zai.diamond.jp/articles/-/495217",
-      "pubDate": "2026-09-08T06:05:00+09:00",
+      "title": "【速報】1ドル＝153円台 円高が進む ことし2月中旬以来の高値水準",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMHBfTkExQjFmRWpKeEMyVE84b3NiWU52UXFpaXN4OUpvc3dkODVNWWhQbl9sTHh1UnQwaXo0Y2pfQjVkZDdaQ0RZYVVwcDF3TG9IckFn?oc=5",
+      "pubDate": "2026-09-08T08:43:26+09:00",
+      "source": "KAB 熊本朝日放送"
+    },
+    {
+      "title": "【速報】1ドル＝153円台 円高が進む ことし2月中旬以来の高値水準（テレビ朝日系（ANN））",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZYmRnN3pNU1pxNGVublM4UDB0S2ZvVm1IZWdRZEItX1pIbXdvMUNyeDNYQ2tVRHJHdTFya1ZLN2lyYWFZZHdaVW5IcG9CSkhmbFJlbWdqWlh4alRiNTBrZDJsUGtpazhJNEFZRy1mZzNtSEdxNE9XMzhMXzViUTA?oc=5",
+      "pubDate": "2026-09-08T08:40:50+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "FX/為替「ドル/円今日の見通し｜3度目の正直で155円割れ 円安修正か追い風参考か」 外為どっとコム トゥデイ 2026年9月8日号",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXdi1jMUtyaUFsM3F0ZjRwLTNDSHhjNmlLUnh1dmNnZDVIR1A0ZkQ1Q2NDRldqWTU2ZjRtZFAtZ0hTWWNtbkh6WGx6RE1sS2g1b250RHh5Zm5vY3kzWHE2RXBBUQ?oc=5",
+      "pubDate": "2026-09-08T08:28:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "【速報】円高進む 1ドル＝153円台 約半年ぶり（TBS NEWS DIG Powered by JNN）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuTGNJa3BadWkzVkwtd1J2M1hIU0VVaC05cE5jUzR5bF9qWHBfVzRXMGwtendyTEFycnd0ZFl1Tk5BV1ppYXp3UXhvWUJVa0t3RTBPVTJLVVktM0IxQzRVSW9kZ05XQzBBT3BUUWM0SmFVQ1NtSV93aFAtRGRyLW8?oc=5",
+      "pubDate": "2026-09-08T08:20:53+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "【速報】円高進む 1ドル＝153円台 約半年ぶり",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzTjBPYnhkTFdJbFNHdGVzUEF6OG81UmhZTHhDYUdaQXhEVVdsWFBPeURFY1E4TzJGaVFVcFJwRVlwc3loYml0LUFSZGxuZTN5OU5SZTNUSQ?oc=5",
+      "pubDate": "2026-09-08T08:20:40+09:00",
+      "source": "TBS NEWS DIG"
+    },
+    {
+      "title": "ドル/円見通し(為替/FX ニュース )：ドル円は円高で154円台前半｜先週末終値に比べて200銭を超える円高の場面も(2026年9月8日)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XQmdLVkNhZVdWcGtxTWpGdlZJUENuQWFlRkpNRWhIZGp6STVWQ3AzMUFJV2p4aWxQUXQ4WkVZdG1wemZCMndQalZraGJ3dU96VWJvb0JDR0JZaGNZV3JNb2w4M1AwZVF4RUNkYmRGMUtSclU?oc=5",
+      "pubDate": "2026-09-08T08:20:21+09:00",
+      "source": "OANDA証券"
+    },
+    {
+      "title": "円相場一時1ドル＝153円台 約半年ぶりの円高水準 日米の金利差縮小を意識した円買いドル売り優勢に",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6Wi1tLWVmbjZUeC16anNUdnVRQ3ppcXhLQ2RKelc2MEdhNGNNMEdpZGdURVhSaHJEbGN6MTFia2hldDEyT3FMWlVLSkNhZw?oc=5",
+      "pubDate": "2026-09-08T08:16:00+09:00",
+      "source": "FNNプライムオンライン"
+    },
+    {
+      "title": "円買い継続、ドル円154円大台割り込む 転換点迎えたとの指摘も",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JdGZlcjhZcDlZek1ianFsT01tczcyTDJ3LS1zMTFBbWVnNVdqZThtSUhndWFsM3pDVmV3S2Y4Z3d4d05kd2ozRg?oc=5",
+      "pubDate": "2026-09-08T08:15:32+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "円上昇、一時半年ぶり153円台 円安是正の思惑で円買い続く",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Xa3FuTG5yVnZ5azMtOU85azlpS1Y0al9ZbXVvV1JYZ0lnano2U29rcXUtaVYyeEY0Rk1EV09fTFJrd2NrdEVZb1ExY1luNnFYOWZ3X3I2S1VkTWxOLXRubk8ydk5mWnF5NXVfcQ?oc=5",
+      "pubDate": "2026-09-08T08:15:27+09:00",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "円高進行、きょうの日本株は？ - 朝エクスプレス あさイチ解説",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWb0p3djdDYkNPNkU0SUY0UWRCZmNOVFA3WmJCQlBhUjRYeGNSM09vMVY2Xy1vMGZuMjRqeVhMejVZazRGUlZvQ1FqbElvLUItTVVDRQ?oc=5",
+      "pubDate": "2026-09-08T08:15:00+09:00",
+      "source": "日経CNBC online"
+    },
+    {
+      "title": "〔外為・今日の材料〕ドル円、軟調か＝日銀の利上げ加速観測などで（8日）(時事通信)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdTgxQmp3d1BHTVE3NVhabW9jb0s1V2Z5dE9ZN3RIWHRvWjNDT1ZoLW5HdHJpaFZUMlRoSS1IWm1pazBQSEZtNHVrcVRHTlgtS1otZ1dhc3NGc21hcFBEOEctV1BxVHRfVHBRdnMxVXZmZkFxWFJNN3lOd19ZTS1aYjZjeld0d2M?oc=5",
+      "pubDate": "2026-09-08T08:12:38+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、一時154.04円まで下落 昨日安値下抜け｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00dVNOdTVabFRJYkhFRnV5ek1LN19Td2hzc2VmTVd0T1dkcF80LVRGeWlzWHQzN1VnV0NIODItZTExQXlYWjd4ck5hM1NRWnc0Q2c?oc=5",
+      "pubDate": "2026-09-08T08:12:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "円安の逆風下でも最高益見通しの100円ショップ銘柄は？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rSWIxb3FWLTg1OTdZT1ptbW1wNkEyMnlQMEp5VkVRbURVVnNjNWFoYzBFcDZjNzRBaVpJTEswUFAtRHFSck1zd25QRktXNzlwbHEyZmhMQQ?oc=5",
-      "pubDate": "2026-09-08T06:00:00+09:00",
-      "source": "四季報オンライン"
-    },
-    {
-      "title": "円高進行、一時１５４円台 ２月以来、半年ぶり水準",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vUXIyYm5lbDh1MV9XcThOUGh5alJRdFpzRWJKU3BzNWVUa29DWG92QjJxeTFxcDRnWkRMd0tZeXdIRGYwX3ZyUHM4MWFMSHMtdC01c19HMDk1RTBQZlFob0w2Y0t6WUtMejZnemI4dWVGSVU?oc=5",
-      "pubDate": "2026-09-08T05:17:53+09:00",
-      "source": "中部経済新聞"
-    },
-    {
-      "title": "円高進行、一時１５４円台 半年ぶり水準",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nYXcwc3BHYTB6bWNpNFotQXp6djFTd2lwOE1FekdLN2J0T2xrdzhUek1DcHVySnNneGNhNTZDOE9qN0JVb2xIUUVBVmVsNHI3eDdNLUtZdjljaEtzQ2c?oc=5",
-      "pubDate": "2026-09-08T05:00:00+09:00",
-      "source": "福井新聞社"
-    },
-    {
-      "title": "外貨準備 減少幅最大 １か月１２兆円 為替介入で",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uOUprd0hVSDQ1T0ZBbl94eG1BVExPaWtSVU5XUF9wcGRyOWwyY0RjM2dJQUxyRC05ZFNJR083cWwzSjJJZzFjZktVUjRKZjhza0Qyci1Iai1tMHAxRmg3MDhXOUQ?oc=5",
-      "pubDate": "2026-09-08T05:00:00+09:00",
-      "source": "読売新聞"
-    },
-    {
-      "title": "円高進行一時１５４円台 ２月以来、半年ぶり水準",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RSTluc1Y2emxBelAxcnoxS1RNMXl5a2FPaWcxOHJrVlc3VlJIcDlzYzRCRl9sc25OcndGRXdCMm1VXy1Nc1UzdU5jVQ?oc=5",
-      "pubDate": "2026-09-08T05:00:00+09:00",
-      "source": "北日本新聞webunプラス"
-    },
-    {
-      "title": "ドル円、ベッセント砲きっかけでここ半年間の岩盤155円も割ってくる",
-      "link": "https://kabumatome.doorblog.jp/archives/66032833.html",
-      "pubDate": "2026-09-08T04:37:00+09:00",
-      "source": "市況かぶ全力２階建"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、こう着",
-      "link": "https://zai.diamond.jp/articles/-/495216",
-      "pubDate": "2026-09-08T04:07:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、こう着｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01Yml1NEVZNEdILVdLazExNjdSMmhPM19YR211YzdKbUZGeGdHcXZiTFk5bUcxM1ZfcDNpdGZVNEM5UGM4X1NLcnZTb2FPOHgzSmc?oc=5",
-      "pubDate": "2026-09-08T04:07:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "円高進行、一時１５４円台 ２月以来、半年ぶり水準 日米の金利差縮小を意識",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SQ0UyRTZJaGhZU1EtVWE2bjJ5RTdyMTVIZkdybnZSaTZSWElyYWoxNnk4eGd1djNzU3dreUFzbzdsTmU5S1h6dk50SWNGTWhmbE91TEFfMW5LdUU?oc=5",
-      "pubDate": "2026-09-08T04:00:00+09:00",
-      "source": "山陰中央新報デジタル"
-    },
-    {
-      "title": "外貨準備6％減 8月188兆円 為替介入を反映",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hbFNLdDNZUmJmUEJrQ1hhOGc2ZUxySEFWZHRlYW5wbWNjeUtteWpGajEzZ19YS19oOUt2NzgxN19vU1JvdFA4SGZickNUb21IT3NnckxCTTF1Q3FHbGc?oc=5",
-      "pubDate": "2026-09-08T03:59:00+09:00",
-      "source": "okinawatimes.co.jp"
-    },
-    {
-      "title": "欧州マーケットダイジェスト・7日 株小幅安・金利上昇・円高(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2RSTnNDRkI5dXBjb1FzRU5mNWtyQXBNTFRvbU1iUndnVjFhWjFxRFdfZUxWS2p0ZmlDZFZGUmRBd2FscktVaW1NQjBwY3FlaVNZV1Y1WHB1cUIxYU81RE5McHMxYjBMMmFaN2xycE1lTkNSNFVtRE1IY2huWEstTDkwaUZWN0k?oc=5",
-      "pubDate": "2026-09-08T03:26:35+09:00",
+      "title": "東京外国為替市場概況・8時 ドル円、弱含み(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU21VbUIzQWhPQkZfVHE3RTlnVWtYczJZbFdBNDJLZlVCTkVaQ0NwbkFBX3FfZlJRNzZiLWJQN1NTbGpVaGlLY2JUZm01OTJnRHo4SnZSMzg4SE1UR3RKTzVuRHk4R0p3RFVDMDVjMC1UeVhpWGl2OW1fRkZlZXU5MlgzLUZBQkk?oc=5",
+      "pubDate": "2026-09-08T08:10:46+09:00",
       "source": "Yahoo!ファイナンス"
     }
   ]
