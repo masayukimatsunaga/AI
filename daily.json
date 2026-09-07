@@ -1,45 +1,44 @@
 {
-  "updatedAt": "2026-09-04T13:39:08+09:00",
+  "updatedAt": "2026-09-07T13:48:22+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "155円の攻防へ　カギは米雇用統計",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜155円の攻防へ　カギは米雇用統計」 外為どっとコム トゥデイ 2026年9月4日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/04/084901",
-    "publishedAt": "2026-09-04T08:49:01+09:00",
-    "createdAt": "2026-09-04T08:30:00+09:00",
+    "headline": "「米利上げ期待によるドル買い」vs「円安是正への警戒感」",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜「米利上げ期待によるドル買い」vs「円安是正への警戒感」」 外為どっとコム トゥデイ 2026年9月7日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/07/083000",
+    "publishedAt": "2026-09-07T08:30:00+09:00",
+    "createdAt": "2026-09-07T08:30:00+09:00",
     "forecastRange": {
-      "low": 154.5,
-      "high": 157.5
+      "low": 155.6,
+      "high": 156.8
     },
-    "outlook": "カギは米雇用統計",
+    "outlook": "155円台後半から156円台前半を中心とした値動き",
     "factors": [
-      "豪貿易収支、予想上回る",
-      "片山財務相、「特に注文​はない」",
-      "FRB理事、9月会合で金利据え置きの可能性示唆"
+      "米8月雇用統計 予想以上の非農業部門雇用者数",
+      "米大統領「利下げなければ、対米貿易黒字国との取引停止」"
     ],
     "events": [
       {
-        "text": "17:50 〇 (英) ベイリーBOE総裁講演",
-        "importance": "medium"
+        "text": "15:00 (独) 7月鉱工業生産",
+        "importance": "low"
       },
       {
-        "text": "21:30 ◎ (米) 8月非農業部門雇用者数",
-        "importance": "high"
+        "text": "18:00 (ユーロ圏) 4-6月期GDP・確定値",
+        "importance": "low"
       },
       {
-        "text": "21:30 ◎ (米) 8月失業率",
-        "importance": "high"
+        "text": "08:30 (日) 7月毎月勤労統計調査-現金給与総額",
+        "importance": "low"
       },
       {
-        "text": "21:30 ◎ (米) 8月平均時給",
-        "importance": "high"
+        "text": "08:50 (日) 7月貿易収支",
+        "importance": "low"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260904/20260904084605.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260907/20260907081638.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
