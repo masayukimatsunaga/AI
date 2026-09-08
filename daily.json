@@ -1,44 +1,33 @@
 {
-  "updatedAt": "2026-09-07T13:48:22+09:00",
+  "updatedAt": "2026-09-08T13:43:56+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "「米利上げ期待によるドル買い」vs「円安是正への警戒感」",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜「米利上げ期待によるドル買い」vs「円安是正への警戒感」」 外為どっとコム トゥデイ 2026年9月7日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/07/083000",
-    "publishedAt": "2026-09-07T08:30:00+09:00",
-    "createdAt": "2026-09-07T08:30:00+09:00",
+    "headline": "3度目の正直で155円割れ　円安修正か追い風参考か",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜3度目の正直で155円割れ　円安修正か追い風参考か」 外為どっとコム トゥデイ 2026年9月8日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/08/082838",
+    "publishedAt": "2026-09-08T08:28:38+09:00",
+    "createdAt": "2026-09-08T08:30:00+09:00",
     "forecastRange": {
-      "low": 155.6,
-      "high": 156.8
+      "low": 153.5,
+      "high": 155.3
     },
-    "outlook": "155円台後半から156円台前半を中心とした値動き",
+    "outlook": "本格的な円安修正の局面に入るかはNY勢次第",
     "factors": [
-      "米8月雇用統計 予想以上の非農業部門雇用者数",
-      "米大統領「利下げなければ、対米貿易黒字国との取引停止」"
+      "イラン報道官「合意は最終段階」",
+      "ユーロ圏GDP 上方修正",
+      "英新財務相「政府歳出の管理を徹底する必要」"
     ],
     "events": [
       {
-        "text": "15:00 (独) 7月鉱工業生産",
-        "importance": "low"
-      },
-      {
-        "text": "18:00 (ユーロ圏) 4-6月期GDP・確定値",
-        "importance": "low"
-      },
-      {
-        "text": "08:30 (日) 7月毎月勤労統計調査-現金給与総額",
-        "importance": "low"
-      },
-      {
-        "text": "08:50 (日) 7月貿易収支",
-        "importance": "low"
+        "text": "22:15 ◎ (英) ベイリーBOE総裁、ラムスデンBOE副総裁、グリーンMPC委員、テイラーMPC委員講演",
+        "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260907/20260907081638.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260908/20260908081606.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
