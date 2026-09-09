@@ -1,10 +1,63 @@
 {
-  "updatedAt": "2026-09-10T06:43:29+09:00",
+  "updatedAt": "2026-09-10T08:31:45+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ドル/円見通し(為替/FX ニュース )：ドル円は円高で153円台半ば｜米財務長官の円安けん制発言が円高に影響か(2026年9月10日)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fUWtmSnZCNFQ1d1VzcTNuUkcwYjlwOWtVRmJNeU1jSHJiMXE3OTNRRUE5LWdCVzBWR1RFbDM3b3FLYVJSU1dEVDVMb1FLN0VMR2NmZ2JCUDFBbzlCRlJaNjNJSmdYUXIxUGZBMmp0V1ZaM0E?oc=5",
+      "pubDate": "2026-09-10T08:11:13+09:00",
+      "source": "oanda.jp"
+    },
+    {
+      "title": "円は153円台前半、米国債買い戻し失望で円高一服－債券は下落へ",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObDhEUi1GMXB6ZHhmVEdfdnBadTBIMk9UUFladXVqU2ZxWmo5VHJJRUd5d3FteEp6TGZyUk1yanlRQlVEd0MyeWpIb2YtcFdJMmdRUEN6Um5qekdpNmpTQVY5dG5pU2hreTc4MERhc0pmdzFweHdmaDUwSTg3Rm9VeG1TeHM5UHYycEZaN0d3?oc=5",
+      "pubDate": "2026-09-10T08:09:49+09:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "東京外国為替市場概況・8時 ドル円、弱含み｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vQTJFeEJKVTBMTEtPY3VSaklIcVE3a0JrbWM2bE1vNUFOenJnS3Q0Y3h0QmR1VExmeEFZSmhtSDdEbV92ZjdIRjc3Vm1XSUdhc2c?oc=5",
+      "pubDate": "2026-09-10T08:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "外為：1ドル153円31銭前後とドル高・円安で推移",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81MTQ2enU2V0xweEtpWm5ZanpkNUJCQ1hOY1AtRHhBQVpodWZKazZHNzdYZThuVlZDbXkyTEJzcUhpdjNPS1dFYmFfblF0SmxCR1E?oc=5",
+      "pubDate": "2026-09-10T08:01:01+09:00",
+      "source": "株探"
+    },
+    {
+      "title": "東京為替見通し＝ドル円、要人発言に注意しつつ方向感模索か(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzdhTURqU2c5akV6TkNkc1RSSTc2Qlcxb3E0VjBfcUk5VG9NaDNXMGdDM2VrbDAyQl9fbF9WQ2M4bzN1ZUdPXzlVRkpoUmozaVJVXzhFdW45NXBlS0QyQVI3OFBUNDdIMUF0eE5hbF9hdkxpTmhYM3pYQVZaU3lQWVNqc2dpcFE?oc=5",
+      "pubDate": "2026-09-10T08:00:06+09:00",
+      "source": "finance.yahoo.co.jp"
+    },
+    {
+      "title": "【本日の見通し】ドル円は下方向のリスクを継続して意識",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JVEt1a2V0RUxrZ2xhZFl5MUZiMk1adlJFcXdqM2xCNTE2UnBwN3QxTUZBV2NJMmY4M2s4ZmtkWm40dEd6STVWeg?oc=5",
+      "pubDate": "2026-09-10T07:49:33+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル円午前の為替予想、円安ベットの動きは抑制 ドルには押し目買い 2026/9/10",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CdEVQVzZnS3JMaEVCVmtUR2pTNHVkV1hPVDhUbzMxODNuRFpwRnJCc3lMemkzNFVqMFZBQkh2dlk0WFFNeTRVTkxhRDRrM3lSeVF4TllHNTUwdEVCbEU2M1l1MA?oc=5",
+      "pubDate": "2026-09-10T07:30:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し 2026年9月10日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05WTV0ZlVHNnc3VS1Bc0ZwMkZSLUk0Tk9MbXZ2eXVKQUI1UjRYOGVtUGZqcGNIc2NkVXJhWmxwZWp0MEhEQkJkcjgybUlYQTk0aXYyUDRBVnAzbjNxcFA4cWZIMA?oc=5",
+      "pubDate": "2026-09-10T07:29:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "朝のドル円は１５３円台半ば＝東京為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SdDJnam9pYnNQRzhmb3ZGWFdRYWNpMTJENkJXRm9YV0FVbU55Y1RFZFR0OU5OMXYtVWlmUnlJZUFLZ0JRVFBFSg?oc=5",
+      "pubDate": "2026-09-10T07:09:33+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "９日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBnRFFMLVluOEpEY0c0WVlCOTlMdjhDalhETEp2SWp2RUFqVDY2RDdXMGJ5T1dZaXZZVjBRZXBnNkY0MDZPOXc?oc=5",
@@ -12,28 +65,10 @@
       "source": "みんかぶ"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・9日 ドル円、5日続落(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnl1RU9nOVZUT05jaEV1Ul95RERCTzBjTm5oTmJDYXhKbGJablYwT0kxMURySWVkaTVyY1cwckpCRUp0WFljQmRIdUsydUpCS1JOdUtDSjVONVhGUlM0djhBV2VocExzaTNtNEhlSDBYVGZVbmFwRjYzY0RBcExnVTlJRGUyOXM?oc=5",
-      "pubDate": "2026-09-10T06:05:04+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・9日 ドル円、5日続落",
-      "link": "https://zai.diamond.jp/articles/-/495368",
+      "title": "ニューヨーク外国為替市場概況・9日 ドル円、5日続落｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Yc1VnUGo1dTRXWUJyLXNnUGdiYVpIVGlrdS1zQk5rTUVyWFN5TVlGNFVfdnlIZ0xaeUREUDI1ai04Z21KaGc4dGJLdUEzZ1YyYWc?oc=5",
       "pubDate": "2026-09-10T06:05:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "急速な円高はビットコインに何をもたらすのか──日銀利上げ観測と「円キャリー巻き戻し」を読む【エックスウィン】(NADA NEWS)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQk50cWtwankxU1ZHMnlmaXc2OWtpdjRxUUUxUDIxNFg0R1pKNzB2b01CSkwzN0hjQ2RoVDdUczV5TjRrdmFQSEROQm1tRkNLZllTX3g2V2l5NHRzbUZfUHBWZ1R2dU1wUGVXX2xRZVRyV19YZm9ubG5MRnRSWFk2VE9SWV9NTWc?oc=5",
-      "pubDate": "2026-09-10T06:00:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "NY外為市場=ドル対円で7カ月ぶり安値近辺、来週のFOMC控え",
-      "link": "https://jp.reuters.com/jp/opinion/JD4PPISEDZIMLCPCZYGAARJKMY-2026-09-09/",
-      "pubDate": "2026-09-10T05:44:00+09:00",
-      "source": "reuters"
     },
     {
       "title": "ベッセント氏の円安けん制、日銀に利上げの重圧－失望招けば市場動揺（Bloomberg）",
@@ -42,52 +77,16 @@
       "source": "Yahoo!ニュース"
     },
     {
-      "title": "[通貨オプション]R/R、ドル・円下値ヘッジ目的の円コール買い強まる",
-      "link": "https://zai.diamond.jp/articles/-/495366",
-      "pubDate": "2026-09-10T04:11:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "ニューヨーク外国為替市場概況･4時 ドル円、底堅い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaENabGRva281LThfYWhMMnNnX0IxWUEyRXBQcld2SkctQ3VfdUpodkNSSmtlbTlVZHhRR1N0WTAzVW5zbWFoby1FT1Q4bmdXQW9aMTdhS1ZxWll5MVc3aWJwRlBIUWtlclNjYXgzSDBVT3l0eWd5ZEU1ejl1a0lVb19rRjFGVVk?oc=5",
       "pubDate": "2026-09-10T04:06:18+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、底堅い",
-      "link": "https://zai.diamond.jp/articles/-/495364",
-      "pubDate": "2026-09-10T04:06:00+09:00",
-      "source": "ザイFX！"
+      "source": "finance.yahoo.co.jp"
     },
     {
       "title": "[通貨オプション]R/R、ドル・円下値ヘッジ目的の円コール買い強まる(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaVhycl9tcmlHTTVqVzk3R19NeERkY0lFMTBjUFBWZXJFYzBpZldQTTBPZ1NTZXNVdVZyZHpqU0FqUU04enBxOWZqWWF5dThuR0NjeXFJM2VzOW9reGQzM0tQQ00yY0tyTWxzbDNHLVBZdXRaWjItSFFpZ2lIc09wSWxPMVhSa1U?oc=5",
       "pubDate": "2026-09-10T04:04:22+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "[通貨オプション]R/R、ドル・円下値ヘッジ目的の円コール買い強まる 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRUDNpMDI0MTEwR0FndklDX0N3TkJlZ1plMW80Y0FNUDBiNFRiek9vRDlWck4xb0ZxMEMwWm9XT2JwZzdibV8ybnFhYTdUeHpCcFJmLXRidF9nOC10ZU5ILUg5cGl5aVU?oc=5",
-      "pubDate": "2026-09-10T04:04:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "NY外為:ドル伸び悩む、米10年債入札は好調",
-      "link": "https://zai.diamond.jp/articles/-/495362",
-      "pubDate": "2026-09-10T02:29:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ベッセント氏の円安けん制、日銀に利上げの重圧－失望招けば市場動揺",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vd0NNSURpcFZRZjdYRFFSdFM4NjlvaXhGc3U0ek9TeGdWMGdfd3ZzRGVhZ1EyQzJoR3o4MFc0N3hkbzZsZFJxWFo2U2dHdGN1YXFfeFRvUnA1eEM5OFFYRnVqRk81VDd1OVdGcUdkeG9vOEE5WmtR?oc=5",
-      "pubDate": "2026-09-10T02:16:52+09:00",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･2時 ドル円、買い戻し",
-      "link": "https://zai.diamond.jp/articles/-/495360",
-      "pubDate": "2026-09-10T02:10:00+09:00",
-      "source": "ザイFX！"
+      "source": "finance.yahoo.co.jp"
     }
   ]
 }
