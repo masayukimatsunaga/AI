@@ -1,14 +1,80 @@
 {
-  "updatedAt": "2026-09-09T20:28:16+09:00",
+  "updatedAt": "2026-09-10T00:18:50+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "米財務長官「私が胴元」 円相場巡り投機筋けん制",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yNlhIeUd1VUp4SDVEaW40LUc3alc4WS1QMEtRSXBlV1hscjA1VlpBZnFmU0J6U0trd1BXOWhwMWN6VzJ2M01LcElBSHBmSXhiTE5kVWVTWkVOa0hVYzBLZ1JtcGZzQW4zY0dn?oc=5",
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、神経質｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Lbl9GVG8zakhwekgySU9oLTF5ak5sNmFXMmg0cUprRE5YaTNOd0pheUlPeVc4eVVWZWVpNm1CR3NGNEZ6TE1yaTlwdmM2dGFxX0E?oc=5",
+      "pubDate": "2026-09-10T00:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、上値重い 米長期金利の上昇一服を背景に｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80bGVEYnlkelFMRkdndkVaZXZ1U0pIYkUxU0hmaUpjSFNNQndOREtnNUFqSWpxdHJkYjlkekR5MW5oLUp6a3NSbTI5RjNUSi1uRFE?oc=5",
+      "pubDate": "2026-09-09T23:19:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、１５３円台での上値重い展開 一段の円高に備える動き広がる＝ＮＹ為替序盤",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHTHBzU1BKVktpb01rclhqRXRaakNTOF9fdEVhbGZnRXJuUC1rTEVZNnlrZmlNYldLdnFnUEE5UjVwaVZfRzV5Vg?oc=5",
+      "pubDate": "2026-09-09T22:16:33+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "欧州外国為替市場概況・22時 ドル円、弱含み(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2E5STJkeFUxblVQcENlS0RkSUxzdTdialdsYUJRa1U0TVB1ZmFNWHhKUDczZHRpeVNNdzVteTA1Z2c3a2hJSkhKSWpKVEtDZ2xVRDBOLXV0YU5ldHlTLUJVSXZCaWVRa25yVjhrZTlpcml2RXNJMFdEMFUybW1uQzl0UVZ6TWc?oc=5",
+      "pubDate": "2026-09-09T22:08:18+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円のピボットは１５３．４３円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfSHdLRmZYMlAyTlB2VTBjam9leTItdUMzSTJqWE9LUWktOXVuMlczdHQya1cyWUhzVEwzQWNUVHNFQnQyRUhSWA?oc=5",
+      "pubDate": "2026-09-09T22:01:32+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ビットコイン レーバーデー明けは利食い優勢 原油高継続・円高は一服",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tZ2MzOEhybXh5TnBaMFRxZnpNM3pGWTRXQl9qSklad29yOS1VRjVIZE9oTUw4ZVpzeGNoT2ItRG95N1ROeWlzejJNaHZuN3JScWVlR2lySGpBX0k2ZGJoSDBRcTdtdFdnSE1MajVFaHNBQQ?oc=5",
+      "pubDate": "2026-09-09T21:42:22+09:00",
+      "source": "rakuten-wallet.co.jp"
+    },
+    {
+      "title": "為替介入巡りベッセント氏、自身は「胴元」「情報の非対称性ある」…円売り仕掛ける投機筋けん制",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04R3hQUzJFajV0M0tKd2hNVnpnblJab0Z5Qm45X2xfaHFRMGJYMXdGWFBxWnRsWndpOFEwYWlXQk9NQXdFX1l2M1paMHllQTN0M2xjLTA1eTExQlFZQjZDdHA2cTQ?oc=5",
+      "pubDate": "2026-09-09T21:09:00+09:00",
+      "source": "読売新聞"
+    },
+    {
+      "title": "ドル円、153.20円台まで上値切り下げ 日米欧の株価指数が軟調(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb1VqQUdpMzhIdUpCRVhoWW5TZGhtSmtqV2RNNXlnZlhaSW1DVmk1aHlycnNKMWRaTkEtRDd1QUVicmxvXzBYbTlXMlVxMXczY3cxT3dmelEzeHkyRWh6dlJUczNobXh4R3JmUnhfeDA2Zm1NQkxRUDVZcy1HeXNCRnVpdXZhc0E?oc=5",
+      "pubDate": "2026-09-09T21:08:34+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "円高進行、背景に日銀利上げ観測 株価軟調も物価抑制に「追い風」",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82VndZamg1dC16aFJXZXlOcFFjc2N3aXppbmoyUXhaeHl5UjFUTEJob04yc0t3M3dTN2lHcWdKd1NIM3lzc2NHZmhPNzZ5bmp5Y1BvUzFrX09qZw?oc=5",
+      "pubDate": "2026-09-09T20:25:42+09:00",
+      "source": "北海道新聞デジタル"
+    },
+    {
+      "title": "米財務長官「私が胴元」 円相場巡り投機筋けん制（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rcGdvT3dLeU1aY09GNUpCeEFvQTZoa2M2REstQW9SWjZZOVoweGtJYlV5R3ZsZ3Bld1FxRHNITHJqRDhhT0lmRXk0bkFxZk52M3drdjV4YWVUc2RVeHFiZUtrMjNvMjlFbnVuMDh3c2FoVG51S0FfU19VSlJ3eEU?oc=5",
       "pubDate": "2026-09-09T20:12:20+09:00",
-      "source": "信濃毎日新聞デジタル"
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "欧州外国為替市場概況・20時 ドル円、買い戻し｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JTkRYemNaeG1xal9jZlJfdVlVZ3ZKN0VXT2d5NjJIUjdvM3QzQWFrekVUTkdSeWJuOWN2cU9yNmdSWG52VzJkOWh5STNMMFNaN3c?oc=5",
+      "pubDate": "2026-09-09T20:07:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "欧州為替：ドル・円はじり高、原油高・米金利高は一服(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVGVOTE12bm96WVBqUGhNWWJxWGFIVC1ITGtmbE1KWERseWUyVVJYWkZ5dDJwRThUOEZLaFFXbFVORnZvVzJtSnlzRndiTjhjZWRuLWMxUFJYWTZXdzJJSzdOZ2tWZUlFS0hMWjQ0ZWVYVmxiVXlKYzUxNzNYSVV6V05WSUI0OGc?oc=5",
+      "pubDate": "2026-09-09T20:03:45+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "ドル円１５３．５５近辺、ユーロドル１．１６３１近辺＝ロンドン為替",
@@ -20,73 +86,7 @@
       "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年9月9日）",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UYnZsOHZ4OTByejQ0SlFsaXZVVkhkVllVWmF6ckNWWmpPZExNaDF1MjdZcUVOT3hORnd6SS02VzRjWF92Ul9Xa1lxUVhwLVdOc0xYTnBMTzc3eFVvcm5fVWJ5VQ?oc=5",
       "pubDate": "2026-09-09T20:00:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "輸入小麦、政府売り渡し価格12%引き上げ 円安、輸送費高騰で",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjaFBIYk11ci12ZW1zcVFRcGFzRzhfNTJjaDNES1lIaVpPYlVFd0o2ZFZVdklzckFtNm9zajVON1lEcDVGQ214UVJrQWk2Zk8wUUFhdFEwYXJpRGd4U1RPMGZhMGFIcXM?oc=5",
-      "pubDate": "2026-09-09T19:52:54+09:00",
-      "source": "朝日新聞"
-    },
-    {
-      "title": "コメ農家廃業件数 4年連続で過去最多の見通し 今年1～8月で28件 高齢化やイラン情勢・円安背景のコスト増加が重荷に",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGV1VnQ0wtMWo5aHctb2hMS3I2eHFydEM0alVtY1JmOEphT2xIVnI1R0dlWFhNQWc5SXNfX09NNFRGaUJMN2llb0tGYU9vTjUwMEt1c0d6Yw?oc=5",
-      "pubDate": "2026-09-09T19:02:28+09:00",
-      "source": "TBS NEWS DIG"
-    },
-    {
-      "title": "円高方向の動きが一服、ドル円は一時１５３円割れのあと下げ渋る＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xUGZ5VXZkS01VSXBVRTR4Z2tlWktrT3ZZUEJ2RHoxeWdEUUpBUlZvWms3ZU1QYzhpbjZyZ2RxNVl1NUkzZHdPNA?oc=5",
-      "pubDate": "2026-09-09T18:54:32+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州為替：ドル・円は堅調、原油相場・米金利にらみ",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLUG9nRDhaNVB0WG8yci1jcGRBcUx5SlFza0Rnb0VUNXAtOFNXWEdPY1I4SllGajdHMDF6aklvZ0p0Smg4NUNLY182dFJ1WDZ5ejBERDlHUkx5ODgwYkVkQUJ3?oc=5",
-      "pubDate": "2026-09-09T18:09:06+09:00",
-      "source": "株探"
-    },
-    {
-      "title": "進む円高で家計への影響は？「ちょっとラッキー」海外旅行に期待の声 シルバーウィークに追い風 ツアーや輸入牛肉が値下げへ",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82RW5sTnk2NGdWSldXTFhkWW45a1VwQ1ZWZlNtYy1rd002QTBTNXFkNmQ3VHRXN2pIaURCY1lvTTBZcUZaTi1wYXpJXzNUZw?oc=5",
-      "pubDate": "2026-09-09T18:02:00+09:00",
-      "source": "FNNプライムオンライン"
-    },
-    {
-      "title": "東京為替概況：ドル・円は大幅安、夕方にかけて153円割れ｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qUEhLak1MNlBLN3dSTndNOUFjVDNLQlRLYnptb01sRC1fRWJDVmVMaU4zQ3lwNUZmZjRHZFY3aTNNNXhPTTMxREFMWXNSdjVGYVE?oc=5",
-      "pubDate": "2026-09-09T17:59:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "日銀為替市況（ドル円・午後５時）",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0tWU16eHJsajFnODRrVDFOV1FybTkwTGpzNTg5UGt6RF9UdTQ2TjlkdkVrUmhrZzRzS09lTGZFQzZOTW5MM2c?oc=5",
-      "pubDate": "2026-09-09T17:45:43+09:00",
-      "source": "みんかぶ"
-    },
-    {
-      "title": "ドル円「150円割れ」のシナリオも？市場が「さらなる円高」を警戒した要因",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIU3RncEVEak5xaWJydVFNYkNHOWZOcFJoc1p6OUNUVjkxM01vR3RONlgyWFFCM1RSdDY4ZUNqUERJeGd4YXJxbENHd0hTTUJfd2hnbGtGQlp5Zw?oc=5",
-      "pubDate": "2026-09-09T17:34:00+09:00",
-      "source": "トウシル"
-    },
-    {
-      "title": "FX個人投資家、ストップ買いを入れて売りで回転か？ドル円一時153円割れ 今日の外為注文情報 2026/9/9 17:00",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iOEJpLThoQVJ3SHVEcnNPV3IyTnNhZi1NSzhmbmpMa3ZtZk14VThGUlZwQ3lwTUJXcUx1SVhmQ1FybUkwUWp1ZXR6UlNPWmExazJIQVJSQmN3Mm5WV284RmlwYw?oc=5",
-      "pubDate": "2026-09-09T17:20:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "【図解】小麦売り渡し価格、12％引き上げ＝海上運賃上昇・円安で―農水省（時事通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6d1pZUUF5V1lwVzd5ZWZRZWVLTFNHU0hYbzR1WEtaUTAyVUY3MnpDUm5IekRBTVJXdXltWldoSVN6WXRGREF4UGR4N0RSeU1qaVlxU0FTWXRGWUplV0lKbHlPaVAyajV6UjgybmJ6YTg3MzMzLVlDZG5ZcEQwVms?oc=5",
-      "pubDate": "2026-09-09T17:11:19+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "円相場、１５３円１１～１２銭＝９日午後５時現在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PeGkyVDR3V0phQm90SXNKT2hKN0lIV1hjdFNWN2dJZjR0MjhGbWlCQjBKamh2NDA5clkyQmJwdU05S0o0TWROX0RoYmI1LVUzbXkwTw?oc=5",
-      "pubDate": "2026-09-09T17:07:00+09:00",
-      "source": "時事通信ニュース"
+      "source": "gaitame.com"
     }
   ]
 }
