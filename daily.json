@@ -1,33 +1,53 @@
 {
-  "updatedAt": "2026-09-09T13:48:02+09:00",
+  "updatedAt": "2026-09-10T13:49:05+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "NY勢復帰も155円回復ならず　米財務長官の発言が重しに",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜NY勢復帰も155円回復ならず　米財務長官の発言が重しに」 外為どっとコム トゥデイ 2026年9月9日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/09/083052",
-    "publishedAt": "2026-09-09T08:30:52+09:00",
-    "createdAt": "2026-09-09T08:30:00+09:00",
+    "headline": "円安ベットの動きは抑制　ドルには押し目買い",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜円安ベットの動きは抑制　ドルには押し目買い」 外為どっとコム トゥデイ 2026年9月10日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/10/082957",
+    "publishedAt": "2026-09-10T08:29:57+09:00",
+    "createdAt": "2026-09-10T08:20:00+09:00",
     "forecastRange": {
-      "low": 152.9,
-      "high": 154.5
+      "low": 152.6,
+      "high": 154.4
     },
-    "outlook": "154円台では戻り売りが出やすい",
+    "outlook": "上値は重い",
     "factors": [
-      "日本実質賃金 7カ月連続で増加",
-      "GPIF資産構成「見直し必要ない」",
-      "中国 4カ月連続1000億超の貿易黒字"
+      "米財務長官 異例の口先介入",
+      "中国CPI 伸びが加速",
+      "米財務省 翌日のバイバック額発表"
     ],
     "events": [
       {
-        "text": "10:30 〇 (中) 8月消費者物価指数",
+        "text": "10:30 〇 (日) 増日銀審議委員講演",
         "importance": "medium"
+      },
+      {
+        "text": "21:15 ◎ (ユーロ圏) ECB政策金利",
+        "importance": "high"
+      },
+      {
+        "text": "21:30 〇 (米) 8月生産者物価指数",
+        "importance": "medium"
+      },
+      {
+        "text": "21:30 〇 (米) 8月生産者物価指数・コア",
+        "importance": "medium"
+      },
+      {
+        "text": "21:30 〇 (米) 新規失業保険申請件数",
+        "importance": "medium"
+      },
+      {
+        "text": "21:45 ◎ (ユーロ圏) ラガルドECB総裁講演",
+        "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260909/20260909082318.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260910/20260910081624.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
