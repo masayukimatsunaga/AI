@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-09-12T02:17:51+09:00",
+  "updatedAt": "2026-09-12T05:03:47+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "【テクニカル】乖離1＝ドル円、20日線かい離はマイナス幅拡大",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MZllBcVE4Vy1JMUhjRG9UR2JHazVhbkduYVZVV0JlZXFqSGhfejRPUlhDV2xMWnF5S3I2eENKNDY2WXZ6Y185NzIwZEdDMTdsdllKRkZZdnAyY1RSTlprYTVSWQ?oc=5",
+      "pubDate": "2026-09-12T04:17:55+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "日銀は利上げへ、上値余地探る円相場 原油は高値圏推移",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hOFk5UUc5STQxRDBaX0Q3c2V3S3dMWDdmTjRxclg4aUlHM2V2SUUwbDB6eXJBcGw4SzN0NEtfbUU1d3FhQkdZSVNLRzR5b21LcThySmlCeG1zX3R4TE9kWS1HTmI1dXZhaV80Tw?oc=5",
+      "pubDate": "2026-09-12T04:00:00+09:00",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "欧州マーケットダイジェスト・11日 株高・金利まちまち・円高(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHpQdWlOdlk4WXNDdUZJcEVwMENSZmZkSG9FcUl0M2ZNaTlHWFRmSTNIczZsX2M2QU1LdEliNEFWQmdTOXI5aFBSRkJrYjVTOGpSUzU2TlR5X25CSlNPS1ktVnRRcVRxQjBOcHRoOWoyWHdTZ3ZUZ1pzbmZ1Um1XUnJ4anpNQnM?oc=5",
+      "pubDate": "2026-09-12T03:25:07+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "ニューヨーク外国為替市場概況･2時 ドル円、小高い｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MaUpzcWtxTzlvbEZZMjVBUU1JT0RBYzNHS2JPekhHV2NVV0dsSmVLdG4tV2xsU2FVazN6UDVoMjhOSnpCdkpiQmlOSzlRUnFLRUE?oc=5",
@@ -11,28 +29,22 @@
       "source": "ザイFX！"
     },
     {
-      "title": "円高加速?1ドル＝140円台も？米注目指標を速報解説｜ワールドビジネスサテライト（WBS）",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tTVE4T1RJNF9LOV9XOGR3SUpRbEtBV01YYjVIUE9FalM4VldSN3VMZ3N6UE8zcTM2TjNJdmJGdm1GVDk3bW02TFVzdTRZOVBGcXAwVGRPRUtyWWxv?oc=5",
-      "pubDate": "2026-09-12T00:51:46+09:00",
-      "source": "テレ東BIZ"
+      "title": "外為・株式：円安基調が反転 米財務長官、投機筋けん制 日銀利上げペース次第で逆戻り？",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEMlVMeEw4TjFxR09uMGUyMk1xZjJjT1plZVFjQ1BSUTZDNFlHaWp6WERrV2U3SERsLWdWVGdnZ0JoMzRzNkQzU1JQclZUQ09SQzlDcExUWE02RnN2YkN5bGlHbThWZUZ4?oc=5",
+      "pubDate": "2026-09-12T02:01:31+09:00",
+      "source": "毎日新聞"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・24時 ドル円、売り一服(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTEZCTDRWTTZrS08ycDJpVUFFNW51ZkxyMDF0RVdxSm9nQm9acGVrZ2VjNkpFS0hkcTFBUnl0cmJHYUlzUHR3MWJxbHZvSHk2SW8yekJnU2twc0hEaUtCWWd4MURacG9iN2NSNzFEUjlqbU5XWm9fNWRLdHBEWlNFZ0dJdnItcWM?oc=5",
-      "pubDate": "2026-09-12T00:06:03+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、売り一服｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CTElnWlpkVUpMYUNlOVlCYVF3TjY4c0ZTOW9ONFRGZkJpMjE0TU9FbU1GTHM3dkxRV3ZydVZjaUZIejl3RjRUMVJVVDd5dndQVkE?oc=5",
+      "pubDate": "2026-09-12T00:06:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "ドル円は安値から少し戻すも１５３．６０円台での推移＝NY為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tTzg5dkc1QkNFMElPZFBkYWItOENIemh3VXhmTUgzdWUzMmpoZDdMQzg1eFZZT1pLTDlSYlNyRmtKZFNOc3FNRA?oc=5",
       "pubDate": "2026-09-11T23:39:57+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【速報】ドル・円153.49円、ドル安値圏で推移、米・9月ミシガン大学消費者信頼感指数速報値は50割れ、インフレ期待は上",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45QWs5SEVTbHB1eTl5QUlNV3F4eloyMzk1SWwxaUwtYUV3Z3ZoQm5PRnpybldqU2w2Zlp1cHBoZ01RS3VtUVRCdzkzb3pWd2JuLVE?oc=5",
-      "pubDate": "2026-09-11T23:04:00+09:00",
-      "source": "ザイFX！"
     },
     {
       "title": "ドル高続かず、ドル安円高を継続して意識＝ＮＹ為替序盤",
@@ -65,28 +77,16 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ドル円、上昇は一時的 米8月CPIは予想通り｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82Mm5XSW9RQnJGTHh6dmdtVmQ1MDZZVENPV0JTQm5SNFJrck0za3ItaHRJaXhuUndESEJwT3FhSl9paG5PSmxYZ0JCd280WTZCSnc?oc=5",
-      "pubDate": "2026-09-11T21:36:00+09:00",
-      "source": "ザイFX！"
+      "title": "ドル円、153.50円台まで日通し安値更新 ユーロ円も178.07円まで下落(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnd5bUtRejdKUUx0RVVOWXlIcF9sQ0ZJTU1xQktvTzl1UGw5X2F3Vm02SG1wYWo1Z09KY1V4NzVOSUNjN2psVW91ckNqZHNVdFgtN0NiRG52c2lTQ0ptUnpvX0ZyODRXdS1sVUVmdFB4bDI4bTFjVzByREp5TFU4cWg0aXRYa0k?oc=5",
+      "pubDate": "2026-09-11T21:47:04+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "円安基調、ついに転換点? 米「圧力」の裏にある懸念とリスク",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoSVVNQ1JLcXhscEczdTFDR3hVUVhWTUdjdmk1bV81UWxNTEo5bVJjbi1ZNDcteFZxOWZZRXh5RlFRRjUtWWdSaExBaHJBY2t2QzI3LUhYVTRPVTdVRDdWYi1vNFdENHla?oc=5",
       "pubDate": "2026-09-11T21:10:33+09:00",
       "source": "毎日新聞"
-    },
-    {
-      "title": "「ドル円160円」もう戻らない？ 日米協調介入後に変わったこと、変わらないこと",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZNXNFZmtnWk5pSmdJcHdMeUNMVEdMMHRJeGxtbzAxRnRpMlNFRUdVSnIyYnlzbjI2c1pZZDFhZENHMGNfUU9rRTA3U1BOLWVsZVZmdUh1VXhZbEM2RkdaWnd4VQ?oc=5",
-      "pubDate": "2026-09-11T21:00:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "円買い優勢、ドル円は一時１５３．９１レベルに安値更新＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4VWNtMm02MV9nU2RzM29peHR0UGNVSFlpZDJRMmkwQnRLLUlMRERldzd1LUhqXzE2V0NKd3A4U0djLVNGNFMxLQ?oc=5",
-      "pubDate": "2026-09-11T20:35:57+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
