@@ -1,10 +1,51 @@
 {
-  "updatedAt": "2026-09-11T22:37:03+09:00",
+  "updatedAt": "2026-09-12T02:17:51+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ニューヨーク外国為替市場概況･2時 ドル円、小高い｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MaUpzcWtxTzlvbEZZMjVBUU1JT0RBYzNHS2JPekhHV2NVV0dsSmVLdG4tV2xsU2FVazN6UDVoMjhOSnpCdkpiQmlOSzlRUnFLRUE?oc=5",
+      "pubDate": "2026-09-12T02:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "円高加速?1ドル＝140円台も？米注目指標を速報解説｜ワールドビジネスサテライト（WBS）",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tTVE4T1RJNF9LOV9XOGR3SUpRbEtBV01YYjVIUE9FalM4VldSN3VMZ3N6UE8zcTM2TjNJdmJGdm1GVDk3bW02TFVzdTRZOVBGcXAwVGRPRUtyWWxv?oc=5",
+      "pubDate": "2026-09-12T00:51:46+09:00",
+      "source": "テレ東BIZ"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、売り一服(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTEZCTDRWTTZrS08ycDJpVUFFNW51ZkxyMDF0RVdxSm9nQm9acGVrZ2VjNkpFS0hkcTFBUnl0cmJHYUlzUHR3MWJxbHZvSHk2SW8yekJnU2twc0hEaUtCWWd4MURacG9iN2NSNzFEUjlqbU5XWm9fNWRLdHBEWlNFZ0dJdnItcWM?oc=5",
+      "pubDate": "2026-09-12T00:06:03+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円は安値から少し戻すも１５３．６０円台での推移＝NY為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tTzg5dkc1QkNFMElPZFBkYWItOENIemh3VXhmTUgzdWUzMmpoZDdMQzg1eFZZT1pLTDlSYlNyRmtKZFNOc3FNRA?oc=5",
+      "pubDate": "2026-09-11T23:39:57+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "【速報】ドル・円153.49円、ドル安値圏で推移、米・9月ミシガン大学消費者信頼感指数速報値は50割れ、インフレ期待は上",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45QWs5SEVTbHB1eTl5QUlNV3F4eloyMzk1SWwxaUwtYUV3Z3ZoQm5PRnpybldqU2w2Zlp1cHBoZ01RS3VtUVRCdzkzb3pWd2JuLVE?oc=5",
+      "pubDate": "2026-09-11T23:04:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル高続かず、ドル安円高を継続して意識＝ＮＹ為替序盤",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oODdlM1JHVFIwOS1kcjdXVkRPbkNnUm9zTVdvSVpUdEprTF81X3h0RE9USVRsSEVONU9pWFU0c004d3MtQ0xWSA?oc=5",
+      "pubDate": "2026-09-11T22:40:57+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "【速報】8月米CPIはコア前月比が予想上振れ 結果の内訳と今後のドル円・ゴールドの見通し",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83WjJ3RzRXVGRQV3E0V0dPWUdRTUV5TjFlTDVoa1R2aXQxVkxWOUxMRXdSb21CT2EwLTUtZnpUNjc5ZlJRVktQeXhta1RtOThubUxOQ045Y3R5OS1IR2dTck9hamhKQ0hGb3BKZXRHcnFFYW50dml6WA?oc=5",
+      "pubDate": "2026-09-11T22:32:00+09:00",
+      "source": "OANDA証券"
+    },
     {
       "title": "ドル円は１５３．２０円台まで一時下げる＝ＮＹ為替",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zUEV3b0I5b2QzckMweEdiQ0dWLW1jVG9Jb3ZFYVRvdWFHWVJxUTJpMXBxUk1mOUlBVmtpZTJTTVA4T3U1anc?oc=5",
@@ -12,14 +53,8 @@
       "source": "みんかぶ"
     },
     {
-      "title": "欧州外国為替市場概況・22時 ドル円、軟調(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWxXcm8waElIUFUwc1lTQkh3UllPME1reTJzLUFYTC1JYkVSems1TXFSTC10cHV5Ui14bzU3M1I0VG96elZQWlZZZURLcDdKUEFud3VCV1ZIY0lwVUszZEhfM1MwbjBYZTJGTzhzUGtsVUhhaGtaTzF0RHF3RndxMERvUzFEMTA?oc=5",
-      "pubDate": "2026-09-11T22:10:17+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、軟調",
-      "link": "https://zai.diamond.jp/articles/-/495515",
+      "title": "欧州外国為替市場概況・22時 ドル円、軟調｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IMkV5TEgyd3JLY09JaGpoNUtwM2o1alg3clNRcFhoS3dZR2JHZmgwU25hR2w3RU9yalhiRlJ0ZUw2STI1RGZ6TWg0cENqSklORUE?oc=5",
       "pubDate": "2026-09-11T22:10:00+09:00",
       "source": "ザイFX！"
     },
@@ -30,33 +65,9 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ドル円、153.50円台まで日通し安値更新 ユーロ円も178.07円まで下落",
-      "link": "https://zai.diamond.jp/articles/-/495514",
-      "pubDate": "2026-09-11T21:47:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、153.50円台まで日通し安値更新 ユーロ円も178.07円まで下落｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ENG0zQ01lSjROLVBkbG5OQU13VFBpZERxdGhZZlFkOHY2Ykt2YnpDNlF6SzFTNTRvTDQyanNlcU9qcV8zMlZ3R2kwTmJMNEpvdWc?oc=5",
-      "pubDate": "2026-09-11T21:47:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、上昇は一時的 米8月CPIは予想通り",
-      "link": "https://zai.diamond.jp/articles/-/495512",
-      "pubDate": "2026-09-11T21:36:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "ドル円、上昇は一時的 米8月CPIは予想通り｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82Mm5XSW9RQnJGTHh6dmdtVmQ1MDZZVENPV0JTQm5SNFJrck0za3ItaHRJaXhuUndESEJwT3FhSl9paG5PSmxYZ0JCd280WTZCSnc?oc=5",
       "pubDate": "2026-09-11T21:36:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【速報】ドル・円154.28円、ドル上昇、米8月CPIは前月比で加速",
-      "link": "https://zai.diamond.jp/articles/-/495511",
-      "pubDate": "2026-09-11T21:33:00+09:00",
       "source": "ザイFX！"
     },
     {
@@ -66,28 +77,16 @@
       "source": "毎日新聞"
     },
     {
+      "title": "「ドル円160円」もう戻らない？ 日米協調介入後に変わったこと、変わらないこと",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZNXNFZmtnWk5pSmdJcHdMeUNMVEdMMHRJeGxtbzAxRnRpMlNFRUdVSnIyYnlzbjI2c1pZZDFhZENHMGNfUU9rRTA3U1BOLWVsZVZmdUh1VXhZbEM2RkdaWnd4VQ?oc=5",
+      "pubDate": "2026-09-11T21:00:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
       "title": "円買い優勢、ドル円は一時１５３．９１レベルに安値更新＝ロンドン為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4VWNtMm02MV9nU2RzM29peHR0UGNVSFlpZDJRMmkwQnRLLUlMRERldzd1LUhqXzE2V0NKd3A4U0djLVNGNFMxLQ?oc=5",
       "pubDate": "2026-09-11T20:35:57+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "円高・ドル高、原油反落に反応 米ＣＰＩ前の調整も＝ロンドン為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKdGVReEZVeWxXU2RYWjkxaXFJZXVQdnhlejFDZWFFZklsSUNTZ3pTakhCaEJmM2JrRThtUlROclI5Rzd2VWx2SA?oc=5",
-      "pubDate": "2026-09-11T20:23:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州為替：ドル・円は弱含み、原油・米金利にらみ 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMc1Z0aXo5dWpuVDhKcW1XOEc0WnJUVF9oZW1wUUZLcEVBWk1wWE5QY0R2XzlVR19kUjQtZDRCQlNfaElxU3B0Njdkb0FsdW44R0VTWG5fWXgtTXpCME12UDNabmk3M3c?oc=5",
-      "pubDate": "2026-09-11T20:15:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "欧州外国為替市場概況・20時 ドル円、弱含み",
-      "link": "https://zai.diamond.jp/articles/-/495506",
-      "pubDate": "2026-09-11T20:06:00+09:00",
-      "source": "ザイFX！"
     }
   ]
 }
