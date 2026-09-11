@@ -1,92 +1,92 @@
 {
-  "updatedAt": "2026-09-11T18:10:49+09:00",
+  "updatedAt": "2026-09-11T22:37:03+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "外為：1ドル154円10銭前後とドル安・円高で推移",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zd0s3NEhVMF9zbTF1U0Zndlc5ZU56NlEzUWxUcUh2aFFRUTlaZWtSdTJaZXppUTl1UWhGSTRpMVdxbXVJMmRwMGZ5dENhRDR6UVV1N2hCanY2MzlsMnlXM0pR?oc=5",
-      "pubDate": "2026-09-11T18:01:02+09:00",
-      "source": "kabutan.jp"
+      "title": "ドル円は１５３．２０円台まで一時下げる＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zUEV3b0I5b2QzckMweEdiQ0dWLW1jVG9Jb3ZFYVRvdWFHWVJxUTJpMXBxUk1mOUlBVmtpZTJTTVA4T3U1anc?oc=5",
+      "pubDate": "2026-09-11T22:27:00+09:00",
+      "source": "みんかぶ"
     },
     {
-      "title": "豊田通商株に見る「為替離れ」 円高の呪縛、成長力が解く",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BSGY3Vm1fd3ZrcnpFNDZVVm44dk56SlkzdUxYVDNHMXZiUjkwUnJGMmRTLU1Pb3NIUllGaGFZb2E3Q0pOUFVnbHVDYTZReFducmZWd1JyR2I0Z1JVd2pIV2VwM085djRmUjlrSA?oc=5",
-      "pubDate": "2026-09-11T18:00:13+09:00",
-      "source": "日本経済新聞"
+      "title": "欧州外国為替市場概況・22時 ドル円、軟調(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWxXcm8waElIUFUwc1lTQkh3UllPME1reTJzLUFYTC1JYkVSems1TXFSTC10cHV5Ui14bzU3M1I0VG96elZQWlZZZURLcDdKUEFud3VCV1ZIY0lwVUszZEhfM1MwbjBYZTJGTzhzUGtsVUhhaGtaTzF0RHF3RndxMERvUzFEMTA?oc=5",
+      "pubDate": "2026-09-11T22:10:17+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "【ドル/円、今夜から来週の見通し】ドル/円、150円or158円？FOMC×日銀でトレンド激変！？注目ポイントを徹底解説＿2026/9/11",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kZUdjREZBUTBVTll1QlpsancxSjNGZzE3dkdzT3c0cG9aRW1nSWZ1V3JLaE9lSGhoSE5JWHdqb0NqM3JwMmFmUlphVnRQZkdhQVRncG10MEJlNlJLQjBiRXl5VQ?oc=5",
-      "pubDate": "2026-09-11T17:58:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "東京為替概況:ドル・円は下げ渋り、夕方はやや戻す",
-      "link": "https://zai.diamond.jp/articles/-/495500",
-      "pubDate": "2026-09-11T17:42:00+09:00",
+      "title": "欧州外国為替市場概況・22時 ドル円、軟調",
+      "link": "https://zai.diamond.jp/articles/-/495515",
+      "pubDate": "2026-09-11T22:10:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "東京為替概況：ドル・円は下げ渋り、夕方はやや戻す｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWU29SbVUtNFJHdmhyTGV3V3c3S0NEU0pvMXRVYmJYd2xyU2h3cWd5MGt2c1Roa1ZLbDYyVWtPWVltV3lCYkNfUklPelB0RmJIZXc?oc=5",
-      "pubDate": "2026-09-11T17:42:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "外為17時 円相場、続落 154円台前半 原油高と米早期利上げ観測で",
-      "link": "https://www.nikkei.com/article/DGXZQOFL1169V0R10C26A9000000/",
-      "pubDate": "2026-09-11T17:27:00+09:00",
-      "source": "日経新聞"
-    },
-    {
-      "title": "欧米為替見通し:ドル・円は伸び悩みか、米9月利上げ期待も日銀にらみ円買い継続",
-      "link": "https://www.zaikei.co.jp/article/20260911/869728.html",
-      "pubDate": "2026-09-11T17:25:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "FX個人投資家、ドル円の動向に合わせて成行で短期売買か 今日の外為注文情報 2026/9/11 17:00",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHdE5DU0VJbDNIbGhXQlFhd28wMjhPemZnNVdsaG95UkxFVVBkQ1FJdElhX29QcnIyX0VrcFREVVFjaUhqeFNaSVFrNEI5eWF6NW9PNWdWVHAtNS1QS0NTUU9jaw?oc=5",
-      "pubDate": "2026-09-11T17:21:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "通貨オプション ボラティリティー ドル円１週間は１１．８６％、今週の揉み合い水準を維持 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NUGt0ZXI5dkVPRGhlN0ZHbGtSVnFMU1c3YWtlLXVHRDcxMmYxb2gxYzZhYzlwNGtkYjFOaDd4c0VLQ1dMcDBvMw?oc=5",
-      "pubDate": "2026-09-11T17:17:57+09:00",
+      "title": "ドル円のピボットは１５４．１０円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85cERNMUhISnpPUlowSE1haEY5ZWxjdmEwbFp2RXFEOGcwMHVsRTZFRGEzX2FJQXhfVDdKVEl5Tk01c1JJZFF0aw?oc=5",
+      "pubDate": "2026-09-11T21:50:57+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ドル・円は下げ渋り、夕方はやや戻す(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTRLS012am9aa3FoUXUzOXdob2NNX2hhUzd4RDZ3d09oLXg0MV9OaTBlMkw0c3VZekVmTy1RVHg5MFpzOHhxajVtQ05tVDNBSV9kV1hxcEtSWjhFMEU3TGh5NzIwbnRWS3JxclNzQUtrZmxqbnNaM0o5SXpfelh2OTJDSmk4Qzg?oc=5",
-      "pubDate": "2026-09-11T17:17:31+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "ドル円、153.50円台まで日通し安値更新 ユーロ円も178.07円まで下落",
+      "link": "https://zai.diamond.jp/articles/-/495514",
+      "pubDate": "2026-09-11T21:47:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "9月のくりっく365、ドル・円は上値の重い展開、豪ドル・円は下げ渋る展開か(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVpodl9sVHVndnlOd1FzMC1pTDZQRTRVZVhfZXM4R05WT3ZJOHNZZEVTNjlObVJuQlhBODNmOWlTN3NCNzliOElGbHhfSm9SV210UWwwSlRGTHY2YUQ2UWtoSmszSTNqN09RalBZUkdSeTVNNGNQeWF2LTRYbHg2a0syQmExZTg?oc=5",
-      "pubDate": "2026-09-11T17:13:39+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "ドル円、153.50円台まで日通し安値更新 ユーロ円も178.07円まで下落｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ENG0zQ01lSjROLVBkbG5OQU13VFBpZERxdGhZZlFkOHY2Ykt2YnpDNlF6SzFTNTRvTDQyanNlcU9qcV8zMlZ3R2kwTmJMNEpvdWc?oc=5",
+      "pubDate": "2026-09-11T21:47:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "円相場、154円20~23銭 11日午後5時現在",
-      "link": "https://www.jiji.com/jc/article?k=2026091100873&g=eco",
-      "pubDate": "2026-09-11T17:09:00+09:00",
-      "source": "時事ドットコム"
+      "title": "ドル円、上昇は一時的 米8月CPIは予想通り",
+      "link": "https://zai.diamond.jp/articles/-/495512",
+      "pubDate": "2026-09-11T21:36:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "円相場、１５４円２０～２３銭＝１１日午後５時現在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05aFlRbkVQSTdCLW9JaFp1MVJvaHN1QnRTbVdQbUZjQmlrZzZVR0xqampvWlV4RlBHRExVV0YwX29nb0UxYjk0bXdhaFF1VGRVd2pvWg?oc=5",
-      "pubDate": "2026-09-11T17:09:00+09:00",
-      "source": "時事通信ニュース"
+      "title": "ドル円、上昇は一時的 米8月CPIは予想通り｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82Mm5XSW9RQnJGTHh6dmdtVmQ1MDZZVENPV0JTQm5SNFJrck0za3ItaHRJaXhuUndESEJwT3FhSl9paG5PSmxYZ0JCd280WTZCSnc?oc=5",
+      "pubDate": "2026-09-11T21:36:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "東京外国為替市場概況・17時 ドル円、下げ渋り｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DdW1FZWJnUmhneWRMbVRnbzV6NE9sQ2ZIWTNsVjhxU2g1S2pZV3hQbTNVaWdiR2QzS0cwTlRmM1haZzBVaXk2TzR3WXNqYTRzYlE?oc=5",
-      "pubDate": "2026-09-11T17:05:00+09:00",
+      "title": "【速報】ドル・円154.28円、ドル上昇、米8月CPIは前月比で加速",
+      "link": "https://zai.diamond.jp/articles/-/495511",
+      "pubDate": "2026-09-11T21:33:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "円安基調、ついに転換点? 米「圧力」の裏にある懸念とリスク",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoSVVNQ1JLcXhscEczdTFDR3hVUVhWTUdjdmk1bV81UWxNTEo5bVJjbi1ZNDcteFZxOWZZRXh5RlFRRjUtWWdSaExBaHJBY2t2QzI3LUhYVTRPVTdVRDdWYi1vNFdENHla?oc=5",
+      "pubDate": "2026-09-11T21:10:33+09:00",
+      "source": "毎日新聞"
+    },
+    {
+      "title": "円買い優勢、ドル円は一時１５３．９１レベルに安値更新＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4VWNtMm02MV9nU2RzM29peHR0UGNVSFlpZDJRMmkwQnRLLUlMRERldzd1LUhqXzE2V0NKd3A4U0djLVNGNFMxLQ?oc=5",
+      "pubDate": "2026-09-11T20:35:57+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "円高・ドル高、原油反落に反応 米ＣＰＩ前の調整も＝ロンドン為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKdGVReEZVeWxXU2RYWjkxaXFJZXVQdnhlejFDZWFFZklsSUNTZ3pTakhCaEJmM2JrRThtUlROclI5Rzd2VWx2SA?oc=5",
+      "pubDate": "2026-09-11T20:23:57+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "欧州為替：ドル・円は弱含み、原油・米金利にらみ 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMc1Z0aXo5dWpuVDhKcW1XOEc0WnJUVF9oZW1wUUZLcEVBWk1wWE5QY0R2XzlVR19kUjQtZDRCQlNfaElxU3B0Njdkb0FsdW44R0VTWG5fWXgtTXpCME12UDNabmk3M3c?oc=5",
+      "pubDate": "2026-09-11T20:15:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
+      "title": "欧州外国為替市場概況・20時 ドル円、弱含み",
+      "link": "https://zai.diamond.jp/articles/-/495506",
+      "pubDate": "2026-09-11T20:06:00+09:00",
       "source": "ザイFX！"
     }
   ]
