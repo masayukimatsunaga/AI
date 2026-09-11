@@ -1,93 +1,93 @@
 {
-  "updatedAt": "2026-09-11T13:46:16+09:00",
+  "updatedAt": "2026-09-11T18:10:49+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "外為：スイスフラン、189円82銭前後とフラン高・円安で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdXZ4MmtBb2ZxekVIdjNVbFUzSlNfcUZRWUNQSjZaYzVMd2tvWmRFMEJPbWE4SmlSaXl1X0tMeE9ibjRYbENyLTNRT3JDRkFsZDlCRXd0NHlxSFViUE5mR0loQ19wREtTNGg1djBZdllQcHRrV2hDWGlJaVBTRldnUDRzQ2pFVTQ?oc=5",
-      "pubDate": "2026-09-11T13:31:43+09:00",
+      "title": "外為：1ドル154円10銭前後とドル安・円高で推移",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zd0s3NEhVMF9zbTF1U0Zndlc5ZU56NlEzUWxUcUh2aFFRUTlaZWtSdTJaZXppUTl1UWhGSTRpMVdxbXVJMmRwMGZ5dENhRDR6UVV1N2hCanY2MzlsMnlXM0pR?oc=5",
+      "pubDate": "2026-09-11T18:01:02+09:00",
+      "source": "kabutan.jp"
+    },
+    {
+      "title": "豊田通商株に見る「為替離れ」 円高の呪縛、成長力が解く",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BSGY3Vm1fd3ZrcnpFNDZVVm44dk56SlkzdUxYVDNHMXZiUjkwUnJGMmRTLU1Pb3NIUllGaGFZb2E3Q0pOUFVnbHVDYTZReFducmZWd1JyR2I0Z1JVd2pIV2VwM085djRmUjlrSA?oc=5",
+      "pubDate": "2026-09-11T18:00:13+09:00",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "【ドル/円、今夜から来週の見通し】ドル/円、150円or158円？FOMC×日銀でトレンド激変！？注目ポイントを徹底解説＿2026/9/11",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kZUdjREZBUTBVTll1QlpsancxSjNGZzE3dkdzT3c0cG9aRW1nSWZ1V3JLaE9lSGhoSE5JWHdqb0NqM3JwMmFmUlphVnRQZkdhQVRncG10MEJlNlJLQjBiRXl5VQ?oc=5",
+      "pubDate": "2026-09-11T17:58:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "東京為替概況:ドル・円は下げ渋り、夕方はやや戻す",
+      "link": "https://zai.diamond.jp/articles/-/495500",
+      "pubDate": "2026-09-11T17:42:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "東京為替概況：ドル・円は下げ渋り、夕方はやや戻す｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWU29SbVUtNFJHdmhyTGV3V3c3S0NEU0pvMXRVYmJYd2xyU2h3cWd5MGt2c1Roa1ZLbDYyVWtPWVltV3lCYkNfUklPelB0RmJIZXc?oc=5",
+      "pubDate": "2026-09-11T17:42:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "外為17時 円相場、続落 154円台前半 原油高と米早期利上げ観測で",
+      "link": "https://www.nikkei.com/article/DGXZQOFL1169V0R10C26A9000000/",
+      "pubDate": "2026-09-11T17:27:00+09:00",
+      "source": "日経新聞"
+    },
+    {
+      "title": "欧米為替見通し:ドル・円は伸び悩みか、米9月利上げ期待も日銀にらみ円買い継続",
+      "link": "https://www.zaikei.co.jp/article/20260911/869728.html",
+      "pubDate": "2026-09-11T17:25:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "FX個人投資家、ドル円の動向に合わせて成行で短期売買か 今日の外為注文情報 2026/9/11 17:00",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHdE5DU0VJbDNIbGhXQlFhd28wMjhPemZnNVdsaG95UkxFVVBkQ1FJdElhX29QcnIyX0VrcFREVVFjaUhqeFNaSVFrNEI5eWF6NW9PNWdWVHAtNS1QS0NTUU9jaw?oc=5",
+      "pubDate": "2026-09-11T17:21:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "通貨オプション ボラティリティー ドル円１週間は１１．８６％、今週の揉み合い水準を維持 -",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NUGt0ZXI5dkVPRGhlN0ZHbGtSVnFMU1c3YWtlLXVHRDcxMmYxb2gxYzZhYzlwNGtkYjFOaDd4c0VLQ1dMcDBvMw?oc=5",
+      "pubDate": "2026-09-11T17:17:57+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル・円は下げ渋り、夕方はやや戻す(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTRLS012am9aa3FoUXUzOXdob2NNX2hhUzd4RDZ3d09oLXg0MV9OaTBlMkw0c3VZekVmTy1RVHg5MFpzOHhxajVtQ05tVDNBSV9kV1hxcEtSWjhFMEU3TGh5NzIwbnRWS3JxclNzQUtrZmxqbnNaM0o5SXpfelh2OTJDSmk4Qzg?oc=5",
+      "pubDate": "2026-09-11T17:17:31+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "外為：ブラジルレアル、30円24銭前後とレアル高・円安で推移",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIdmhHT3VxeFo3cFZyNHM3OU53NUxyN1N3Vi1DMm5PU3FhQjhGWk5qUjItdGE5UzdlQzMwTWRvOFdsNmhKMzhYMkN0d01UdjY4N1NqbFBULU9xN2M0OWY2NGFR?oc=5",
-      "pubDate": "2026-09-11T13:31:07+09:00",
-      "source": "株探"
+      "title": "9月のくりっく365、ドル・円は上値の重い展開、豪ドル・円は下げ渋る展開か(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVpodl9sVHVndnlOd1FzMC1pTDZQRTRVZVhfZXM4R05WT3ZJOHNZZEVTNjlObVJuQlhBODNmOWlTN3NCNzliOElGbHhfSm9SV210UWwwSlRGTHY2YUQ2UWtoSmszSTNqN09RalBZUkdSeTVNNGNQeWF2LTRYbHg2a0syQmExZTg?oc=5",
+      "pubDate": "2026-09-11T17:13:39+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "東京為替:ドル・円はもみ合い、方向感を欠く",
-      "link": "https://www.zaikei.co.jp/article/20260911/869666.html",
-      "pubDate": "2026-09-11T13:17:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替：ドル・円はもみ合い、方向感を欠く 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVZDhxV2FRWEItNjE5ZUFSZVdJS0tpX1ByLXFsRzZjU2ZMWTh6WklnbEI1RS1veEVOWlNwekUtN1NvQ1FscmtpTGowb0pjd3loYWViS3VBOGVTTnpoZ1VPS2tqdzg0STQ?oc=5",
-      "pubDate": "2026-09-11T13:17:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "ドル円 本日NYカットの大きめなポジション含む154.00円のOPが目先の支えか",
-      "link": "https://zai.diamond.jp/articles/-/495483",
-      "pubDate": "2026-09-11T13:00:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【来週の円相場】円高巻き戻しの公算、日米中銀の利上げスタンス焦点（Bloomberg）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15aDVoZ2dUQjBENFh2cDlRNTB2S1BldmRrejBCWjdubVhfUnpNZkwzRktCaWYtQWc0czhGMFhGNE05Y3JBa3JOQWduU1VyckNacUxqemd3NThueS1sMEtpUWtrUkdnTFZKNlhLWm5RSmZiUzlNWHJGMFFraFAxR3c?oc=5",
-      "pubDate": "2026-09-11T12:42:55+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "ドル・円：ドル・円は下げ渋り、ドルに買戻しも｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XS0NMR29LV0FlU2xNcFo1OV9Dd1FnVzhHaERST1NmdXFZRGRPakJXUWwwMGVoRmg0SkJRNmNxSkd0MG83cWlDS0EwVnc3dkVxTHc?oc=5",
-      "pubDate": "2026-09-11T12:40:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "規模は900億円 米通貨当局の為替介入 ECB総裁（時事通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5eGFrYW12d1YyOG11bUtmOHhub0Rhb1NaOVhpRlZNb3VwMU1KVGNxSkJZSnZxSGQxbUV5cmt0MjUxMUxUenJZaEVXMTFDR1MzMVhJUTRQTmE3OXFmNDNwc3haZHNsTjNLSFRCRmw2aTBJek83YnNFUUd0dzc4Vmc?oc=5",
-      "pubDate": "2026-09-11T12:31:55+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "規模は９００億円 米通貨当局の為替介入―ＥＣＢ総裁",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zVG01MkFINE9scVBiR0xRYXVXck9JQmxOd3ZKemhXMXJyTWMzc3pyNi1rcy1lWWstUTM0R3VwS0FOQ09oWmZsX3ZmWF9ZaFlkRjd5S3NNd1k5aGV5TXJWYk1odw?oc=5",
-      "pubDate": "2026-09-11T12:28:00+09:00",
+      "title": "円相場、154円20~23銭 11日午後5時現在",
+      "link": "https://www.jiji.com/jc/article?k=2026091100873&g=eco",
+      "pubDate": "2026-09-11T17:09:00+09:00",
       "source": "時事ドットコム"
     },
     {
-      "title": "インタビュー:米国、円安で日本経済弱体化を懸念 日銀利上げ到達2.25%も=中尾元財務官",
-      "link": "https://jp.reuters.com/jp/opinion/XP7SEDIS65N7XOSPBC6LTADRTE-2026-09-11/",
-      "pubDate": "2026-09-11T12:26:00+09:00",
-      "source": "reuters"
+      "title": "円相場、１５４円２０～２３銭＝１１日午後５時現在",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05aFlRbkVQSTdCLW9JaFp1MVJvaHN1QnRTbVdQbUZjQmlrZzZVR0xqampvWlV4RlBHRExVV0YwX29nb0UxYjk0bXdhaFF1VGRVd2pvWg?oc=5",
+      "pubDate": "2026-09-11T17:09:00+09:00",
+      "source": "時事通信ニュース"
     },
     {
-      "title": "インタビュー：米国、円安で日本経済弱体化を懸念 日銀利上げ到達2.25％も＝中尾元財務官",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rSG5zSkZ6bDJBNE5MZ2Fjd1M5WjM5emxGRVE4dGhTVlhBRVlBYnJFcUV0blk5MjkxUXpQcHZYWjRQSkFrZUhNSlhYaE0yY2pSbG4xTHc4QnFfZ0pCc1ZSVm1lVGIwTWtpc3FHQnJBTVZyMWtKR1VpQWFJNUk?oc=5",
-      "pubDate": "2026-09-11T12:26:00+09:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "東京為替:ドル・円は下げ渋り、ドルに買戻しも",
-      "link": "https://www.zaikei.co.jp/article/20260911/869651.html",
-      "pubDate": "2026-09-11T12:25:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "円相場と日経平均株価を示すモニター（時事通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LQ1p2UnBqMEJDRjU1MEc1bm9iOTc0N1UwUEMxWXZaQWxMdlEwY3ByenRsZEdFS1FYMlk1S0NIMU9yRkVnMThSai1WdDd5bFpBUzZEdldESDBXUUJveXdjVWVrM3ZzdENGX3g1MUM3bktLWXFTOVkwcU90WHlleDg?oc=5",
-      "pubDate": "2026-09-11T12:17:45+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "画像・写真：円相場と日経平均株価を示すモニター：時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wYk9hSnVfaXNuYklvRnBHMXotVFhtSnRRNUdxT1hSMXZvajNKZGhJZVRQVmJqTmtwc3o2anBPWU5oVWpLWTc2ekNCZGM1azVNckJsYk5EaXg2RDdXcjhETktsWkM?oc=5",
-      "pubDate": "2026-09-11T12:16:53+09:00",
-      "source": "時事ドットコム"
+      "title": "東京外国為替市場概況・17時 ドル円、下げ渋り｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DdW1FZWJnUmhneWRMbVRnbzV6NE9sQ2ZIWTNsVjhxU2g1S2pZV3hQbTNVaWdiR2QzS0cwTlRmM1haZzBVaXk2TzR3WXNqYTRzYlE?oc=5",
+      "pubDate": "2026-09-11T17:05:00+09:00",
+      "source": "ザイFX！"
     }
   ]
 }
