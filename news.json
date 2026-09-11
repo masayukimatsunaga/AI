@@ -1,14 +1,74 @@
 {
-  "updatedAt": "2026-09-11T06:56:28+09:00",
+  "updatedAt": "2026-09-11T09:12:47+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "規模は900億円 米通貨当局の為替介入 ECB総裁（時事通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5eGFrYW12d1YyOG11bUtmOHhub0Rhb1NaOVhpRlZNb3VwMU1KVGNxSkJZSnZxSGQxbUV5cmt0MjUxMUxUenJZaEVXMTFDR1MzMVhJUTRQTmE3OXFmNDNwc3haZHNsTjNLSFRCRmw2aTBJek83YnNFUUd0dzc4Vmc?oc=5",
-      "pubDate": "2026-09-11T06:45:52+09:00",
-      "source": "Yahoo!ニュース"
+      "title": "円相場、１５４円４６～４７銭＝１１日午前９時現在",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVb2JQbExOS1N6b2NPZ3VhM0x1dWhTdk1yZFFGektKdXdzamJuNzNaTzcxRUhvaWxocTBGMDdwSWNyZWY3bUhCdi1Xa3JVUjU3QUE5bw?oc=5",
+      "pubDate": "2026-09-11T09:07:00+09:00",
+      "source": "時事通信ニュース"
+    },
+    {
+      "title": "〔JPXエネルギー〕ドバイ原油、WTI高受け急伸＝円安も支援（11日朝）(時事通信)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORkdJTldBdnV4V0VTZXdYOV9yS1ZiTzcwbTFwZ2tGTGZVdnYyYlFHeldFcmdGMDJQcFJWTXlXZF8xMmxuNVlDVHhueE9VbVVwMFZJckVCYlN0N3N4ZDlPR19pTmRIdDh0alVJQ3RsdmpTTHp5NW10LV9WY0I5UnN2NHZFUmh0eDA?oc=5",
+      "pubDate": "2026-09-11T08:55:31+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "１１日の東京外国為替市場見通し＝ドル・円、１５４円台半ばを軸に底堅い展開か(ウエルスアドバイザー)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZUtwemN0czdhMVJmN2VGZDg1ZEhJRVl0R0hlTVQyU0JBNDNsTmtjYXFlb2plVUZqN3ZKZk5vMmpZTTBpWEJCT1N4ZUdJck5lR0hjbGJVeWkyR1JtSnJ4WHRWZy1rNTBmbmNINVQ0ckVNU1RSeUN4enYwbmJpLUdJNThVaWtSeUE?oc=5",
+      "pubDate": "2026-09-11T08:47:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "FX/為替「ドル/円今日の見通し｜米インフレ加速・原油高・金利高で155円を試す展開か」 外為どっとコム トゥデイ 2026年9月11日号",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44UlpkRW9tQzVPQXFJeDhVenRtOHJpc2JUVDNTTkV6cW1PSjM2SlFtV2lFTzhwVXBSOGhITnRHSHN3VmlEek0zUmhjUnkxaHk1LWpVdWYtQ0I2XzM1TEdrLVdGcw?oc=5",
+      "pubDate": "2026-09-11T08:30:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル/円見通し(為替/FX ニュース )：ドル円は円安で154円台半ば｜米PPIは市場予想より高く円安が進む(2026年9月11日)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uczhEeGprRk9WSWtTODB6bVFIV3FqRTc3QXVzXzYzRV9MRlVZRWFKYTVRWXpjUlRZTkxvVlhwQ2RYMWY5cnVQVENjalJlUHRWRXQ5SkROVjRSd2NxTXlPNHBUNE9XbkVNZmlxSFo0bU1KSm8?oc=5",
+      "pubDate": "2026-09-11T08:11:50+09:00",
+      "source": "OANDA証券"
+    },
+    {
+      "title": "東京外国為替市場概況・8時 ドル円、もみ合い｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tMmpBZGc3MGc2VERoajNqMEZ3ZGNMaHFCSkRJTGZjcnBObTJZMXJtSUg2d25QOC1FQVBxOUsyZVJRU0pCQVl4Wmg0cXM3cXI3Z2c?oc=5",
+      "pubDate": "2026-09-11T08:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "東京為替見通し＝ドル円、米金利上昇・原油高で戻り試すか",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40bFNVWGZFR0hMd3FSejdUQWFVNURUMzc2V2ZCb0oybU0ya1hGNVNCbFY0OWF1MU1SaFlrNFdKZF9oUUlSWW0wd3A2LTcxSXBTZFE?oc=5",
+      "pubDate": "2026-09-11T08:00:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円午前の為替予想、米インフレ加速・原油高・金利高で155円を試す展開か 2026/9/11",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NNkVqSHBfS3F6STdTcTNJM0VSMUdXcVdnQVgzYnE0bXRma0QtZDQ0SFZiWmVFbTZKVjBhLURfWl9hUHFjREdOWFlGMnQtQmxHV1JMOHdnZGlWNjExN2ZzM2s1SQ?oc=5",
+      "pubDate": "2026-09-11T07:55:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "円高・国債高は潮目か？株式相場への影響を読む(トウシル)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUXZJNkt3eVNmdTRMazVlTVhNNi1HTUFiZHdNQ3BYOXpNM2N0bl9CWl9mcE03bWxvWE0wbjZ1MTFieVNFVXU0Tkd3eERfVTJPZUo4UzlwcV93c3lZM21pMl9lQXR0RGRqdHFvSEUyVWF3bnhkc01GcWlTWGl2LWFWbDBEMEpNRDA?oc=5",
+      "pubDate": "2026-09-11T07:45:29+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【なぜ米国は円高を望むのか】 | 白井さゆり | 文藝春秋PLUS",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15TTZHd29qd2VTTXl4RF9fbnFYUmwwQVk2b0VVdWJrdWZpRWVwWTF5TTdaWUQ4N3NJaWNqbHN5OVNOQnluN2J5bVZuYUpkdjR3QVB2SFpJS0R6dms?oc=5",
+      "pubDate": "2026-09-11T07:00:00+09:00",
+      "source": "bunshun.jp"
+    },
+    {
+      "title": "規模は９００億円 米通貨当局の為替介入―ＥＣＢ総裁",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zVG01MkFINE9scVBiR0xRYXVXck9JQmxOd3ZKemhXMXJyTWMzc3pyNi1rcy1lWWstUTM0R3VwS0FOQ09oWmZsX3ZmWF9ZaFlkRjd5S3NNd1k5aGV5TXJWYk1odw?oc=5",
+      "pubDate": "2026-09-11T06:44:00+09:00",
+      "source": "時事ドットコム"
     },
     {
       "title": "１０日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
@@ -23,70 +83,10 @@
       "source": "四季報オンライン"
     },
     {
-      "title": "【解説】円相場、一時1ドル＝152円台…なぜ急速な円高に？ 今後は",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rTFVRS21ISlRtSl9DeTVGMTRtTmg4ZG5QUkJXSnVDYWZyUWpMNnB1VGpwU0psY0pQTWdKR2tmLVh1bVNTZENnZ0xPdw?oc=5",
-      "pubDate": "2026-09-11T05:07:12+09:00",
-      "source": "TVer"
-    },
-    {
-      "title": "円安是正、好機と判断 日銀利上げへ 米政権圧力が追い風",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IY2tLX2NJLV9qSE9GSkg5WklhUktKRWNuY2Q5S3FaaGJNSUFSWGtDR0R2Tl9DdGVWRHZuc0tDSWRxQTZMNTllM0pWc2VSOFMtOEg1ZVFmSEFTYlcxUnUyVmpn?oc=5",
-      "pubDate": "2026-09-11T05:00:00+09:00",
-      "source": "琉球新報デジタル"
-    },
-    {
-      "title": "ドル円は１５４．３５円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wR1NrTHVJelNJWFhJNG5ISEZGTnFibEYteHBrXy1XQ3k5YVU4dEFRZmU0VTM5WEx6U3p2ZXhzdVBiMTh1SzBQeA?oc=5",
-      "pubDate": "2026-09-11T04:58:57+09:00",
+      "title": "ドル円は１５４円台に戻す 米ＰＰＩを受け米利上げ期待が高まる＝ＮＹ為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aanJINE5LWHgzaEtfZnJ5THBmZFhiaHJRdkNKdEU1Z1FmQlh5X0o3emItNS0tNW9rYzNWbGp1QWozYUdCSi1PRw?oc=5",
+      "pubDate": "2026-09-11T05:40:57+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、もみ合い｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PTWMzbUNHOVljTjkyYXVWRXk0aXF0cFRZMGxmUDk2blBYaDhyVGpXcHZDaHhJLTB5VExsVF9wLTYxa3ZNdlJkbF9KSE5nYUp4anc?oc=5",
-      "pubDate": "2026-09-11T04:08:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･2時 ドル円、底堅い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMjI0NjV6R3RuS1I0ai1EeHkyNlloZ293UkdsRGRWalBxZlJEbldyYm83S0F0ZlViRnBGNGtpWDBYdFIzU2NIZG5KV25hTEdqdldsS0d0WDZNRHd4UGI4eDBqTzU1NkdtdTF4cmN3V3hCQkJrbjluMGQtZkNKU0pINW02VnVnYnc?oc=5",
-      "pubDate": "2026-09-11T02:06:33+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "ドル円、テクニカル面では引き続き下向きの流れ＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Ld1NqV1VJNldycW5XX3hBbkp0ekdBTW5vbkdqU0xtUloyUER5MVlDMGtUUERfeHlxWm9sWFBobkdnU21CRkpFVw?oc=5",
-      "pubDate": "2026-09-11T00:22:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円、１５３円台に再び伸び悩む展開＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zSHpSMzBSTENvUFFKU2JBc2dCSjh3QlZ6dHB5aTA1cVBZaVZGQVVWbDMxblZQam9fX1Zwdm1GTkNDRWRNcnZmQg?oc=5",
-      "pubDate": "2026-09-10T23:24:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "円高を味方に！利益改善が期待できる日本株",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LVzhVZmJCdy1JMHlMaklWSFpIdXRaVUlXUzU1cGxGQzNROUxBMVVtTDdfX2drT1U2X1FIUzltQjlqeURCemQ4NGtUSjl1eDk3Ny14NUVNU2NzVG1qQWNtQ2VOc9IBaEFVX3lxTE5UUjB5S2lWXzZ5S2Rfcmd4b2h2LV8zaTdpZzhyUER1UzV6TGVKRmxnRzlPTTdLakVqOE4wamYyOTQ2UXFWQnkweG55TjNpLVE0bi10dlBtQWd5ek5uWDJkQkdrN2gxM1dQ?oc=5",
-      "pubDate": "2026-09-10T23:10:04+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "ドル円、買い一服 再び154円台を割り込む(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNck43RTdiQjZ3QnVzX3Bsem1BeWZFLVJUQ2hQdlh3c0Ewd2phTi1GQnVKLVphU3BGRUlxNjdYSTBhalN3SUFzYWxqdzVRSzVISkszWTI4UmVQWnZUdFhlSjJzeGJMdlRwbVlkVnF3Q0IzRjRpRkd4Z2M3d0pQck0weElCRHdrbTQ?oc=5",
-      "pubDate": "2026-09-10T23:07:03+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "ドル円、１５４円台に上昇 米ＰＰＩにドル高の反応＝ＮＹ為替序盤",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uZkx6V2MwN19idExWRTZreTZEblhRSmI0RmVrZm9Xck02OU15eGxBaHVmZTB3QkJuQ2xFR0MtTGU3WnBkTnlmTA?oc=5",
-      "pubDate": "2026-09-10T22:25:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、強含み(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcjZpQTdQNzB1OFZZSXhtem55VHFwSXJLVGlMWHVTNDRweDZDcFdCSzFSZ1ZWRzZWaUxtWm1HSnNCalVyRjR1NlAxMTljcWcySjRlMXo5UlNVSUhkRjA3SUZxUlZXRUU5MlY4ZDRJV0MxV3pkRDZTS195WmdmOFZzZXQ0QkQwS2M?oc=5",
-      "pubDate": "2026-09-10T22:09:18+09:00",
-      "source": "finance.yahoo.co.jp"
     }
   ]
 }
