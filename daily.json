@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-09-10T13:49:05+09:00",
+  "updatedAt": "2026-09-11T14:52:13+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "円安ベットの動きは抑制　ドルには押し目買い",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜円安ベットの動きは抑制　ドルには押し目買い」 外為どっとコム トゥデイ 2026年9月10日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/10/082957",
-    "publishedAt": "2026-09-10T08:29:57+09:00",
-    "createdAt": "2026-09-10T08:20:00+09:00",
+    "headline": "米インフレ加速・原油高・金利高で155円を試す展開か",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜米インフレ加速・原油高・金利高で155円を試す展開か」 外為どっとコム トゥデイ 2026年9月11日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/11/083026",
+    "publishedAt": "2026-09-11T08:30:26+09:00",
+    "createdAt": "2026-09-11T08:30:00+09:00",
     "forecastRange": {
-      "low": 152.6,
-      "high": 154.4
+      "low": 153.6,
+      "high": 155.3
     },
-    "outlook": "上値は重い",
+    "outlook": "155円を試す展開か",
     "factors": [
-      "米財務長官 異例の口先介入",
-      "中国CPI 伸びが加速",
-      "米財務省 翌日のバイバック額発表"
+      "増日銀審議委員講演",
+      "ECB予想通りの利上げ",
+      "米PPI 予想を上回る"
     ],
     "events": [
       {
-        "text": "10:30 〇 (日) 増日銀審議委員講演",
+        "text": "15:00 〇 (英) 7月GDP",
         "importance": "medium"
       },
       {
-        "text": "21:15 ◎ (ユーロ圏) ECB政策金利",
+        "text": "21:30 ◎ (米) 8月消費者物価指数",
         "importance": "high"
       },
       {
-        "text": "21:30 〇 (米) 8月生産者物価指数",
+        "text": "21:30 ◎ (米) 8月消費者物価指数・コア",
+        "importance": "high"
+      },
+      {
+        "text": "23:00 〇 (米) 9月ミシガン大学消費者態度指数・速報値",
         "importance": "medium"
       },
       {
-        "text": "21:30 〇 (米) 8月生産者物価指数・コア",
-        "importance": "medium"
+        "text": "23:00 ◎ (ユーロ圏) ラガルドECB総裁講演",
+        "importance": "high"
       },
       {
-        "text": "21:30 〇 (米) 新規失業保険申請件数",
-        "importance": "medium"
-      },
-      {
-        "text": "21:45 ◎ (ユーロ圏) ラガルドECB総裁講演",
+        "text": "19:15 ◎ (ユーロ圏) ラガルドECB総裁講演",
         "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260910/20260910081624.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260911/20260911082246.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
