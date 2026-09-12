@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T09:41:45+09:00",
+  "updatedAt": "2026-09-12T14:08:43+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -9,12 +9,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05cVVJMTBNWHlxdjdyWXZtUjQzUi1LTXVQd3UzZ0F2Ukx3ck9mMXBiSGR3MTNrSkdVOHlTUGhidTl5TER6ZE1KczZLRDM4emVBTGFubVZIcGVZNkZPZDZZZHpB?oc=5",
       "pubDate": "2026-09-12T09:30:00+09:00",
       "source": "Infoseek"
-    },
-    {
-      "title": "経済プラス：円安基調、ついに転換点? 米「圧力」の裏にある懸念とリスク",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoSVVNQ1JLcXhscEczdTFDR3hVUVhWTUdjdmk1bV81UWxNTEo5bVJjbi1ZNDcteFZxOWZZRXh5RlFRRjUtWWdSaExBaHJBY2t2QzI3LUhYVTRPVTdVRDdWYi1vNFdENHla?oc=5",
-      "pubDate": "2026-09-12T08:57:36+09:00",
-      "source": "毎日新聞"
     },
     {
       "title": "ドル円の50年間の軌跡（久保田博幸） - エキスパート",
@@ -35,16 +29,16 @@
       "source": "BigGo ファイナンス"
     },
     {
-      "title": "【新着】外国人監督を呼べない「円安」を逆手にとれるか 日本サッカー強化へ「輸出」の好循環 #元川悦子",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QTnRvb3ZoWG04anNFakE4V2hNWEdEMGYtXzZlZEV3TXA5Tl9jdHgtNm9HU1dLVF9CMFRfZ0tXdElzQlNFbzRBT0RMNUNyZXot?oc=5",
-      "pubDate": "2026-09-12T07:05:13+09:00",
-      "source": "新潮QUE"
-    },
-    {
       "title": "円高へ潮の目は変わるか カギは「オフショア」に 高市政権が心すべきは国内投資活性化 田村秀男の経済正解",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92Vk52ejFIYUlkZGlULWR2dmdWZ3RHd3NmVE9nSXFwOXdjWWxTNjdpYTliLVlwU2Zfa3pYZlVtS2VJOFlEUTNGMGpwM2pvUGJ1THBxZWZnOFZVMW1ObHRWc1hUcktKTDV4bFk3YkVpdFE3b1Z1cUE?oc=5",
       "pubDate": "2026-09-12T07:00:00+09:00",
-      "source": "産経ニュース"
+      "source": "sankei.com"
+    },
+    {
+      "title": "NY為替・11日＝ドル円が反落 終値は153.61円(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGJuTDl0WDllSFBHVU9ZblpBb0JTQ2pNaXNoRUVOWlgtQUdKczN6LWhxUm9nN21ISTlHNXlNUVczMVduNXNPMm8wSURUdmdwRUE5dndBajFyNF90WURhaVYzd1Fob0NablRiQ241bFJpZWZjMVpSb19sTk9pUTRoaVpQWmgzNlU?oc=5",
+      "pubDate": "2026-09-12T06:42:02+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "ドル円は米消費者物価指数後に大きく上下＝ＮＹ為替概況",
@@ -59,9 +53,9 @@
       "source": "日本経済新聞"
     },
     {
-      "title": "11日レンジ ドル円153.24-154.62円(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFZURXp5QnZoWUpxSGdxNElFMXZXUTJVUlNaM3R0WHMtdVRIVElvX010dXlQS3BqTlZ3QjZaeDdpdVRleU1CQkRkVXNLd3NxY2daMjZiT2dsVlB4dkJoQnlnVFNodnJiZEdNTU1XQzZmSFU0a3pzcFBtQVpkLXdGazdCNFI2Zzg?oc=5",
-      "pubDate": "2026-09-12T06:30:03+09:00",
+      "title": "NYマーケットダイジェスト・11日 株高・金利上昇・円高(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOVQxaDBMa2dDTkJqb3daMzNRYk40R1lnSDM3MWcwOWUyTDZFaDQ3ZDdCQkhYS0tJLUtpZkRFVHhHZk9Ga1lLSlJ4SHVfT3B3emdjUC1JanpWeHM1eU9HQXNRdE83MzJ2VHJhNGdvVWY4c0x2WTlYdG56bXJ3VW5fX21OXzNFcmc?oc=5",
+      "pubDate": "2026-09-12T06:20:04+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
@@ -71,22 +65,28 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・11日 ドル円、反落(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObHNMN2pCUnI3aWkwRkQ4V2RsRmtaSVhERHlZZzY2TkVkRGFWcFpZV1VTMTNwNWlQTHNXUVRVTlJDVUhSZ1YtamticFNrdWtEc2dPTjNuZGo5Z1puM1hzTHItbDlPVjRCbGhUbWtIZHdROEhFeE5tWGVOY2QtUGlpbTlYREdOUFE?oc=5",
-      "pubDate": "2026-09-12T06:04:33+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "来週の為替予想（米ドル/円）日銀が利上げしても、円が買われない理由 ハロンズFX 2026/9/12",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84SEdtcDloNWVNUm1zVTFKZG5NTUlxanNlWUVHZG4zOENRNTNMQ1BWV1drMExQbW1lazR4TElwREJvdnV3V01EUUpvNnJQSTJmRjFyZWNvODRjcHJPNk9VTkpGdw?oc=5",
       "pubDate": "2026-09-12T06:00:57+09:00",
-      "source": "外為どっとコム"
+      "source": "gaitame.com"
+    },
+    {
+      "title": "日米が金融政策会合 円安は限定的か、大型連休に急変動も",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Yc1BIdmlZWWZmQml6RVA4eWZadWxWWTMtaDJSRENoM0JLMnBfMTBBd2xOZDh6UkZGdDBBYlR2QmJmVWttWnBHTW1CNFZoWXlrU2xSY1F5SFJLVzUzc1pVUVh6TXRSMVNzMUF3VjBQSGN1MmVRSmJkeU5Eemo0QQ?oc=5",
+      "pubDate": "2026-09-12T05:00:00+09:00",
+      "source": "日本経済新聞"
     },
     {
       "title": "【テクニカル】乖離1＝ドル円、20日線かい離はマイナス幅拡大",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MZllBcVE4Vy1JMUhjRG9UR2JHazVhbkduYVZVV0JlZXFqSGhfejRPUlhDV2xMWnF5S3I2eENKNDY2WXZ6Y185NzIwZEdDMTdsdllKRkZZdnAyY1RSTlprYTVSWQ?oc=5",
       "pubDate": "2026-09-12T04:17:55+09:00",
-      "source": "外為どっとコム"
+      "source": "gaitame.com"
+    },
+    {
+      "title": "日銀は利上げへ、上値余地探る円相場 原油は高値圏推移",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hOFk5UUc5STQxRDBaX0Q3c2V3S3dMWDdmTjRxclg4aUlHM2V2SUUwbDB6eXJBcGw4SzN0NEtfbUU1d3FhQkdZSVNLRzR5b21LcThySmlCeG1zX3R4TE9kWS1HTmI1dXZhaV80Tw?oc=5",
+      "pubDate": "2026-09-12T04:00:00+09:00",
+      "source": "日本経済新聞"
     }
   ]
 }
