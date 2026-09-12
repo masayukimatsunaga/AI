@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-09-13T06:27:37+09:00",
+  "updatedAt": "2026-09-13T08:26:03+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "【ドル円週間見通し】底堅いか 日米金融会合の通過でドル売り・円買い一服の可能性も",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1wQVhJMXZOQlpTYVBHd1lLVjZHRndKWUVGT3EtY2dURDByeTNsXy1zaUh2VWNOb0hlMjJxTlBNYXRlSV9QU1o4?oc=5",
+      "pubDate": "2026-09-13T08:00:00+09:00",
+      "source": "マネーポストWEB"
+    },
+    {
+      "title": "韓国人の日本旅行、狙いは「マンジャロ」 格安・円安で利用者殺到…不正持ち帰りが横行",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TYm1OY1lBdndGejBZcTY1eUFFUm5LWnhPamx1RVYyUFRuQjQyR2x6MzNDaXB6QWk3T2NuNWdLQ2lQZDZPOEl6bEFvdkF1MlVkUUUxYTNqY3FyTGc4TUk0MEdQTkZjeUpOYWhoYS1hbWQyQjdhRmc?oc=5",
+      "pubDate": "2026-09-13T07:00:00+09:00",
+      "source": "産経ニュース"
+    },
     {
       "title": "来週のドル円相場はどうなる？9/14週のイベント予定 2026年9月13日",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iaVN6bDBsd1RVUUh3Y2hib2pZbEJPeFNiWFNxRWlrRXUwWVZabXNZOTZOSXV3eWd2cUl5bGxxWnNCeHBVM3gyZVNJQnFZdWlqWmllYXlPbDNwWm1hekdEZVF6aw?oc=5",
@@ -13,20 +25,20 @@
     {
       "title": "原油100ドル・米金利5％目前、それでも円高 9月7日週の世界市場で何が起きた？【相場の現在地】",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DSG1wb01lS2w1bklGaFZFSFVHeXNUSVprdUwzTEZXZFg0cGZyR2xlX0REa01CTDYxN0NWMEU1b2VGZjdVQmx0Mnp3R2tjSElVMUxkTjJBVy1jUl93N3NlOHk2OA?oc=5",
-      "pubDate": "2026-09-13T06:02:54+09:00",
+      "pubDate": "2026-09-13T06:01:49+09:00",
       "source": "外為どっとコム"
-    },
-    {
-      "title": "【世の中の動きとお金＆マーケット】インフレと円安にどう備えるか①：為替介入の効果と限界｜コラム｜未来をはぐくむ研究所",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15bHY1VUJsNzN6Q0lSWWM5dlVHT0l2c0FlUVZyRXFsN1RZc05pTnl4bDU5elhDU0VCU2EtXzBZeF9iZU1BQ3YxWXZEc0I2RUphZ3BJanRDLVhFTHltU2c?oc=5",
-      "pubDate": "2026-09-12T21:11:33+09:00",
-      "source": "am-one.co.jp"
     },
     {
       "title": "協調為替介入を受け利上げペースは加速するか 高市政権から9月利上げ容認メッセージが出るかに注目 野村證券・宍戸知暁",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5dXlZVjZyWmdQUHpqNGx1TXFnUS04aG00amJvMTJLbE5QMGVGMjUwZzJKSXlDbWw3aXJNLVpBeHN2QjhJbTFXamZXbjFMYjVUOG41Q1pCVF93bWpndHVN?oc=5",
       "pubDate": "2026-09-12T17:17:28+09:00",
       "source": "nomura.co.jp"
+    },
+    {
+      "title": "【世の中の動きとお金＆マーケット】インフレと円安にどう備えるか①：為替介入の効果と限界｜コラム｜未来をはぐくむ研究所",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15bHY1VUJsNzN6Q0lSWWM5dlVHT0l2c0FlUVZyRXFsN1RZc05pTnl4bDU5elhDU0VCU2EtXzBZeF9iZU1BQ3YxWXZEc0I2RUphZ3BJanRDLVhFTHltU2c?oc=5",
+      "pubDate": "2026-09-12T16:56:53+09:00",
+      "source": "am-one.co.jp"
     },
     {
       "title": "円高加速?1ドル＝140円台も？米注目指標を速報解説",
@@ -75,18 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByWHVvbm43eVZhcERBMWNNR2l5YXByRHBVc1M0TEF2N2VkSEpKUDdHUmNEbUE0NVFGUHYwbU4tbHVQQW9HcW9saElTRVdJZ0xOMkNNM1R6STdFb1hLUDNhbUczRUhRbU8xUnh0eQ?oc=5",
       "pubDate": "2026-09-12T06:35:37+09:00",
       "source": "日本経済新聞"
-    },
-    {
-      "title": "１１日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13eTRwTDkxbzJMSE9nRk5Uamc2UHhRU01DN292XzEyOW94RGNwV192X3dMQV9PNzdhektJOWFpZzlGT1NncVBNQw?oc=5",
-      "pubDate": "2026-09-12T06:04:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "来週の為替予想（米ドル/円）日銀が利上げしても、円が買われない理由 ハロンズFX 2026/9/12",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84SEdtcDloNWVNUm1zVTFKZG5NTUlxanNlWUVHZG4zOENRNTNMQ1BWV1drMExQbW1lazR4TElwREJvdnV3V01EUUpvNnJQSTJmRjFyZWNvODRjcHJPNk9VTkpGdw?oc=5",
-      "pubDate": "2026-09-12T06:00:57+09:00",
-      "source": "外為どっとコム"
     }
   ]
 }
