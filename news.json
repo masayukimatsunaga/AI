@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-09-13T03:48:13+09:00",
+  "updatedAt": "2026-09-13T06:27:37+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "来週のドル円相場はどうなる？9/14週のイベント予定 2026年9月13日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iaVN6bDBsd1RVUUh3Y2hib2pZbEJPeFNiWFNxRWlrRXUwWVZabXNZOTZOSXV3eWd2cUl5bGxxWnNCeHBVM3gyZVNJQnFZdWlqWmllYXlPbDNwWm1hekdEZVF6aw?oc=5",
+      "pubDate": "2026-09-13T06:04:27+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "原油100ドル・米金利5％目前、それでも円高 9月7日週の世界市場で何が起きた？【相場の現在地】",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DSG1wb01lS2w1bklGaFZFSFVHeXNUSVprdUwzTEZXZFg0cGZyR2xlX0REa01CTDYxN0NWMEU1b2VGZjdVQmx0Mnp3R2tjSElVMUxkTjJBVy1jUl93N3NlOHk2OA?oc=5",
+      "pubDate": "2026-09-13T06:02:54+09:00",
+      "source": "外為どっとコム"
+    },
     {
       "title": "【世の中の動きとお金＆マーケット】インフレと円安にどう備えるか①：為替介入の効果と限界｜コラム｜未来をはぐくむ研究所",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15bHY1VUJsNzN6Q0lSWWM5dlVHT0l2c0FlUVZyRXFsN1RZc05pTnl4bDU5elhDU0VCU2EtXzBZeF9iZU1BQ3YxWXZEc0I2RUphZ3BJanRDLVhFTHltU2c?oc=5",
@@ -35,6 +47,12 @@
       "source": "マネーフォワード"
     },
     {
+      "title": "【世の中の動きとお金＆マーケット】インフレと円安にどう備えるか②：資産形成と通貨分散｜コラム｜未来をはぐくむ研究所",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MT1NTcGxTX1VKaXNPejJ0VTFNNkU0UnlHX1dQWVhJLWF5VVY5NmxxMmNiX0FVN0RBR09jdXFlclh5X2lCU1BUU3RHT0hDNVd6SGhjT050VjREbU1mSGc?oc=5",
+      "pubDate": "2026-09-12T11:12:31+09:00",
+      "source": "am-one.co.jp"
+    },
+    {
       "title": "配当利回り6％超のオークネット…物価上昇と円安が追い風のリユース銘柄！（茂木春輝）",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IVWhIUjJkTF96cW02dGpOdnRfRkRuZEFhX1F6QkNabTd6c3NxbXVUZFFoTG15RkU3RXZrekk1Rnp4bndvUWhLaDh6aUlEZ2FFVGhqcjRWazc5Zw?oc=5",
       "pubDate": "2026-09-12T08:00:00+09:00",
@@ -45,12 +63,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVN090YU02Ql8wY1BUcFRCdUs0cVJRR3NBanhxdEg2Um1JRFFMSTdieXV1TlJmSmhQR2lXbjhuMi1wdDl5UnBhcDBiVlNtVlU4QjFQRFYxZ25kQmlxUURVNGlGQlpDbzA0M0wxZ3YyeHJZWXRL?oc=5",
       "pubDate": "2026-09-12T07:25:00+09:00",
       "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "円高へ潮の目は変わるか カギは「オフショア」に 高市政権が心すべきは国内投資活性化 田村秀男の経済正解",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92Vk52ejFIYUlkZGlULWR2dmdWZ3RHd3NmVE9nSXFwOXdjWWxTNjdpYTliLVlwU2Zfa3pYZlVtS2VJOFlEUTNGMGpwM2pvUGJ1THBxZWZnOFZVMW1ObHRWc1hUcktKTDV4bFk3YkVpdFE3b1Z1cUE?oc=5",
-      "pubDate": "2026-09-12T07:00:00+09:00",
-      "source": "産経ニュース"
     },
     {
       "title": "ドル円は米消費者物価指数後に大きく上下＝ＮＹ為替概況",
@@ -74,18 +86,6 @@
       "title": "来週の為替予想（米ドル/円）日銀が利上げしても、円が買われない理由 ハロンズFX 2026/9/12",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84SEdtcDloNWVNUm1zVTFKZG5NTUlxanNlWUVHZG4zOENRNTNMQ1BWV1drMExQbW1lazR4TElwREJvdnV3V01EUUpvNnJQSTJmRjFyZWNvODRjcHJPNk9VTkpGdw?oc=5",
       "pubDate": "2026-09-12T06:00:57+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "日米が金融政策会合 円安は限定的か、大型連休に急変動も",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Yc1BIdmlZWWZmQml6RVA4eWZadWxWWTMtaDJSRENoM0JLMnBfMTBBd2xOZDh6UkZGdDBBYlR2QmJmVWttWnBHTW1CNFZoWXlrU2xSY1F5SFJLVzUzc1pVUVh6TXRSMVNzMUF3VjBQSGN1MmVRSmJkeU5Eemo0QQ?oc=5",
-      "pubDate": "2026-09-12T05:00:00+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "【テクニカル】乖離1＝ドル円、20日線かい離はマイナス幅拡大",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MZllBcVE4Vy1JMUhjRG9UR2JHazVhbkduYVZVV0JlZXFqSGhfejRPUlhDV2xMWnF5S3I2eENKNDY2WXZ6Y185NzIwZEdDMTdsdllKRkZZdnAyY1RSTlprYTVSWQ?oc=5",
-      "pubDate": "2026-09-12T04:17:55+09:00",
       "source": "外為どっとコム"
     }
   ]
