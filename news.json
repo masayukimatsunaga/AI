@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-09-13T15:48:01+09:00",
+  "updatedAt": "2026-09-13T21:44:38+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "県内企業の景況感 ２期連続マイナス 円安や熊本地震の影響",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTUW10TUZlSE55OHJZM2J4ZlBONWpkbUpaNFJJeGpyd2l5MjJBR203VHh5OXhIS2dqZTRMc2JTU0hfWS1KOGRtUmY3ajRrajlFSHRKdV9MT3Q?oc=5",
+      "pubDate": "2026-09-13T18:31:00+09:00",
+      "source": "news.web.nhk"
+    },
+    {
+      "title": "日銀は利上げへ、上値余地探る円相場 今週の市場・予定",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzYWllSUNleUotYTViMzlqYnBMblhnU2xfai1tWkRSNE9sZEtha1FLYXR4WnhsUTdNcGZlUWhiaDBKN0ZibnRhQUpEX0tMYnJCM080WjRoMWhVQzFBRS1pTVJGdUZjcENzZ3UyVQ?oc=5",
+      "pubDate": "2026-09-13T18:00:00+09:00",
+      "source": "日本経済新聞"
+    },
     {
       "title": "韓国人の日本旅行、狙いは「マンジャロ」 格安・円安で利用者殺到…不正持ち帰りが横行",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TYm1OY1lBdndGejBZcTY1eUFFUm5LWnhPamx1RVYyUFRuQjQyR2x6MzNDaXB6QWk3T2NuNWdLQ2lQZDZPOEl6bEFvdkF1MlVkUUUxYTNqY3FyTGc4TUk0MEdQTkZjeUpOYWhoYS1hbWQyQjdhRmc?oc=5",
@@ -37,7 +49,7 @@
     {
       "title": "急速な円高は転換点か？FOMCと日銀会合、GPIF資金シフトから読む9月ドル円相場",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLRE1rdWxkb2VYZTJXdnROMGM0UzdpQlBBZzVrMVdYd1drZEN3RVkxbTZMOXFrSlJ0THAwTWVMdlMtbGdkS2drblZPdjVMdzFYbWVuNmM4cm4?oc=5",
-      "pubDate": "2026-09-12T11:33:25+09:00",
+      "pubDate": "2026-09-12T11:26:15+09:00",
       "source": "マネーフォワード"
     },
     {
@@ -75,18 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13eTRwTDkxbzJMSE9nRk5Uamc2UHhRU01DN292XzEyOW94RGNwV192X3dMQV9PNzdhektJOWFpZzlGT1NncVBNQw?oc=5",
       "pubDate": "2026-09-12T06:04:57+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "来週の為替予想（米ドル/円）日銀が利上げしても、円が買われない理由 ハロンズFX 2026/9/12",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84SEdtcDloNWVNUm1zVTFKZG5NTUlxanNlWUVHZG4zOENRNTNMQ1BWV1drMExQbW1lazR4TElwREJvdnV3V01EUUpvNnJQSTJmRjFyZWNvODRjcHJPNk9VTkpGdw?oc=5",
-      "pubDate": "2026-09-12T06:00:57+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "日米が金融政策会合 円安は限定的か、大型連休に急変動も",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Yc1BIdmlZWWZmQml6RVA4eWZadWxWWTMtaDJSRENoM0JLMnBfMTBBd2xOZDh6UkZGdDBBYlR2QmJmVWttWnBHTW1CNFZoWXlrU2xSY1F5SFJLVzUzc1pVUVh6TXRSMVNzMUF3VjBQSGN1MmVRSmJkeU5Eemo0QQ?oc=5",
-      "pubDate": "2026-09-12T05:00:00+09:00",
-      "source": "日本経済新聞"
     }
   ]
 }
