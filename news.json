@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-09-14T01:39:21+09:00",
+  "updatedAt": "2026-09-14T06:27:19+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "「外国人監督は手が届かない」「海外遠征費用も拡大」 円安が圧迫するJFAの懐事情と日本サッカーの現実",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBib1ZpMGVvNF8zazdheUR5aEZlQ1FEWUwzUDNWdG5meGw0RjBpVDBlcDY4dTIyU3FhSGpMWFd4OUpmTnZEUWJjNExBOXltR2FVbVI1Z0lWOTNCUm42cHY4?oc=5",
+      "pubDate": "2026-09-14T05:04:40+09:00",
+      "source": "デイリー新潮"
+    },
+    {
+      "title": "ベッセント氏「日銀の複数回利上げ」知る？ 円安再燃も、市場の見方",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SeWpUcFJnNkpvZXBTLTVYelRGTmw0OVo3aGZOOXdyWk15OVlZSkxabERzblJxMGE3NlFjR1lxVTNWV1RpSmJWT1lqR1l2a245cXk2ZFkwVVBObkRSa1VmMU1pdFFoVFRnUEpaOA?oc=5",
+      "pubDate": "2026-09-14T05:00:00+09:00",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "投機筋が日本円の純ロングに転換、日銀の利上げ観測で円高期待強まる",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pVXlWbERYcEpYanozZkg4M2VFZUJZVG1YTkpJUkh4eGtCcVpfY0h5cjFhTUR4bTVXbHNsQ2VtY2R4LU9YNnYyazd2ajYwWXk4NzkzSk1oOGI1bllBOWEtMUdCaFpTRnBrM3pjZg?oc=5",
+      "pubDate": "2026-09-14T03:52:26+09:00",
+      "source": "Межа. Новини України."
+    },
     {
       "title": "県内企業の景況感 ２期連続マイナス 円安や熊本地震の影響",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTUW10TUZlSE55OHJZM2J4ZlBONWpkbUpaNFJJeGpyd2l5MjJBR203VHh5OXhIS2dqZTRMc2JTU0hfWS1KOGRtUmY3ajRrajlFSHRKdV9MT3Q?oc=5",
@@ -69,24 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LY0FBbldMQWFVdXJPT3FjR1hvalNiUHJCYVh5UHROb1BUb2ZxY0dIbE9hclF3UE83V3ZuVllaX3dvd2pkaS1KYQ?oc=5",
       "pubDate": "2026-09-12T06:41:57+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ヘッジファンド、円売り持ち高を解消 急激な円高進行に",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByWHVvbm43eVZhcERBMWNNR2l5YXByRHBVc1M0TEF2N2VkSEpKUDdHUmNEbUE0NVFGUHYwbU4tbHVQQW9HcW9saElTRVdJZ0xOMkNNM1R6STdFb1hLUDNhbUczRUhRbU8xUnh0eQ?oc=5",
-      "pubDate": "2026-09-12T06:35:37+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "１１日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13eTRwTDkxbzJMSE9nRk5Uamc2UHhRU01DN292XzEyOW94RGNwV192X3dMQV9PNzdhektJOWFpZzlGT1NncVBNQw?oc=5",
-      "pubDate": "2026-09-12T06:04:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "来週の為替予想（米ドル/円）日銀が利上げしても、円が買われない理由 ハロンズFX 2026/9/12",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84SEdtcDloNWVNUm1zVTFKZG5NTUlxanNlWUVHZG4zOENRNTNMQ1BWV1drMExQbW1lazR4TElwREJvdnV3V01EUUpvNnJQSTJmRjFyZWNvODRjcHJPNk9VTkpGdw?oc=5",
-      "pubDate": "2026-09-12T06:00:57+09:00",
-      "source": "外為どっとコム"
     }
   ]
 }
