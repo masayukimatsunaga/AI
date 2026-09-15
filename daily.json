@@ -1,33 +1,52 @@
 {
-  "updatedAt": "2026-09-14T14:02:13+09:00",
+  "updatedAt": "2026-09-15T13:58:48+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "CPIでインフレ加速は確認できず FOMC控え様子見",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜CPIでインフレ加速は確認できず FOMC控え様子見」 外為どっとコム トゥデイ 2026年9月14日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/14/081357",
-    "publishedAt": "2026-09-14T08:13:57+09:00",
-    "createdAt": "2026-09-14T08:10:00+09:00",
+    "headline": "神経質な動き　FOMCの利上げに確信持てず",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜神経質な動き　FOMCの利上げに確信持てず」 外為どっとコム トゥデイ 2026年9月15日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/15/081722",
+    "publishedAt": "2026-09-15T08:17:22+09:00",
+    "createdAt": "2026-09-15T08:30:00+09:00",
     "forecastRange": {
-      "low": 152.9,
-      "high": 154.3
+      "low": 153.5,
+      "high": 154.9
     },
-    "outlook": "このところのレンジ中心の動き",
+    "outlook": "方向感が定まりにくい展開",
     "factors": [
-      "日本企業物価指数 高い伸び続く",
-      "英月次GDP 予想を上回る",
-      "米CPIは概ね予想通り"
+      "米10年債利回り 約3年ぶりの5%台",
+      "ウクライナとロシアがエネルギー停戦合意"
     ],
     "events": [
       {
-        "text": "24:15 ◎ (ユーロ圏) ラガルドECB総裁講演",
-        "importance": "high"
+        "text": "11:00 〇 (中) 8月小売売上高",
+        "importance": "medium"
+      },
+      {
+        "text": "15:00 〇 (英) 5-7月失業率（ILO方式）",
+        "importance": "medium"
+      },
+      {
+        "text": "15:00 〇 (英) 5-7月週平均賃金（除賞与、前年比）",
+        "importance": "medium"
+      },
+      {
+        "text": "15:00 〇 (英) 8月失業保険申請件数",
+        "importance": "medium"
+      },
+      {
+        "text": "15:00 〇 (英) 8月失業率",
+        "importance": "medium"
+      },
+      {
+        "text": "18:00 〇 (独) 9月ZEW景況感調査",
+        "importance": "medium"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260914/20260914080953.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260915/20260915080742.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
