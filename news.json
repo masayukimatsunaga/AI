@@ -1,93 +1,92 @@
 {
-  "updatedAt": "2026-09-15T09:59:11+09:00",
+  "updatedAt": "2026-09-15T15:11:24+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "ドル・円：持ち直してきょうの高値圏で推移｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzU2lfVEItWVZlVmFkeTdaWDg0MnEzbzN1M1gwcFBGVk1lU0hXQTJlalN1WFp3dWk3eGI5RTBCOGF4cjhjNk5DWXpiRHNMNDFJWEE?oc=5",
-      "pubDate": "2026-09-15T09:54:00+09:00",
-      "source": "zai.diamond.jp"
+      "title": "外為：1ドル154円81銭前後とドル高・円安で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnhZeklDcVkySlN3VUFDajI5X3VmTDFBMFJwZ1RtMWVNcmJ5c2U0Tm55MDgwdVZJeTByTnVpaXd0QkdUUm5PVlVYUnNud2M3Y1REYXkxUUF1M1cyS3FjdGJUZ0l2dURkZEZYQ1lXNE9pV05iVmkzc3F1U3NuN05PaXZFb2d3ZVk?oc=5",
+      "pubDate": "2026-09-15T15:01:53+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "東京為替:ドル・円は154円59銭まで上昇",
-      "link": "https://www.zaikei.co.jp/article/20260915/870037.html",
-      "pubDate": "2026-09-15T09:33:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "【為替】年内は円高143円か円安172円か",
-      "link": "https://media.monex.co.jp/articles/-/30150",
-      "pubDate": "2026-09-15T09:30:00+09:00",
-      "source": "吉田恒の為替デイリー"
-    },
-    {
-      "title": "NY金先物は3営業日続落、9月FOMCでの利上げ観測がほぼ織り込まれ売り優勢",
-      "link": "https://zai.diamond.jp/articles/-/495621",
-      "pubDate": "2026-09-15T09:21:00+09:00",
+      "title": "ドル・円は小動き、クロス円は失速｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JOEMxTVlENHg3TXZXUERHdEpNbzlXQTlEbFdWRGlvMDRRalQ1QVNmYlltVHFqUldFZk0wRFFMc2tldkZzcXYzQ0ozMjNCNDZoamc?oc=5",
+      "pubDate": "2026-09-15T14:59:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "14日はドル円が上昇",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOVdtd2xIYXpyUW8wXzBiMmdoMHpkZlZLamZFODRpWUFGU1UxQjEyX21EQVRkcWVwQ0w1Q29RLWpicnBBZW1QejduLWJ6aVFLR1A2WGtwR0xZSzFKNGxVZFZSaGwwekxrbndLRFFNYlJKWERlVnFhSWJDcUdvVnFsMFd3?oc=5",
-      "pubDate": "2026-09-15T09:17:00+09:00",
-      "source": "FOREX.com"
+      "title": "東京為替：ドル・円は変わらず、ドル買い地合いは継続(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWtXMFVtVGhMejRwbmtqMDk1Nm9rN0Q4Q0lDR1NPTmd0OUlNQ3pNY3hXcmxKTXF0ODZJNnkzRWloRjV4NUhuRDRiWENNcHpUSDRWbmktYnVVYTZESDRNd1NHN2Q3UFAzNzhiNUVKempheXdFOXNVUkNTRHFqVEVBZTZlQzUzZkk?oc=5",
+      "pubDate": "2026-09-15T14:52:16+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円理論価格 1ドル＝154.76円（前日比-0.63円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OZkstb1hPUEs4b0cyQ0tpZEhxcnN5UlVxeVhjM1A0TUJUMmhZeElBbjdjeVdudmk3Q1BFV3FHUm01MnN3Y3Bfbw?oc=5",
-      "pubDate": "2026-09-15T09:15:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "今日のFX予想：ドル円上昇も155円で跳ね返される 今日はFOMC1日目 2026/9/15",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RYlVLNWtMYlY2Tlcza0ljNjFqNC1ZX1pOWEVvR1dHcWtIR2hFNV9hOEgyYVBGLXR2WnF2S1gxLXFiZ1k4THNHakxnVlNEaFJKQW5OSGxMZHVqb0VqeS1KS2tfZw?oc=5",
-      "pubDate": "2026-09-15T09:12:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル円、下値堅い 154.51円まで上昇",
-      "link": "https://zai.diamond.jp/articles/-/495620",
-      "pubDate": "2026-09-15T09:08:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、下値堅い 154.51円まで上昇｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRZFZEMndrek9LMUZxLVlOTUtEcGJENHBaRWUtdXJNRHg4Sl9ReS1KU0xQODg2TWY2ell0em4xSTVGMVgzWXpXeENiMENCRFhUbFE?oc=5",
-      "pubDate": "2026-09-15T09:08:00+09:00",
-      "source": "zai.diamond.jp"
-    },
-    {
-      "title": "円相場、154円41~41銭 15日午前9時現在",
-      "link": "https://www.jiji.com/jc/article?k=2026091500241&g=eco",
-      "pubDate": "2026-09-15T09:07:00+09:00",
-      "source": "時事ドットコム"
-    },
-    {
-      "title": "円相場、１５４円４１～４１銭＝１５日午前９時現在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91QWg5aDhjT0VBaktyc0R6bzRVenFKR0VuLTVoVmliREd3N19pam1FNGVHQkozbzFaQmtnZHhXbkZxN3V1QzlDZ2M5TGFoaG5VbVI4RQ?oc=5",
-      "pubDate": "2026-09-15T09:07:00+09:00",
-      "source": "時事通信ニュース"
-    },
-    {
-      "title": "東京為替:ドル・円は持ち直してきょうの高値圏で推移",
-      "link": "https://www.zaikei.co.jp/article/20260915/870030.html",
-      "pubDate": "2026-09-15T09:04:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替：ドル・円は持ち直してきょうの高値圏で推移 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IeWdSa2pKb3Vmc3BfMWpXNHg3VnZOaHA3TklENExqSWVPV0h4M2RJdVVQdFNqenM0ZHBsOTRpYW5RYXV1WVl5VGczanVPbGdvaG1sdGVCNVRpdUFMSm81NkVPcWF3U1k?oc=5",
-      "pubDate": "2026-09-15T09:04:00+09:00",
+      "title": "東京為替：ドル・円は小動き、クロス円は失速 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DS3N4NDRqeFRncTUtNFFSUFRVOC1KbUY0cFBnNUlHQVdlQUhQZ1NDZ1hoOGZMWXgzWWpKUGQ2RXBWc1YtSnJNUXZQbGFFR3VfTzJwQXp3Yk1wdVhkT3k0N3EzdlRodzA?oc=5",
+      "pubDate": "2026-09-15T14:10:00+09:00",
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     },
     {
-      "title": "NY円相場が反落し154円台へ 中東情勢緊迫と米利上げ観測が重荷に",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJdG13eHBfQXR5TXVweDFUcXZTWnlZNXRINUhTZlJSaC1LMXJTT2JVbUhYbmdzUG5QY3IwMV80eV9Eb0hHY2ZIbkNiYUUzaXFiTUlz?oc=5",
-      "pubDate": "2026-09-15T09:01:32+09:00",
-      "source": "東京報道新聞"
+      "title": "外為：1ドル154円73銭前後とドル高・円安で推移",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HbzlJd1dsN3J4TldyUHhfaGM3MTJYcVFaVVcwd1gxYnF1QVkxQm0yNVNoQktnell6NFRhVklmdk5MaDhXd2EwZ2VDNjZsUUtmQ1ItLWJkMVp3dng5M0dtUg?oc=5",
+      "pubDate": "2026-09-15T14:01:02+09:00",
+      "source": "株探"
+    },
+    {
+      "title": "東京為替：ドル・円は伸び悩み、様子見ムードで 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqZHJEMjlnQm9NUjlySlZhUGFUV3YzZ3JkRXhSaXNlVTVqNGdrX21zQnZQcFQxQ2ZpaGRNRHJ2Y1hpUjZfdzFfSTcwRzBDMzl3ZGEwMTdhSFU0UnRDUi1KaHNUVlFLak0?oc=5",
+      "pubDate": "2026-09-15T13:57:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
+      "title": "ドル円154円後半で底堅く、米10年債利回り5％台乗せが支え",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OQmpZYmNSVnNEY0Jobk93TGxKSW1CUEdNai1RS2hyX3B6UEtwVWR1Q2ZsSjNqemVXelpWOTlMY3hwT0xsSHRWLWxhSkZxTkcxZ2hrTHQ2Y1ZYN1VJN0dMWkZONWtTQkJ1QTFWV005bFJtMF9G?oc=5",
+      "pubDate": "2026-09-15T13:25:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "東京為替：ドル・円は失速、ドル買い一服",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6bXZhRWNwRVdNWnM4UUtLUjBmZ2p0TTdDdDZLdFViSml1b1ZoRlRLaXhlaEFVMGtheXpQS2M4SWVNZnhzS21kODNWM1RhZGVpeWc?oc=5",
+      "pubDate": "2026-09-15T13:08:09+09:00",
+      "source": "株探"
+    },
+    {
+      "title": "東京為替：ドル・円は失速、ドル買い一服 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kMENObGdCQ2ZLN09zNzNROEJjVG9uVXA0STdNRnBzUFdXM1JZV3Q5ZEVsZjRRWUU3VlZqZGF0TXZIbUR5ODJEVFVidGYtNHdDN3pxekhfNFN1ZnBiYVoxRmRtNGRyXzQ?oc=5",
+      "pubDate": "2026-09-15T13:08:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
+      "title": "外為：1ドル154円64銭前後とドル高・円安で推移",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qcGVyRV85QkRlM0h4NTNRRmd3UFRJN3RPTDMzVzFiU0FiYzZEdk9maGZWalhQaUdYWjlGLVRCNXFMSzctTWRSTHBiNlBobDJKZWV3RGRwUWpWQnh4ekFRQg?oc=5",
+      "pubDate": "2026-09-15T13:01:02+09:00",
+      "source": "株探"
+    },
+    {
+      "title": "テクニカルポイント ドル円 5日線を回復しており、戻り歩調で推移か",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSXFROEh4YTl2MUM2c000bGsyREdQSERBNVNqdGtOLThoMzhHLU5vMDU2N05ZLXlfVlY3SUVZSzdvWkxSTGhWOQ?oc=5",
+      "pubDate": "2026-09-15T13:00:57+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル・円：ドル・円はしっかり、米金利高でドル買い｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WZTJGQ2luTVVEVkFVekl5cDBDTUxrd1A2cTE0dHpEeXdLUC05eGFVa1M1M2tYX0lCWGFvU1pPa2FxOUdwVWJJVW9rVVZ1OXJ3d1E?oc=5",
+      "pubDate": "2026-09-15T12:41:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "東京為替：ドル・円はしっかり、米金利高でドル買い(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLXZ4WmxQRXZrUm56WlJBMHVOX2lPSUhkdV9KYzNMOVZBZTE0ZnFoUTh3eFFxbEh1M1RWMzhZUEt3QklfTExmRHNweWRiU241TXRFd21uajktYnk3UFFld0t3XzU4eEVtbjVyRjJaTnI4ajdRcXlaQ2FocnU0ZXpYZlJBR0UxOUE?oc=5",
+      "pubDate": "2026-09-15T12:17:28+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京為替：ドル・円はしっかり、米金利高でドル買い 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tZWdDWmhiWjc3YlZVMzVkVngxbjFxNDhLMThOY0h5Q2VPeVBUYkVsVGkwUEtOYmU3UmY3V1RFenpaNXFMVzdqRzBzS2x4T2kta3JHdHdZVG5kNENqY0FKNkpyV25aOGM?oc=5",
+      "pubDate": "2026-09-15T12:17:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     }
   ]
 }
