@@ -1,52 +1,49 @@
 {
-  "updatedAt": "2026-09-15T13:58:48+09:00",
+  "updatedAt": "2026-09-16T13:54:15+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "神経質な動き　FOMCの利上げに確信持てず",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜神経質な動き　FOMCの利上げに確信持てず」 外為どっとコム トゥデイ 2026年9月15日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/15/081722",
-    "publishedAt": "2026-09-15T08:17:22+09:00",
-    "createdAt": "2026-09-15T08:30:00+09:00",
+    "headline": "注目のFOMC 期待通りのタカ派的内容となるか",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜注目のFOMC 期待通りのタカ派的内容となるか」 外為どっとコム トゥデイ 2026年9月16日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/16/083117",
+    "publishedAt": "2026-09-16T08:31:17+09:00",
+    "createdAt": "2026-09-16T08:30:00+09:00",
     "forecastRange": {
-      "low": 153.5,
-      "high": 154.9
+      "low": 153.6,
+      "high": 156.6
     },
-    "outlook": "方向感が定まりにくい展開",
+    "outlook": "上下どちらも大きく動く可能性",
     "factors": [
-      "米10年債利回り 約3年ぶりの5%台",
-      "ウクライナとロシアがエネルギー停戦合意"
+      "中国鉱工業生産 予想を上回る",
+      "日本政府 防衛費引き上げ検討報道",
+      "英ILO失業率 前月から横ばい"
     ],
     "events": [
       {
-        "text": "11:00 〇 (中) 8月小売売上高",
+        "text": "15:00 〇 (英) 8月消費者物価指数",
         "importance": "medium"
       },
       {
-        "text": "15:00 〇 (英) 5-7月失業率（ILO方式）",
-        "importance": "medium"
+        "text": "21:30 ◎ (米) 8月小売売上高",
+        "importance": "high"
       },
       {
-        "text": "15:00 〇 (英) 5-7月週平均賃金（除賞与、前年比）",
-        "importance": "medium"
+        "text": "27:00 ◎ (米) FOMC政策金利",
+        "importance": "high"
       },
       {
-        "text": "15:00 〇 (英) 8月失業保険申請件数",
-        "importance": "medium"
+        "text": "27:00 ◎ (米) FOMC経済・政策見通し",
+        "importance": "high"
       },
       {
-        "text": "15:00 〇 (英) 8月失業率",
-        "importance": "medium"
-      },
-      {
-        "text": "18:00 〇 (独) 9月ZEW景況感調査",
-        "importance": "medium"
+        "text": "27:30 ◎ (米) ウォーシュFRB議長講演",
+        "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260915/20260915080742.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260916/20260916082348.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
