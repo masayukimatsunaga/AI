@@ -1,49 +1,53 @@
 {
-  "updatedAt": "2026-09-16T13:54:15+09:00",
+  "updatedAt": "2026-09-17T13:57:23+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "注目のFOMC 期待通りのタカ派的内容となるか",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜注目のFOMC 期待通りのタカ派的内容となるか」 外為どっとコム トゥデイ 2026年9月16日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/16/083117",
-    "publishedAt": "2026-09-16T08:31:17+09:00",
-    "createdAt": "2026-09-16T08:30:00+09:00",
+    "headline": "156円台　円安再燃のリスク　焦点は日銀に",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜156円台　円安再燃のリスク　焦点は日銀に」 外為どっとコム トゥデイ 2026年9月17日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/17/081813",
+    "publishedAt": "2026-09-17T08:18:13+09:00",
+    "createdAt": "2026-09-17T08:10:00+09:00",
     "forecastRange": {
-      "low": 153.6,
-      "high": 156.6
+      "low": 155.5,
+      "high": 157.0
     },
-    "outlook": "上下どちらも大きく動く可能性",
+    "outlook": "円安修正の局面はすでに終了した可能性",
     "factors": [
-      "中国鉱工業生産 予想を上回る",
-      "日本政府 防衛費引き上げ検討報道",
-      "英ILO失業率 前月から横ばい"
+      "英CPI 伸びが加速",
+      "米小売売上高 予想を大幅に上回る",
+      "FOMC 全会一致で利上げ決定"
     ],
     "events": [
       {
-        "text": "15:00 〇 (英) 8月消費者物価指数",
+        "text": "20:00 ◎ (英) BOE政策金利",
+        "importance": "high"
+      },
+      {
+        "text": "20:00 ◎ (英) MPC議事録",
+        "importance": "high"
+      },
+      {
+        "text": "20:30 ◎ (英) ベイリーBOE総裁講演",
+        "importance": "high"
+      },
+      {
+        "text": "21:30 〇 (米) 新規失業保険申請件数",
         "importance": "medium"
       },
       {
-        "text": "21:30 ◎ (米) 8月小売売上高",
-        "importance": "high"
+        "text": "08:30 〇 (日) 8月全国消費者物価指数",
+        "importance": "medium"
       },
       {
-        "text": "27:00 ◎ (米) FOMC政策金利",
-        "importance": "high"
-      },
-      {
-        "text": "27:00 ◎ (米) FOMC経済・政策見通し",
-        "importance": "high"
-      },
-      {
-        "text": "27:30 ◎ (米) ウォーシュFRB議長講演",
+        "text": "08:30 ◎ (豪) ブロックRBA総裁講演",
         "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260916/20260916082348.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260917/20260917081756.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
