@@ -1,9 +1,75 @@
 {
-  "updatedAt": "2026-09-18T05:21:16+09:00",
+  "updatedAt": "2026-09-18T08:07:43+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "外為：1ドル155円95銭前後とドル高・円安で推移",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1feXlnWm5aVFVwV0FVamNyTHdlZDg3ZUpYMjdVM01zNnlUTVh0ak0zMDBaRFIyZlBGZ2VoellRd0FsMTRvV3NlQVJlckhFOU5HMXZDTldIZUtjMXBLU3dJQV9B?oc=5",
+      "pubDate": "2026-09-18T08:01:01+09:00",
+      "source": "株探"
+    },
+    {
+      "title": "東京為替見通し＝ドル円、日銀会合や植田日銀総裁会見でのタカ派度合いに要注目か",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mQ1lnMUd6ZEdaTmhJQkhEOTlheVRPVmFxWXJmbDFhekM1eHp2NGptOEpFQnhua0lJQUJoWkM2UjZzeUNJNGE4bzRXd2wxQTl1S2c?oc=5",
+      "pubDate": "2026-09-18T08:00:00+09:00",
+      "source": "zai.diamond.jp"
+    },
+    {
+      "title": "ドル円午前の為替予想、注目の日銀金融政策決定会合後 植田総裁はタカ派姿勢を示せるか 2026/9/18",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YcGlmTEJ3QTFWcGt2dF9tbXJqZUhMeXJzcW1ael9fcUNDVnd4WDZkUWV0eC11VzZlZFV1QTgySU5QY3RINWVmZjhsY3ZCSUhZa3ZRYmVJWmREWGU5eDNLYXEyUQ?oc=5",
+      "pubDate": "2026-09-18T07:48:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ひろゆき氏「『円安ホクホク』で一兆円の大赤字。アホちゃう？」8月の1兆1056億円の貿易赤字に私見（スポニチアネックス）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83M0tkRGhVaFJKUk16ci1PTElybXB5ZEQ2d1NRQ2JnUTE1WUZmNWxGUEV5c1pURlRsZnR6QXhRdE1WbGYzZk0xdXpwSGdlczZkWWREYnRPU0Eyb19aLUhLc0tBZ0N0Ny1YYTdUMGtaWjZNUl9VVF8zc3NGM2llbU0?oc=5",
+      "pubDate": "2026-09-18T07:18:04+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "「長期金利3％」到達が引き起こす「円高→株安」の波及と世界が警戒する「資金の大逆流」（デイリー新潮）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50S0ZuNENFelZPQXBQZWVmdTE0WXJzM1lVUS1EN2N5a0phcGR2TTl6aENMNmVYS3REeEtYal9HazRzSml3dmxQYVgzcFdxaUdOTkdxMmpQd01JeEh3NlN6S1VWZ2xZbjUzeWJreEJVOUxRaEFaOWZNTkZZS0dvZFE?oc=5",
+      "pubDate": "2026-09-18T07:17:07+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し 2026年9月18日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ucUp5TFZZSGdPZUhZendFalA2Z2F1SkdYT1JhRVUxTnAyekEybnhRdENieDBzQjdTTG1Mdjl6VXUtN3c2d1VFTDNhcFktSEszYlBVLXNrUXcxalN4d1FtRnlHZw?oc=5",
+      "pubDate": "2026-09-18T07:06:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "１７日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zOWMtWkszSVhIUHo2akQwTUtHM0JLVXdNSUJSM3Zua0hwQWhPSlBOSW43TWl5TlRRWWlydWpwV1JUZjVxel9HYg?oc=5",
+      "pubDate": "2026-09-18T06:20:57+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "本日、日銀は追加利上げか──円高は再開するのか、FOMC後のビットコインを待つ「二重の価格変動」【エックスウィン】",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2YmVtQy1fN2tubVlkWlhpem9nRi1ETEpSQ2dYSXZKUnVmV0JjMF91c2VXWGhtdVBRb2xnWS1JUG84Q2czS2JhaUNlQzY0NUVGQUlJcGhZOTV6cURBSk1RMjZWeU5GM2pCOUZJX3RtUzFFdHFOUzVaTGdaMHdCNXc?oc=5",
+      "pubDate": "2026-09-18T06:05:17+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・17日 ドル円、4日ぶり反落｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYOHRDVjlqQS1QQnJHRmFEZkFPMkpDcldtUGFieXNXbjJQTUplR1VHS2ZYbTZrYzBtZ3lRMFYwa3pUTm5nOHZ6Q3JrbVNqck9pNHc?oc=5",
+      "pubDate": "2026-09-18T06:03:00+09:00",
+      "source": "zai.diamond.jp"
+    },
+    {
+      "title": "【為替見通し】日米金融政策を踏まえたドル円相場",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CVndGUGFFZ1F0VVBJRnpUVHhKSDJvUllFNzFtN0tKdlN1QjlnQkRGZURORWVMQnZ3ZmdwTHUtVFhkaURzNUdaakV1Sy15RnI1RVZ2eHdxQzFUMFhnWHB0Mw?oc=5",
+      "pubDate": "2026-09-18T05:45:00+09:00",
+      "source": "テレ東BIZ"
+    },
+    {
+      "title": "ドル円、原油にらみで下に往って来いの展開 明日は日銀会合＝ＮＹ為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YQ3BsMG51MElQZklYYnJfNk5USHlxektVWlVVd05CNmhKeVVybGJjcjdHQW5ZclBicU1vOXZ2MnhVWFBHZGwySA?oc=5",
+      "pubDate": "2026-09-18T05:40:57+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "円安是正、政策変化に注目",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByZVpJcHNvSGVUSk5iS0tVQjlLR0ZLb25aTFBGZ1FqcGVrMlVrVzY5VFFGMEdHMmE5ZFJ0QnFROEp3a1NKSndxMDIyUUNfV0pBbFl1WHVvc1Y?oc=5",
@@ -20,73 +86,7 @@
       "title": "ニューヨーク外国為替市場概況･4時 ドル円、動意落ち着く｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xT044dldCek9EUDM5c1EyQTdyVXVsbEFCSHdBUUF1d1Z3WDFPY0lqWElyckJ3RldqN2VDVlJyRldHckhxc2Q5WE8xby1lTnhMOUE?oc=5",
       "pubDate": "2026-09-18T04:05:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、１５６円台に買い戻される＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHRVh2WjFCUEp4MFhaMV9yemN1R3gyWmdaNEJaV3ZsdkR2QnNkZkRWaHJQeWZRQzJvRlQteW1wZnFEMS1QNF9jaQ?oc=5",
-      "pubDate": "2026-09-18T02:35:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円、１５５円台に値を落とす 明日の日銀会合の重要性が一段と高まる＝ＮＹ為替序盤 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NaXhOS2ZleU44QzFwY203c3JtWmhkZ194N3p0YjdMZkZuR3hYV0VoSHE2VERlWDBZZHhMdERZU1lNSFRHMDhfNw?oc=5",
-      "pubDate": "2026-09-17T22:29:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、下げ渋り｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLeFF0RGVIVEl4Qy1RTXlNNlRVN2VuMHBFOFIxb2tlOE9HNVFOS2RyNHIwMV93S2JOcUlvWXl2R2J6Qk83eFlHRkdxSnRzZWkxVUE?oc=5",
-      "pubDate": "2026-09-17T22:09:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル売り広がる、ドル円一時１５５．３６レベル＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwMnFWOXhBaUJILTFfOEluYlVJUU01bjdmYm85d0dnaWs5TmNJWUxTaUtSaDAxNVlrNmlaUlZZMWFqZ3lERjdpcw?oc=5",
-      "pubDate": "2026-09-17T21:24:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州外国為替市場概況・20時 ドル円、上値が重い｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tMEpaTHZNRzRVNUdvQWZRb1poWGlWby1sOEZuamNMMEl1czFJcXptbkpLRGppWDJGVTNUa3BHSTh1a1lBZTlpdG9tLVUzNEtwVGc?oc=5",
-      "pubDate": "2026-09-17T20:07:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "FX実践解説、9月FOMC後「ドル円投資戦略」、トルコ金融市場に歪み（2026年9月17日）",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92ekR4RnlMWDBFOUp1OTBkaS1aNDlhTTl2VHFnM1drbExib2cxN1hqdEh1dzE0V2RucWhaZFJFTVp4MG1GVmFIZ0lKR2wxeTdxZWJ1MUwxcWcyVHdKVURxLXR5dw?oc=5",
-      "pubDate": "2026-09-17T20:00:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "円相場 アメリカの利上げ発表を受けて値下がり",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FNWJEYUVoelJsSnZqS2dQV3gycXJhTV9nZVVzY1g0cXhTdEx1WUFVd3RGTmE3QUUzMGh2WDVBd29BWFJ1NXotT0xTNWppTW9mRmZKcmVSTkpTaDBtQ2gw?oc=5",
-      "pubDate": "2026-09-17T19:40:48+09:00",
-      "source": "NHKニュース"
-    },
-    {
-      "title": "【ドル/円、今夜の見通し】ドル/円、日銀利上げでも円安は止められない？注目ポイントを徹底解説＿2026/9/17",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBISi1xbnFFVGJDeWZnalp2UzRjSktseTRYQWNrc0tucWYxN0h2RVlsZ3dFVnp3TG5oWlBVTHdIdkN5SGVWS0loRFVvR2djb0xCNF9CYV9qRXBIMlpHZzBXcjR2SQ?oc=5",
-      "pubDate": "2026-09-17T19:38:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "円安進行、一時1ドル＝156円台前半 FRB利上げ継続観測で",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82ZVVTLU5ZdXVRaEFvcHM5QmsyVmhzXzZQU2lJX0QySEFsWWRab09uRE1YMnFXcGUyRkpIVk9OclpRWXV6aHIzZ3VxVzZWd256eE1UZ0FHVndXUk9mbm56LVctWGVOTWIx?oc=5",
-      "pubDate": "2026-09-17T19:29:38+09:00",
-      "source": "毎日新聞"
-    },
-    {
-      "title": "欧米為替：ドル・円は失速、日銀の利上げ継続姿勢を警戒 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tM19ibmlHVGFlY3c5WGtoR3QzNG52clZyUUdkSVBYUFhkSGRRTDNFN1c0T3ZfN3hDYzNXVFh6cjVVTXV4V2ljcDBqYzE3Z3pBVDJSekY0SUFvZ3B4TzZUcWJWbjNYV2c?oc=5",
-      "pubDate": "2026-09-17T19:15:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "ドル円、クロス円の上値重い ドル円一時１５５．６０付近＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DZDlPZzBrbWpMNEFqc2E0SEtWV2c4OWIxQ2VmTnhvZG12MWdkVVo3LV9hS0ttcXVGSHcxeEFJNXBwT2FuV2tzLQ?oc=5",
-      "pubDate": "2026-09-17T18:37:57+09:00",
-      "source": "みんかぶ FX/為替"
+      "source": "zai.diamond.jp"
     }
   ]
 }
