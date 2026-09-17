@@ -1,9 +1,33 @@
 {
-  "updatedAt": "2026-09-18T02:02:58+09:00",
+  "updatedAt": "2026-09-18T05:21:16+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "円安是正、政策変化に注目",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByZVpJcHNvSGVUSk5iS0tVQjlLR0ZLb25aTFBGZ1FqcGVrMlVrVzY5VFFGMEdHMmE5ZFJ0QnFROEp3a1NKSndxMDIyUUNfV0pBbFl1WHVvc1Y?oc=5",
+      "pubDate": "2026-09-18T05:00:00+09:00",
+      "source": "日刊工業新聞"
+    },
+    {
+      "title": "日銀「9月利上げ」で政策金利1.25％へ、金利正常化加速でも“円安修正”は進まず",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrY1djZzVxWkJRTnlJSUpwSnpmRXRfU3dsOTBQLXBySXF0NmV3YXh2Vk05ZTI1VHhBNDVsUlZ5Vmw5NmZ3SEp0VUJsMDfSAU9BVV95cUxQdnY4U3hoT09qSDZFRVQ0SDRxaU9janFYc1FkZVVHVU1WMHFUR3ctaFF5S1RJbGtBTHM2Z3lKWVRfX00zLVNObTYyeGt4TGZZ?oc=5",
+      "pubDate": "2026-09-18T04:20:00+09:00",
+      "source": "ダイヤモンド・オンライン"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円、動意落ち着く｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xT044dldCek9EUDM5c1EyQTdyVXVsbEFCSHdBUUF1d1Z3WDFPY0lqWElyckJ3RldqN2VDVlJyRldHckhxc2Q5WE8xby1lTnhMOUE?oc=5",
+      "pubDate": "2026-09-18T04:05:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、１５６円台に買い戻される＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHRVh2WjFCUEp4MFhaMV9yemN1R3gyWmdaNEJaV3ZsdkR2QnNkZkRWaHJQeWZRQzJvRlQteW1wZnFEMS1QNF9jaQ?oc=5",
+      "pubDate": "2026-09-18T02:35:57+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "ドル円、１５５円台に値を落とす 明日の日銀会合の重要性が一段と高まる＝ＮＹ為替序盤 -",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NaXhOS2ZleU44QzFwY203c3JtWmhkZ194N3p0YjdMZkZuR3hYV0VoSHE2VERlWDBZZHhMdERZU1lNSFRHMDhfNw?oc=5",
@@ -50,7 +74,7 @@
       "title": "円安進行、一時1ドル＝156円台前半 FRB利上げ継続観測で",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82ZVVTLU5ZdXVRaEFvcHM5QmsyVmhzXzZQU2lJX0QySEFsWWRab09uRE1YMnFXcGUyRkpIVk9OclpRWXV6aHIzZ3VxVzZWd256eE1UZ0FHVndXUk9mbm56LVctWGVOTWIx?oc=5",
       "pubDate": "2026-09-17T19:29:38+09:00",
-      "source": "mainichi.jp"
+      "source": "毎日新聞"
     },
     {
       "title": "欧米為替：ドル・円は失速、日銀の利上げ継続姿勢を警戒 執筆： Fisco",
@@ -59,34 +83,10 @@
       "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     },
     {
-      "title": "ドル・円は反発、155円80銭台へ値を戻す｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GS2FHT1BrX0Q2TldqQ1lvNWhDMk5HYmRIaF9aNVZ3Rmlfa2pIZXltOFozWkZzajd4TTlZYklfTzFkOWEwemRyRnBuMG41aWJpeEE?oc=5",
-      "pubDate": "2026-09-17T19:13:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "ドル円、クロス円の上値重い ドル円一時１５５．６０付近＝ロンドン為替",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DZDlPZzBrbWpMNEFqc2E0SEtWV2c4OWIxQ2VmTnhvZG12MWdkVVo3LV9hS0ttcXVGSHcxeEFJNXBwT2FuV2tzLQ?oc=5",
       "pubDate": "2026-09-17T18:37:57+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "コラム：ドル／円の昨年高値更新に現実味、中立金利や介入効果に注目＝内田稔氏",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzJlYnB0XzRUU2R2YlhqYXJCM01EclExMlhDM1pJcmJDbmdjWGFGckRZckoySFNEaTlxTnhtZE5vQzVPczZ3Z19rcl9mdlBaZjNSbzlDanlkcVNfVjI4LUxEZkpnRlh0OTRiRy1aSEdCU01oaFAzOXJZMGlGaEtORWdGZDZMZW9zTHZOMg?oc=5",
-      "pubDate": "2026-09-17T18:34:50+09:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "日経平均株価続伸 FOMC通過・円高一服で輸出関連などプライム8割上昇【日経CNBC/きょうのポイント、明日のヒント】",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90a3BlTXBUc0Nna1A0YTgxR1Z0am9NTWZkUW5TaUZ1Yno5M2M2b2pGWU9SNVBFQW5nLTJGc1hCZlRQVFphWFdZZDhqVG55TUNISWFOODZZX3o2b2ZKZ041RTRDa0pOaVk?oc=5",
-      "pubDate": "2026-09-17T18:00:00+09:00",
-      "source": "テレ東BIZ"
-    },
-    {
-      "title": "東京為替概況：ドル・円は下げ渋り、夕方はやや値を戻す｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RYkF6Vi1sSnRlV3FjY0UtUlp2b0pxUGlKWW5uV0VzTWd1X0dOTnY4UklpN21SbGRQTDVQa1hCZGVZTlY2S2s1LXcyc2gyZDJkRUE?oc=5",
-      "pubDate": "2026-09-17T17:43:00+09:00",
-      "source": "ザイFX！"
     }
   ]
 }
