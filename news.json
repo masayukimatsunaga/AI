@@ -1,10 +1,51 @@
 {
-  "updatedAt": "2026-09-19T04:13:25+09:00",
+  "updatedAt": "2026-09-19T06:43:45+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "１８日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PUVlKT0dVelotbEg2SFRJMHMxVW9ocldOZjlWQUZlWm43S200LTFGR3l6UThRY0owM09vTHUzRmZOc3N0UkNBMw?oc=5",
+      "pubDate": "2026-09-19T06:20:57+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "来週の為替予想（米ドル/円）日銀利上げなのになぜか円安、植田会見後のドル円 次の節目は159円台 ハロンズFX 2026/9/19",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mUUpNOGd0ZVJzUU1LWFhtUFZyQ29fbDJCSV9ROEk4TjJ6M0Vfdkd5WTlxVi1iakVYcXk4SE5UVE9mUE9mVWdyaWk2UDJCblFNSmg3djlLTG9abFozcE9iRHR4MA?oc=5",
+      "pubDate": "2026-09-19T06:03:54+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・18日 ドル円、反発(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVUs0NXZfMGgydXg2aS1wQlozZV9kRjJRVklGSmM4TFk1N0QzN1JYMVFGcUNUSzNndEZlNXliTDlEZnhicHRLQTZiM3diTU5CeE1oU2ZGT0dqUjItOVpBc2F6V1A0OFVtWGZoWXp3dHNWR1dsN003cFBXVElHSDRhQXYyc0pYVkU?oc=5",
+      "pubDate": "2026-09-19T06:03:48+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "円が急速に買い戻されドル円は１５６円台に下落 日銀がレートチェック＝ＮＹ為替概況 -",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91QW5jTGFHTU41LXJHcEo0MUc0VlZZaVk5UXUyVEQxRGdiWGUwVjN1a1RQX3liY19ieWpvTDV2TmEzdDhoWVFYbQ?oc=5",
+      "pubDate": "2026-09-19T05:40:57+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "円相場は一時1円以上円高方向に 日銀が“為替介入の準備段階”レートチェック実施か",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HYm1iRnlmQUh3eWpMSHZEbFRwZzNLcEpHZDFvaGJDVXp6UDQ5b1JVcUxTbUtYTlRfQjk0STkxVGVhb2VYeXZWVndwVXFOYUo5WkUzMjNLMA?oc=5",
+      "pubDate": "2026-09-19T05:37:23+09:00",
+      "source": "TBS NEWS DIG"
+    },
+    {
+      "title": "［スキャナー］利上げ、最短間隔 日銀会合…緩和後 原油高・円安傾向で 植田総裁「政策の局面が変化」",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NS0JHUDcwaXFEcVNGTGRrVUNSNW15U3FxVVF5bVo3NmUtVUtFSzhnY2t0dHpmS0pNODBJX1JLM3lXa3JhRjZVbFVhWEkwZFM1bTdDMnd2Q3JuWWU3SDM2RGxrNUI?oc=5",
+      "pubDate": "2026-09-19T05:00:00+09:00",
+      "source": "読売新聞"
+    },
+    {
+      "title": "日銀利上げ後に「レートチェック」観測 円安急収束で市場は介入警戒",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIWWlRcTh2dU1SZHZYRzBsdVNfaXRJbGVySG1Ec2ZvUDFKSEp6YVpfNG1wUFFwVTJlS1dMRFdaRFpINy10ZGNRS3dkcUZxVFlrbmxNNzl5SWFjaDFTSWRrLWpjTVBxZHYyRjBZR1JXbTZLa0tZ?oc=5",
+      "pubDate": "2026-09-19T04:55:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
     {
       "title": "ニューヨーク外国為替市場概況･4時 ドル円、上値重い｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ndXJ0Z0x0VV81OGlxYlUyTHctQzBKR1ZLMzdzbXZEOGE0Yy1sZFo4YmZqdE9jcEhNc0paUjVVdlJUd01CX2lHME5Rb19kZkU2R0E?oc=5",
@@ -16,6 +57,12 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ydFlHS25pNzhPMjFEX3l3d2VvWGwzdEFMX1NIT0R3bmhocVotTjhCRkV2N3JrOXYtTkFlSWhTSUFzb1hRVVZYWTNDZzBMTXJRdDdhVGdKbHpQRHBWSXc?oc=5",
       "pubDate": "2026-09-19T04:00:00+09:00",
       "source": "沖縄タイムス社"
+    },
+    {
+      "title": "31年ぶり政策金利「1.25％」に 日銀・植田総裁は「物価の上振れリスク」を強調 9人中2人利上げに「反対」 逆に“円安進行”【news23】",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ENDBsR1NibG12SGx6dy1hSzkyVEZPeEE2LUxhZDZ1ekJCeUwyWGJjV1Y1T3NtWDN4d0t4UVBheVRuOV9va0VEUTROTDUxR2JDN0hGS3dQdw?oc=5",
+      "pubDate": "2026-09-19T03:23:22+09:00",
+      "source": "TBS NEWS DIG"
     },
     {
       "title": "円相場急騰、一時156円台後半 政府日銀がレートチェック実施 円安再加速をけん制",
@@ -40,54 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kR29BUmd5aG5JTllxM3B4QW5pMVYtYTZ6UUwyOUMwUGRUY2hGT0tFN3VObWtIaW5VUWphNThMdjNoNVI5UGtVbXRyTHlpeUt6OHJCZTlSWVZzX2tpeklmNEFSRE40dWpVNko2YUo2YmkzdG1RYlZXeElVWUFYdw?oc=5",
       "pubDate": "2026-09-19T02:30:52+09:00",
       "source": "Reuters"
-    },
-    {
-      "title": "円安再燃で市場に「警戒信号」 日銀利上げも構造要因残る＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UWEJrY3N4S09YWFR1MDktWGQ0eUZmai1ZZlFpbkgyZkhrV3BuTUtwazFUbmJXOW4xZElVc0tyQjVIRXgwRnpPRA?oc=5",
-      "pubDate": "2026-09-19T02:24:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･2時 ドル円、重い動きが続く",
-      "link": "https://zai.diamond.jp/articles/-/495925",
-      "pubDate": "2026-09-19T02:05:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "NY外為:ユーロ売り加速、ECBの追加利上げ観測後退、ラガルド総裁は来年退任へ",
-      "link": "https://zai.diamond.jp/articles/-/495923",
-      "pubDate": "2026-09-19T01:40:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【速報】ドル・円157円割れ、156.75円まで、介入警戒感",
-      "link": "https://zai.diamond.jp/articles/-/495921",
-      "pubDate": "2026-09-19T00:54:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【速報】急速に円高 日銀がレートチェックか 一時1ドル156円台後半（TBS NEWS DIG Powered by JNN）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NdmtzUF9nVEktT0FabTJkWVFUbmVicW0zamlHZWRCU2Y1OG4taC13ei10c05Bb1Y1U2NZN21jMW1jSS1XaW9KdkgtOUh0YXB3T1hkT0dQMkF4ZFFGTThCWi1EaXRsTjVlcUdBVmpzQVlwd0lyaEN2QVA4LVJ2OU0?oc=5",
-      "pubDate": "2026-09-19T00:50:01+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "【速報】急速に円高 レートチェックか 1ドル＝156円台",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92d1ViUVZSdHJjT2pyV1RqZDFOT204VDRpUzlHQmdkb1ZLelo1N1VXM2FfMnlvX29SSUZ2NVoySFh2MkE4NHlRTDNNcGFiUWdsb0dNdEpVYw?oc=5",
-      "pubDate": "2026-09-19T00:49:24+09:00",
-      "source": "TBS NEWS DIG"
-    },
-    {
-      "title": "日銀がレートチェック 円相場が急騰、一時156円台後半",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4WHJ5ckhZR0oyaDRLZFZBd2lBeWdWVnVnVld3VE9rekdiRnRfLUxGbWlVUzJFbDhwRE83d01KV1hjYXJEWG5xSkt0Q0tnaFdXbEY5MzF3OWk0MFBNZnVMaUxPREZNN2RuZ1pDeg?oc=5",
-      "pubDate": "2026-09-19T00:42:39+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "ドル円が１５６円台に急速に下落 ただ、短期的な円安期待も＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3Z1hzWVFNQ05uN3ZYQmZjYS1XX1YydjlvenlzN2kzQl9rdFRISXAzME5HQ1VGQll0eWRFY202S1NqRDdPdlJMaw?oc=5",
-      "pubDate": "2026-09-19T00:21:57+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
