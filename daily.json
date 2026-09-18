@@ -1,53 +1,41 @@
 {
-  "updatedAt": "2026-09-17T13:57:23+09:00",
+  "updatedAt": "2026-09-18T13:49:34+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "156円台　円安再燃のリスク　焦点は日銀に",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜156円台　円安再燃のリスク　焦点は日銀に」 外為どっとコム トゥデイ 2026年9月17日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/17/081813",
-    "publishedAt": "2026-09-17T08:18:13+09:00",
-    "createdAt": "2026-09-17T08:10:00+09:00",
+    "headline": "注目の日銀金融政策決定会合後 植田総裁はタカ派姿勢を示せるか",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜注目の日銀金融政策決定会合後 植田総裁はタカ派姿勢を示せるか」 外為どっとコム トゥデイ 2026年9月18日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/18/081333",
+    "publishedAt": "2026-09-18T08:13:33+09:00",
+    "createdAt": "2026-09-18T08:10:00+09:00",
     "forecastRange": {
-      "low": 155.5,
-      "high": 157.0
+      "low": 154.8,
+      "high": 157.5
     },
-    "outlook": "円安修正の局面はすでに終了した可能性",
+    "outlook": "タカ派姿勢示さなければ円安加速",
     "factors": [
-      "英CPI 伸びが加速",
-      "米小売売上高 予想を大幅に上回る",
-      "FOMC 全会一致で利上げ決定"
+      "高市首相会見",
+      "BOE 予想通り政策金利を据え置く",
+      "米新規失業保険申請件数 予想を下回る"
     ],
     "events": [
       {
-        "text": "20:00 ◎ (英) BOE政策金利",
+        "text": "－ ◎ (日) 日銀金融政策決定会合",
         "importance": "high"
       },
       {
-        "text": "20:00 ◎ (英) MPC議事録",
+        "text": "15:30 ◎ (日) 植田日銀総裁講演",
         "importance": "high"
       },
       {
-        "text": "20:30 ◎ (英) ベイリーBOE総裁講演",
-        "importance": "high"
-      },
-      {
-        "text": "21:30 〇 (米) 新規失業保険申請件数",
-        "importance": "medium"
-      },
-      {
-        "text": "08:30 〇 (日) 8月全国消費者物価指数",
-        "importance": "medium"
-      },
-      {
-        "text": "08:30 ◎ (豪) ブロックRBA総裁講演",
+        "text": "19:30 ◎ (ユーロ圏) ラガルドECB総裁講演",
         "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260917/20260917081756.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260918/20260918081020.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
