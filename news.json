@@ -1,14 +1,20 @@
 {
-  "updatedAt": "2026-09-20T03:03:50+09:00",
+  "updatedAt": "2026-09-20T05:44:24+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "日銀利上げ 円安が再燃する恐れ、欧米に追随 物価高と不況、同時進行も",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lcXVKcEhRZkI0ekJvZUwzaUZrdXJRWUF1dE8yX01HeWh2NktXNjh5V2lJRC1XcmZscURiWmwtY1kydldudFlFOUFkcjczbDhjN0ptTk9NX1BqQQ?oc=5",
-      "pubDate": "2026-09-19T19:08:56+09:00",
-      "source": "chugoku-np.co.jp"
+      "title": "政府日銀がレートチェック １５６円台に急騰 円安再加速をけん制",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPUlpyYmhUdWNzMW5HNFpBVEFMc3p4QUtMMm5GQy1wNUpzZGFvM3NSOGwyd1o4SVBzNklPWW9LclYzZUI2SkNXVXRjZnpOUXFTSlYya05GWEZmdVhmeEE?oc=5",
+      "pubDate": "2026-09-20T05:00:00+09:00",
+      "source": "fukuishimbun.co.jp"
+    },
+    {
+      "title": "日銀、市場の不意突き円安抑制 連休前にレートチェック",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjVV9OMzg0Q2VmWGtjajJjZ1FEbkp1MEh3V2RkOVlURE11S0RjanhKallsQldRTVdzeE8tamNVN1dhNTkyODhfTUxrd3p2ZlF1SzZHSGJGbVBlbjduSmpzc2IyY1VpUlRlVGtPcg?oc=5",
+      "pubDate": "2026-09-20T02:00:00+09:00",
+      "source": "nikkei.com"
     },
     {
       "title": "年末には157円前後に着地か? ドル円レートの見通しは円安回帰シナリオが7割の予測（TBS CROSS DIG with Bloomberg）",
@@ -24,9 +30,9 @@
     },
     {
       "title": "円相場が急反発 一時156円台後半に 日銀「レートチェック」観測で“円買い介入”への警戒強まる",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95dEYyQUowWllYdXhselRhaWdSSHlSVjlvV2MwbkpMMjFweUJvd2hJV3V3dXhpQU9DYnlQZHlrcG9Xc0hNeTAxQmdzcU81QQ?oc=5",
-      "pubDate": "2026-09-19T15:10:00+09:00",
-      "source": "FNNプライムオンライン"
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sbk1OVDhVQlN3Y0Z4WERMclZYbFlIZ1RxWnQtQTFueGVleFMzdkg1bXMzTTlzdlUyUl9JZGFhaUcxMmt2RlgtZXZhbVhfWjNlSnV3cENIYXRZakxCWVQ3LWZHR05naGRXdVNBY0xzdm5EN09kRWMtNXhackMzaWs?oc=5",
+      "pubDate": "2026-09-19T15:16:19+09:00",
+      "source": "Yahoo!ニュース"
     },
     {
       "title": "日銀が「レートチェック」実施か、ＮＹ市場で円急騰…「連休中の急激な円安にブレーキかけた」との見方も",
@@ -50,19 +56,19 @@
       "title": "日銀の利上げでも円安…深夜に1円以上円高 介入準備のレートチェックあったか",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fd3NORVEzZEdoUDFwM216NDNBT2VGb0xQSkFsWG00ekIwU2FqN2RmY3RFOHZtaXZYbG1nUDhCeHByVGZwMkVXNGRIakF2aE9VcnlXOUI0WGQ2X0MzcDgycWNZSjJncWhpSHlNNUc4VzFQUQ?oc=5",
       "pubDate": "2026-09-19T13:11:00+09:00",
-      "source": "news.tv-asahi.co.jp"
+      "source": "テレ朝NEWS"
     },
     {
       "title": "【画像まとめ】日銀の利上げでも円安…深夜に1円以上円高 介入準備のレートチェックあったか",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DRmFfNmtGejZ3WmZRbTRGTGtZX25waHNJUFFPZm04Rk94cmRwcEpjSEZhSVpsSW9jbk9DUEstc0pEZjM2ZkZ2TVNPdGpET05RcEhKYmktaWtNWmRnZVNOeURUMllKSFI3djZvTndUMDNydEMtQ3BTYjNQNA?oc=5",
       "pubDate": "2026-09-19T13:11:00+09:00",
-      "source": "news.tv-asahi.co.jp"
+      "source": "テレ朝NEWS"
     },
     {
       "title": "日銀レートチェック再び、連休前に円安けん制 投機筋｢不意突かれた｣",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJTnpTdWk2VUJ3YjRWM0NtWDRFTXh3c0pIcmd6cHl5ai1JcXAxazl2d1FSZ1RyaG8tWEpxUlZKT0pieS1sb2tkU3dPdEszb0tjT1g1ZHU0RGg0b2lsTEo5OHVHc3dGd1dja3NDbQ?oc=5",
       "pubDate": "2026-09-19T10:00:00+09:00",
-      "source": "日本経済新聞"
+      "source": "nikkei.com"
     },
     {
       "title": "【日銀利上げ】円安が再燃する恐れ、欧米に追随 物価高と不況、同時進行も",
@@ -71,22 +77,16 @@
       "source": "沖縄タイムス社"
     },
     {
-      "title": "１８日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PUVlKT0dVelotbEg2SFRJMHMxVW9ocldOZjlWQUZlWm43S200LTFGR3l6UThRY0owM09vTHUzRmZOc3N0UkNBMw?oc=5",
-      "pubDate": "2026-09-19T06:20:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
       "title": "来週の為替予想（米ドル/円）日銀利上げなのになぜか円安、植田会見後のドル円 次の節目は159円台 ハロンズFX 2026/9/19",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mUUpNOGd0ZVJzUU1LWFhtUFZyQ29fbDJCSV9ROEk4TjJ6M0Vfdkd5WTlxVi1iakVYcXk4SE5UVE9mUE9mVWdyaWk2UDJCblFNSmg3djlLTG9abFozcE9iRHR4MA?oc=5",
       "pubDate": "2026-09-19T06:03:54+09:00",
       "source": "外為どっとコム"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・18日 ドル円、反発｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YQTcxdjBSSWJmLV9EdTY5TlBfZDRxUThCdzZKSlVxbUkxRDJYWThtVFBvZXJ0bjBiZDdPcjhHZU5CVGdBM0hmamh0a2hrbkJ5eFE?oc=5",
-      "pubDate": "2026-09-19T06:03:00+09:00",
-      "source": "ザイFX！"
+      "title": "一時1円以上円高方向に 日銀が“為替介入の準備段階”レートチェック実施か",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HYm1iRnlmQUh3eWpMSHZEbFRwZzNLcEpHZDFvaGJDVXp6UDQ5b1JVcUxTbUtYTlRfQjk0STkxVGVhb2VYeXZWVndwVXFOYUo5WkUzMjNLMA?oc=5",
+      "pubDate": "2026-09-19T05:37:23+09:00",
+      "source": "TBS NEWS DIG"
     }
   ]
 }
