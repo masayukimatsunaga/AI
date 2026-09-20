@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-09-20T19:07:43+09:00",
+  "updatedAt": "2026-09-20T23:15:04+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "日銀の利上げ姿勢に失望感広がる…円相場は｢一段安｣のリスクを抱えながら波乱必至の1週間へ",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UdmFCSFdVTGZhdTdxNXhlb0gwSUltSVhoNnRBRkh6MTI5aElmU0diNGxoTzIxLWhIWHB5TDBVYk1fTTlaX0xIaENySWg2VHVFRVE?oc=5",
+      "pubDate": "2026-09-20T20:00:00+09:00",
+      "source": "東洋経済オンライン"
+    },
     {
       "title": "日銀利上げでも円安に シルバーウィーク中の実弾介入は?「レートチェック」めぐり増す警戒",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qOWcwNGF1RmdGektXN0t3ZW13TGNlOGJDQWhfMVBsNmxNM1U0VEJpVlZKc015NWF1V3FSTC0xeWJ5VWdVb3o2STdldXprS2tCNEJ3WFkxcENfZmx4QXZSNkQxbmFQaVU4QkNLd3NvUjNHNVJDQ3RCeURYcHpuUEk?oc=5",
@@ -14,7 +20,7 @@
       "title": "円相場に一段安リスク、日銀の利上げ姿勢に失望感－連休で流動性低下",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zVTRFUFRxend0bG5rTWJwclhTdTdCcDRQNlgzTm1UVTdROUpQTTFTMWtwY0xoOEJURnlhVE1Lb2diS0ZnSFFZbUExck9ROXFVeFBaRjBKMzgydU1OVmgzSlVGdXJ0MUE2NjEwUnV0TTJYSWR0VGRR?oc=5",
       "pubDate": "2026-09-20T17:09:33+09:00",
-      "source": "Bloomberg.com"
+      "source": "bloomberg.com"
     },
     {
       "title": "円相場に一段安リスク、日銀の利上げ姿勢に失望感－連休で流動性低下（Bloomberg）",
@@ -72,7 +78,7 @@
     },
     {
       "title": "年末には157円前後に着地か？ ドル円レートの見通しは円安回帰シナリオが7割の予測",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VTXhCLUNES0thVlMyVko3S1ZfalRGWmJzanlaVzhYZnloVEJTWWZzN2dJZTlNVDNFNGxaNmdya2taSl9PRmZ2UW5hQ01IV19WZktlX3BoS09EekRhT3hyY0QxUWNuWmRKXy1kWkVNeEU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XS3JZZHZFLTYyXzZzQ04tbUZDdDlVZFpJLV9PS3RKTXBsY09NN3g4SWptV2laYm4zbDZtallOQWpIcWJ1VFpxc3IwZ21tcllQTDV0czBLSFd1TlYxS2NtZFJVMjdZSTg?oc=5",
       "pubDate": "2026-09-19T19:00:00+09:00",
       "source": "TBS NEWS DIG"
     },
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yX2duVWpDNmlLQzU3WHRFYjliMEdIV3lNNlpTWEVyVUI2NXp5WVh4SmNQbDhkSDFZcDlZYlJIcWZWSUVjdHVIeTRONV93MGpMTVhoU05oU1ZNWWs?oc=5",
       "pubDate": "2026-09-19T11:17:15+09:00",
       "source": "ABEMA"
-    },
-    {
-      "title": "日銀レートチェック再び、連休前に円安けん制 投機筋｢不意突かれた｣",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJTnpTdWk2VUJ3YjRWM0NtWDRFTXh3c0pIcmd6cHl5ai1JcXAxazl2d1FSZ1RyaG8tWEpxUlZKT0pieS1sb2tkU3dPdEszb0tjT1g1ZHU0RGg0b2lsTEo5OHVHc3dGd1dja3NDbQ?oc=5",
-      "pubDate": "2026-09-19T10:00:00+09:00",
-      "source": "日本経済新聞"
     }
   ]
 }
