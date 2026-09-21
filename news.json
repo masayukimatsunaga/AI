@@ -1,9 +1,63 @@
 {
-  "updatedAt": "2026-09-21T07:28:55+09:00",
+  "updatedAt": "2026-09-21T09:31:52+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "今日のFX予想：日銀は利上げで円売りも 介入警戒で上値重い 2026/9/21",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zNGRUeGVUcm92SC1lUTdWTzhRbzJMUjFDSkw4N3duOTRiQ0syY1FLT000ZEVfMzVCYWk4MHVuTWJDOU1RcE41SDRHM2N1cVZBc1hBVFlzVmtnR2p0RmE5ODlSbw?oc=5",
+      "pubDate": "2026-09-21T09:21:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル円、伸び悩み 再び156円後半まで押し戻される｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zX3NUWkxwV1pNMFBndHpNTDVwRk5WX1hPMFlqdDRvdEFOLUU4ZC1FaEk1aFpTVHhDcjBJUkNPdnl4UzZ3LUU4VHozeTBQeXpHTlE?oc=5",
+      "pubDate": "2026-09-21T09:15:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "東京為替：ドル・円は小高い、クロス円も追随 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KVU1VTzFSTEJlS0JVc0hzdVlfR3ctVk9mUFJLOEZFc0JmTXozanV6ZUQ5bGpLRXJ4cDZJTV93ZVB3OVhOTkt2V0FpTEVxNjB6SDBkUXlrZVU3bzhKTDhFcnVGM2xwdkk?oc=5",
+      "pubDate": "2026-09-21T09:07:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
+      "title": "東京為替：ドル・円は小高い、クロス円も追随",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1JGV2hOazFpU3J3dy1zVFpOeUpWWXgzTEhyMkl6alR2MTBZdHhSN1Y4RVVSd2tLX2ZpcHRfb1FMSkxYc19PNl83MGYyWG1OVDFiQlJpSC1idEJ3Z3hhR3B4ZGZNRmZjLU1DV21kXzJZYzFaR29uejVZUzZ4N0pEVXF2UVJQN2PSAYwBQVVfeXFMUDhhM0tXZ0FiMUVlaEo3NVNxSnlUanNRV0liVnl3ZDBQMURJaGVvY3I2TU1EVm9OZEZoeFh6QVJzaWxhNUtfUmNPYkFXRkdSU1BGRmtoY2FtU19jSXFaTEhBa1VQLW05ajdXcFRCVndQZlZXRnpGV0lHZEprX081ZnVQX2dycGlNdFVBMDA?oc=5",
+      "pubDate": "2026-09-21T09:07:00+09:00",
+      "source": "ｄメニューニュース"
+    },
+    {
+      "title": "FX/為替「ドル/円今日の見通し｜日銀は期待ほどタカ派とならず 為替介入に警戒しつつ円安地合いは続く」 外為どっとコム トゥデイ 2026年9月21日号",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wNmJ6WjRIZHRORnBpd21OM016MjJGNDN3Rnlxb0NRWEJ4RnlfOEFaVGZUMnllaUhDN1o4UmhGOFlKWWRaZ29uQWp3SV95MllKTFlSQzVRTzBHQk40YjA2a2lTTQ?oc=5",
+      "pubDate": "2026-09-21T08:17:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "東京外国為替市場概況・8時 ドル円、強含み(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbzlwU2xzenJBYVBWakpyM1VnSnFURVBreWFiODVFYWNYX09Eb1ZUaTlaNVY4d3Roa09iaVhiSnFJQTVZUUhLVEdKZFctUUNOb1dBQ3NWbm9nM2pjOElCeXRFNEdTWnVvTU9ib2IwZ1JoMnYyemNxRWtGcWNJallqOEEzNW5DV3c?oc=5",
+      "pubDate": "2026-09-21T08:08:03+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京為替見通し＝ドル円、シルバーウィーク中の円買い介入に要警戒か(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUGw4WVo0bmdNRVdTVWxxMEdOeEluek9aVVdTb3lNUW5pLVZKWXlVbTBseVBUVFNud0IzRW1iVE45THBEV0pvUTdxMHNMbVk5a2R5N3E4eVBxT1JJanNxdW5JM0VhMk9VaGNtRjd2alRsWVRqX0FGX1VmSHVJMVk4c3h1V3I0eVk?oc=5",
+      "pubDate": "2026-09-21T08:00:04+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、157円台を回復 時間外の原油先物が強含み",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xRmpfWHd0RXhXdmJyd3JSaG4xWXphUm1lbTFuOWd3OFRqQTdHMDI1OUw5MmFadUtEOXRYOWZxd0d2UFhTNjZKbm5zckdSbTZZVHMyNXhWMA?oc=5",
+      "pubDate": "2026-09-21T07:56:04+09:00",
+      "source": "Moomoo"
+    },
+    {
+      "title": "ドル円、156.80円台 週明けは静かなスタートに(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlN3SGx6bkJKVlhYR2J6aldKZzNueHVHbXdCMFVMaTlRWFdybFpBVXloYm5FOFlSNjN4MTB5d3lDdVhUT2dBclpOOTA5b1hHQ256bVVYNEp1OFZPbXk1Z2c4OWVTVXptQXNyaGdlekRzY0R0VndYYnE5T1dOQlFELTRQcVNZUzQ?oc=5",
+      "pubDate": "2026-09-21T06:18:04+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "ドル円、156.80円台 週明けは静かなスタートに｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSS2d3VnFXYVN1bl9qdWRaMUpoSHdqQV9aN3MzQ2h4bWR0Y2hyQk5TQWQ2bTVLeTBSR0dsd01ZRVdhMXVWSHRUa1NfaU1kREVuS3c?oc=5",
@@ -33,60 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qOWcwNGF1RmdGektXN0t3ZW13TGNlOGJDQWhfMVBsNmxNM1U0VEJpVlZKc015NWF1V3FSTC0xeWJ5VWdVb3o2STdldXprS2tCNEJ3WFkxcENfZmx4QXZSNkQxbmFQaVU4QkNLd3NvUjNHNVJDQ3RCeURYcHpuUEk?oc=5",
       "pubDate": "2026-09-20T19:00:42+09:00",
       "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "日銀利上げでも円安に シルバーウィーク中の実弾介入は？「レートチェック」めぐり増す警戒",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqNlBvTGNQYlV2ZGVRR0FOMFdDcHpEaFRFUEg5aWwyMUIyZHo0OGJVVk5BOUdUclgwZVBpUFNRLURTejZ1M2VfTGZUNURHdw?oc=5",
-      "pubDate": "2026-09-20T19:00:00+09:00",
-      "source": "FNNプライムオンライン"
-    },
-    {
-      "title": "円相場に一段安リスク、日銀の利上げ姿勢に失望感－連休で流動性低下",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43RVVUa1NScGd6S2pVeVVKWm96LWtFOFEyQnJXcU9OdFh0UjJ6VWlIS2stMGpCcGt4OERDZEFzWTZOWVNuWFRNMHdJMHgwdHpOQ0g3VVFDbi1OZ05zYmx2NEtDU0VQelE?oc=5",
-      "pubDate": "2026-09-20T18:30:00+09:00",
-      "source": "TBS NEWS DIG"
-    },
-    {
-      "title": "円相場に一段安リスク、日銀の利上げ姿勢に失望感－連休で流動性低下（Bloomberg）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JUDZ5dHV4d2llb3daY3o1b2w4MGRLSUY1RFdUWTNpN1Zyc3hjaThZY3VHY1hGbHIzN3ZrT25tR3RzUHJlT0JZMnFvSm83YXp1ZkdTdmw5a0xZcnF6MU5mZlBTQlVkS2pnaUJ6WnRhOTZpaVZJOXA5Z3U3V0FHUlk?oc=5",
-      "pubDate": "2026-09-20T17:09:33+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "【ベッセント介入を紐解く】圧力の裏に40兆ドル超の債務／避けたい米国債売り／高市総理も「円高」が必要？／問われる日本の利上げペース【CROSS DIG DOCUMENT】",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tOVVwZ1VMMkVlYjBmdDRwWFZfWDFWS2V4ZVZyLUREUmFaLTREQ25OcE03eGwzMG9oUzhyUktLWmszOXFJVVpsYXRfRW81MGNrWWkyd3ExczBSdjVnblZ6bFgzdkFXWlZ3UjZ0SXdmbjU1b2hf?oc=5",
-      "pubDate": "2026-09-20T17:00:00+09:00",
-      "source": "TBS NEWS DIG"
-    },
-    {
-      "title": "やってはいけない資産運用！急速な円安時での為替差益確定の要注意点",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1INXlLOW05MkY5cmJ6WXdrQklOMFktTHdfYTJRRnpVXzdHR2pkOEtvZGplS2RhLUpzVGNqSWJkQ3VNd3dsekpXM3hQdFZsd3p1elBXeDVxemVKQQ?oc=5",
-      "pubDate": "2026-09-20T16:00:00+09:00",
-      "source": "トウシル"
-    },
-    {
-      "title": "高市首相は「巨額支出に固執」 経済改革、円安定に不可欠―米紙社説：時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YMDI3R3MyWW1NUnhJOVdIRW5PRUtsVldSYk1ZSnRULVdYOWFHSUtOYi1Idi1CYkk4MUg0TlFHNlFrZU9ETkFiSGoxSW9MRW5EZTFtbUFZNXFCTy0zbnNPaDdXZw?oc=5",
-      "pubDate": "2026-09-20T11:20:00+09:00",
-      "source": "jiji.com"
-    },
-    {
-      "title": "日銀は利上げしたのになぜ円安？ FOMC・原油高・米金利5％から今の相場を整理【相場の現在地】",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjUGEtV19fOVFPOU96c2lwM0ZFX2R6aEdmSjVERTZNOTh3QXFUaFhlRnFtWkRGaGJzal9KNDlhenFDR0xRbENBdjdQcmVodEwyMTJXbU81akQ1X1lzU0ZPT00tcw?oc=5",
-      "pubDate": "2026-09-20T06:04:51+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "来週のドル円相場はどうなる？9/21週のイベント予定 2026年9月20日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13di1rV3cxbmtFMU9vem8wRnZKTXJLemZxQ3ZESGlrMEtEbzBCZEZjaGxXcElNa0ltNG1LZlpHX0huQmdSRlM4M2RJcnFvM2hVblQ0Y1VpSDMyY3p1MlgySVpVbw?oc=5",
-      "pubDate": "2026-09-20T06:03:17+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "政府日銀がレートチェック １５６円台に急騰 円安再加速をけん制",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPUlpyYmhUdWNzMW5HNFpBVEFMc3p4QUtMMm5GQy1wNUpzZGFvM3NSOGwyd1o4SVBzNklPWW9LclYzZUI2SkNXVXRjZnpOUXFTSlYya05GWEZmdVhmeEE?oc=5",
-      "pubDate": "2026-09-20T05:00:00+09:00",
-      "source": "福井新聞社"
     }
   ]
 }
