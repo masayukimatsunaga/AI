@@ -1,41 +1,33 @@
 {
-  "updatedAt": "2026-09-18T13:49:34+09:00",
+  "updatedAt": "2026-09-21T14:02:34+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "注目の日銀金融政策決定会合後 植田総裁はタカ派姿勢を示せるか",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜注目の日銀金融政策決定会合後 植田総裁はタカ派姿勢を示せるか」 外為どっとコム トゥデイ 2026年9月18日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/18/081333",
-    "publishedAt": "2026-09-18T08:13:33+09:00",
-    "createdAt": "2026-09-18T08:10:00+09:00",
+    "headline": "日銀は期待ほどタカ派とならず　為替介入に警戒しつつ円安地合いは続く",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜日銀は期待ほどタカ派とならず　為替介入に警戒しつつ円安地合いは続く」 外為どっとコム トゥデイ 2026年9月21日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/21/081754",
+    "publishedAt": "2026-09-21T08:17:54+09:00",
+    "createdAt": "2026-09-21T08:10:00+09:00",
     "forecastRange": {
-      "low": 154.8,
-      "high": 157.5
+      "low": 156.2,
+      "high": 157.8
     },
-    "outlook": "タカ派姿勢示さなければ円安加速",
+    "outlook": "原油価格および米長期金利動向を睨んだ値動き",
     "factors": [
-      "高市首相会見",
-      "BOE 予想通り政策金利を据え置く",
-      "米新規失業保険申請件数 予想を下回る"
+      "日本CPI 予想を下回る",
+      "日銀 予想通りの利上げ",
+      "英小売売上高 予想に反して増加"
     ],
     "events": [
       {
-        "text": "－ ◎ (日) 日銀金融政策決定会合",
-        "importance": "high"
-      },
-      {
-        "text": "15:30 ◎ (日) 植田日銀総裁講演",
-        "importance": "high"
-      },
-      {
-        "text": "19:30 ◎ (ユーロ圏) ラガルドECB総裁講演",
-        "importance": "high"
+        "text": "19:30 (米) グールズビー・シカゴ連銀総裁講演",
+        "importance": "low"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260918/20260918081020.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260921/20260921081536.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
