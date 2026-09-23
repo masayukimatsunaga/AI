@@ -1,93 +1,92 @@
 {
-  "updatedAt": "2026-09-23T19:04:29+09:00",
+  "updatedAt": "2026-09-24T00:03:12+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "ドル円一時１５７．９２レベル、介入危険水準に＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NZ3VRTkIwc2RWc0VZLXd1WU41VE5ObGs1Z2tteHNHUmNZVWMyZWlmd1hDTkZ6TlVYUC1pNEp4Sm9kOUhwY1RMMQ?oc=5",
-      "pubDate": "2026-09-23T18:46:57+09:00",
-      "source": "みんかぶ FX/為替"
+      "title": "ドル円158円台に急伸、米10年債利回り5.05％台で約19年ぶり高水準",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sWFlad1ZPLWlzTXZUMVdhNlVDSHpGY1k3QXRBcHRROUttY3JhcE13X2xRSE1sRW12ZDI1emk3VGNXUmNRdk9NZndHbWU3RVFId1N2eFhNMWJIcHZlZEdXTV9HRGV2eFo3YW1aYkJ0akhrLW8t?oc=5",
+      "pubDate": "2026-09-23T23:55:00+09:00",
+      "source": "BigGo ファイナンス"
     },
     {
-      "title": "ドル・円は堅調、158円を目指す｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zTEtpeU5NeU9oeEpxZEw0R1hqNG5pZGhyb0JwbnZfYW9HTklOUXY2N1JqdjhTNWtZWVdKWFY0M01YNWxzNWhDdW1Sa3hoN2tJeVE?oc=5",
-      "pubDate": "2026-09-23T18:19:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "欧州為替：ドル・円は堅調、158円を目指す 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HMkpVYW9VSnAybGpGWjl2cVF6S0Ryc2NhVENZTTU3UTNENkdnbHFpX3pxWVM2Y3lLV0RqdTJ6czIxV0MyR3FCc1ZWTzJURk1yRXFDNFpQRk9JeURrc0RRekJMRVA5QVE?oc=5",
-      "pubDate": "2026-09-23T18:15:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "欧州為替:ドル・円は堅調、158円を目指す",
-      "link": "https://www.zaikei.co.jp/article/20260923/870915.html",
-      "pubDate": "2026-09-23T18:09:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "欧州為替：ドル・円は堅調、158円を目指す",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0J0SkN6Wmx4OXBlMHNleUd3V0g5TFVkWV9ISDY0ZE83WVUxZEpYTEVydTlmS29wcGxfa09kOFRYRDBZSm8yNFJoVXo2M3JhUU5HWGdpWXdqYTUxS2xuRXFxcU90dkZxMGZMZ003cHNlYkF1MjR1d0lzRDBEVm11ZFEwTFdhYU3SAYwBQVVfeXFMT2NXVm5wRTZWSXZuSnU2SUlzQnVEQV9uVU1qbkxFbFpKdVRJNXNqcEFqa19oUm1XamJmQmFrV2I1SklXSllhSFpvTVBmSWxVZmMteVBOWlBWZkVIQW05RTg4YTlta0dRd1N5WFRrT25IamtlT0NEMk1rSlpOTVZ1cmU1TUdMNGFLYm83MUI?oc=5",
-      "pubDate": "2026-09-23T18:09:00+09:00",
-      "source": "ｄメニューニュース"
-    },
-    {
-      "title": "日本株は連休明け上昇へ、AI株高・円安追い風－債券は日銀政策を警戒（Bloomberg）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mVldaRmVjbDA0ZUpPOEdjLTJ6WnZyVmxiVTltd2poUHNmM3NDSjJnWDd0OEhOc2lRalVnbFFwVGFFYVg3cTQ1UmNhMWUtQTdDZjdKQW05dG9STVdlZ01ldkFWS3FXcThOUVQ3ZFdKVTdiVDdmNlBjRVg2Q2ZpbG8?oc=5",
-      "pubDate": "2026-09-23T17:49:24+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "ドル・円はしっかり、ドル買い継続で｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DZVJhSHVUWHpjNEdwRnlMQjI3N0Vmcm9fV3FTV3JIcWNRS3Vuc0E2VC13TWlSYXN1YzctZmdydVhNcGQ5ZlJ0TEhYUS00U0J1ZUE?oc=5",
-      "pubDate": "2026-09-23T17:31:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "東京為替：ドル・円はしっかり、ドル買い継続で 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyNG02dXhGYW5BclZrbVczYTczRmZ2TXFLcXpMRFhvczZTdWVuMHdMS0lGNUUtRERGeHI1bTJreEM1Uzk0VGxFX2lIaF9wdEMxRnFrd3ZGRFpWcmZwMjlsd2hjakNRdFU?oc=5",
-      "pubDate": "2026-09-23T17:30:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "東京為替:ドル・円はしっかり、ドル買い継続で",
-      "link": "https://www.zaikei.co.jp/article/20260923/870914.html",
-      "pubDate": "2026-09-23T17:22:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替：ドル・円はしっかり、ドル買い継続で",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT0ZjM3Y3VXA2UjRlNEFGaHc1QzdQX1hob2ZhNlZWYlYxX0xrOXlVM0VaUjRmaG9uTjdiV2JJaDIzVGZ0akxSbVVnN2pYSExqN2lLcldOSDNGRmItNndpRFVnV05oUGdIMHNfemV5cGRrTVNMZFktazA2TWRnOTVYVXBpdjc4WkHSAYwBQVVfeXFMUGtIYXFuRnNHWVpielgzUlVSY1Zmam5pdXF1X0NEbl9VQm40UU5KdUJ6R3VKSDN0am5PUVpTbGdBWEZYTkZsTDdBekNNbm5hSW10YzJpNURnM0ctWmN4U1FQNGF4ZWFnTjhkMVZ0UUxXR2wzQW9VRmlETi10amdsLWRSWUtEX3VHWERkc04?oc=5",
-      "pubDate": "2026-09-23T17:22:00+09:00",
-      "source": "ｄメニューニュース"
-    },
-    {
-      "title": "通貨オプション ボラティリティー ドル円１週間７％付近",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DYWhFeW5XUEVIUGRheUw2WVYwTzFFcVhxTEpuQ2ZUb0VvWU9zUFNReDZiSmJLWVdnY1c4M1JicW4tX25ZWGdzbg?oc=5",
-      "pubDate": "2026-09-23T17:17:58+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "東京為替:ドル・円は小じっかり、ドル買い継続で",
-      "link": "https://www.zaikei.co.jp/article/20260923/870912.html",
-      "pubDate": "2026-09-23T17:14:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替：ドル・円は小じっかり、ドル買い継続で",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjhUWTBuTWI1NnJOWnFTbXh6RWc5QXAtMzNQUEFPOXJnVkdvR1FLaU9MUm1DbFdXS3RUT2x4Q2NKaVNtTkI5ZWFGT1dBUFF4VktveWlVRDdzeXJTa05zc01zdy1teUczMWt4X3NIZHVOOTlkU0sybVE2NE5ZeGdaZG9zSW03THJfZEhwaXpPcVBDM21DSkxuYUln0gGMAUFVX3lxTE0tdXdXakkxR0lLN2RVbVg0ejhSWnRVN0dWM0wxdTRHVHVNQmxEZ2MzNVdMR1VuRlp5ZG1ya1BveDRXbUpGUi1LdU5HRFpSMFBJUnlrTVRFQTI3MUxEa2pPNWlZTHlHZkd0SHNoQzRSLVNqeElmLWhvRTBhaTk0M0U3Yjh0eFBmUUlqeHJ3?oc=5",
-      "pubDate": "2026-09-23T17:14:00+09:00",
-      "source": "ｄメニューニュース"
-    },
-    {
-      "title": "東京外国為替市場概況・17時 ドル円、小高い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQkJFUXNOOEZIX0dZT1BQOGltWEFTVWt4RU1JZTB5S1lQYXRCVUR2ZXJLSWNYRF9VRkZKckRzcHVwZzFobldRRmhseUI5aXFNYW00LWRoc21OWjhLcWNpdVRqeWtIYkFyOGxfS1FEVUhraWduUUZfaWc1MnJkWGxqVFhscUNRRkk?oc=5",
-      "pubDate": "2026-09-23T17:07:47+09:00",
+      "title": "ドル円、一段高 米10年債利回りが5.05％台まで上昇(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0hxbHpWaEN1SDZXNXRuLTdzcEVKOWJxRUMwejVtRWp6X041dmF5WGtoZlFjbVYxenJXalM2RUdfS0YyRE9FeFRMTlRMQlhRV3kza285NURoWGhvMVBZc0hLcUFmbFI5SDd0ekh6ekhpZm1OMkJELVZ5Um54VXpQRTNyQ2VRWFE?oc=5",
+      "pubDate": "2026-09-23T23:21:04+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、一段高 米10年債利回りが5.05％台まで上昇｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vZ1BlVkhXZXB2QTZTdXppUHBzYm9TemR0eHZ2ZVJfX0YzazNta1R0V21vZWxYWnZkSlc2ZEttcTVqNTRybVBFNTdqNjNOMGhjZXc?oc=5",
+      "pubDate": "2026-09-23T23:21:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、１５８円台を回復 強い米ＰＭＩに米国債利回り上昇＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yN1laNDhhaEtJUHNfM3JzY3dBelhTV29KSndSZG9BbTJvZ1NFVWNrWlJ6aVhIWUVNM2pibGNxR0pNdUJPRmJINQ?oc=5",
+      "pubDate": "2026-09-23T23:15:57+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "円相場、一時158円台に下落 「レートチェック」後の円高帳消し",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zdlcyV2FnWUhMemhwdUlvVTZZNzBybXNaZG5GZGtxV2tncFU5blh1ak8zc0NWMkVYaTBBSVBqQnl6UnlqQ0d0YlJoSUxFcmJoZGNkQTliUWw0VVVtZzJrMTNZYmltTVQ1eEFDRA?oc=5",
+      "pubDate": "2026-09-23T23:03:57+09:00",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "ドル円 158.18円まで強含み、強い9月米PMI速報値も後押し(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWlJBTkpmcXFRTm5IZW41UXJGdzJ3bkVWay1yekx2enB2WlVwR0dwNWpQYWpEV3dOMi1xT0hwTmxVNkVqOWFzZUlvNHBZOWhmODdDVzJHdGNhTjNaeFhVaVRRdjhYWjhsbHdnQUZhOXN5T096d3VpVkZka3R0c2trMzlCWGxEQ3c?oc=5",
+      "pubDate": "2026-09-23T22:50:18+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円 158.18円まで強含み、強い9月米PMI速報値も後押し｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qdHk0UG9odXJaVzNUWUlPa2x1UHNXNzFlRm5NSVJLYk1lVHhIenp2WTloRXpieTdBak9LdkJORjNNbjR5ZDVaejFZZXZBWXJ0Z0E?oc=5",
+      "pubDate": "2026-09-23T22:50:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【速報】ドル・円158.14円、ドル買い加速、米・9月製造業PMI速報値が予想外に上昇(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTGlSdklfbmRWYVc4OThPZ1doQzFZYmNtQzl1S1R0QnFnMHZBNWJ2SGpIaVJDMnhpQWNQRi04b0E4M2pSOTRhaFVGVDA2anB4ODg4eGVtSUhDVkllU3UyU3Q4S2hxTjl6M2Z4VW1vWHF3R1RucFZ3bHVlaW84Sl8tRGhOTWRmc1k?oc=5",
+      "pubDate": "2026-09-23T22:48:05+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【速報】ドル・円158.14円、ドル買い加速、米・9月製造業PMI速報値が予想外に上昇｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0TUNSU2NvUkdWajUtY0ZiRFAwRXdzTF9peHhnU0p1VGJnbWg5aHhERXB0SjNjZ09pV2FNNEtKNW5rWlhnTXhNX1JDeXN6QTdnV2c?oc=5",
+      "pubDate": "2026-09-23T22:48:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、１５８円台を試す展開 米インフレ圧力長期化への懸念＝ＮＹ為替序盤",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TeWVyZUtPZGZ4c2U3SjNnU0tJdnB6RkxWTFVBQ0d4cC1qdHF2RVZMcmtuQnpxVXRPWldSMHBwcjBPQVhWOERDdg?oc=5",
+      "pubDate": "2026-09-23T22:28:57+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "欧州外国為替市場概況・22時 ドル円、じり高(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNEFwdm0yM3R3REpuTEIyT0NRaTRJUlJUdWZ3UmotV25lSUpiMm9lQXVFYUN4Z2hHTE1XREt6Wks1YWQyTDVpaHRjZ2dYU05mTjluemcwLU94REt0MEFBdEktRlRhZnBmbWpIdUJiOExGUndHbkM4RFc4V3NuSEpmUXVEU2pjZFU?oc=5",
+      "pubDate": "2026-09-23T22:06:04+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【速報】ドル・円157.99円、ドル買い優勢、米金利上昇(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaUFxWHlHS19FSjdESDhQcXVBOW5lMWhiOVJiLVUzSXJIWGc3VHE5aGxCUnI1Vl9DeEJpb0dKdDAwN1YwQVNoVHVYTFFMSzdwZkRwMjFxZUNVTWNoVlJVaVJET1Q2NWlxaVdveWdHVEYxYWRuQU1IeUpla1lwV09GajBGVmtoc00?oc=5",
+      "pubDate": "2026-09-23T21:43:12+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【速報】ドル・円157.99円、ドル買い優勢、米金利上昇｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1XzdLWGExZ0l3QmM4eHNUYllQM19UT3kyekNsM1V6YVVDQ2VFZFYxa09QbmJOems3TDJNMmhMLTZXYkszOTMxRFhURjF1dV9NUmc?oc=5",
+      "pubDate": "2026-09-23T21:43:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円一時１５７．９７レベル、ドル買い継続＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PS0kyU0dUZ3paNXNfajZuTGlDNGd0ZWpJSE5zLU1JRTB5b3VkWjladTNYQmNxSDlIOEZWTExGOE1yV3M0SUs3Vg?oc=5",
+      "pubDate": "2026-09-23T20:48:57+09:00",
+      "source": "みんかぶ FX/為替"
     }
   ]
 }
