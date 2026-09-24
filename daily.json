@@ -1,33 +1,41 @@
 {
-  "updatedAt": "2026-09-21T14:02:34+09:00",
+  "updatedAt": "2026-09-24T13:57:40+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "日銀は期待ほどタカ派とならず　為替介入に警戒しつつ円安地合いは続く",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜日銀は期待ほどタカ派とならず　為替介入に警戒しつつ円安地合いは続く」 外為どっとコム トゥデイ 2026年9月21日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/21/081754",
-    "publishedAt": "2026-09-21T08:17:54+09:00",
-    "createdAt": "2026-09-21T08:10:00+09:00",
+    "headline": "158円台回復　追加介入は困難な情勢に",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜158円台回復　追加介入は困難な情勢に」 外為どっとコム トゥデイ 2026年9月24日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/24/080829",
+    "publishedAt": "2026-09-24T08:08:29+09:00",
+    "createdAt": "2026-09-24T08:30:00+09:00",
     "forecastRange": {
-      "low": 156.2,
-      "high": 157.8
+      "low": 157.5,
+      "high": 159.3
     },
-    "outlook": "原油価格および米長期金利動向を睨んだ値動き",
+    "outlook": "目先の上値余地が広がる",
     "factors": [
-      "日本CPI 予想を下回る",
-      "日銀 予想通りの利上げ",
-      "英小売売上高 予想に反して増加"
+      "ユーロ圏PMI予想を上回る",
+      "英PMI 製造業は上昇",
+      "米総合PMI 約5年ぶり高水準"
     ],
     "events": [
       {
-        "text": "19:30 (米) グールズビー・シカゴ連銀総裁講演",
-        "importance": "low"
+        "text": "10:30 〇 (豪) 8月新規雇用者数",
+        "importance": "medium"
+      },
+      {
+        "text": "10:30 〇 (豪) 8月失業率",
+        "importance": "medium"
+      },
+      {
+        "text": "21:30 〇 (米) 新規失業保険申請件数",
+        "importance": "medium"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260921/20260921081536.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260924/20260924080656.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
