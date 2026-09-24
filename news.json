@@ -1,92 +1,93 @@
 {
-  "updatedAt": "2026-09-25T02:14:55+09:00",
+  "updatedAt": "2026-09-25T05:32:26+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "円が対ドルで下落、一時159円台－為替介入観測が再浮上",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5M0F4d0NrYk1nRVJEV2JtcVFvVnVzN1VIaW9VX0VUQkhZZG41bVRFcWRyZWhmWnlwWlRyQzBJWHQzSVRRTHhZZElVSU9ESmhyWkxzWHhjQXRTT0JCMFZ3U1dhNHJOVDhoWEpEZkFyLVNCQmdMNVR3?oc=5",
-      "pubDate": "2026-09-25T01:28:25+09:00",
-      "source": "Bloomberg.com"
+      "title": "円安止まらず一時159円台 ドル全面高、政府・日銀の介入に限界論",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yRng1LTV4VDRIYnBpS2tZUXYyUHNpWkFwcmdZLWhTc2czNW9SUW1mN0xBYkhOZHJFODNObUZUTXlueVloejEwOG5nRmhfTDdKLW9lWmhSX2prODNvaFhDa3o2WGwwTFhCaDVsaA?oc=5",
+      "pubDate": "2026-09-25T04:54:47+09:00",
+      "source": "日本経済新聞"
     },
     {
-      "title": "ドル円、一時１５９円台に上昇＝ＮＹ為替速報",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2WEdGUGRaX2FVZTFBNXpJdnZqYkVyZUpMMHVKelgzc0tuWXZiVElDMjk5NFluelRqQjhlb0lvNG1aZXVnaHhSbg?oc=5",
-      "pubDate": "2026-09-25T00:47:57+09:00",
-      "source": "みんかぶ FX/為替"
+      "title": "【テクニカル】乖離ランク＝ドル円のみのプラス続く",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9acndEcUFwaGZ1Q3pYazVnMUR5cXhjV2pGRjlTRHJNTFpHaldDbTdiVFNRUmd6aDBjZ0h3NkdSeERla3FEaTN4Z3ViWWRsa3MwZllsMVVQcXJJWktiQ2daTUdYWQ?oc=5",
+      "pubDate": "2026-09-25T04:44:14+09:00",
+      "source": "外為どっとコム"
     },
     {
-      "title": "ドル円、一時159.00円 米10年債利回りが5.16％台まで上昇(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1VxR2UwV2dES2xEbkQzQW1DWUJsVzFUeDJzRWxjOGhRcDZTVHBaMVpqYnNsNTVZanI1aVJNbXhyQS1XZHFLYWhsaXJSb3JVTngzUm1OdlNtalF1ZFNQX0ZzaFBCT3Q5YXM0dHZaRGtxeVpzWEVfT1Vfdno0N1BOTTJKWlptUDQ?oc=5",
-      "pubDate": "2026-09-25T00:32:33+09:00",
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円 底堅い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORDVoUkR5RW5iRjBpaWhBcmpJOUQ2aVRJR0dyMVRMRS05M3pyeEtQZDNuRXpzdC1nODV2RndYVDZRYXpNaHRRZmJNbV96YTBDU0pCdThRX2Z2S2RGMkFOZV9hV1JfdFoxRm05d21FWjhnSHBSOUhtLUZIcHpNOEVSVGhkdUhFemc?oc=5",
+      "pubDate": "2026-09-25T04:06:03+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "NY外為：ドル・円159円手前、ドル買い加速、FRB高官のタカ派発言で金利上昇(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEEtOFNfaExzMl9WY0U1dzRES1NyMDZaUlk0c3VxMm9pTjNUbVBaY0ZiOWJiaEtRNG0xcDNaWFE5UDBOTFVYY0JuVWVsNi0wQVE0R3dOSXRLcTRYdVYwNTYyVnJ2Y1VzWHh1SUd3NzZxb21TeFhtR0tpMDRULUFRbkNMaU5ncGM?oc=5",
-      "pubDate": "2026-09-25T00:31:54+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、１５９円を試す展開 投機筋のポジション変化も円の下押し圧力となる可能性＝ＮＹ為替 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qQThoT3I1NVJOZHc1RWxKX2FjMWpvTGhfaUxVMHBDTjgyTE5adGxXUzVJaFZsNVFrWjZDR3JfUXVENTB4YWE3WA?oc=5",
-      "pubDate": "2026-09-25T00:19:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・24時 ドル円、強含み(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWW9GRm1FRjRZTzFGOHFEV2VpRkRWam1YTk9QUXNjLVFOZ0wyeFRwaHhFMnc4ZnJmbFp5WEg5OWNPM1NaeGd0Z0lmcVBSY1JGUDd3QXVpbGNDUWNVM254RUpPc0lnLVBITmRUcEdOMnpUUVB0czBHWEFSVVI0S3liSllMX1FTaWc?oc=5",
-      "pubDate": "2026-09-25T00:06:32+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "【速報】ドル・円158.65円、ドル伸び悩む、米・8月新築住宅販売件数は予想上回る(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVmNDYXVKYW5GMEpkandBTEduQnl5MlN3RHNXMWFyQ0dkcDc2MHVZay1oWWU5d3FId2N0TUJqcEJ6a1ZnMUREeWFTWjRPbUNyVlNjSFhNLXhmbzg1el9waS1aRjFWVGJweUwzNlpwbW1KMGJXczcybmpPM1M2Rm52LWRCY1lrSzg?oc=5",
-      "pubDate": "2026-09-24T23:06:19+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "【速報】ドル・円158.65円、ドル伸び悩む、米・8月新築住宅販売件数は予想上回る｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44YTlhX3p3aUIyS2E4MkdFcGs4alJXbnFhRnVCNGJGQXVmOGgxcWRnZTlKMFR1UG1IV19Hb1ZpWVpsaFg0RHRJc3pTSnRpdXZQMEE?oc=5",
-      "pubDate": "2026-09-24T23:06:00+09:00",
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円 底堅い",
+      "link": "https://zai.diamond.jp/articles/-/496182",
+      "pubDate": "2026-09-25T04:06:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円、１５８円台後半まで上昇 ２００日線を上抜ける＝ＮＹ為替序盤",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YZ05faV94eFVUOFdxYlhxendRS0UyeHhkbWdfM2dIYV9BTTh4bEtHc29vMVhpX1BBeV9mUk84SDBNLThoQTR1Mg?oc=5",
-      "pubDate": "2026-09-24T22:20:57+09:00",
-      "source": "みんかぶ FX/為替"
+      "title": "[ドル・円通貨オプション]OP買い、日本の連休明けでレンジ突破観測",
+      "link": "https://zai.diamond.jp/articles/-/496180",
+      "pubDate": "2026-09-25T03:47:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "欧州外国為替市場概況・22時 ドル円、買い一服(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2RkQTZOUmtscGZ4eHNtTnVmTzlvbEtBRzBzRTUwNzR3eTJrQnpiRG5rMjFsSXJ6T2ZlSzQzdW1QQVpkamFqOGdQTVhoN0ZDNEczTHAxVFlwM2o0cHV0LUVsSlo2aWNzeUhSNTN1VTAzWVRZbzZTS0xXX0F5aUM5YkJ3ejQ5VU0?oc=5",
-      "pubDate": "2026-09-24T22:07:34+09:00",
+      "title": "NY外為:ドル買い強まる、米財務省の長期国債買戻し拡大規模は目標下回る",
+      "link": "https://zai.diamond.jp/articles/-/496179",
+      "pubDate": "2026-09-25T03:39:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "[ドル・円通貨オプション]OP買い、日本の連休明けでレンジ突破観測(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQmdmc0JSaDZqTFBkM3hScEFtUEo5bUltSjRPSzF0TG5fdE5GTGliNlhEVnU2bUpiRUlaX3V4OHo3d0pabk5JdWJHVXlWVnJQMndRelhtZHUxdU9wZFNhZjJ0SGZvTGRPczk5VWFUTTR4OUFLSWJ5RllzNG1qV3FaUzRnYVU2Smc?oc=5",
+      "pubDate": "2026-09-25T03:38:11+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円のピボットは１５８．５０円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xU1RQVDdBaUNMNzh1Y25PU3NqRlVGcWdHZm9NQWRwbXUtVnpvTXZzdVRWN043TnRESDc0WlpVaHF5a2k5elhBcQ?oc=5",
-      "pubDate": "2026-09-24T21:53:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【速報】ドル・円158.83円、ドル買い、米・先週分新規失業保険申請件数は予想下回る(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQm9jNjFQYzVMZ055b0ZVMXpqSXZZZXd1LTBwemFja3k3eFVQcGp2MTNJWE5NeWg5YmJheDBRUVJ6N2tBMU9uYzlvSE9uTTBKYmdCSHh2U0tTZ1djSVZCY3BVU3lSZTItc1ZGNWFRdjJYSm1udUdIemh6RUJrVzdmRWEtTTdSek0?oc=5",
-      "pubDate": "2026-09-24T21:34:10+09:00",
+      "title": "欧州マーケットダイジェスト・24日 株安・金利上昇・円安・ドル高(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNG9kbzRxNlNCMWJ3TlRxcUFYcEsxZnVIVFBNbkRqTGZWVWxyOUZFOWZVRkdXZXVNdnllbFNUeE1mSDBia0lhUzU0ZjB1SHNsSDRZVHVGWjh3SlBLdm1wVnRkUFpTNmZxQ3VsR3o5YTJoWnJBRkNmMFllMW9mdDlOWTVOdEdXOE0?oc=5",
+      "pubDate": "2026-09-25T03:25:05+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "円安の要因は「直接投資の不足」 物価高への影響は限定的 明治学院大・佐々木百合教授",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yUmd4RUdmd0tadVY0LWFELUdKYTdLSllFSUFzRVVkc3ZTY0RJQXEyUTJKRVJBbW9ESzVBNEgzT05EYkdGRmJvTEI3a1NhTVJMZ2N4Z19sdk11Y0dQbnhLdFNZangwWEhjWWlCUWxBZkJ5NThVR1E?oc=5",
-      "pubDate": "2026-09-24T20:28:11+09:00",
-      "source": "産経ニュース"
+      "title": "1ドル＝159円台に 円安進む 約3週間ぶり円安水準 レートチェック効果は帳消しに（TBS NEWS DIG Powered by JNN）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjUWpscnBHWWpkMGVLOE9JUFdZMi1kSXVYcUNhN0x0ZmRRNEtnRTNyV0dtZDB1RUVUbVhmaWtTNG04VXlQd0llVWFoaEVHZG9oVGZ5b1ljaXUxNmI1Rnh0QVZ5UWVHUWpLaFZCMG0yQmh3QUYyOXRDT3N6c0JJdjQ?oc=5",
+      "pubDate": "2026-09-25T03:11:32+09:00",
+      "source": "Yahoo!ニュース"
     },
     {
-      "title": "スイス中銀が金利据え置き、物価圧力限定 「必要に応じ」為替介入",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56Y3Q1SUdDYlJiLVB4YWp1eEg4X3JCYjlqWXBLcXZVc2V1TzhBTnV1Z2hoN2NUbzNPcUpraVZJMjlEaVRseTR3MUQwUHdsMTBsa29IbXdSZXN5cEZ2REhvNnoxQnRyUFZYclEwVWlaTjFIWXNHSkw0cTRYalhkUQ?oc=5",
-      "pubDate": "2026-09-24T20:26:18+09:00",
-      "source": "Reuters"
+      "title": "NY外為:ドル高止まり、米7年債入札も不調、長期金利上昇",
+      "link": "https://zai.diamond.jp/articles/-/496177",
+      "pubDate": "2026-09-25T03:10:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "1ドル＝159円台に 円安進む 約3週間ぶり円安水準 レートチェック効果は帳消しに",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCTXVlQVBTaFduR05DcUUwT3B6SWpvTm16SmIxbmlRSWxzT19Ha0d2VHRGZ2o0U3NEXy1UVEZrZS1FTnN6RGEtUkxBQjh5RnBUVDlzeWU1WQ?oc=5",
+      "pubDate": "2026-09-25T03:05:31+09:00",
+      "source": "TBS NEWS DIG"
+    },
+    {
+      "title": "円が対ドルで下落、一時159円台－為替介入観測が再浮上（Bloomberg）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qTlYwQ0VYcU1OUy1TMEg2c05NamQxV01IWUhSTTFNZ0pHMVdueUNkd0RnREIxWVVJTlRzWEZUQzhDRGVoSzc3SmVkN05DRTNWTEhPZ29NWHU3RmtFSUliRVFQLWhXQTJoUmEtekNUNTNmbFZGb3hPcmhmZUhaYk0?oc=5",
+      "pubDate": "2026-09-25T02:41:35+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･2時 ドル円 上昇一服(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMzNNeFBUNENxcXg1eHNIX2VtYTdmX2l5WndhZzNXM1I1ZnZVUXE0S2p0dEFOcXUyVlZjY1JpaTNMNzNmS1ZWR1lGbkE3OTZZb2xVRGNFemtLdjR2SFotcm9ycXZTelREWlJyUFdvaFBIaEdzclh4bThQbUpxMUdGN01HVVJ2cDg?oc=5",
+      "pubDate": "2026-09-25T02:06:03+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･2時 ドル円 上昇一服",
+      "link": "https://zai.diamond.jp/articles/-/496171",
+      "pubDate": "2026-09-25T02:06:00+09:00",
+      "source": "ザイFX！"
     }
   ]
 }
