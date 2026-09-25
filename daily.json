@@ -1,41 +1,37 @@
 {
-  "updatedAt": "2026-09-24T13:57:40+09:00",
+  "updatedAt": "2026-09-25T14:02:37+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "158円台回復　追加介入は困難な情勢に",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜158円台回復　追加介入は困難な情勢に」 外為どっとコム トゥデイ 2026年9月24日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/24/080829",
-    "publishedAt": "2026-09-24T08:08:29+09:00",
-    "createdAt": "2026-09-24T08:30:00+09:00",
+    "headline": "一時159円台　200日移動平均線を上抜け上昇加速か",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜一時159円台　200日移動平均線を上抜け上昇加速か」 外為どっとコム トゥデイ 2026年9月25日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/25/082135",
+    "publishedAt": "2026-09-25T08:21:35+09:00",
+    "createdAt": "2026-09-25T08:30:00+09:00",
     "forecastRange": {
-      "low": 157.5,
-      "high": 159.3
+      "low": 158.0,
+      "high": 159.8
     },
-    "outlook": "目先の上値余地が広がる",
+    "outlook": "上昇しやすい地合い",
     "factors": [
-      "ユーロ圏PMI予想を上回る",
-      "英PMI 製造業は上昇",
-      "米総合PMI 約5年ぶり高水準"
+      "豪雇用統計 新規雇用者数は増加",
+      "片山財務相 けん制発言",
+      "独IFO企業景況感指数 2023年5月以来の高水準"
     ],
     "events": [
       {
-        "text": "10:30 〇 (豪) 8月新規雇用者数",
-        "importance": "medium"
+        "text": "18:15 ◎ (英) ベイリーBOE総裁講演",
+        "importance": "high"
       },
       {
-        "text": "10:30 〇 (豪) 8月失業率",
-        "importance": "medium"
-      },
-      {
-        "text": "21:30 〇 (米) 新規失業保険申請件数",
+        "text": "21:30 〇 (米) 8月耐久財受注",
         "importance": "medium"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260924/20260924080656.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260925/20260925081959.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
