@@ -1,26 +1,69 @@
 {
-  "updatedAt": "2026-09-26T19:18:07+09:00",
+  "updatedAt": "2026-09-26T23:44:43+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "ドル円に「デスクロス」迫る、トランプ氏が歓迎する円高進行",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OTTF4TEJybjdZTE55Nlc0Wk1IWC12dFgwUmJoNGNOSDg1TE9QRHFzMWoyUVB3TWJsd25qWk1tZnQ4Zy1vUERZdzloY2lmRS1xR0dwdmYxS0pZQTFVbUQ5WkRDQ2ZVNzRFbVAzNFVXbTJJR3dO?oc=5",
+      "pubDate": "2026-09-26T22:35:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "【日本株】2026年・秋の「おすすめ大型株」2銘柄！ 原油高＆円安が追い風の｢INPEX｣、ディズニーシーの25周年イベントが好調な｢オリエンタルランド｣に注目(ダイヤモンド・ザイ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZG5YblBWWlVraVpVTGFwNFRPa1dzZE5NeFRvSmt3U0NHX01UNzljWjJ2d0JJTzJpY2tLeG9EZXZXMmh4aWRCOTMxa3B2bnpHQlNhNTM5eHFUUF94ZmE2bndIaGwzOVVfVC1KdHh2VDFiYXpNcGF5TlJzTURzYngyNmlDTTB6NGs?oc=5",
+      "pubDate": "2026-09-26T21:20:31+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【ドル円予想2026/9/14】1ドル=140円は既定路線?円の価値が上がっているから?★分かり易いFX情報番組",
+      "link": "https://www.youtube.com/watch?v=NLRrhSsgbi8",
+      "pubDate": "2026-09-26T19:15:00+09:00",
+      "source": "ひまわり証券"
+    },
+    {
+      "title": "【ドル円予想2026/9/18】ドル円はまだ上がる?日米金融政策通過後の材料をチェック!★分かり易いFX情報番組",
+      "link": "https://www.youtube.com/watch?v=Xf3p4Ae3_e4",
+      "pubDate": "2026-09-26T18:19:00+09:00",
+      "source": "ひまわり証券"
+    },
+    {
+      "title": "為替週間見通し:伸び悩みか、米インフレ加速も為替介入への警戒が重石",
+      "link": "https://www.zaikei.co.jp/article/20260926/871304.html",
+      "pubDate": "2026-09-26T15:39:00+09:00",
+      "source": "財経新聞"
+    },
+    {
       "title": "ユーロ週間見通し：弱含みか、域内にインフレ圧力も為替介入に警戒(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2V0YjNaT1BXaDJEVU5EcTBQWHRfNVE0T1dEZHF4MjYwSHpZMDVzUkkxTGFfcWxISmNRVnpEd2t1YnZwUTh2S0QtMktWN015UmFLdUdUaXJmMEtfRzdYNEo2UEkycjJBWHdzTlcyX0NBMUNSSHJIZEt5aEpXSHBVdWN1M3VueEU?oc=5",
       "pubDate": "2026-09-26T15:27:23+09:00",
-      "source": "finance.yahoo.co.jp"
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ユーロ週間見通し:弱含みか、域内にインフレ圧力も為替介入に警戒",
+      "link": "https://www.zaikei.co.jp/article/20260926/871306.html",
+      "pubDate": "2026-09-26T15:27:00+09:00",
+      "source": "財経新聞"
     },
     {
       "title": "英ポンド週間見通し：伸び悩みか、英引き締め加速に期待も為替介入に警戒(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0RPQXl0VGlnOG9XOHpBRVB0Qm9CTTBHcW9jM05PMmZjSV93d1AxWEJUNEhTZFlQbGFvVWY5RURuWUNHOVZ0ejhFNHN3bXZ4enh2MXZCc01tSU9lV2xST05sdnYxOHhNdVNXdTd1b2VYUlFuOVEzZXJzdTJndFY1dEI2dlJlaFE?oc=5",
       "pubDate": "2026-09-26T15:26:40+09:00",
-      "source": "finance.yahoo.co.jp"
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "英ポンド週間見通し:伸び悩みか、英引き締め加速に期待も為替介入に警戒",
+      "link": "https://www.zaikei.co.jp/article/20260926/871305.html",
+      "pubDate": "2026-09-26T15:26:00+09:00",
+      "source": "財経新聞"
     },
     {
       "title": "為替週間見通し：伸び悩みか、米インフレ加速も為替介入への警戒が重石(フィスコ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT040X3pSMDJsM0o0d29Pd0pxc1F1OV9XdmNPaXJMZmVrOXg4amxnclJhV3hFa3B2ZjQ2OTN0Y21fS25pcmd5WC1MVFpGejNpUHV1V1YyUTZDcnh6dS1wWkpnR1psTG82ZmxJRHZyWXJvYlVmN0E5R1czcFJMc0xkM2RPRzJZbGc?oc=5",
       "pubDate": "2026-09-26T15:25:42+09:00",
-      "source": "finance.yahoo.co.jp"
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "円安対応で日米足並み｜モーサテサタデー",
@@ -35,58 +78,16 @@
       "source": "毎日新聞"
     },
     {
-      "title": "【日本株】2026年・秋の「おすすめ大型株」2銘柄！ 原油高＆円安が追い風の｢INPEX｣、ディズニーシーの25周年イベントが好調な｢オリエンタルランド｣に注目",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuT1padWVqZ3JjLUVKUWNUTklBOHZ6T1NnRDJINFlzS0hXVTVId0ROTk1qQXhxRU52Vk01UTJuU3NZVGxJRk5RQTIydVIwMnVzWnc0?oc=5",
-      "pubDate": "2026-09-26T08:00:00+09:00",
-      "source": "ダイヤモンド・オンライン"
-    },
-    {
-      "title": "大型連休直前の日銀“不意打ち”レートチェックでも止まらぬ円安圧力 為替動向に株式市場が大きく左右される局面で注目される「日銀短観の想定為替レート」の水準（マネーポストWEB）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lQUZzQkMtR3N0czJRbmUtVHJUSVVpMGF0S0Q4VkhiMV9fWlhqcWFvcHVsck05LXQ5WHNTZ295bjVYVUt0cTdXc29YV2tCcmZkRFZBbU05NGxTc2pfTkVITVR3ZDlvSjNKVFNVMVc4RG5xSEpDLVMyeTh5MGNnZE0?oc=5",
-      "pubDate": "2026-09-26T07:15:00+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "２５日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LNTVLTVllcWZEeVQ0a21abEk4T2hIU3J0MXdlcGozMm9fckhWYzFBNHdDYm0tUmt0bUdLc2huYlVkdzczWndHMQ?oc=5",
-      "pubDate": "2026-09-26T06:20:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "25日レンジ ドル円 156.94- 158.95円(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQkdOQmNqaXY2Y2staFd2Q3dweEZKaHFnT1hYRTBpNEpKNnVCUldCVHM2RVhrSE1tSzhjUEhYZWhXVnN2R0ZqbVliZVM4b1l0NlM1N0dHRnp3RGNKZENISGtzUkdneUhyX2tnSW5HWUpqLXBlNWE5WEVnaGJLU09LRXdfalRUcE0?oc=5",
-      "pubDate": "2026-09-26T06:20:03+09:00",
-      "source": "finance.yahoo.co.jp"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・25日 ドル円、6日ぶり反落｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fX1pvS3dtRnhCa3ZPbndPTC01TzJuSlVQeXRHcGEzZ2Z4UkNCZHRCM180aU1Mby02TUlqZTFUdTdGZTJSNnZaNEZxOFdxeF85NVE?oc=5",
-      "pubDate": "2026-09-26T06:03:00+09:00",
+      "title": "世界各国通貨に対する円:対ドル0.03%高、対ユーロ0.02%高",
+      "link": "https://zai.diamond.jp/articles/-/496266",
+      "pubDate": "2026-09-26T09:35:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "来週の為替予想（米ドル/円）159円台で円安容認観測に変化、FRBと日銀どちらが10月利上げに近づくか ハロンズFX 2026/9/26",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wUDVVTmZOcFZLTmxJNzJKZTdUdGljYTk1SnhBQUZFcVExamtpeW1FUlh2UE5TNWJKdFJKVkI5NnZUY1VsNGZ6UmZMZkt1M0dQTkszemdtY1AyWk0zQzkydE9ZWQ?oc=5",
-      "pubDate": "2026-09-26T06:02:35+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "日米財務相が25日夜にオンライン会談「円の過小評価は問題」日米首脳会談ではトランプ大統領が円安に懸念 円相場は1ドル156円台つける場面も",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93MGZNcDRXV21Bb3pGRXZvak51UE1wNGIxeS1nMWFHTTUzclZZUHhpQkVkemVJYmxFOGE5bW45OVVWRWN0MnlTWVBGU0tSVGJocDMzTmljYw?oc=5",
-      "pubDate": "2026-09-26T05:41:23+09:00",
-      "source": "TBS NEWS DIG"
-    },
-    {
-      "title": "ドル円、一時１５６円台に下落 日米の口先介入で円高が強まる＝ＮＹ為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SWjFpaUhOX2tSaGJBRXJsb09RTmlvaDc5NmhHbThXWGlQTS13YzZSSzFWeWxzOVU5T1VlMnhfV1p2aVJQRExBdw?oc=5",
-      "pubDate": "2026-09-26T05:40:57+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "［青木さやか お金を学ぶ］円安 どう備えればよいのか…円だけに資産を集中させない",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYMlZBWEhxMWk0cGxobzNvYmp2UnlaRWFhVFYzWXM0M3BmZjVOMjVCUG4yLVpPVlZSV2VsUkJibExwUUVjczRta1MwVzdiWnBlM1I5cHlrY1UzOGtwNG1SZQ?oc=5",
-      "pubDate": "2026-09-26T05:00:00+09:00",
-      "source": "読売新聞"
+      "title": "【ドル円予想2026/9/9】ドル円は米10年債の入札後に再び下落?FRBの利上げより重要な2つのポイント★分かり易いFX情報番組",
+      "link": "https://www.youtube.com/watch?v=DuTELiccgGQ",
+      "pubDate": "2026-09-26T08:11:00+09:00",
+      "source": "ひまわり証券"
     }
   ]
 }
