@@ -1,33 +1,41 @@
 {
-  "updatedAt": "2026-09-28T14:30:01+09:00",
+  "updatedAt": "2026-09-29T14:48:43+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "日米当局の相次ぐ円安けん制が重石　156円台では底堅さも",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜日米当局の相次ぐ円安けん制が重石　156円台では底堅さも」 外為どっとコム トゥデイ 2026年9月28日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/28/081814",
-    "publishedAt": "2026-09-28T08:18:14+09:00",
-    "createdAt": "2026-09-28T08:10:00+09:00",
+    "headline": "原油高を背景に切り返し　口先介入の効果は一時的",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜原油高を背景に切り返し　口先介入の効果は一時的」 外為どっとコム トゥデイ 2026年9月29日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/29/083008",
+    "publishedAt": "2026-09-29T08:30:08+09:00",
+    "createdAt": "2026-09-29T08:20:00+09:00",
     "forecastRange": {
-      "low": 156.8,
-      "high": 158.4
+      "low": 156.5,
+      "high": 158.2
     },
-    "outlook": "156円台では下値が支えられやすい",
+    "outlook": "158円台の回復をうかがう展開",
     "factors": [
-      "米大統領から円安への懸念",
-      "BOE総裁「証拠が得られる頃にはすでに手遅れ」",
-      "米耐久財受注 予想を上回る"
+      "三村財務官「素直に受け止めてくれればいい」",
+      "ECB総裁「慎重な対応が適切」",
+      "米大統領「制裁緩和用意ある」と報道"
     ],
     "events": [
       {
-        "text": "23:00 ◎ (ユーロ圏) ラガルドECB総裁講演",
+        "text": "13:30 ◎ (豪) RBA政策金利",
         "importance": "high"
+      },
+      {
+        "text": "14:30 ◎ (豪) ブロックRBA総裁講演",
+        "importance": "high"
+      },
+      {
+        "text": "23:00 〇 (米) 8月JOLTS求人件数",
+        "importance": "medium"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260928/20260928081416.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260929/20260929082830.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
