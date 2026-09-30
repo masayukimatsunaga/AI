@@ -1,41 +1,53 @@
 {
-  "updatedAt": "2026-09-29T14:48:43+09:00",
+  "updatedAt": "2026-09-30T14:38:13+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "原油高を背景に切り返し　口先介入の効果は一時的",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜原油高を背景に切り返し　口先介入の効果は一時的」 外為どっとコム トゥデイ 2026年9月29日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/29/083008",
-    "publishedAt": "2026-09-29T08:30:08+09:00",
-    "createdAt": "2026-09-29T08:20:00+09:00",
+    "headline": "米早期追加利上げはデータ次第 PCEデフレーターに注目集まる",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜米早期追加利上げはデータ次第 PCEデフレーターに注目集まる」 外為どっとコム トゥデイ 2026年9月30日号",
+    "url": "https://www.gaitame.com/media/entry/2026/09/30/081349",
+    "publishedAt": "2026-09-30T08:13:49+09:00",
+    "createdAt": "2026-09-30T08:10:00+09:00",
     "forecastRange": {
-      "low": 156.5,
+      "low": 156.6,
       "high": 158.2
     },
-    "outlook": "158円台の回復をうかがう展開",
+    "outlook": "158円台に乗せると上値が抑えられやすくなりそう",
     "factors": [
-      "三村財務官「素直に受け止めてくれればいい」",
-      "ECB総裁「慎重な対応が適切」",
-      "米大統領「制裁緩和用意ある」と報道"
+      "RBA 予想通りの利上げ",
+      "米消費者マインドが悪化",
+      "NY連銀総裁「性急に行動する必要はない」"
     ],
     "events": [
       {
-        "text": "13:30 ◎ (豪) RBA政策金利",
-        "importance": "high"
-      },
-      {
-        "text": "14:30 ◎ (豪) ブロックRBA総裁講演",
-        "importance": "high"
-      },
-      {
-        "text": "23:00 〇 (米) 8月JOLTS求人件数",
+        "text": "10:30 〇 (中) 9月製造業PMI",
         "importance": "medium"
+      },
+      {
+        "text": "10:30 〇 (中) 9月非製造業PMI",
+        "importance": "medium"
+      },
+      {
+        "text": "10:30 〇 (豪) 8月消費者物価指数",
+        "importance": "medium"
+      },
+      {
+        "text": "21:00 〇 (独) 9月消費者物価指数",
+        "importance": "medium"
+      },
+      {
+        "text": "21:15 ◎ (米) 9月ADP全国雇用者数",
+        "importance": "high"
+      },
+      {
+        "text": "21:30 ◎ (米) 8月個人所得",
+        "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260929/20260929082830.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260930/20260930080749.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
