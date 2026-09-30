@@ -1,92 +1,93 @@
 {
-  "updatedAt": "2026-09-30T10:37:37+09:00",
+  "updatedAt": "2026-09-30T16:30:22+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "外為：スイスフラン、188円12銭前後と大幅なフラン安・円高で推移",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaV1VnVGpzZ1JnT1oyQzVZdU1abEdzZkdaV0Zwci0zZGI5bmJnSE5zWjUyZlR6WkpWeUEyeU5fNVhiU0djT0M1OGY2cHFFbENJa0dvclRIQW82Y1BJS0V6akd3?oc=5",
-      "pubDate": "2026-09-30T10:31:05+09:00",
-      "source": "株探"
+      "title": "【ドル/円、今夜の見通し】ドル/円、月末フローで156円台へ下落…原油価格の下落や米利上げ観測後退も重しに、PCEデフレーターに注目＿2026/9/30",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNZDFFUlZSMnEyLXlULS0wQnNIVmk2cnIxR2hYdTNSMmk0UlhBWWZsM05maXEzeDY3WjRiS3JuZEZ4U1BsQ2t2UnpOT3c4UERjdDh3Zmp0MnR2RGJ6VFVtVm5FWQ?oc=5",
+      "pubDate": "2026-09-30T16:26:00+09:00",
+      "source": "外為どっとコム"
     },
     {
-      "title": "ドル円 156.83円まで弱含み、昨日の安値を下回る｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qdzBJMHhhd2VwNzNZVFVPNlVvV3dxNHk3VFc3OV9FQ21KU0xoNmE1bEY2S1FSWTVSYXJ2YTFBc01rX1pPbVJ4U1p0S1NzVndXMVE?oc=5",
-      "pubDate": "2026-09-30T10:22:00+09:00",
-      "source": "zai.diamond.jp"
+      "title": "ドル円は157円台前半で底堅く推移、円買い一服し高止まり",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IUzJqNUJ6VHpjWWtESW1Bdy00WnctS0NvWnhFNlQyQVViQ1V4SjQwTXRfS2lHRnY4eWh5S1I4N21tMXZNUmpLZi1iVUZJNU8wZVFVeEFWMzVmREdxS3FrWUx5UmNodjM3bjJsNW9fRDdMc01C?oc=5",
+      "pubDate": "2026-09-30T16:25:00+09:00",
+      "source": "finance.biggo.jp"
     },
     {
-      "title": "ドル円予想レンジ156.60～157.80円 注目通貨は豪ドル（9/30）",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ySkpGWHZBUXUzaFdGQWdMZHl4WUM1NE9Jbk5wWXctWkpsTzZoNTNNMnhpbE9TNTNVWGwzMVZXWlk0LWI4Y1JQZU1IZTJJU1E3NEotNg?oc=5",
-      "pubDate": "2026-09-30T10:21:15+09:00",
-      "source": "日経CNBC online"
+      "title": "東京為替:ドル・円は軟調、午後は戻りが鈍い",
+      "link": "https://www.zaikei.co.jp/article/20260930/871796.html",
+      "pubDate": "2026-09-30T16:11:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "東京外国為替市場概況・10時 ドル円、弱含み(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQak5UTnlUOFRZcjN6ZXZSZG03LW1SWU9tRkhrdVg5Wl9pNTYwRG1kRUNYTHM0SUNqT1dHbEpHanJjaEo5dHNEdGlFeGR5cTJNVkU3bWFyYzVlb3ZBbzMxWWpPRmFiTFlpS2tQRkRiX0djbkFNV2I5OWR4RzJTOUczYVNJNmVkcGM?oc=5",
-      "pubDate": "2026-09-30T10:06:05+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "ドル・円は伸び悩みか、米インフレ高進も上値で為替介入に警戒",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yMERLWUFXYUNreWJtM2dvanJBRmtZUldRSkduN0ZtYy11ZG1LZUhmcEJOQm9sQ1BoeTRDRVBuZG02cllWY29CZTZRV21IV29TcEE?oc=5",
+      "pubDate": "2026-09-30T15:47:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "ドル円仲値、157.35円 三菱UFJ銀行(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0xuSDlMUU5kTHlGUFc4UWh5ekwxMnBCM2I4UTM3aEszTVlMTWxPS0UxTmQ4aDNWaXlrcmQtdk81eXhaZGo3dnBoTDZ6bjdOVVVNcWJTZTVxSjUyeDFnNks1SURQZzItTkxfTkdBbVh1ZWY3UEE5YldHWjcwMXBjSEtwS1Mtdkk?oc=5",
-      "pubDate": "2026-09-30T10:02:48+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "外為：1ドル157円12銭前後とドル安・円高で推移",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oNHZiWHdjUS1TRzBLNHZnalUzeE5xV0pwbGxrODV2MVFtWE5uWFkxR29UTzJUZFA3dGpSdDZIWVhFSmZwTk01Z2FrUjFYenNoclVsNUpBNl9ySDc2THBqOUJ3?oc=5",
-      "pubDate": "2026-09-30T10:01:02+09:00",
-      "source": "株探"
-    },
-    {
-      "title": "三菱ＵＦＪ銀 ドル円 公表仲値 １５７．３５",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42MXZmQ2pyYnQ5N1Y4M2NmTFFjd2VhQ2lMYWFOejgxelRlOXUtc1I0RFY4Y05UNzlEbGtIZW1oM2RjU1hya0xEdA?oc=5",
-      "pubDate": "2026-09-30T09:56:57+09:00",
+      "title": "【これからの見通し】材料多いなかで、ドル円は下値を模索するか",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42Wi1fbUNPTFRsSXVkY1ZSQmRodlFkd2g5TEFKUkc2Y1hDVHRoSERWd3RVT3I3c1hTYy1oYXd1Yzl2TUE0S3pwbA?oc=5",
+      "pubDate": "2026-09-30T15:42:57+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ドル円、157円台半ばでもみ合いへ 米PCEと介入警戒が焦点",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpeVpKX2RYWXR6dk1YRzNhMUlXeEcxMlFqbWtOM1VkSGVTUWlkdmhvS09EeHg2RUJ6Y0hDb1U4YWdQaTlJbVpOTHAtQWQyM2hRZ3k4RjBSRk1vb3l3Sm0yalVCUTFyaE5zR1B3SFlya3A3MXhY?oc=5",
-      "pubDate": "2026-09-30T09:40:09+09:00",
-      "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "ドル円今週の予想（9月28日）サンワード証券の陳氏(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTnFBYVJ3VHByV0pMWkJfZExLY2ZKcmY5R1Z6OVBVeUZoSkVqX3hPUkRGa245MnJBeVVWOUhhUWhWR2RBdEdSNkxRWE81em0yS1VkU0hJRFJWV2lEcmhDTF9fTmEtQk5raGtYOTRaeUszcGg0MVpFMlRKRVZjMXc5eFhob2hEMWM?oc=5",
-      "pubDate": "2026-09-30T09:34:43+09:00",
+      "title": "３０日の東京外国為替市場＝ドル・円、１５６円台後半で推移(ウエルスアドバイザー)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjFDUnZUamwyNWZwemJaTUFTNFgwaFAyM2JmN0VDQWI5XzQ4VnRpWF84ZHZhbURJQkt0VGcycFpFT2FqZXhYUmFwS1gtRDRhcXhFRzhfVkdkbUhJZ1B1a2Q2dmY2Q3VWOVYxd2tralJqQ3pRZ0F5V0ZwUENETi1TVzlwa1FKb3c?oc=5",
+      "pubDate": "2026-09-30T15:34:36+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "東京為替：ドル・円は上昇一服、157円30銭台へ軟化(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX200MWt4TDY3azNFRkUtMVgtNV81OENIa01nSU9MX2s1VVBDUjV5WVFVUzB6NVZKMklsREIyUlFGdzdGLWFVai01X0FJY2t3c2J2UHNzWnJTWnM4YVZGM0p2YVU2alJqZ1VUdWFyZVRrRmpaZU16cUpKT0wxQXNBblp0TmVvNUE?oc=5",
-      "pubDate": "2026-09-30T09:32:47+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "３０日の東京外国為替市場＝ドル・円、１５６円台後半で推移 速報",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uMXJvbExSNkM5ZG03ZkpPaG1rTVZTVHhwZjZrcEFFa183Nk1XcWdOek1qazd1V2pQdDRNSld2cnJDRnF4S1JJ?oc=5",
+      "pubDate": "2026-09-30T15:34:00+09:00",
+      "source": "kabushiki.jp"
     },
     {
-      "title": "ドル円理論価格 1ドル＝156.26円（前日比-1.12円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XajJwLXNQZDNaLWlrdk0zT19XRElDSEFEZ3cxV1RRR1hySW5mendGTkZBMG5DWGc3N0JCUTNkLVVZSS04MnlYYg?oc=5",
-      "pubDate": "2026-09-30T09:15:57+09:00",
+      "title": "ドル円は午前に大きく円買い、その後反発＝東京為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lQ0Z4Vnl4ZkpnXzViYnBuUjA3Z1BWYWpmMk54MC15S2JSN2dXS1VDeW02Q2tjVE91T2ktWFpHRTQtWFg0M21lSQ?oc=5",
+      "pubDate": "2026-09-30T15:32:57+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "29日は原油WTIが低下、ドル円は小幅に下落",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZkdkWWRCREdSWGNsM1JYb2RsTFc3a1pnUHlSd0ZCdkVYTnlabGUyMTdydGFBM1BEZlczM2pDaU9PS2lEVTlNdDhaSmdOTENlVDdZcFVpTG9JT0dUZlp6XzIwZm9kMlRJbU9HNzc1b1BERnVTdW4yWVpwRHhuazdCVkpB?oc=5",
-      "pubDate": "2026-09-30T09:13:00+09:00",
-      "source": "FOREX.com"
+      "title": "東京為替:ドル・円は失速、ドル売り地合いで",
+      "link": "https://www.zaikei.co.jp/article/20260930/871781.html",
+      "pubDate": "2026-09-30T15:27:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "NY円、157円台前半 日本の為替介入への警戒続く",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rY3o0SkYtNzFXRFJneWpLZFdYMnRMMDRrOHVYY0dKS1lqeVUxb19VOTdzcXJVUmF5NFFiZUZJQjRybEtTQ1BTNHpTM214YS1SNXoyUkdua2pVUnc2MU1IaFl1QlpkODNu?oc=5",
-      "pubDate": "2026-09-30T09:10:29+09:00",
-      "source": "毎日新聞"
+      "title": "FX個人投資家動向｜欧州・オセアニア通貨のショートが減少、原油安・米タカ派緩和でドル円軟化 2026年9月30日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02QV9BdHExVFFvOGRDNXA0aU5qd2xKaFd3QnZfUi11QXRTZjRvX3FmMmxpQ2hJNzhkeXRYdWhUTEpTT3FKZFdlT1hXeFJaMXVPYmUxV3RnV1MwVktOczM5ZS1rWQ?oc=5",
+      "pubDate": "2026-09-30T15:19:00+09:00",
+      "source": "外為どっとコム"
     },
     {
-      "title": "円相場、１５７円４２～４３銭＝３０日午前９時現在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11UDREaUFWOS1wYVF4QnVSOXhzLWstbFFtUFJZQlNaX2ZEaS1DN0dzTWpqYXhxeUtsVXR5bDU0X1BweTJ5VGVXbWVfa2FkQ1h5SF9FVQ?oc=5",
-      "pubDate": "2026-09-30T09:07:00+09:00",
-      "source": "時事通信ニュース"
+      "title": "東京外国為替市場概況・15時 ドル円 買い戻し(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1c0VWw4NEtmcnI3VlN4bWYxNzNPNlFvbEU1Z2hVNnVtV0dKSlh2TE5RWWd0cDJHTFRuZkR1N253MHZYczZkUlF2UzVmQXVqR21oczAyZmJNeHNIZ3B0TFZrYlNDN1k4SUZEZmliRkRzNUVqcEI3RDZFY1U3YjVSclIwVnV0bEk?oc=5",
+      "pubDate": "2026-09-30T15:14:04+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "外為：1ドル156円90銭前後とドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORnNoU0hVbWttYlA1aUdOdHgzazJUOGRSRUVMODZIYmFIMDRCdlZjUDFOSk1NeTZpejZJYW15c1NCUmZpUzZxd3RXTVhSQ0xoeVNnN3VvaFo5ZGlyVVNSUloxak5ia2t1ZG1DaHN5bEhQdy04Sm9qZVVlV3M4X3N4cG93TXc0Vms?oc=5",
+      "pubDate": "2026-09-30T15:01:56+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "10月連続利上げ、日米で織り込み後退 円安修正進む",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16WVRpb3A3cGZIOElhV3RkVFpxT0VZb2VuT1ZsUTZLMUFZMGtZVWZ4TWJRRk9XRnNhNFRvWXBGNUFHY0FEckk5aFdXcjVjZ2ttMFVMblFhOGR3QTZUSlQ2Q0N2ZXNwaTNtRE82WA?oc=5",
+      "pubDate": "2026-09-30T14:57:36+09:00",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "【ドル円予想2026/9/30】ADP・PCE通過後のドル売りに警戒!要人発言で流れが変わる?★分かり易いFX情報番組",
+      "link": "https://www.youtube.com/watch?v=U01a4Gwv7Ag",
+      "pubDate": "2026-09-30T14:45:00+09:00",
+      "source": "ひまわり証券"
     }
   ]
 }
