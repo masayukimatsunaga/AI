@@ -1,53 +1,49 @@
 {
-  "updatedAt": "2026-09-30T14:38:13+09:00",
+  "updatedAt": "2026-10-01T15:02:24+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "米早期追加利上げはデータ次第 PCEデフレーターに注目集まる",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜米早期追加利上げはデータ次第 PCEデフレーターに注目集まる」 外為どっとコム トゥデイ 2026年9月30日号",
-    "url": "https://www.gaitame.com/media/entry/2026/09/30/081349",
-    "publishedAt": "2026-09-30T08:13:49+09:00",
-    "createdAt": "2026-09-30T08:10:00+09:00",
+    "headline": "FRBの利上げ織り込み低下　日銀の連続利上げは？",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜FRBの利上げ織り込み低下　日銀の連続利上げは？」 外為どっとコム トゥデイ 2026年10月1日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/01/082203",
+    "publishedAt": "2026-10-01T08:22:03+09:00",
+    "createdAt": "2026-10-01T08:20:00+09:00",
     "forecastRange": {
-      "low": 156.6,
-      "high": 158.2
+      "low": 156.5,
+      "high": 157.9
     },
-    "outlook": "158円台に乗せると上値が抑えられやすくなりそう",
+    "outlook": "レンジ取引が続く公算が大きい",
     "factors": [
-      "RBA 予想通りの利上げ",
-      "米消費者マインドが悪化",
-      "NY連銀総裁「性急に行動する必要はない」"
+      "豪CPI 予想を下回る",
+      "英GDP 上方修正",
+      "独CPI伸びが加速"
     ],
     "events": [
       {
-        "text": "10:30 〇 (中) 9月製造業PMI",
-        "importance": "medium"
-      },
-      {
-        "text": "10:30 〇 (中) 9月非製造業PMI",
-        "importance": "medium"
-      },
-      {
-        "text": "10:30 〇 (豪) 8月消費者物価指数",
-        "importance": "medium"
-      },
-      {
-        "text": "21:00 〇 (独) 9月消費者物価指数",
-        "importance": "medium"
-      },
-      {
-        "text": "21:15 ◎ (米) 9月ADP全国雇用者数",
+        "text": "17:00 ◎ (英) ベイリーBOE総裁講演",
         "importance": "high"
       },
       {
-        "text": "21:30 ◎ (米) 8月個人所得",
+        "text": "21:30 〇 (米) 新規失業保険申請件数",
+        "importance": "medium"
+      },
+      {
+        "text": "22:30 ◎ (ユーロ圏) ラガルドECB総裁講演",
         "importance": "high"
+      },
+      {
+        "text": "23:00 ◎ (米) 9月ISM製造業景況指数",
+        "importance": "high"
+      },
+      {
+        "text": "08:30 〇 (日) 9月東京都区部消費者物価指数",
+        "importance": "medium"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20260930/20260930080749.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261001/20261001081632.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
