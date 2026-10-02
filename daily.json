@@ -1,49 +1,45 @@
 {
-  "updatedAt": "2026-10-01T15:02:24+09:00",
+  "updatedAt": "2026-10-02T14:45:35+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "FRBの利上げ織り込み低下　日銀の連続利上げは？",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜FRBの利上げ織り込み低下　日銀の連続利上げは？」 外為どっとコム トゥデイ 2026年10月1日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/01/082203",
-    "publishedAt": "2026-10-01T08:22:03+09:00",
-    "createdAt": "2026-10-01T08:20:00+09:00",
+    "headline": "米雇用統計はFRBの早期利上げを巡り平均時給に焦点",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜米雇用統計はFRBの早期利上げを巡り平均時給に焦点」 外為どっとコム トゥデイ 2026年10月2日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/02/083753",
+    "publishedAt": "2026-10-02T08:37:53+09:00",
+    "createdAt": "2026-10-02T08:30:00+09:00",
     "forecastRange": {
-      "low": 156.5,
-      "high": 157.9
+      "low": 157.2,
+      "high": 159.0
     },
-    "outlook": "レンジ取引が続く公算が大きい",
+    "outlook": "米雇用統計は平均時給に注目",
     "factors": [
-      "豪CPI 予想を下回る",
-      "英GDP 上方修正",
-      "独CPI伸びが加速"
+      "日銀主な意見公表",
+      "仏政府 緊縮型予算案を提出",
+      "米新規失業保険申請件数 予想を下回る"
     ],
     "events": [
       {
-        "text": "17:00 ◎ (英) ベイリーBOE総裁講演",
-        "importance": "high"
-      },
-      {
-        "text": "21:30 〇 (米) 新規失業保険申請件数",
+        "text": "18:00 〇 (ユーロ圏) 9月消費者物価指数",
         "importance": "medium"
       },
       {
-        "text": "22:30 ◎ (ユーロ圏) ラガルドECB総裁講演",
+        "text": "21:30 ◎ (米) 9月非農業部門雇用者数",
         "importance": "high"
       },
       {
-        "text": "23:00 ◎ (米) 9月ISM製造業景況指数",
+        "text": "21:30 ◎ (米) 9月失業率",
         "importance": "high"
       },
       {
-        "text": "08:30 〇 (日) 9月東京都区部消費者物価指数",
-        "importance": "medium"
+        "text": "21:30 ◎ (米) 9月平均時給",
+        "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261001/20261001081632.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261002/20261002083202.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
