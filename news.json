@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-10-03T08:17:16+09:00",
+  "updatedAt": "2026-10-03T11:21:19+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "米ドル定期預金は本当にお得？ 年4％でも「約6円の円高」で利益が消える(あるじゃん（All About マネー）)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHk3LTVKaTN5aEFZVFRPSlhsN085Mi1ocVpVMWFjTTJXc2NEc3R0QjdfY3MtZlRpVjY1ejc5SmprSktwNDZTU0NIY3d5OTNsMU9QXzdfTm56YzRSRjNNY21EMllKOTg3YnRsb3BERWJ6S1RPWTM3RmVBLWtfTzZxaFVrNW1jX2s?oc=5",
+      "pubDate": "2026-10-03T08:10:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "ドル円、来週は155.50〜159.00円を予想 東京CPI上振れで日銀利上げ観測再燃の芽",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aNTBHSlVvdGhjdl9EX29jUXhuYjlfNm9EMElGYzdkNW5MZWxrZ2htN0RxcG1ESVZ3b0J6ODhXdzJJaUV1Q3VrRWh0ekpMRTRsMzdwZkRrdTEyTmJRVmpWZm54Rlp3clZNLUtKX0pVUldZaVZv?oc=5",
@@ -20,7 +26,7 @@
       "title": "片山財務大臣を単独直撃 円安・金融政策「政府内で統一が図られている」 消費減税めぐり便乗値上げは「週明けにも対策」【news23】",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xN3JVb01YbHkxT2lDT19xOTAtYzl5eEdnSW9YNWw1bDFYcXQ1YnpJZWttSXdDN1BGNVN5UUtJYjE1M2lWZEloTjBzYUNzVUQ2aVhNdjVQQQ?oc=5",
       "pubDate": "2026-10-03T06:04:22+09:00",
-      "source": "TBS NEWS DIG"
+      "source": "newsdig.tbs.co.jp"
     },
     {
       "title": "ニューヨーク外国為替市場概況・2日 ドル円、3日ぶり反落｜FX・為替ニュース",
@@ -47,16 +53,16 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ニューヨーク外国為替市場概況･2時 ドル円、強含み(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQXpzaG9WcGRScGlHUV91TFM3cTFoZms5Vmk4TXFqVy1oVnNxRm1tWUZ5RExKSGdZQXd1OU9BRzMxbjNmTERrWnMwNDE0aDFuN04zVk1YR1pia2xQVlk0b1hSbEJlbVZ1LVNNQWFrbkstdWxPS2J3NEtuT1gyZ21LZU1DaFBfUGM?oc=5",
-      "pubDate": "2026-10-03T02:03:48+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "ニューヨーク外国為替市場概況･2時 ドル円、強含み｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yUHEzcXZuQUlKNzk5NVlPcG53MlVpbkdma3MxX3NCQ1JScThJMGxOamlLc2JOazg0a2RCR09PVUZxZUUwTVVlMGlWMUZ3eVpzYlE?oc=5",
+      "pubDate": "2026-10-03T02:03:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "「円安」日米首脳が認識共有 片山財務相インタビュー 追加介入用意の姿勢",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhQWNHUGFrNS00M242M1h3d1hHLUhrbWpwTVg0aHpQN09qTXp6X0FwQ2JTd1F1amdIRktaSXg2TlZqcDM4eU0weDFqclhFeTZuTktsVFNUbFJTQzF0eV9SV1VSbWVhNHFrZ3oxQQ?oc=5",
       "pubDate": "2026-10-03T02:00:00+09:00",
-      "source": "日本経済新聞"
+      "source": "nikkei.com"
     },
     {
       "title": "ドル円は米雇用統計後の下げ分を関税に解消＝ＮＹ為替",
@@ -77,16 +83,10 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ドル円は１５６．９５円まで下げた後、少し反発＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qdVBDQm9GOEtlMmthejk5R0pxYXJfell5eHd1RTdLT2o0cnNjdlBGYUtPWHVZNWUtRm9YSTN0dnR0XzUwYUo1bg?oc=5",
-      "pubDate": "2026-10-02T21:48:29+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円のピボットは 157.47円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NX3FGUVhBMkVUWDl6TUwxazU5MFhRNVdEVjBSQU1FczRvUWhhaUlHMnREbE5LSmpORG54VXRtX08xRTFmMVduZA?oc=5",
-      "pubDate": "2026-10-02T21:46:29+09:00",
-      "source": "みんかぶ FX/為替"
+      "title": "欧州外国為替市場概況・22時 ドル円、下落｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1heEV6ZGhLU3hFbVd3ckxpNXktSEowRW96anVEOEh1XzN3cHdRanRraXFmaW9YRGNjdHNpR2dMVkJEUDU3U3JRcTBwbHJ6eEszeEE?oc=5",
+      "pubDate": "2026-10-02T22:10:00+09:00",
+      "source": "ザイFX！"
     }
   ]
 }
