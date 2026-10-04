@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T14:59:35+09:00",
+  "updatedAt": "2026-10-04T21:26:19+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -7,14 +7,20 @@
     {
       "title": "来週のドル円相場はどうなる？10/5週のイベント予定 2026年10月4日",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01YjRyOUQzNldQREdPYXNXaWlOS2pHOFBEWVEwUTQ4ZjF6RTVGbTllNmFPVzJFc1g2X2tXWUJTSF96T3VjTEF6TDBhUWlhQmV1T282ZU9TQWpkVy1Lc2F6cEVRWQ?oc=5",
-      "pubDate": "2026-10-04T13:10:49+09:00",
+      "pubDate": "2026-10-04T19:11:43+09:00",
       "source": "外為どっとコム"
     },
     {
       "title": "弱い雇用でもドル円157円台 なぜ米10年金利は5％超？ メキシコペソ急落も整理【相場の現在地】2026/10/4",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxTHI2T1RlaElsSGVVQ1hPblJpeDNlVFBtQkgtc1l3T1BUNy05UXFndXd0aTBUMzRDRUM0d0RTRXdsRnRIZ25YLTQyeUYzM281UDdyMVJBcnRxM3FGeVltT2ZXdw?oc=5",
-      "pubDate": "2026-10-04T12:45:00+09:00",
+      "pubDate": "2026-10-04T18:45:00+09:00",
       "source": "外為どっとコム"
+    },
+    {
+      "title": "為替介入をしてもコントロールはできない。為替のプロが語る「円の歴史」【モヤモヤサテライト】｜SPECIALコンテンツ",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xSDV3eVYxYVJHcEVHb3JtOHA0c0s2Slp1bGRCVHBfSmNxTFViV0szZGw5dWZ2emN2RjJ0OGJ6VjY2VDNzUEhUbUx4NFZzTlFFdFJNd2tVekEtV2w0ZmVQVnVIaEM?oc=5",
+      "pubDate": "2026-10-04T18:00:00+09:00",
+      "source": "テレ東BIZ"
     },
     {
       "title": "【ドル円週間見通し】伸び悩みか 米金利高・ドル高継続も為替介入には警戒",
@@ -23,20 +29,14 @@
       "source": "マネーポストWEB"
     },
     {
-      "title": "弱い米雇用でも157円台 長期金利5％超が円安支える構造に",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kMVdWbFd5TGdWQmJaMjd5bklHVE9kcEhITkdZSEpwanpXV0Rpd2dDV0FYZzZTZWZGLVZJSVRldm00Nm9TSXZ4ZFJkUVBlQ2VoVlIyM3U4MFFpR1hFb0JqblYxclFxaXR4N2NlOFJYLURTc3l5?oc=5",
-      "pubDate": "2026-10-04T07:26:00+09:00",
-      "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "「円安で苦しい」トランプ発言招いた8カ月の不作為 次の壁は防衛費",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzMkt0V1M5Q1I1LUZpTFAyN0tIRmdlUm1jSU5LTW0zRWpyUmxHNVZLVUVYcGwxNV90RVphbU93cFhFNnJkRXI4eTlaWUtJMkhadWNGZWVDbzlUZ2VLamlwWkl0RTYzVjlOTElKaQ?oc=5",
+      "title": "膨らむ食費、「食料自給率」の低迷が拍車 円安のダメージ増幅",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SNGFQaHcwMFFfYmtvS1NvRXFWaV9OLUZoR0llZGg1bFlpaDJkSEdkR011V0JhQTNjNUVQNEFGenJNYVVaQXZ3eGtZUVBPZ1NEMFhfUHppTlB0SU1kRmk1UkdteE5RTkVmZ0RxVg?oc=5",
       "pubDate": "2026-10-04T05:00:00+09:00",
       "source": "日本経済新聞"
     },
     {
-      "title": "膨らむ食費、「食料自給率」の低迷が拍車 円安のダメージ増幅",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SNGFQaHcwMFFfYmtvS1NvRXFWaV9OLUZoR0llZGg1bFlpaDJkSEdkR011V0JhQTNjNUVQNEFGenJNYVVaQXZ3eGtZUVBPZ1NEMFhfUHppTlB0SU1kRmk1UkdteE5RTkVmZ0RxVg?oc=5",
+      "title": "「円安で苦しい」トランプ発言招いた8カ月の不作為 次の壁は防衛費",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzMkt0V1M5Q1I1LUZpTFAyN0tIRmdlUm1jSU5LTW0zRWpyUmxHNVZLVUVYcGwxNV90RVphbU93cFhFNnJkRXI4eTlaWUtJMkhadWNGZWVDbzlUZ2VLamlwWkl0RTYzVjlOTElKaQ?oc=5",
       "pubDate": "2026-10-04T05:00:00+09:00",
       "source": "日本経済新聞"
     },
@@ -48,13 +48,7 @@
     },
     {
       "title": "【ノーカット】円安で高市総理の考えは変化？片山さつき財務大臣 単独インタビュー【news23】",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtLUNvYWI0OFFhTm12N2loMnRCZkQ3RVo4Nlh0OVJQMndiZ184MF9JOXhTaW9vbnNjZ1FlblNtTzlTb2pRSlR4a0lYVE1sTmdVTWpNVXcwRm93WFp5dVZkd21LODE?oc=5",
-      "pubDate": "2026-10-03T18:00:00+09:00",
-      "source": "TBS NEWS DIG"
-    },
-    {
-      "title": "片山財務大臣を単独直撃 円安・金融政策「政府内で統一が図られている」 消費減税めぐり便乗値上げは「週明けにも対策」【news23】",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1aUNpZmJsMFhMQnpHcThaaDJNamJqWE5oMkVId2VLSnljSThodlFiQTdQUkU3bmVOT09sY0JuQjVzYTU2eUlPTlJ5TXZJcXJhN3owVUJFTzlSUG1qQy1KNHVnTjdBaEd2N0hiU0pnc1IwM180?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBodS1HWFNuZWZydW9PZ0lGNXFKSlhNOG1sVWIzUEs3TDVFNF9RYlVQTEZQSS1qR1ZUTEdYRmhjNHpROHZrOE1KaGlJaVU2V0czRWtWSDJRT3pPMFJ0RUh3OTFRby0zV3FCQWhsRE5zNGVkdENT?oc=5",
       "pubDate": "2026-10-03T18:00:00+09:00",
       "source": "TBS NEWS DIG"
     },
@@ -86,6 +80,12 @@
       "title": "ドル円は米雇用統計後に１５６．９５円を付けるも、その後１５７．５０円台を回復＝ＮＹ為替序盤 -",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DLTB6STZmbUlneFNkQ0dEVTREUlJ3UTRkT1dPbTJfaTZMbjVMT1lQVURUdU9aTGlDQ3I1RFNhVF8yQ0RKem1oLQ?oc=5",
       "pubDate": "2026-10-02T22:48:28+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル円は１５６．９５円まで下げた後、少し反発＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qdVBDQm9GOEtlMmthejk5R0pxYXJfell5eHd1RTdLT2o0cnNjdlBGYUtPWHVZNWUtRm9YSTN0dnR0XzUwYUo1bg?oc=5",
+      "pubDate": "2026-10-02T21:48:29+09:00",
       "source": "みんかぶ FX/為替"
     }
   ]
