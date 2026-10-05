@@ -1,45 +1,37 @@
 {
-  "updatedAt": "2026-10-02T14:45:35+09:00",
+  "updatedAt": "2026-10-05T14:47:59+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "米雇用統計はFRBの早期利上げを巡り平均時給に焦点",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜米雇用統計はFRBの早期利上げを巡り平均時給に焦点」 外為どっとコム トゥデイ 2026年10月2日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/02/083753",
-    "publishedAt": "2026-10-02T08:37:53+09:00",
-    "createdAt": "2026-10-02T08:30:00+09:00",
+    "headline": "米雇用統計で下落　高市首相の積極財政方針に注目",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜米雇用統計で下落　高市首相の積極財政方針に注目」 外為どっとコム トゥデイ 2026年10月5日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/05/082752",
+    "publishedAt": "2026-10-05T08:27:52+09:00",
+    "createdAt": "2026-10-05T08:20:00+09:00",
     "forecastRange": {
-      "low": 157.2,
-      "high": 159.0
+      "low": 157.0,
+      "high": 158.6
     },
-    "outlook": "米雇用統計は平均時給に注目",
+    "outlook": "高市首相演説が円売り材料の可能性",
     "factors": [
-      "日銀主な意見公表",
-      "仏政府 緊縮型予算案を提出",
-      "米新規失業保険申請件数 予想を下回る"
+      "東京CPI 伸びが加速",
+      "ユーロ圏HICP 伸びが加速",
+      "米雇用統計 非農業部門雇用者数は予想を下回る"
     ],
     "events": [
       {
-        "text": "18:00 〇 (ユーロ圏) 9月消費者物価指数",
+        "text": "14:00 〇 (日) 高市首相 所信表明演説",
         "importance": "medium"
       },
       {
-        "text": "21:30 ◎ (米) 9月非農業部門雇用者数",
-        "importance": "high"
-      },
-      {
-        "text": "21:30 ◎ (米) 9月失業率",
-        "importance": "high"
-      },
-      {
-        "text": "21:30 ◎ (米) 9月平均時給",
+        "text": "23:00 ◎ (米) 9月ISM非製造業景況指数",
         "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261002/20261002083202.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261005/20261005082036.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
