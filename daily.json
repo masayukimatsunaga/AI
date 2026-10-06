@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-10-05T14:47:59+09:00",
+  "updatedAt": "2026-10-06T15:27:15+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "米雇用統計で下落　高市首相の積極財政方針に注目",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜米雇用統計で下落　高市首相の積極財政方針に注目」 外為どっとコム トゥデイ 2026年10月5日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/05/082752",
-    "publishedAt": "2026-10-05T08:27:52+09:00",
-    "createdAt": "2026-10-05T08:20:00+09:00",
+    "headline": "決め手欠く相場展開が続く",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜決め手欠く相場展開が続く」 外為どっとコム トゥデイ 2026年10月6日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/06/081836",
+    "publishedAt": "2026-10-06T08:18:36+09:00",
+    "createdAt": "2026-10-06T08:30:00+09:00",
     "forecastRange": {
-      "low": 157.0,
-      "high": 158.6
+      "low": 157.2,
+      "high": 158.4
     },
-    "outlook": "高市首相演説が円売り材料の可能性",
+    "outlook": "157円台後半を中心にもみ合う展開",
     "factors": [
-      "東京CPI 伸びが加速",
-      "ユーロ圏HICP 伸びが加速",
-      "米雇用統計 非農業部門雇用者数は予想を下回る"
+      "高市首相 所信表明演説",
+      "GPIF 基本ポートフォリオの検証なし",
+      "ISM非製造業景況指数 予想を下回る"
     ],
     "events": [
       {
-        "text": "14:00 〇 (日) 高市首相 所信表明演説",
-        "importance": "medium"
+        "text": "15:35 ◎ (日) 植田日銀総裁講演",
+        "importance": "high"
       },
       {
-        "text": "23:00 ◎ (米) 9月ISM非製造業景況指数",
-        "importance": "high"
+        "text": "08:30 〇 (日) 8月毎月勤労統計調査-現金給与総額",
+        "importance": "medium"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261005/20261005082036.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261006/20261006081031.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
