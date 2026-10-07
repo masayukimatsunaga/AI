@@ -1,92 +1,93 @@
 {
-  "updatedAt": "2026-10-07T11:42:34+09:00",
+  "updatedAt": "2026-10-07T18:21:37+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "【FX】10/7 ドル円158円台、上値突破なるか？FOMC議事録に注目 ｜為替市場ニュースの振り返り、今日の見通し",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WU05KeFB6LV9ZVF9FQXJib19sclFjbWtMMlhZREFtM2NQRk5ldFhFUldjQlM2RlgwVnZHejd2d0FwN2Zmcmh5TndSdUJRVXdDMGhtUzdsUEpzcGxHYTd5TUZUOA?oc=5",
-      "pubDate": "2026-10-07T11:30:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "原油輸入再開による貿易赤字拡大で円安加速も - プロに聞く きょうの注目テーマ",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kVW1Pb2VhUVRWcGY3SWlWVW5NTzBaUksxVkxNT1pqcXFfUkNCTTVNUEpoY0xIOXJtbHIzbHNLMmVTZ0lGcXJ4NkVOQWhsVWQ3ZmE4MQ?oc=5",
-      "pubDate": "2026-10-07T11:19:49+09:00",
-      "source": "日経CNBC online"
-    },
-    {
-      "title": "【テクニカル】日足テクニカル・ドル円＝転換線から5日安値が支持帯となるか",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UODRFNTZOMUl2b1pHeDk2aFdPeG5LTmp4ekFBSG1rVHV6anFvVi1VZ1FlSkFfSWF0M0FHbzhGN0o3LWJSeTNHTmpPZVNDMWkwa0NtNHpJNGF3eXhyUUp6SmVvNA?oc=5",
-      "pubDate": "2026-10-07T11:02:11+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "外為：1ドル158円38銭前後とドル高・円安で推移",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OaVBmRWZqY2FwbHgtN1YwelZQODB2aXRBRmpNYzFZbVJ3M240eDdjWmwwR2doWnRjVXBQMW5nS1RKN21BUFlwTVoyZkw5Q1ZyUXg0R2pQVEYwUXdoM2FFZFlB?oc=5",
-      "pubDate": "2026-10-07T11:01:01+09:00",
-      "source": "株探"
-    },
-    {
-      "title": "通貨オプション ボラティリティー ドル円1週間物は7%台",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5YV0JidWRkb3YwZWdnQnR6cGNoRFMxWW9NZHFybElyLXdFTDlTd1VEVTBFb25GYnY3Nkp2eGZQMnBhN2pnck9ZVA?oc=5",
-      "pubDate": "2026-10-07T11:00:28+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "円安時代のリスキリングは『タイパ×コスパ』が鍵！社会人に選ばれるフィリピン・セブ島留学全データ公開",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yUHlkNkpSODVWRmtIT1pWVDhRN1JCZTFhMlpCQm9mTXZzZEcyczgwcWVUYWl4MVRydUU3Mml0S1ZkeTJ1bVFkZ29TRmV1MXEzWmoyR3BIVUg4d1RLUmNMOEh0WUk2U2FnQnc?oc=5",
-      "pubDate": "2026-10-07T11:00:02+09:00",
-      "source": "PR TIMES"
-    },
-    {
-      "title": "東京為替：ドル・円はやや伸び悩むも再び復調へ(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXFISkpiZ3lCT25IYW9QeUZvcWR2d1Q1SW9mdjBheHA3aGxXLVZYS000V05fMjJkZUFZTkE3eXB0V2Q5ajRZRXNhcG5ZbGoyTFpsUHlzczBvaTNHcjVWdjBoQVo1WGVidTdDbjdLY1k0alNPRTgtQlNDNUQ4bDBvNml4ZlhVQmc?oc=5",
-      "pubDate": "2026-10-07T10:36:28+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "外為：ブラジルレアル、31円78銭前後とレアル高・円安で推移",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxcGVLa3hDQ1RHVU5hOGFyV0R2ZklDNEwxbWJMYWlmVmo3Z18yWlN3QW5fUjhCcFlPVTlXeWstbWdSUFY3LTZwV0UyZ25IQnhVT0E?oc=5",
-      "pubDate": "2026-10-07T10:31:06+09:00",
-      "source": "株探"
-    },
-    {
-      "title": "外為：スイスフラン、190円15銭前後とフラン高・円安で推移",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OLWJCaXFfUGc5NXhJMGFRbTdsVUJyUHN6QXNBSUJrcm14bnhFaG0wcXJIVFg5M1psbEY2UHJNYkV6OTViN09LNXdLTUM3RFFRVGRSRDliSE5rSFNBc0tzTmxR?oc=5",
-      "pubDate": "2026-10-07T10:31:04+09:00",
-      "source": "株探"
-    },
-    {
-      "title": "ドル円予想レンジ157.70～158.90円 注目通貨はノルウェー クローネ（10/7）",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBicVl5ejUtc044TkxpZEdqMnlKc0tyZEd5enNwZjJJamoxY192aGMwZHJQdDZQbWhHSmhDVTFNSGxlWEJwc1M2ZVVPcDRDUmRkNDlYSA?oc=5",
-      "pubDate": "2026-10-07T10:28:46+09:00",
-      "source": "日経CNBC online"
-    },
-    {
-      "title": "ドル円、158.51円を高値に伸び悩む 200日線が重しに｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yeHktd1FHa29aVlhnRmxXZUZSVGg0VG5BY2NiSVFsOW5lbzR5cTdRZkNtWktCdS1uWVBITHdreUNkVDJvc2RDU0k0cjZvZmJZY3c?oc=5",
-      "pubDate": "2026-10-07T10:27:00+09:00",
+      "title": "東京為替概況: ドル・円は反落、夕方にかけて下落",
+      "link": "https://zai.diamond.jp/articles/-/496882",
+      "pubDate": "2026-10-07T17:54:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円158.50円、9月25日来高値 佐藤日銀委員やフランス政局不安",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvbnlSTUFnckFEWDFGclUzX1QtVmlLVElGRVFsNE1FZ3I0eW9DY3RCRnhNQlVtZzh6am5DMjRSWlBER3pTMlY5WA?oc=5",
-      "pubDate": "2026-10-07T10:13:29+09:00",
-      "source": "みんかぶ FX/為替"
+      "title": "外為17時 円相場、横ばい圏 158円台前半 仏懸念で再びユーロ安",
+      "link": "https://www.nikkei.com/article/DGXZQOFL075GT0X01C26A0000000/",
+      "pubDate": "2026-10-07T17:35:00+09:00",
+      "source": "日経新聞"
     },
     {
-      "title": "東京為替：ドル・円は再び堅調推移に 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nUFl0Uk04aXhfcWFhQ2Jpd0pCNzdlN095MU9ITVdJS1huQWQxQnZ0M3dfdjJkc2VsMnozU3dfTkVRdW8xYWd1bVpYTkl0NTRFV3BPSEMyLXlpUjB0djBEamYxRHFvcm8?oc=5",
-      "pubDate": "2026-10-07T10:07:00+09:00",
-      "source": "Investing.com 日本"
+      "title": "東京為替:ドル・円は反落、夕方にかけて下落",
+      "link": "https://www.zaikei.co.jp/article/20261007/872714.html",
+      "pubDate": "2026-10-07T17:29:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "東京外国為替市場概況・10時 ドル円、強含み｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81dDYzQ3ZsU19Jai1vZm8zWEtObGRYNGtXNWNhazdUaU5CQmdpZWE5d2NyN0VvQ1ptbU81Z1hwX2RhUFBTRmotTVF2UnNxRlpqWHc?oc=5",
-      "pubDate": "2026-10-07T10:06:00+09:00",
-      "source": "ザイFX！"
+      "title": "欧米為替見通し: ドル・円は伸び悩みか、ドル買い継続も上昇ペースは緩慢",
+      "link": "https://www.zaikei.co.jp/article/20261007/872713.html",
+      "pubDate": "2026-10-07T17:25:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "円相場、158円10~10銭 7日午後5時現在",
+      "link": "https://www.jiji.com/jc/article?k=2026100700862&g=eco",
+      "pubDate": "2026-10-07T17:09:00+09:00",
+      "source": "時事ドットコム"
+    },
+    {
+      "title": "東京為替:ドル・円は上げ渋り、ドル買いは継続",
+      "link": "https://www.zaikei.co.jp/article/20261007/872706.html",
+      "pubDate": "2026-10-07T16:02:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "東京為替:ドル・円は変わらず、リスク回避ムード続く",
+      "link": "https://www.zaikei.co.jp/article/20261007/872698.html",
+      "pubDate": "2026-10-07T15:31:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "【ドル円予想2026/10/7】もちろん上がるよね?米10年債入札でドル円が買われる理由★分かり易いFX情報番組",
+      "link": "https://www.youtube.com/watch?v=m9Xh5CJTmSQ",
+      "pubDate": "2026-10-07T15:30:00+09:00",
+      "source": "ひまわり証券"
+    },
+    {
+      "title": "欧州外為早朝 ユーロ、対ドルで下落 1.12ドル台前半",
+      "link": "https://www.nikkei.com/article/DGXZQOFL075FF0X01C26A0000000/",
+      "pubDate": "2026-10-07T15:13:00+09:00",
+      "source": "日経新聞"
+    },
+    {
+      "title": "東京為替:ドル・円は伸び悩み、全般的に動意薄",
+      "link": "https://www.zaikei.co.jp/article/20261007/872696.html",
+      "pubDate": "2026-10-07T14:50:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "外為14時 円相場、安値圏で小動き 158円台半ば",
+      "link": "https://www.nikkei.com/article/DGXZQOFL074840X01C26A0000000/",
+      "pubDate": "2026-10-07T14:22:00+09:00",
+      "source": "日経新聞"
+    },
+    {
+      "title": "東京為替:ドル・円は底堅い、ドル買い継続で",
+      "link": "https://www.zaikei.co.jp/article/20261007/872693.html",
+      "pubDate": "2026-10-07T14:10:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "東京外為市場・午前=ドル158円半ば、約2週間ぶり高値 上値は重い",
+      "link": "https://www.reuters.com/jp/opinion/ZQXLQC747JNQXPIBMMZVZWVMKI-2026-10-07/",
+      "pubDate": "2026-10-07T12:25:00+09:00",
+      "source": "reuters"
+    },
+    {
+      "title": "外為12時 円相場、下落 158円台半ば 実需の売り観測が重荷",
+      "link": "https://www.nikkei.com/article/DGXZQOFL072840X01C26A0000000/",
+      "pubDate": "2026-10-07T12:20:00+09:00",
+      "source": "日経新聞"
     }
   ]
 }
