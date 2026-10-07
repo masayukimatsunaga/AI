@@ -1,37 +1,33 @@
 {
-  "updatedAt": "2026-10-06T15:27:15+09:00",
+  "updatedAt": "2026-10-07T15:06:09+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "決め手欠く相場展開が続く",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜決め手欠く相場展開が続く」 外為どっとコム トゥデイ 2026年10月6日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/06/081836",
-    "publishedAt": "2026-10-06T08:18:36+09:00",
-    "createdAt": "2026-10-06T08:30:00+09:00",
+    "headline": "FOMC議事録で利上げ期待再燃なるか 焦点は200日移動平均線",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜FOMC議事録で利上げ期待再燃なるか 焦点は200日移動平均線」 外為どっとコム トゥデイ 2026年10月7日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/07/082412",
+    "publishedAt": "2026-10-07T08:24:12+09:00",
+    "createdAt": "2026-10-07T08:30:00+09:00",
     "forecastRange": {
-      "low": 157.2,
-      "high": 158.4
+      "low": 157.4,
+      "high": 158.8
     },
-    "outlook": "157円台後半を中心にもみ合う展開",
+    "outlook": "200日移動平均線を上抜けられるかが焦点",
     "factors": [
-      "高市首相 所信表明演説",
-      "GPIF 基本ポートフォリオの検証なし",
-      "ISM非製造業景況指数 予想を下回る"
+      "日銀観測報道",
+      "植田日銀総裁発言",
+      "仏財政懸念後退"
     ],
     "events": [
       {
-        "text": "15:35 ◎ (日) 植田日銀総裁講演",
-        "importance": "high"
-      },
-      {
-        "text": "08:30 〇 (日) 8月毎月勤労統計調査-現金給与総額",
+        "text": "27:00 〇 (米) FOMC議事録",
         "importance": "medium"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261006/20261006081031.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261007/20261007081751.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
