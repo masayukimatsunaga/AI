@@ -1,93 +1,93 @@
 {
-  "updatedAt": "2026-10-07T18:21:37+09:00",
+  "updatedAt": "2026-10-08T07:01:06+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "東京為替概況: ドル・円は反落、夕方にかけて下落",
-      "link": "https://zai.diamond.jp/articles/-/496882",
-      "pubDate": "2026-10-07T17:54:00+09:00",
+      "title": "７日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHWWVTYl8zeVpSWWxIMUdBRWdQd240U3dDWmZzODF6dE51WjB4UW9RLU1NaGNkUXBkQnY0emVDQlJzM3g4NGpUdA?oc=5",
+      "pubDate": "2026-10-08T06:30:00+09:00",
+      "source": "みんかぶ"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・7日 ユーロドル、反落",
+      "link": "https://zai.diamond.jp/articles/-/496921",
+      "pubDate": "2026-10-08T06:03:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "外為17時 円相場、横ばい圏 158円台前半 仏懸念で再びユーロ安",
-      "link": "https://www.nikkei.com/article/DGXZQOFL075GT0X01C26A0000000/",
-      "pubDate": "2026-10-07T17:35:00+09:00",
-      "source": "日経新聞"
+      "title": "ドル円、一時１５７円台 米１０年債入札に反応 ＦＯＭＣ議事録への反応は限定的＝ＮＹ為替概況 -",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWMXc0TlBISGNpQ2tpcHBMT2phUHhWajN5NlJoNXo0Z0VPYnpSMjRaQmlhVjlRUnNXWmVuOVE5bTNNZzBiSi1LOA?oc=5",
+      "pubDate": "2026-10-08T05:40:28+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
-      "title": "東京為替:ドル・円は反落、夕方にかけて下落",
-      "link": "https://www.zaikei.co.jp/article/20261007/872714.html",
-      "pubDate": "2026-10-07T17:29:00+09:00",
-      "source": "財経新聞"
+      "title": "【テクニカル】乖離ランク＝ドル円のみ、プラス",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OSkY2WVU5YkhFZVpiWHBxNWlfdXdVeHVJdF9NamxBZXp5VlNiMy1USzVFVnQ4bWNNS3pEbkxDYUxSY2hjMlhQUGRZTFNYOWdud3pkNHg4OFVZRGZkaFNDekh6OA?oc=5",
+      "pubDate": "2026-10-08T04:45:18+09:00",
+      "source": "外為どっとコム"
     },
     {
-      "title": "欧米為替見通し: ドル・円は伸び悩みか、ドル買い継続も上昇ペースは緩慢",
-      "link": "https://www.zaikei.co.jp/article/20261007/872713.html",
-      "pubDate": "2026-10-07T17:25:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "円相場、158円10~10銭 7日午後5時現在",
-      "link": "https://www.jiji.com/jc/article?k=2026100700862&g=eco",
-      "pubDate": "2026-10-07T17:09:00+09:00",
-      "source": "時事ドットコム"
-    },
-    {
-      "title": "東京為替:ドル・円は上げ渋り、ドル買いは継続",
-      "link": "https://www.zaikei.co.jp/article/20261007/872706.html",
-      "pubDate": "2026-10-07T16:02:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替:ドル・円は変わらず、リスク回避ムード続く",
-      "link": "https://www.zaikei.co.jp/article/20261007/872698.html",
-      "pubDate": "2026-10-07T15:31:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "【ドル円予想2026/10/7】もちろん上がるよね?米10年債入札でドル円が買われる理由★分かり易いFX情報番組",
-      "link": "https://www.youtube.com/watch?v=m9Xh5CJTmSQ",
-      "pubDate": "2026-10-07T15:30:00+09:00",
-      "source": "ひまわり証券"
-    },
-    {
-      "title": "欧州外為早朝 ユーロ、対ドルで下落 1.12ドル台前半",
-      "link": "https://www.nikkei.com/article/DGXZQOFL075FF0X01C26A0000000/",
-      "pubDate": "2026-10-07T15:13:00+09:00",
-      "source": "日経新聞"
-    },
-    {
-      "title": "東京為替:ドル・円は伸び悩み、全般的に動意薄",
-      "link": "https://www.zaikei.co.jp/article/20261007/872696.html",
-      "pubDate": "2026-10-07T14:50:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "外為14時 円相場、安値圏で小動き 158円台半ば",
-      "link": "https://www.nikkei.com/article/DGXZQOFL074840X01C26A0000000/",
-      "pubDate": "2026-10-07T14:22:00+09:00",
-      "source": "日経新聞"
-    },
-    {
-      "title": "東京為替:ドル・円は底堅い、ドル買い継続で",
-      "link": "https://www.zaikei.co.jp/article/20261007/872693.html",
-      "pubDate": "2026-10-07T14:10:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京外為市場・午前=ドル158円半ば、約2週間ぶり高値 上値は重い",
-      "link": "https://www.reuters.com/jp/opinion/ZQXLQC747JNQXPIBMMZVZWVMKI-2026-10-07/",
-      "pubDate": "2026-10-07T12:25:00+09:00",
+      "title": "NY外為市場=ユーロ急落、仏財政懸念で ドルはFOMC議事要旨後も堅調",
+      "link": "https://www.reuters.com/jp/opinion/4ZU6FFZOL5K5DPYLMUSHNQKYSM-2026-10-07/",
+      "pubDate": "2026-10-08T04:41:00+09:00",
       "source": "reuters"
     },
     {
-      "title": "外為12時 円相場、下落 158円台半ば 実需の売り観測が重荷",
-      "link": "https://www.nikkei.com/article/DGXZQOFL072840X01C26A0000000/",
-      "pubDate": "2026-10-07T12:20:00+09:00",
-      "source": "日経新聞"
+      "title": "日米介入・日銀利上げでもなぜ円安が止まらないのか？円高転換「3つのシナリオ」の現実味",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLV0N0UncxYUR4VzdjbWluR2FWRGIyY3BtLUN3dFVFQUQwVGxFRHRMY3FfZVY1dzlBdl9hbDZGQ3FjdEk2LVlwX3B5dHHSAU9BVV95cUxPdmVVM21CcjNrNVQ1ODdLQ0toS052b3BKZFY3TjlobkU4ZERIQzdHbEdFWmtEaXMtRkZhck9yQjFNNUZKanQwY09xb0VVOHU0?oc=5",
+      "pubDate": "2026-10-08T04:30:00+09:00",
+      "source": "ダイヤモンド・オンライン"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円 下押しは限定",
+      "link": "https://zai.diamond.jp/articles/-/496917",
+      "pubDate": "2026-10-08T04:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円 下押しは限定｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpVkVBdkwzWm9BZTZ6blk5bWQ0RVRXdUc2M2lmNlF3OFRFZjJKMGRESS1PNS1IcFFWbUtKdW5Pajh2V3lwMGMtb3VDUjRNWGdrckE?oc=5",
+      "pubDate": "2026-10-08T04:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "金高騰 小売価格1．3倍に 9月対前年比 1グラム2万1953円 世界情勢や円安受け",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZUxBcGM0TU5lbXA3bjdrZUx2RGpTMTRRRTlXdXAxdzRRM09PcjBra2FSUWh3dnVfT3lWNzBiYmhqQlJzNmJTU252UjFyQVB0SHJ5Nmd6aWZhRU9yWkE?oc=5",
+      "pubDate": "2026-10-08T04:00:00+09:00",
+      "source": "沖縄タイムス社"
+    },
+    {
+      "title": "NY外為:ドルは戻り鈍い、米9月FOMC議事要旨はタカ派も原油価格が下落",
+      "link": "https://zai.diamond.jp/articles/-/496915",
+      "pubDate": "2026-10-08T03:43:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【FOMC議事要旨(9月開催分)】数人の高官は政策が十分に引き締まっていないと指摘",
+      "link": "https://zai.diamond.jp/articles/-/496911",
+      "pubDate": "2026-10-08T03:09:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【FOMC議事要旨(9月開催分)】大半の当局者は年内の追加利上げを想定",
+      "link": "https://zai.diamond.jp/articles/-/496910",
+      "pubDate": "2026-10-08T03:07:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【FOMC議事要旨(9月開催分)】 当局者19人全員が利上げ支持",
+      "link": "https://zai.diamond.jp/articles/-/496908",
+      "pubDate": "2026-10-08T03:05:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【FOMC議事要旨(9月開催分)】将来の決定はデータ次第",
+      "link": "https://zai.diamond.jp/articles/-/496909",
+      "pubDate": "2026-10-08T03:05:00+09:00",
+      "source": "ザイFX！"
     }
   ]
 }
