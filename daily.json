@@ -1,33 +1,37 @@
 {
-  "updatedAt": "2026-10-07T15:06:09+09:00",
+  "updatedAt": "2026-10-08T15:11:47+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "FOMC議事録で利上げ期待再燃なるか 焦点は200日移動平均線",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜FOMC議事録で利上げ期待再燃なるか 焦点は200日移動平均線」 外為どっとコム トゥデイ 2026年10月7日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/07/082412",
-    "publishedAt": "2026-10-07T08:24:12+09:00",
-    "createdAt": "2026-10-07T08:30:00+09:00",
+    "headline": "158円挟みの値動きが続く",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜158円挟みの値動きが続く」 外為どっとコム トゥデイ 2026年10月8日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/08/081245",
+    "publishedAt": "2026-10-08T08:12:45+09:00",
+    "createdAt": "2026-10-08T08:00:00+09:00",
     "forecastRange": {
       "low": 157.4,
-      "high": 158.8
+      "high": 158.6
     },
-    "outlook": "200日移動平均線を上抜けられるかが焦点",
+    "outlook": "膠着状態を抜け出すのは難しい",
     "factors": [
-      "日銀観測報道",
-      "植田日銀総裁発言",
-      "仏財政懸念後退"
+      "日本実質賃金 8カ月連続で増加",
+      "NY連銀インフレ期待 1年先が約3年ぶり高水準",
+      "FOMC議事録公表"
     ],
     "events": [
       {
-        "text": "27:00 〇 (米) FOMC議事録",
+        "text": "20:30 〇 (ユーロ圏) ECB議事録",
         "importance": "medium"
+      },
+      {
+        "text": "21:15 ◎ (英) ベイリーBOE総裁講演",
+        "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261007/20261007081751.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261008/20261008080520.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
