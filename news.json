@@ -1,92 +1,93 @@
 {
-  "updatedAt": "2026-10-09T01:32:16+09:00",
+  "updatedAt": "2026-10-09T06:32:38+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "ドル円158円前半で伸び悩み、米大統領発言で米金利は低下に｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZakw3YWgtRXhiMkJTU01xeS1JQUpXSFVaWG1QUDJKMkIyejR2Q2d1LXVxQjRxa0RjX1lKejlUUHRKckN3ZVh3VHVzUnZJQlRka0E?oc=5",
-      "pubDate": "2026-10-09T01:23:00+09:00",
+      "title": "ニューヨーク外国為替市場概況・8日 ユーロドル、反発",
+      "link": "https://zai.diamond.jp/articles/-/496998",
+      "pubDate": "2026-10-09T06:03:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円、１５８円台での底堅い展開が続く＝ＮＹ為替序盤",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14WDBwYzdKZjNMVWowMXJpdlZ4NkhKS0pRa2g3TUlEQzYxZjFPOXB4YXN0cThPcndQX2s0OW1SWS1xMV9BME1NLQ?oc=5",
-      "pubDate": "2026-10-08T22:20:28+09:00",
+      "title": "ドル円、１５７円台に下落 利回りが下げに転じる＝ＮＹ為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mOEVKLUxHb05XRUExSlI4Qnp5Sjljd2RJOEp2M0o4ckhkeXFkMXdXdEV0bHBLYVprTFpSc1ROYkhydW9feVZtTw?oc=5",
+      "pubDate": "2026-10-09T05:40:29+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "欧州為替：ドル・円はじり高、米金利高で 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxM0JmckxWbVU0OVpKaUYzYnBqeWRCam1GOHpHVS1KZzVYbFRHMENxUnU1MVdxd0JPZDVRVHY4ckpWOVg5WEZReDhnRXdIV1h1WU12cjViZHFxZDl1amMzTWVfSHRoaHM?oc=5",
-      "pubDate": "2026-10-08T20:15:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+      "title": "ｉＰｈｏｎｅ価格２倍に アップル離れも、中古活況 円安や半導体高騰",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5U0Y5UjFObDVBbWRFLUZ1UWMwZkJkUU1SLWpKWEhZOG5qQ3JKUFptYkpLVGgyUGlwUzh1OHhxS2tkLTVpOF9wNjJZUnNEZjRWZTVYU2ROZHAwLU43NEJoSlVB?oc=5",
+      "pubDate": "2026-10-09T05:00:00+09:00",
+      "source": "琉球新報デジタル"
     },
     {
-      "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年10月8日）",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jYXIxX0d3UmdiRDZ5R1FDcklKc2lMWW1sWW1lZ2p3XzQ0S18ta0JJTmtzeVVJSWVyYWRjTjhFWFhpNTROdU5VcjhmdzV4NFpRU1M5Um5IcVJDVWhqajZMazVDRQ?oc=5",
-      "pubDate": "2026-10-08T20:00:00+09:00",
+      "title": "NY外為市場=ドル軟調、欧州国債売り一服 円は157円台後半",
+      "link": "https://www.reuters.com/jp/opinion/GYEG3WL7JNO6TFVHEBZP2RPHBQ-2026-10-08/",
+      "pubDate": "2026-10-09T04:55:00+09:00",
+      "source": "reuters"
+    },
+    {
+      "title": "【テクニカル】乖離ランク＝首位のドル円、プラス幅縮小",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rbTNVREtERHF3Z3UzU3loRUFUSWRpa1hDazVvRFY2TDYyZG0tZzhoUTFzXzdLNVh5RmlXekRIVWZzNkVUekVZb2JWbENZa2tjWHAyYVQwMDI1SDd5Y3Q2OXU3MA?oc=5",
+      "pubDate": "2026-10-09T04:41:56+09:00",
       "source": "外為どっとコム"
     },
     {
-      "title": "ドル・円は失速、クロス円が下押し｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VZUo4V0pZQ3lYTHhGYVBBbk9rclZyd1FEcURwWmJXbm9lOEFranJTOTIxckhXbXVSQzF5LS1faGVkWGlXTG5rZTJxZFJpOVdESWc?oc=5",
-      "pubDate": "2026-10-08T19:43:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "NY為替見通し＝ドル円、経済イベントを確認しつつ200日線に注目する展開が続くか",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tTHdGQ0RpMmZIMXRieGhLbjRJRU1sU2lqOHJoRWZ2OEVYRlJmTmRseHJZZkVLS3ZiVWpyRm5kMnVDVE42dlJmTFBzYjIwWlZKcFE?oc=5",
-      "pubDate": "2026-10-08T19:34:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円が本日の高値を更新＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJVklkUEFhTUQwMWFYem9ITnFBRVM0c1FXN0NGSk9ES2ZrMDZSNW5HT25vTnpLWWtVT1ZpazZqcGw0MlpRN2wzMQ?oc=5",
-      "pubDate": "2026-10-08T19:15:29+09:00",
+      "title": "ドル円、１５７円台での推移 利回りが低下＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hdFRQY0p1Tl8tdmhWZlFxYzNiSVg0TzBYSHd2RW5XcnMzaWVUbVNmWDlKYjRIdWpmTWlFQl9jRHl2SXd3VlVZYw?oc=5",
+      "pubDate": "2026-10-09T04:35:29+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ドル・円は伸び悩み、日中高値を意識｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SRm12ZlZiWWZ6QWk4bENqU2dGcVY0S3M4RkRzVzhUNmhyb0xGdnVFQUhCa19KWE8xNUlmLUFIUkJ4QXNVUUh2S1ZIcXd4ZDNZaFE?oc=5",
-      "pubDate": "2026-10-08T18:47:00+09:00",
+      "title": "日銀「9月利上げ」後も進む円安は市場の“先走り”、日米当局の口先介入は今後も続く!?",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxa0p3OG4yakRQdVhYOExuN2J6V0J2U1lGRGtsLW9WTGdYTU96QXVCR0doN1ZpVWZ1R012RmRtY0R2Q05hbTlxMUhoZnLSAU9BVV95cUxNcUx2OFFjVUdzR3RaR3dJLXQ3ZkZ1cVdMRlU3TkdJTDZQS1hBeWhBM1JzMGMwSnp3MWxidEU5S1Q1Nmc4RUFBaXJqN1ZMUy1z?oc=5",
+      "pubDate": "2026-10-09T04:25:00+09:00",
+      "source": "ダイヤモンド・オンライン"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円 下げ渋る",
+      "link": "https://zai.diamond.jp/articles/-/496996",
+      "pubDate": "2026-10-09T04:06:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "円相場 小幅に値下がり インフレ懸念で円が売られる",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBdHl6eVVRb1Q1Ymhxa2FHbDBaWndhQkt4SVp2WXltZGJKRG9KY0xCb0xtemtzTmxGajlYUW9ONFdxODEyS3RiRVFsdTUyQ3RmOFduRlBxWEZNTkJXVHBB?oc=5",
-      "pubDate": "2026-10-08T18:14:23+09:00",
-      "source": "NHKニュース"
-    },
-    {
-      "title": "東京為替概況：ドル・円は伸び悩み、午後は上昇一服｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PcERDVjZqclZxQ2dIdWN0WVBDNDRrR0puLWlnOHBFSkZwSmdqWmh1RUl3YzZQc05tVnFBdlQ2RjlzeVV5YXlnR1VGM045M04zOHc?oc=5",
-      "pubDate": "2026-10-08T17:59:00+09:00",
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円 下げ渋る｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GaW51dFhvNjZWU0hoUHluc0N3Y3Z3UEQzZGw5WlZxcVlNelVaX2ZpSkExZXJ4djVJWEhWNENfWmVRdHQzeml2XzZLSi0zZkFBaHc?oc=5",
+      "pubDate": "2026-10-09T04:06:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "今年度上半期の倒産 2年連続5000件超 中東情勢や円安が背景に",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEWmQtNjNOVE5WRHpaODJSU0FCMFR3TU95YmdrTGYyUjhHWGdrMjRURHJVcEExWHpPNlB6NGxLRzMzR2d5U3lQMlF6NVp5U2dINVpyX3JQMXBTcG1MQnJF?oc=5",
-      "pubDate": "2026-10-08T17:57:00+09:00",
-      "source": "NHKニュース"
-    },
-    {
-      "title": "円相場、対ドル１５８円１８～１９銭（読売新聞オンライン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWdG93dTVyQ0VBeUxPYjRha3BNWG9HcFhSY3dRZ3pKeW5YOHRpSnNJWGVBbjJBaDgwUzFkU2QyZDFjZkVXcjhmb0dTeUM4cl8zbWtHd0Y2RFlPYjNWWHlqX3p5Mm5YcHk0SXRlTTRyazIwS3pjQ0R2OGswWFg4WHM?oc=5",
-      "pubDate": "2026-10-08T17:50:48+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "円相場、対ドル１５８円１８～１９銭",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZR2x6cTJOY1FGNjBvQW0wSDhNZ0tLSzBQN0FIT0hvVC1RRXh2UExCdTJidUp0ZkJfRWlGcE1OZWlqU29rdUpYTkhSaTNnN3E1MG1YMTJMU3pqcGhMRUtVUHFCa3Y?oc=5",
-      "pubDate": "2026-10-08T17:50:00+09:00",
-      "source": "読売新聞"
-    },
-    {
-      "title": "ドル・円は伸び悩み、午後は上昇一服｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LTThjVDQ1ZlVpdUxVZXlHVzJFTmdTWFE0OHo4amhaYnpFNHU5T18wWFRLMU1wa0dVNjNJc1hPQmFXSkNfUV9XT2JrdFNFTVdaVHc?oc=5",
-      "pubDate": "2026-10-08T17:42:00+09:00",
+      "title": "NY外為:ドル乱高下、原油相場に連れ、トランプ大統領発言で変動激しく",
+      "link": "https://zai.diamond.jp/articles/-/496995",
+      "pubDate": "2026-10-09T03:52:00+09:00",
       "source": "ザイFX！"
+    },
+    {
+      "title": "NY外為:ユーロ安値から回復、仏長期金利が上げ止まり、債券市場が鎮静化",
+      "link": "https://zai.diamond.jp/articles/-/496992",
+      "pubDate": "2026-10-09T02:40:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円 157.52円まで弱含み、米長期金利低下で",
+      "link": "https://zai.diamond.jp/articles/-/496990",
+      "pubDate": "2026-10-09T02:33:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円 157.52円まで弱含み、米長期金利低下で｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOTWNXSDlJNmVTU21JOUU1cUN5enl0WWtJbUxkeFpEVDRqZ2JSSGZHUjRWX1Z6cXp0Zk5XTWhXYmprLXZLbXJRVkc4RzRkQzJORnc?oc=5",
+      "pubDate": "2026-10-09T02:33:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "[通貨オプション]OP売り、ドル・円レンジ相場観測",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVUMzaXFMZ0hLUGE3UEFUblE2NFJDbUNyVlg3TjNLN1Z3UDZ5TlBKMVh6cDc2d29HSG5kemdRQUtGOXE5RWllUmZ1S21hTWJZanAwTG9GQWVNTGJjNTBIcDAzM0FhR3ViWFk5allQM0M1cC1yeWdnZVB1TTlGU0w2Tm5xQlZzM0XSAYwBQVVfeXFMTms1em5KdUlFZlZHM2lVYVRhZVpCQjhhakNJbkxKNDFGLXAyc3Q3UFlmRWwyRThfLXRLektoZ3AxZDllT1AzRElQcmd3V3ZUY1JzNVpOLVZFc3B2LVhvc09jeTZORVhGVXJUQVlCMlE0V3F1ZTZvSVZNNC1JcVhfV0Z5NWxLRDVhTzhoSnk?oc=5",
+      "pubDate": "2026-10-09T02:18:59+09:00",
+      "source": "ｄメニューニュース"
     }
   ]
 }
