@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-10-10T00:19:47+09:00",
+  "updatedAt": "2026-10-10T05:20:26+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円 もみ合い｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHOERfNW1DUlZReDFpd2h6LWdOSDhzOUIzek0tUXFOSzZLS3BrV3NkZEZMQi1oSFVHMGI0dXZYeG41UHU1bUliOGZhUGgwMy1Md2c?oc=5",
+      "pubDate": "2026-10-10T04:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･2時 ドル円 伸び悩み(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMUJudDB5WURkT0lBaEUtcU9admZNWjZGWnpUNEdaTG9FNDhyUzNleEFjcjVGQTZEbS1YbTdGUjJNYkdRTDNsZXVxazd4ck5jVWNaV2RvZ2tSV2dzVmNISm42RTFSUlRld0ZWOEw5dlZQUzFhYTRwVEx1STNUNEhxU3NQbE5vdlU?oc=5",
+      "pubDate": "2026-10-10T02:05:05+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【速報】ドル・円158.36円、ドル伸び悩む、10月ミシガン大学消費者信頼感指数速報値が予想以上に悪化(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNelR1WHJlVjBTemh6SGlUUUlUZDNVWENwZURqbWJ1cjVaZlRUSGRMTGxMNGdTUTBnaGdBZFFVTXpMNzZXWnJVVlNhcUpYLWNkZ1ZKc0taUWc4SHJnenJEQUdsSHFWNS14SEdJV3Y0dldWYzNZcTE0Q3ozRi1KVE0yOEMwREo3clU?oc=5",
+      "pubDate": "2026-10-09T23:02:25+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "【速報】ドル・円158.36円、ドル伸び悩む、10月ミシガン大学消費者信頼感指数速報値が予想以上に悪化｜FX・為替ニュース",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yOER3RFFuYUh3RWU1VlhuZlNDcl9ETVFtYWdUT3JTejVrbUxfSGVCTEwwaTFGbVNidHFwc3AwT21taHAtckJ4c0VlOWRSZmJSbnc?oc=5",
@@ -17,6 +35,18 @@
       "source": "みんかぶ FX/為替"
     },
     {
+      "title": "ドル円のピボットは１５８．１３円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xcXVkV2Y4bTF4R2Nyc2hicnJvZXpyRzdxS0xoWHRtMEU0MDJKU3JxNFd5Ym5MNTVBN243MWEzdEsxQUJfMDE3bw?oc=5",
+      "pubDate": "2026-10-09T21:55:29+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル・円は値を戻す展開、ドル上昇基調で｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mNFNnV2oxd3RQVUQwOGxaSFhvQ2k3NllVRExJVVJhTHFOaWNac3pHNHlxN1FrMlNaVzdOUDhBaFpVZEV2aWFKMHlMZ1VaMUpHQlE?oc=5",
+      "pubDate": "2026-10-09T20:18:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
       "title": "円安水準で神経質に振幅、ドル相場には買戻し ドル円１５８円台前半＝ロンドン為替概況 -",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCSmM4Z2JnRmdoWElTdVNJUElGN2xXcG8xSFNocDhvZHFzZGNHSXpFSko0MEhxWDVYNkJMVUdDaWF6bUQ2d0xhbw?oc=5",
       "pubDate": "2026-10-09T20:15:29+09:00",
@@ -27,6 +57,12 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JeXVPcDJJYnpKM3d4bXZVMkVJOHNYQkFORWMzNy02dGhGU24yR2pVNEtqMXg1MTJHRU1JVXhFZFNCWFVWOURRdUtWZlBIbUhFY18tSWxvQW5FNE94VWt4ZVhtaw?oc=5",
       "pubDate": "2026-10-09T20:00:00+09:00",
       "source": "外為どっとコム"
+    },
+    {
+      "title": "NY為替見通し＝ドル円、連休を前に経済指標や原油相場に注目 カナダでは雇用統計の発表も",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5Z2k5cF81ZzdnQi1IcHR0SHdBZzZ5djJlejNaTk0zeDlhNGFxQXRDMFd0SzNINUtmMlZRM0hlSEFhZWJSNkdIdGlFTmFmLXBDbnc?oc=5",
+      "pubDate": "2026-10-09T19:41:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "ドル・円は下げ渋り、米金利高でドル買い｜FX・為替ニュース",
@@ -51,42 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cb3BsU0tLcmdYQWVZWTZLMWFHUWIzOVVKVmNtLUs5ZHB2SFB3VDhpOTAwY1hJZkkwSzQ0YmVKbjRYQk9pNnJ5WTJ1aHBXcFVXMEE?oc=5",
       "pubDate": "2026-10-09T18:42:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "欧州為替：ドル・円は伸び悩み、クロス円に追随",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZSVFJX0JnUjZPV1lERHRCc2wtOHNpUVk1a2ljc09HMUtZcG5IZkJUYktYcGZNVW56VFd1dF9NNnBXSXE4di1VZ3pKWHlrMWF3a0E?oc=5",
-      "pubDate": "2026-10-09T18:32:27+09:00",
-      "source": "株探"
-    },
-    {
-      "title": "ドル円１５８円台前半で上昇一服、介入警戒感もあるか＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Zc0lSN1M5S1ZqSk1LTUFHV01RY2hfZXFxLXNDVEYwdlRuUURZQ3A2MDdJZFhoT2k1VnpZaFlOaEg2VXZySkxZNA?oc=5",
-      "pubDate": "2026-10-09T18:02:28+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "外為：1ドル158円10銭前後とドル安・円高で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVRSeTd1SnNDbFpWUEhJZUEtYVNteDR5MEFtS2xSZHN6YXh0SkNFbXZOaW1lc0x0M1VuU0tvRDhicEY5cFhja1QxZnUyaElueEFaZXdUY2QzSWcyWmFlSEh6bWp3M1lvcHBNUlpqUElpM2YtajZvWTI5SVFGU3ZqOHlxVFJfZFE?oc=5",
-      "pubDate": "2026-10-09T18:01:29+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "2027年、日本円は「170円台」へ…為替のプロが警告、未曾有の円安を招く「1000兆円の円売り」という最大のリスク",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xRmgyelZIcmtxeVE2LUpnRjh4eXdTbFVVc09GVHRQUXdVay0zd0tsaldnWHhnT21ZU2hoNUpfS0ZvSVp3WWZnLW9oS3lLS1hOQ0E2aXVaem9ReHJzc1BrYlVxYW5TbEdSSzlTQjhxQVZhQ250YWxKTDdGeFp1Mms?oc=5",
-      "pubDate": "2026-10-09T18:00:00+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "国際郵便の料金、平均37%値上げへ 原油高や円安の影響 日本郵便",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDMThiLUdWT1U1T1c5di0yTlpxS0xNM080NlZENVB6S2hiaXBtUjl6NVVQZmlPaGp1YTJDbWdKVFoxUTFiMngzemh1UnN5MG9jaDF6dm56TmdQbFdrejVyMnBGZ1hWblk?oc=5",
-      "pubDate": "2026-10-09T17:32:38+09:00",
-      "source": "朝日新聞"
-    },
-    {
-      "title": "通貨オプション ボラティリティー ドル円１週間は６．７％近辺に低下",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE05R3ZLeHRLYWFoMWt1NURhSVN2TTdWaVZFOGw2bm5oTzZwSDI3aVhHYVNMRUNpUGRHTHdhdkp3MzI1MlhYZWNUcw?oc=5",
-      "pubDate": "2026-10-09T17:17:29+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
