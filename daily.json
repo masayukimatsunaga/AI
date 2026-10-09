@@ -1,37 +1,33 @@
 {
-  "updatedAt": "2026-10-08T15:11:47+09:00",
+  "updatedAt": "2026-10-09T15:15:18+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "158円挟みの値動きが続く",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜158円挟みの値動きが続く」 外為どっとコム トゥデイ 2026年10月8日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/08/081245",
-    "publishedAt": "2026-10-08T08:12:45+09:00",
-    "createdAt": "2026-10-08T08:00:00+09:00",
+    "headline": "日米3連休前に積極的な動きは手控えられる",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜日米3連休前に積極的な動きは手控えられる」 外為どっとコム トゥデイ 2026年10月9日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/09/082242",
+    "publishedAt": "2026-10-09T08:22:42+09:00",
+    "createdAt": "2026-10-09T08:20:00+09:00",
     "forecastRange": {
-      "low": 157.4,
+      "low": 157.2,
       "high": 158.6
     },
-    "outlook": "膠着状態を抜け出すのは難しい",
+    "outlook": "積極的な売買は手控えられる",
     "factors": [
-      "日本実質賃金 8カ月連続で増加",
-      "NY連銀インフレ期待 1年先が約3年ぶり高水準",
-      "FOMC議事録公表"
+      "高市首相「いわゆるリフレ政策と異なる」",
+      "FRB理事「利上げは妥当な期間内に実施されるべきだ」",
+      "ECB議事録公表"
     ],
     "events": [
       {
-        "text": "20:30 〇 (ユーロ圏) ECB議事録",
+        "text": "23:00 〇 (米) 10月ミシガン大学消費者態度指数・速報値",
         "importance": "medium"
-      },
-      {
-        "text": "21:15 ◎ (英) ベイリーBOE総裁講演",
-        "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261008/20261008080520.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261009/20261009081810.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
