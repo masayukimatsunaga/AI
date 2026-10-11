@@ -1,20 +1,14 @@
 {
-  "updatedAt": "2026-10-11T23:09:12+09:00",
+  "updatedAt": "2026-10-12T03:57:23+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "高市政権要因の円安は解消か【マーケット先読み】",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NbktSVWRXV3dGMGttWG1TVWhISHZwSFFjVTBsS21EQktMQVlaejhvMDlxNlpFOE1yNzFZSWkxb1hvZTlOMm5Vc1pCQTMtOHp1LWxzMnBpM2NEM0dTOTQwX1V3?oc=5",
-      "pubDate": "2026-10-11T21:53:03+09:00",
-      "source": "テレ東BIZ"
-    },
-    {
-      "title": "ココリコ遠藤＞ハワイへ家族旅行 円安＆物価上昇でカップ麺も（毎日キレイ）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ubGE4Z1BpUVBZUldiZjZCYUlYWFdneXRCYnhBWWRuWUhOM082UDZWNUFTRWNGRTRUYUVJa3h1am5VYW5LQVVBeEJkWjY0R0FOeHNNLTNaczdBYkN2Sll6UmxIWkJlc09RNkkxUzg1S3NpTzVIRzRKTFgzemhOMjQ?oc=5",
-      "pubDate": "2026-10-11T19:40:00+09:00",
-      "source": "Yahoo!ニュース"
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-10-12T00:51:47+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "2025年以降の円安はオフショア取引時間帯に限定――バンク・オブ・アメリカ分析 執筆",
@@ -29,12 +23,6 @@
       "source": "外為どっとコム"
     },
     {
-      "title": "円安の転換へ金融正常化を 原真人氏（経済ジャーナリスト）〈多思彩々〉",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzWDFsSGtlbkJaaG9FV0Z5b0xXOXlOaEdxUFJhaldpTGVHUlJ1RzZGaUNqNmZrSlNMM1RUVDh5V3FpRU1OZVRHV0ZmVkt2S3F5VHEyd2ppMkNIVS1jRWhJSURNSXVqQ0doenBTRDBUczQ?oc=5",
-      "pubDate": "2026-10-11T10:00:00+09:00",
-      "source": "信濃毎日新聞デジタル"
-    },
-    {
       "title": "【投資クイズ】円安はまだ続く？為替が動く仕組みを学ぼう",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12OUttbVhEaVFmVEJ2MjdnTjhhTk05dVM1VHprRnE5TG5qcGRRbVBjQXQ5ZlppLTRGdl9URHdpYlE4Yko0QkhnVWpJU2t5OGs5NXBhWlJNWmtOQQ?oc=5",
       "pubDate": "2026-10-11T08:00:00+09:00",
@@ -45,6 +33,12 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNUnlBRTBBc19DWWNERDZaNld5S0R2cllQSDg2Y0gxeU03dk9Db0pwZnNHU2JBeEp0Um1yQW45MkZoaEhLcXNDaXVEdzJhbXMyX3NwMGM2dldTUWF5ejlFSmlJRQ?oc=5",
       "pubDate": "2026-10-11T07:00:35+09:00",
       "source": "外為どっとコム"
+    },
+    {
+      "title": "高市政権要因の円安は解消か【マーケット先読み】",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NbktSVWRXV3dGMGttWG1TVWhISHZwSFFjVTBsS21EQktMQVlaejhvMDlxNlpFOE1yNzFZSWkxb1hvZTlOMm5Vc1pCQTMtOHp1LWxzMnBpM2NEM0dTOTQwX1V3?oc=5",
+      "pubDate": "2026-10-10T10:00:00+09:00",
+      "source": "テレ東BIZ"
     },
     {
       "title": "ドル円158円前後の裏で何が起きた？ 米国債に買い手が戻り、原油・AI株にも変化【相場の現在地】2026/10/10",
@@ -80,6 +74,12 @@
       "title": "ニューヨーク外国為替市場概況･4時 ドル円 もみ合い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWRBb000Z2J4a2hGM1pLNTZtYVdILW1DZUVXdG9ieHBaWFVycGNZSGQtdER2OVlGZmNaZlViMnhROWI3dDRGeU9oeFZDTnhzOVQ1ZG9DcF9xVzFLaFBjWTFQZXhDYjN3Q0ZNVWNkbHBVcXBEcjExZEJIR3VjMXhKM3BWb3VqUkU?oc=5",
       "pubDate": "2026-10-10T04:06:04+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【速報】ドル・円158.36円、ドル伸び悩む、10月ミシガン大学消費者信頼感指数速報値が予想以上に悪化(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNelR1WHJlVjBTemh6SGlUUUlUZDNVWENwZURqbWJ1cjVaZlRUSGRMTGxMNGdTUTBnaGdBZFFVTXpMNzZXWnJVVlNhcUpYLWNkZ1ZKc0taUWc4SHJnenJEQUdsSHFWNS14SEdJV3Y0dldWYzNZcTE0Q3ozRi1KVE0yOEMwREo3clU?oc=5",
+      "pubDate": "2026-10-09T23:02:25+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
