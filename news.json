@@ -1,14 +1,50 @@
 {
-  "updatedAt": "2026-10-14T21:01:43+09:00",
+  "updatedAt": "2026-10-15T02:15:25+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "ドル・円はやや失速、ユーロ・円が下押し｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83azJ5azB5c2JFNUZVOHNkenVzQmNNdDRaZ25VYk95TEE3UldNRGpudU01QTF4ZDFuWHhFSjVLdmZpaUs1U0VUYjdONU5pSWdfTWc?oc=5",
-      "pubDate": "2026-10-14T20:19:00+09:00",
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、伸び悩み(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0x1Nkd2R1ZCZWw4VnBwaEZUbTVFZVNxUDJhcURHNndyNWc3ZDcyOGMzaFg3dWJ3MGswVHI4Q2dNRjJsNEo4ZFRJaUhrNTFmTDV5MDRXZGFPcW9YRUh6aG9KQnNGS0tQZmVmekJwRlUtX0lNZ05EcG5ScGVrc1ZGT2FsSkt5cEk?oc=5",
+      "pubDate": "2026-10-15T00:05:04+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "米ＣＰＩ受けドル高が強まる ドル円は再び２００日線を上回る＝ＮＹ為替序盤",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sVk04Rzg2Tk41RGRSdUJzNUZQZWhyZkRrMWZsVnJwQklmRF9jR1drVXNxZEg5QU5WaW56WUU5dUJvS3Y1UXpneQ?oc=5",
+      "pubDate": "2026-10-14T22:24:28+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "欧州外国為替市場概況・22時 ドル円、上昇(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUZYd19NLXFuUHNKQXJ4QjRhdjczUEJuRjFyUzlRek5XUDlIQU1Uam1CWXBaME1NWklzaWxTMHZxbUNjN3ZjZXRnN2k1RGdZQWlkdHM5ZXZWMWtuMHA1VVFmOGZwdkFEU1hOZXM5S1NLQjFTNGg0a3hfa3duNWlUQWxTdjBYQm8?oc=5",
+      "pubDate": "2026-10-14T22:04:47+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円のピボットは１５８．６０円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JbGpkR2lVcXFSdThXN0FwYl84V0RoWDJuWWEyeEZabDNzYXlGaHdZVXU2cDMwT2J6eE83VGxMR2dMTGF6bzdlRA?oc=5",
+      "pubDate": "2026-10-14T21:55:29+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "【速報】ドル・円158.80円、ドル急伸、米9月CPIが予想上回る(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTlVPYm82a1FBQW1tbkJxSDZ0WlNUWUtPdWhfNEtuSnBFVU1Sako5UDVDRXhJRUxtTlN6Yl9TSTVLdHFPc0o1Tm1jbld1b3labUJYdG5qMmRZbldzamQ5dXlHazFRMndPbTZZMk56bVF5ejNPWUdnQUF2V2s5QURyNExxYnVMRzg?oc=5",
+      "pubDate": "2026-10-14T21:37:27+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【速報】ドル・円158.80円、ドル急伸、米9月CPIが予想上回る｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93U0hQN0hkYzlJU0xTY2xWTlI1SGgtcUR3NEVWWlhjZUp1OUZpOFUyeUc2YXRjQ0gybnJyT0VZYks0Y3pJeXIyWFhscnBQeGV3dkE?oc=5",
+      "pubDate": "2026-10-14T21:37:00+09:00",
       "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、158.75円まで上昇 CPIの上振れに反応(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMkRRQVBuTE0tTVJKMXN5LVZBNmpzUVAtRUcwUDdEYVYwNWJ5ak56SGNmeG5oRW5GUzNMMlZEN1dlWmJDSV8tWXh6R3FWSHZ5ZEtiV1dOa1pwekF6cU12VmVSMGVrYlVrM2ZCQVAzVUp2dTVKcVNoMmJlOWtNTVpwR05NRmlBaUE?oc=5",
+      "pubDate": "2026-10-14T21:33:48+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "欧州外国為替市場概況・20時 ドル円、底堅い(トレーダーズ・ウェブ)",
@@ -17,7 +53,7 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年10月14日）",
+      "title": "FX実践解説、【速報】9月米CPI「10月FOMC利上げの可能性も！ドル円火柱」（2026年10月14日）",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zdnpJa3FTX2lrMkRHX1FZbE1zR0R1LTJGanJHSk94TWk4SThKeXdzS1p0aHA4OFVYLVBjVjNBVnd6WG5EaHMwakZGNlVZbTR3a2VGM05rSmVrTEM5aUtiTXBOVQ?oc=5",
       "pubDate": "2026-10-14T20:00:00+09:00",
       "source": "外為どっとコム"
@@ -29,64 +65,28 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "公募株式投信 運用残高2カ月ぶり減少 円高や金利上昇で",
+      "title": "ドル・円は伸び悩み、クロス円が重石に｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FYmYycEdGZDdYMXV1N0pFN0J5TmY5b0p1U0RiZU9OMFBJUHZHTmEtVTdoYTFnQVFqcGRSVEFLZnNjSUdYUUNSRWFMbmRlWEpvREE?oc=5",
+      "pubDate": "2026-10-14T19:47:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "公募株式投信、運用残高2カ月ぶり減少 円高や金利上昇で",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96MlY2MXdZd2h0a0xqVi1ENGVwbGNqZF83c05fLVpsUzJENW44c0pLVEdaU0E0eC15bkNTQ1VrSWRqMmlhTlV5aEJUMjBhTlV4aDBZQnBUeVFOQ0tHenJocEdESldYZExqQTl3Ng?oc=5",
       "pubDate": "2026-10-14T19:46:58+09:00",
       "source": "日本経済新聞"
+    },
+    {
+      "title": "外為：1ドル158円44銭前後と小幅なドル高・円安で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSXFaZFhhQXB6dnV4QjFTWkhURmRBbW1hZHEtUHcyUHNIZm5McVV1NnBTZDk0NUFHcEJJbU00WWs3U1ZiUEJLcXhoVE54UVQ2dE5fSWRXZk1FaUVlcnhYdFg3X0Q2bFVlSWVHdUt6ajNHZEVzNjhrUW55aHRDcHAwNnFMcTVlSDQ?oc=5",
+      "pubDate": "2026-10-14T19:01:45+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "円相場 小幅に値下がり 原油価格上昇で一時ドル買い広がる",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lbkt5X0N4MGdDQ1p5Y1NUWU1XQWI2eVg4VHRUVm13LWRhcUFjQ3ltYjNFYmNmRTRFZl9LZkRiZUlJTVZiOTNHdjUtaGVNN19DdFlEeFByZGsxVEZYYjhN?oc=5",
       "pubDate": "2026-10-14T18:53:43+09:00",
       "source": "NHKニュース"
-    },
-    {
-      "title": "欧州為替：ドル・円は小高い、ユーロは売り継続｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51VzVtR1RrRDhIanlMdS1vNi1QR2paWnNXQTBUcl9YWkpZRGx2UEZmSGR3bzlPTENua3dRMnRMSXdBcFVOUzBVQm5tWklUYXQzQ0E?oc=5",
-      "pubDate": "2026-10-14T18:50:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "欧州為替：ドル・円は小高い、ユーロは売り継続(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSW1QTDVqQTVaczFBYWh4Nk1iaGo4UEtGdHdySTRORi1hUjZpRWJaRWNrZy1wLW91MnowelF3OGprQ2hvSU83SnR3bVp6SDVpMVpvMC02Ynd4cTN5VHc2N1pIT1QxNEtsN2FnSXc0Q2RYR1hkMFBaU1pvOHRIenFSTF9KRXFJb3c?oc=5",
-      "pubDate": "2026-10-14T18:39:44+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "外為：1ドル158円46銭前後とドル高・円安で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaEF1VmZCaWpvZ3M5Yjl1N0F3VE1GVEFIUUN4dVhpX3pDNDY5Rm41Z3dNRWRhLWhHVjNlZEhtSHFQLXZDVEZ6WU1fRkZTLWVIVFhsWG9WTl9oNDhWUllFTC1rMjlKX2stWHJLVWJSZnppaDdnVG52a1VWdkFWTm9ocFRCcU03NzA?oc=5",
-      "pubDate": "2026-10-14T18:01:38+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "東京円、１３銭円安の１ドル＝１５８円３４～３５銭（読売新聞オンライン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tWUtId2Z2UnBPbmlNUVEyMzJYS2NwVGVsWUhmZjU2ZEp3NE84WkN1X1czTndaaGRTTENMY1FRVXZzbU5DRkE0emxEOXdlb0JEOEFrQWFpa3Y3d0hMNFZTTWpNclBiNzNYQXlUcFJUVGZoOG4ydEYtUXF5WUYtQzQ?oc=5",
-      "pubDate": "2026-10-14T17:51:47+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "東京円、１３銭円安の１ドル＝１５８円３４～３５銭",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DRkFYckM3VnNaVWxHVFI5ZVJVaGVCZ2lSaHk2RFNaSV9JTmJqaVZzQnpEYXFOQ2E3WC16Z2U3dTllMnZwSGs4UURlVmJ6MkpRcUs4MFBialNSMktmdEk0TE84eXQ?oc=5",
-      "pubDate": "2026-10-14T17:51:00+09:00",
-      "source": "読売新聞"
-    },
-    {
-      "title": "ドル円１５８．３５近辺、ユーロドル１．１２０５近辺＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qSlR5THQtUXl3MFc3ck0zbGZqaU9GNmVqZHA5eWlSVGZVTG5Ta3praFpGeGFKQkRIaEpzcWs2bzdUUzd1UVhnbQ?oc=5",
-      "pubDate": "2026-10-14T17:19:28+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "158円半ばから後半は断続に売りが並ぶ、買いは158.00円から 今日の外為注文情報 2026/10/14 17:00",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uWWpjd1o1SEdJYXV1T2Z5VHNVb0QzdnA5Nm1nSGhReVRmRDJ3Sy1ManV6V3FKQUtheHhPLWl4cmNRMFFJWGF4WVFOYUJZZUlVMGVUNFpVekNzcHptTDZCMTVlcw?oc=5",
-      "pubDate": "2026-10-14T17:18:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "米中間選挙まで1カ月、ドル円が158円台で動かない理由…次に相場を動かす円高材料は？",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13c3paMGlDcmRMdW1ZUW9wYkx2bUJkREZYMGFDeFdFRFlYaXdSazBpdGxxREFhcGdmRmpCbloyRGZNcmRPd21PeXNKX3QtajJYTERLVWFpenFtZw?oc=5",
-      "pubDate": "2026-10-14T17:18:00+09:00",
-      "source": "トウシル"
     }
   ]
 }
