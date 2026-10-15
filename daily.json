@@ -1,53 +1,49 @@
 {
-  "updatedAt": "2026-10-14T13:59:17+09:00",
+  "updatedAt": "2026-10-15T13:47:24+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "米CPIで159円台へ？ 利上げ観測の行方に注目",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜米CPIで159円台へ？ 利上げ観測の行方に注目」 外為どっとコム トゥデイ 2026年10月14日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/14/083449",
-    "publishedAt": "2026-10-14T08:34:49+09:00",
-    "createdAt": "2026-10-14T08:30:00+09:00",
+    "headline": "米CPI上振れを受けた上昇続かず",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜米CPI上振れを受けた上昇続かず」 外為どっとコム トゥデイ 2026年10月15日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/15/083130",
+    "publishedAt": "2026-10-15T08:31:30+09:00",
+    "createdAt": "2026-10-15T08:30:00+09:00",
     "forecastRange": {
-      "low": 157.6,
-      "high": 159.2
+      "low": 157.5,
+      "high": 158.8
     },
-    "outlook": "159円台を試す可能性",
+    "outlook": "158円台の上値の重さを意識",
     "factors": [
-      "RBA議事録公表",
-      "高市首相、植田日銀総裁 衆院で答弁",
-      "日銀観測報道"
+      "中国CPI 伸びが加速",
+      "ECB総裁「会合ごとに判断」",
+      "米CPI 予想を上回る"
     ],
     "events": [
       {
-        "text": "10:30 〇 (中) 9月消費者物価指数",
+        "text": "15:00 〇 (英) 8月GDP",
         "importance": "medium"
       },
       {
-        "text": "11:10 ◎ (ユーロ圏) ラガルドECB総裁講演",
+        "text": "21:30 ◎ (米) 9月小売売上高",
         "importance": "high"
       },
       {
-        "text": "14:30 ◎ (英) ベイリーBOE総裁講演",
-        "importance": "high"
+        "text": "21:30 〇 (米) 9月生産者物価指数",
+        "importance": "medium"
       },
       {
-        "text": "21:30 ◎ (米) 9月消費者物価指数",
-        "importance": "high"
+        "text": "21:30 〇 (米) 9月生産者物価指数・コア",
+        "importance": "medium"
       },
       {
-        "text": "21:30 ◎ (米) 9月消費者物価指数・コア",
-        "importance": "high"
-      },
-      {
-        "text": "09:30 〇 (豪) 9月新規雇用者数",
+        "text": "21:30 〇 (米) 新規失業保険申請件数",
         "importance": "medium"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261014/20261014082752.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261015/20261015082724.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
