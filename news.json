@@ -1,20 +1,56 @@
 {
-  "updatedAt": "2026-10-15T21:52:25+09:00",
+  "updatedAt": "2026-10-16T02:47:27+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "【速報】ドル・円158.19円⇒157.89円、米PPIや小売りは予想上振れも米国債続伸(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0xqNXZoSzFvdmI4enFQRWkwRmh2WGdNM2k3R2RybGxKV19tOUJUUHA4clhhckdXR3hwZ3V6QU1QUW1qTzlMTThCanVXdGVIdkZyXzgwc19PTDRwVDNYWk9zYWtVemppckItZHVwU2loOHo5OFVTTnRBaExpdnBMdTRTYnZkWVk?oc=5",
-      "pubDate": "2026-10-15T21:43:43+09:00",
+      "title": "ニューヨーク外国為替市場概況・2時 ドル円、小動き(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQTRkUGFfamZoQmduMnhCLUZkdmUwdVVVUGxyczRkLVl2dVJHZmc0Wnd2OTkwS0F2aUx2U3pFRnBuZERTdThFQWlUMEpBSi1WWlEtZGFWd0lSalV6VkFCamJONGtKU1FOYktnclYyVXpCR3VfN1NhR0FSVm9QcTlOaW9hYmlnOVk?oc=5",
+      "pubDate": "2026-10-16T02:05:05+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、下値堅い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNGdOZHNLQUJ4QUJzeWVMNFFEaUZjSnZuSjdobXZKNDhIMU9ndHJhNklEVndGa3hObF9MOHhhbWh2Y21YaFpWR0VCY0lydEprSUlsWlNEWUpWYTVsNVNZUE1oQk1lSEFlWG43WlJrU1o1OW9GTm52V1daMnVRaEJidVNnbHozbk0?oc=5",
+      "pubDate": "2026-10-16T00:04:33+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、下げ渋り 157.91円付近で推移(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRmZrejZWYWsyQmhISTNGdjNRN1liUGdFb2FwVFpkQ3ltNEZNOVlCNDM0SDM1MU9DdjJWN240cl9pVGlVV3FOYkNhdnloZXVUOTJERnBIaGpBT1ZQX0swM3puMkw0c0xkMEk5U1NZQU9ialhjNUxJTVZqU0NKeG1vdEgtbWs2Ykk?oc=5",
+      "pubDate": "2026-10-15T23:31:47+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、再び１５７円台に下落 米ＰＰＩは予想上回るも反応限定的＝ＮＹ為替序盤",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtd1ctWDVGWDJYYmZqYjVfcl9KcjZ6QktKVkY4eGVLbmluUU5abUhvQ2hXYWpaTi1VMnk3OHgxSXpJYzFERWpmWA?oc=5",
+      "pubDate": "2026-10-15T22:29:29+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "欧州外国為替市場概況・22時 ドル円 上値重い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQTV0TWo5aWtKcEhlb2tiaVZOUGpZQ2NuQUYyQVBBUXZrTjVaREw5VUhua0duZ3Z4V1VkWVo1M3h2RU91dS0tWHJMZkhCQ19ZdG9UMGhyYXF2OFE3Z05ETHVrZ3lJcC11cjNMSEtoMTh3cUxXYkl6Rmh1WmZUZlVZNFJCRTE4b1k?oc=5",
+      "pubDate": "2026-10-15T22:06:04+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円のピボットは１５７．９５円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EcFRmYlVQVlJFQXJlUnBTSXFXcEJfSnVWcng4NDFvWkpwVk1ONldqcVJGOHZJSktiNXd6SjVFbUFYeGdDSUhKQw?oc=5",
+      "pubDate": "2026-10-15T21:55:29+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
       "title": "米PPIなど予想比上振れで、ドル円は一時158.10円台に切り返す(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWhlSFJZR2RBcHI2c2xUSjd2OVR0SXlrLWx1dGQ2Wk1fVHl5aFp0eGd3LUFmaWJCTTFEWVVDcWlkUkdXbXgwalBBS3MwclByVnZ6dEJWeXhnT1hHejdGRnZSenlzSmpoQ2NrbFB6Y0JHRTVhRm10V2VXSm51cG01V19LRFhPZTg?oc=5",
       "pubDate": "2026-10-15T21:41:04+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "9月米小売売上高は前月比＋0.8%で予想を上回る 結果の内訳と今後のドル円・ゴールドの見通し",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtRmxqWXlzX1BFTlV6aGlvSnluejVaMUNPNHUtNmpRWTdNZllqMWF4Wm9sNXkxc0pvc1J3ZTRwTGRMZFFobjVqcWg3WmhUXzg4UmpZM1R2YkxHZDVZVW51bWVfSHM3OE45dHFSaExIV3VhaEtlN01xZFN6ZlU?oc=5",
+      "pubDate": "2026-10-15T21:36:38+09:00",
+      "source": "OANDA証券"
     },
     {
       "title": "ドル円１５７．８５近辺、ユーロドル１．１２１５近辺＝ロンドン為替",
@@ -27,12 +63,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3A1MUNobk4wZVlHTGVyUzVwMnlqRjdiM0FxOHF4dE51Q2pWb21sY1FJSnJBQzBabXhNay1ybWVqQmhmVy1NZ3AzX1VMdHItdWRFWnJIVWhDRnNGVUE5R1p1SGJYZDE5bEhOYmtmTVZkdG4xT3c5QlBteWhSYUp5S3ROQlQtd1E?oc=5",
       "pubDate": "2026-10-15T20:05:32+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年10月15日）",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfRG5NX3Qwbl82d3ZVanMyM1M2Z3drSExEOGZlVVZMYUpBZHVEUFdhVmRjaDRKbmZFVVhWendkZDc5bDB3R3ByZVlTOUk1T0FGUkpCb1o4d3BFaDZBN3JLNEtkYw?oc=5",
-      "pubDate": "2026-10-15T20:00:00+09:00",
-      "source": "外為どっとコム"
     },
     {
       "title": "ドル売り優勢も値動きは鈍る、ドル円１５７円台後半＝ロンドン為替概況",
@@ -57,36 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOENzUThRY05zQ2ZZa0oyLUhicDlRNWk0bFozN2pzQmVqU0w2YXVLYmZZcXhNOGM4WmFGeUxuUnN0Zmt2N3hIMzNhZ1ZXZkVJbmE0OXBSbVctX25vN3BabURyOWdCcGxuZFR1MXZDcm5UczVYRTR4WXlacnZ1Q1FKY2hXcjN6T00?oc=5",
       "pubDate": "2026-10-15T18:48:34+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "円相場 値上がり 日銀委員の発言など受け",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HeWdsMlFfMkYyaHlpTDFzVHJZbGYwRzU4ZG5vT29NZ0lwNUdQeGxtN2tjTG85Z1VNX0NLTDZaamEwZ3cwN0tYQ2txLUx4M0h4MHRsZ0IyQl9lX2NlR1J3?oc=5",
-      "pubDate": "2026-10-15T18:36:42+09:00",
-      "source": "NHKニュース"
-    },
-    {
-      "title": "欧米為替見通し: ドル・円は底堅い値動きか、米国経済に不透明感もクロス円が下支え(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWTRBZmZjOF9fNzhkaVdlUGpuaEV3WEJwbExqel9YRHU4a1h5SHZCVzEwR3RsYkFBSE1wQWYwUWk0SkN3d2poNlRUaXdNQW42bUFRNWxGRUwwcUFHVHlaMGgwVWZFaUNWOVFQeXp2Zkl0a3hrdFdrY2Y3dHk4WWc0MkFEbTdFT2c?oc=5",
-      "pubDate": "2026-10-15T17:25:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "売りオーダーが下がり始める、ドル円はドル安・円高で上値重い 今日の外為注文情報 2026/10/15 17:00",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGSkgwU2F4aGd3TXVIandReGNiS0xtcFBvdDktdzJPVE5hNkxDYTJtcWFuSjhocnZKcTZPQ2RqVGFvZ0FrODVvQVFPTGNOeWlGZ2JVT2JITno1XzFkMl9zNk5ZWQ?oc=5",
-      "pubDate": "2026-10-15T17:18:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "通貨オプション ボラティリティー ドル円１週間７．１％に上昇",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VSnZqT3pLMlhQUkZJYTMteW1taFRSa3VjOEE1U2xjaDFnNFJHV0ZEUjl0YUdIa2lReTFLS0ZsY2RxZ0NUcE0tWg?oc=5",
-      "pubDate": "2026-10-15T17:17:28+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "円相場、１５７円８６～８８銭＝１５日午後５時現在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHOU9IY1llVzNGY0JibjRST0FnN2h0MkRnUWZlQXJ5OGpFWTNUYTQ5aDlocUk0dlR4TGxQVURYelZ6MUhWbkpnOWh0TGw1UW9qbk5aNw?oc=5",
-      "pubDate": "2026-10-15T17:08:00+09:00",
-      "source": "時事通信ニュース"
     }
   ]
 }
