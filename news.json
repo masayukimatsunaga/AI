@@ -1,9 +1,39 @@
 {
-  "updatedAt": "2026-10-16T23:19:05+09:00",
+  "updatedAt": "2026-10-17T03:25:30+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "ニューヨーク外国為替市場概況・2時 ドル円、底堅い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX3RRV0U1eEJZQXE1V0Z4dXNhOFVCdXNHZGRfNkZfN2ZMNzlQaE01NWgzYW1XYk4xVC1heEpGSzdKeTNZTGxFNldvVFhFbzFBdXRhcVVVU0lrMmxzXzNPWHUxeVpCTFFES3MtTkkwbWRjQnlLTmpyeXpFWlJMdGNHXzNjNUhhUlE?oc=5",
+      "pubDate": "2026-10-17T02:06:33+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、底堅い 米10年債利回りが5.12％台まで上昇(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnB1eFVPd3dRdm9fdzFjN1BLOWo2cWxtVjVHRk12UThBSHI4SUdBVFQ5R1dJMk9aTnVlWkdCdmdDdHhieEowSVhUM3pzWXNDNi1ULVU0NUpMempGck5ZZXB1Mk9EaUczeGR6MkRjQy1yNmlWU3RVZ2hkZGo1eGVmTjM0ZFRVTDg?oc=5",
+      "pubDate": "2026-10-17T01:23:17+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円のピボットは 157.96円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vNFdtbXVlV0pCSDlVeWxNSzZkQ0xNRy1VQzZzdENCbW9nYS1kMVpIemNORHg4RW84eFN6UkVjRi1LVHBkQjhUSw?oc=5",
+      "pubDate": "2026-10-17T00:59:28+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、弱含み(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWWxndGRlRDhDNjJuRTlkLW9GSFE4MlRZcnZscTVIZEFEVGpUdmU3VjM4d1BLem4xUGZ3Wl85cktXem11X1pMVi1UZkMxSTZ2VnhFVWQxemphTVBNNUZFbEE4UHBfNjVuTFRySjBzaE9SV1dIMEk3U3RCM0xvWjhsYkZfdnhLaEU?oc=5",
+      "pubDate": "2026-10-17T00:05:05+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円は米債利回り上昇一服を受けたドル売りに157.70円まで下げる＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pampzR1hIbWNjZy1FMWlDQXBBcGZWdDc3Y1FvMEpURmZvNXJKXzJqX1ZmSU1WVlJNdGxpZlNKdXBEel9RY0s1WA?oc=5",
+      "pubDate": "2026-10-16T23:09:29+09:00",
+      "source": "みんかぶ FX/為替"
+    },
     {
       "title": "ドル円は158.00円を挟んでの推移＝ＮＹ為替序盤",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GUnFvWGQ0Q3FENWZEbkV6WklXMUxFUzFkb2RjWHVrUmhDcVRWVFUwSGZwOWJPVHRjQllMdnJ0LU5JMlE5YTNqMA?oc=5",
@@ -29,16 +59,16 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "【速報】ドル・円157.93円、ドル軟調、米・9月輸入物価指数は加速｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pdTZkU1FmNzJLT0E1MEc0T3Z4SkVNcUhfa0JKM3ZNR19wUFZwY2h6dUtxbXh1djhLVFZLY2IzcVZRTGIzTU0tbGE0YVRqLUJoOUE?oc=5",
-      "pubDate": "2026-10-16T21:34:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "植田日銀総裁 インフレ圧力、円安に加え中東・AIを注視",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMdWVSRVJURkVndUpyV21sUDRyMmItclFyVnN0bDBBMTJvZXFwNDlGZC1ZS0l0UFJ4N3lRd0ZGOTNVSFAteUM5OA?oc=5",
       "pubDate": "2026-10-16T21:04:29+09:00",
       "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル・円は大幅安を回避、クロス円は一段高｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tVTNJTkVad2laM2VkMm5fMGtLbmtBZTlET0tMenMxclVHU051eDJQdUtxYmVXTXhVVXdRUkZaR3ZsNnU0WXhseHNFOHl1TU1aRUE?oc=5",
+      "pubDate": "2026-10-16T20:25:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "欧州為替：ドル・円は大幅安を回避、クロス円は一段高(フィスコ)",
@@ -47,46 +77,16 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年10月16日）",
+      "title": "FX実践解説、円安トレンド終焉なのか（2026年10月16日）",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZNmZIU3NpclU1eWF3RThRelhMUzBONGNfWHZhQWNhOFZwQ0QyMTNpSURFR1lRN3czMTZLSTBqYXFxbzc4NTFmaWxPQWQyVTJoQmFmLTVnaUtRMHlrekllMUZPcw?oc=5",
       "pubDate": "2026-10-16T20:00:00+09:00",
       "source": "外為どっとコム"
     },
     {
-      "title": "欧州為替：ドル・円は軟調地合い、ドル売り継続 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1veW1md1dobHVnaklNTl9oN3VGYXFmM3dfZDNWLW5MWFRSbFhFV1hnNHdvTFhrYklWakk1SEpyd3V4Mm12NEYwOTZiSElPTlBwRy1HNmlZQ1VMSE9FemI4S2NCc0o1REU?oc=5",
-      "pubDate": "2026-10-16T19:30:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "ドル・円は158円挟み、ドル売り地合い継続｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pVHBhR1dkMHJER2NFajl1RDREcHo5d29IdVBTU0EzbHZLSjB5ancxSjRYSmwzTEZGbVlmWFNSdlhfUlluVFppdEFtMXNsRFR3Y1E?oc=5",
-      "pubDate": "2026-10-16T19:02:00+09:00",
+      "title": "ドル・円は軟調地合い、ドル売り継続｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxN1pkeF83VFYtOXYtRVZkQUNqcEpRLV9ZSnlwaUtMQ0JLbmJ3enlzdVVrM3JxWHNMUDNfZWdYek80M195c0JhRFoxN2RzVGVjaFE?oc=5",
+      "pubDate": "2026-10-16T19:26:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "外為：1ドル157円93銭前後と小幅なドル安・円高で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOUdWT2RGZFQxRWdFLUNqdHVFeE5sN1ZodEhBY0thNF9vblBQWm91RDBxUGl2YzVTVlRYOUdhRFBMck02bTNULWZBZmNyT2FlUk1TUUtBNEc5LXlIZllpMXp5QlA3UnQzcDZOMHhkUHZtMmJmdXYwdkFGNTVxaVl3cGlnTkNHYU0?oc=5",
-      "pubDate": "2026-10-16T19:01:32+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "円相場 小幅な値動き",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mYkt1aTRYRXNUZkM0TEdPaGFFaXQxU0xTcVQwaVktLVdiRHlYeGFqVGNiOXQ4ZGo1OHQyT3RJYjN0TExmQ3lNUXpKRmhzUTg2S1ZKOG84VDQ3V1FBZTlR?oc=5",
-      "pubDate": "2026-10-16T18:09:49+09:00",
-      "source": "NHKニュース"
-    },
-    {
-      "title": "東京円、１４銭円安・ドル高の１ドル＝１５８円００～０２銭（読売新聞オンライン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxb2NmRjhFNE4xbkUtM0FQMEg5b1FmME41Zm9fSXkwOS1CcEdCZUFWMzFrdml1M0UtdUViQ05wRnJXMUEyUnVKSlYzSkJfRm9ZUFlHS3NfSkZFc2YxTVZwbFFIWk1WSDc3SEgxUVRtUHBIUS1mcVEwWldvS3BoZnc?oc=5",
-      "pubDate": "2026-10-16T18:00:50+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "円相場、158円00～01銭＝16日午後5時現在(時事通信)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORzNBXzdXYlljd0ZNVzk1Qzg1ZG04ZC1OUUdkLVNUVlE5X0E0cGlOWjc3QXN3R1lzaFpVeDhoM1h2VE8xYVNPNk1JY19lSkMyOHVXUDJZNGRkR29JWGJETEVfQUQtdkhfWGppczRselNLRFNVZWllQUx0R0taOW5RamJfNjAwUGM?oc=5",
-      "pubDate": "2026-10-16T18:00:31+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
