@@ -1,49 +1,45 @@
 {
-  "updatedAt": "2026-10-15T13:47:24+09:00",
+  "updatedAt": "2026-10-16T13:37:33+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "米CPI上振れを受けた上昇続かず",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜米CPI上振れを受けた上昇続かず」 外為どっとコム トゥデイ 2026年10月15日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/15/083130",
-    "publishedAt": "2026-10-15T08:31:30+09:00",
-    "createdAt": "2026-10-15T08:30:00+09:00",
+    "headline": "10月利上げめぐり、ウォーシュFRB議長発言に注目集まる",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜10月利上げめぐり、ウォーシュFRB議長発言に注目集まる」 外為どっとコム トゥデイ 2026年10月16日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/16/085214",
+    "publishedAt": "2026-10-16T08:52:14+09:00",
+    "createdAt": "2026-10-16T08:30:00+09:00",
     "forecastRange": {
       "low": 157.5,
       "high": 158.8
     },
-    "outlook": "158円台の上値の重さを意識",
+    "outlook": "200日線が焦点",
     "factors": [
-      "中国CPI 伸びが加速",
-      "ECB総裁「会合ごとに判断」",
-      "米CPI 予想を上回る"
+      "豪雇用者数 予想に反して減少",
+      "小枝日銀審議委員「過度に慎重になることはない」",
+      "英月次GDP 予想を上回る"
     ],
     "events": [
       {
-        "text": "15:00 〇 (英) 8月GDP",
-        "importance": "medium"
-      },
-      {
-        "text": "21:30 ◎ (米) 9月小売売上高",
+        "text": "11:00 ◎ (英) ベイリーBOE総裁講演",
         "importance": "high"
       },
       {
-        "text": "21:30 〇 (米) 9月生産者物価指数",
-        "importance": "medium"
+        "text": "11:30 ◎ (ユーロ圏) ナーゲル独連銀総裁講演",
+        "importance": "high"
       },
       {
-        "text": "21:30 〇 (米) 9月生産者物価指数・コア",
-        "importance": "medium"
+        "text": "12:30 ◎ (米) ウォーシュFRB議長講演",
+        "importance": "high"
       },
       {
-        "text": "21:30 〇 (米) 新規失業保険申請件数",
-        "importance": "medium"
+        "text": "15:30 ◎ (日) 植田日銀総裁講演",
+        "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261015/20261015082724.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261016/20261016083158.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
