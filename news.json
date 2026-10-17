@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-10-18T06:29:06+09:00",
+  "updatedAt": "2026-10-18T08:28:32+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "日本の名目ＧＤＰ、６位転落へ 印英が逆転、円安影響で",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlYm85OWJVRk5GS2d2aFI0VkRjU05rYXVISmRHZThQeFVwS3FUTWxyVjNUTU5xc3B4UkQxTU1qSS1NRHU0SGM3andBTWJqMW1CRmtBbDZZN3RvbHEtSThRcVMzYw?oc=5",
+      "pubDate": "2026-10-18T07:02:00+09:00",
+      "source": "時事ドットコム"
+    },
+    {
+      "title": "来週のドル円相場はどうなる？10/19週のイベント予定 2026年10月18日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CVDhtalNJcEhPc1V2XzYzQ2pVYmF1b3hzWjFoYzBxQ3Y4TlVPeXQ2bzlndWFlejMwakNCMFRRVkh1TGZ0RjZNQ3E3QU1YRHpwNGtGb1ZfbHJHcWF1WlhvcWRsZw?oc=5",
+      "pubDate": "2026-10-18T07:00:46+09:00",
+      "source": "外為どっとコム"
+    },
     {
       "title": "日本ＧＤＰ、２７年に６位転落 円安、低成長で印英に抜かれ ＩＭＦ見通し",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CendCZFpEdjFDMnR3SjJyN1kwRVNHVHN6MzhDVUlId0dWS2RIalpidjFYM0c0bExzc0F4Ynh4N19PaTlfdzQzS2RuODlyWVhIbTBrZjRlZzdyRUU?oc=5",
@@ -15,6 +27,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YU1BpczVKcGtCQ09yM25uQ0F0bVlCMnYxOGtnRmxERHhDSU83ZUoyMnhOdTM0b0QtbzZPQ2FnbkVTMmNPN3pIQ3pIU1djNHFK?oc=5",
       "pubDate": "2026-10-17T20:32:49+09:00",
       "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "米ドル円急落、一時155円台に 追加的な為替介入の可能性と介入効果の持続性が焦点 野村證券・後藤祐二朗",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Sdm13SG1HUXVHcUQzeEc2bFhsZTFsS2RjVVVDUi01Vkp3blM5VnlteXFKa2tQY09rcnBjSlh0dWRObm5uSldpc0pnQUpDa3cyM0FETmUxbjdldjBucDNB?oc=5",
+      "pubDate": "2026-10-17T19:54:05+09:00",
+      "source": "野村證券"
     },
     {
       "title": "ドル円158円台で膠着 来週は何が動かす？ 米金利低下・原油110ドル・NASDAQ急落【相場の現在地】2026/10/17",
@@ -47,12 +65,6 @@
       "source": "外為どっとコム"
     },
     {
-      "title": "戦争避けるための「砦」どう守る？ 円安・物価高に苦しむ外務省海外スタッフの手当、40年ぶり抜本改正",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pTEk3Z3J3Z3VnNjBvNFhONTEtdUpfV0R3cndwb2pqR1poRUFfSFJIczNpeW5xdkNZVms4S3NZNDBjR2o5QnAyODRMWGJSRVJtQ1Q0?oc=5",
-      "pubDate": "2026-10-17T05:00:00+09:00",
-      "source": "東京新聞"
-    },
-    {
       "title": "ニューヨーク外国為替市場概況・4時 ドル円、伸び悩み(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTURMV3VNLTFhWF9ad3g3ZE1HMnRob0ZFdmY4QkxLbEdwbmVCQ1YxeXRGc0FEV2VFbXBIT0hmOFBSOVJHTlh1Y3h5UEpWZjhHSHN5Tlo4OVFJU2xiTGF0ZWZTdkVCZ09rRVBTcllSbm9kSjJ2cTlwU3FTeHRENmpmZXlFYm01c1k?oc=5",
       "pubDate": "2026-10-17T04:06:17+09:00",
@@ -65,12 +77,6 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円、底堅い 米10年債利回りが5.12％台まで上昇(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnB1eFVPd3dRdm9fdzFjN1BLOWo2cWxtVjVHRk12UThBSHI4SUdBVFQ5R1dJMk9aTnVlWkdCdmdDdHhieEowSVhUM3pzWXNDNi1ULVU0NUpMempGck5ZZXB1Mk9EaUczeGR6MkRjQy1yNmlWU3RVZ2hkZGo1eGVmTjM0ZFRVTDg?oc=5",
-      "pubDate": "2026-10-17T01:23:17+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "ニューヨーク外国為替市場概況・24時 ドル円、弱含み(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWWxndGRlRDhDNjJuRTlkLW9GSFE4MlRZcnZscTVIZEFEVGpUdmU3VjM4d1BLem4xUGZ3Wl85cktXem11X1pMVi1UZkMxSTZ2VnhFVWQxemphTVBNNUZFbEE4UHBfNjVuTFRySjBzaE9SV1dIMEk3U3RCM0xvWjhsYkZfdnhLaEU?oc=5",
       "pubDate": "2026-10-17T00:05:05+09:00",
@@ -80,12 +86,6 @@
       "title": "欧州外国為替市場概況・22時 ドル円、もみ合い(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZmRDM1VBWHpSVmt1VEVzSlp4b3NpR3RySS1XWTBKS0NjeGd4eG9OWkFuRUdVbGxQV3pfb1duYVo2UnV0TDE4SXBaVi03anZaVi03NzE0WHRoNU9SQzNDcmF3S3F5MG1kbktpLWRuQkJ1TnZtdDVQa3g1VEh4eWtQYTRlYlNSZ3M?oc=5",
       "pubDate": "2026-10-16T22:05:04+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "欧州為替：ドル・円は大幅安を回避、クロス円は一段高(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOU1MRTI0LXlqU195OVlvQlNBQng0ZnhUaHYxczYtU08zaUtmOG9OUjdUd3JVSTFzaGZIU2NxdXJLcmhHbkpRVndPR2hsS1J1T2J0LU8wb1FibzU2VmdXMl9fWU04cVY4eTg2MDFyeF9KVEQ4UVJrUzhZUGtRbXlGTGJ1VThERDg?oc=5",
-      "pubDate": "2026-10-16T20:15:37+09:00",
       "source": "Yahoo!ファイナンス"
     }
   ]
