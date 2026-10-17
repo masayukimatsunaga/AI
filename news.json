@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T01:27:45+09:00",
+  "updatedAt": "2026-10-18T03:51:58+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -7,7 +7,7 @@
     {
       "title": "進む物価高と円安 海外進学の今",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YU1BpczVKcGtCQ09yM25uQ0F0bVlCMnYxOGtnRmxERHhDSU83ZUoyMnhOdTM0b0QtbzZPQ2FnbkVTMmNPN3pIQ3pIU1djNHFK?oc=5",
-      "pubDate": "2026-10-17T23:49:12+09:00",
+      "pubDate": "2026-10-17T20:32:49+09:00",
       "source": "Yahoo!ニュース"
     },
     {
@@ -65,6 +65,12 @@
       "source": "Yahoo!ファイナンス"
     },
     {
+      "title": "ドル円、底堅い 米10年債利回りが5.12％台まで上昇(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnB1eFVPd3dRdm9fdzFjN1BLOWo2cWxtVjVHRk12UThBSHI4SUdBVFQ5R1dJMk9aTnVlWkdCdmdDdHhieEowSVhUM3pzWXNDNi1ULVU0NUpMempGck5ZZXB1Mk9EaUczeGR6MkRjQy1yNmlWU3RVZ2hkZGo1eGVmTjM0ZFRVTDg?oc=5",
+      "pubDate": "2026-10-17T01:23:17+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
       "title": "ニューヨーク外国為替市場概況・24時 ドル円、弱含み(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWWxndGRlRDhDNjJuRTlkLW9GSFE4MlRZcnZscTVIZEFEVGpUdmU3VjM4d1BLem4xUGZ3Wl85cktXem11X1pMVi1UZkMxSTZ2VnhFVWQxemphTVBNNUZFbEE4UHBfNjVuTFRySjBzaE9SV1dIMEk3U3RCM0xvWjhsYkZfdnhLaEU?oc=5",
       "pubDate": "2026-10-17T00:05:05+09:00",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOU1MRTI0LXlqU195OVlvQlNBQng0ZnhUaHYxczYtU08zaUtmOG9OUjdUd3JVSTFzaGZIU2NxdXJLcmhHbkpRVndPR2hsS1J1T2J0LU8wb1FibzU2VmdXMl9fWU04cVY4eTg2MDFyeF9KVEQ4UVJrUzhZUGtRbXlGTGJ1VThERDg?oc=5",
       "pubDate": "2026-10-16T20:15:37+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "FX実践解説、円安トレンド終焉なのか（2026年10月16日）",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZNmZIU3NpclU1eWF3RThRelhMUzBONGNfWHZhQWNhOFZwQ0QyMTNpSURFR1lRN3czMTZLSTBqYXFxbzc4NTFmaWxPQWQyVTJoQmFmLTVnaUtRMHlrekllMUZPcw?oc=5",
-      "pubDate": "2026-10-16T20:00:00+09:00",
-      "source": "外為どっとコム"
     }
   ]
 }
