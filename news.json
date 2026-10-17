@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:33:00+09:00",
+  "updatedAt": "2026-10-17T17:50:42+09:00",
   "sources": [
     "Google ニュース"
   ],
@@ -65,6 +65,12 @@
       "source": "Yahoo!ファイナンス"
     },
     {
+      "title": "ドル円のピボットは 157.96円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vNFdtbXVlV0pCSDlVeWxNSzZkQ0xNRy1VQzZzdENCbW9nYS1kMVpIemNORHg4RW84eFN6UkVjRi1LVHBkQjhUSw?oc=5",
+      "pubDate": "2026-10-17T00:59:28+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
       "title": "ニューヨーク外国為替市場概況・24時 ドル円、弱含み(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWWxndGRlRDhDNjJuRTlkLW9GSFE4MlRZcnZscTVIZEFEVGpUdmU3VjM4d1BLem4xUGZ3Wl85cktXem11X1pMVi1UZkMxSTZ2VnhFVWQxemphTVBNNUZFbEE4UHBfNjVuTFRySjBzaE9SV1dIMEk3U3RCM0xvWjhsYkZfdnhLaEU?oc=5",
       "pubDate": "2026-10-17T00:05:05+09:00",
@@ -81,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZmRDM1VBWHpSVmt1VEVzSlp4b3NpR3RySS1XWTBKS0NjeGd4eG9OWkFuRUdVbGxQV3pfb1duYVo2UnV0TDE4SXBaVi03anZaVi03NzE0WHRoNU9SQzNDcmF3S3F5MG1kbktpLWRuQkJ1TnZtdDVQa3g1VEh4eWtQYTRlYlNSZ3M?oc=5",
       "pubDate": "2026-10-16T22:05:04+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円のピボットは１５７．９９円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wRG1GQzQ3V1U4M0U3RlplNm1NTEU2WVgwVDNvaXFHdV9rODlSc0Y3SDd6aEVVZGN1NE1PWVMtUDZ6X1VWZDdiTQ?oc=5",
-      "pubDate": "2026-10-16T21:56:28+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
