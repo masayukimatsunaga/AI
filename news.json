@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-10-18T03:51:58+09:00",
+  "updatedAt": "2026-10-18T06:29:06+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "日本ＧＤＰ、２７年に６位転落 円安、低成長で印英に抜かれ ＩＭＦ見通し",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CendCZFpEdjFDMnR3SjJyN1kwRVNHVHN6MzhDVUlId0dWS2RIalpidjFYM0c0bExzc0F4Ynh4N19PaTlfdzQzS2RuODlyWVhIbTBrZjRlZzdyRUU?oc=5",
+      "pubDate": "2026-10-18T04:00:00+09:00",
+      "source": "山陰中央新報デジタル"
+    },
     {
       "title": "進む物価高と円安 海外進学の今",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YU1BpczVKcGtCQ09yM25uQ0F0bVlCMnYxOGtnRmxERHhDSU83ZUoyMnhOdTM0b0QtbzZPQ2FnbkVTMmNPN3pIQ3pIU1djNHFK?oc=5",
@@ -33,12 +39,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JVkVKa0tralpGQk5mNmdiWVVDdTdYVmVDck9YUkNMRWFmbGYtNEhOSmtwREgyOF9HMjJmWkpzeVd2NWdnMWQ2ZQ?oc=5",
       "pubDate": "2026-10-17T06:08:28+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・16日 ドル円、ほぼ横ばい｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yQnpteGpld2JkZ1lFUUd0QWkydUtzaXBhTDZvYWNHRVFuM0ZMR1VkcEFDblZ4UkhyM2Nlb2s1UzBTV2dfMVJ5NU5SLVVWZDBDelE?oc=5",
-      "pubDate": "2026-10-17T06:04:00+09:00",
-      "source": "ザイFX！"
     },
     {
       "title": "来週の為替予想（米ドル/円）日米10月利上げ見送り観測、ドル円のレンジ突破材料は？ ハロンズFX 2026/10/17",
