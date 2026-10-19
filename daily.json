@@ -1,45 +1,37 @@
 {
-  "updatedAt": "2026-10-16T13:37:33+09:00",
+  "updatedAt": "2026-10-19T13:48:03+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "10月利上げめぐり、ウォーシュFRB議長発言に注目集まる",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜10月利上げめぐり、ウォーシュFRB議長発言に注目集まる」 外為どっとコム トゥデイ 2026年10月16日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/16/085214",
-    "publishedAt": "2026-10-16T08:52:14+09:00",
-    "createdAt": "2026-10-16T08:30:00+09:00",
+    "headline": "仏暴動は決定打にならず。158円を挟んだ値動き続く",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜仏暴動は決定打にならず。158円を挟んだ値動き続く」 外為どっとコム トゥデイ 2026年10月19日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/19/081525",
+    "publishedAt": "2026-10-19T08:15:25+09:00",
+    "createdAt": "2026-10-19T08:30:00+09:00",
     "forecastRange": {
-      "low": 157.5,
-      "high": 158.8
+      "low": 157.3,
+      "high": 158.5
     },
-    "outlook": "200日線が焦点",
+    "outlook": "方向感を模索する値動き",
     "factors": [
-      "豪雇用者数 予想に反して減少",
-      "小枝日銀審議委員「過度に慎重になることはない」",
-      "英月次GDP 予想を上回る"
+      "BOE総裁「影響はかなり限定的」",
+      "FRB議長「結論については予断を持たない」",
+      "日銀総裁「これ以上、上がることは容認できない」"
     ],
     "events": [
       {
-        "text": "11:00 ◎ (英) ベイリーBOE総裁講演",
-        "importance": "high"
+        "text": "11:00 〇 (中) 7-9月期GDP",
+        "importance": "medium"
       },
       {
-        "text": "11:30 ◎ (ユーロ圏) ナーゲル独連銀総裁講演",
-        "importance": "high"
-      },
-      {
-        "text": "12:30 ◎ (米) ウォーシュFRB議長講演",
-        "importance": "high"
-      },
-      {
-        "text": "15:30 ◎ (日) 植田日銀総裁講演",
-        "importance": "high"
+        "text": "11:00 〇 (中) 9月小売売上高",
+        "importance": "medium"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261016/20261016083158.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261019/20261019081049.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
