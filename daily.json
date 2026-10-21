@@ -1,53 +1,41 @@
 {
-  "updatedAt": "2026-10-20T13:56:43+09:00",
+  "updatedAt": "2026-10-21T13:56:04+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "原油一段高なら159円を試す可能性",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜原油一段高なら159円を試す可能性」 外為どっとコム トゥデイ 2026年10月20日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/20/081416",
-    "publishedAt": "2026-10-20T08:14:16+09:00",
-    "createdAt": "2026-10-20T08:30:00+09:00",
+    "headline": "警戒材料多数も決定打に欠ける",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜警戒材料多数も決定打に欠ける」 外為どっとコム トゥデイ 2026年10月21日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/21/082919",
+    "publishedAt": "2026-10-21T08:29:19+09:00",
+    "createdAt": "2026-10-21T08:30:00+09:00",
     "forecastRange": {
-      "low": 157.8,
-      "high": 159.2
+      "low": 157.5,
+      "high": 158.9
     },
-    "outlook": "159円台を窺う可能性も",
+    "outlook": "レンジブレイクは想定しにくい",
     "factors": [
-      "フランス暴動でユーロ売り",
-      "日銀総裁「重要な局面になっている」",
-      "中国GDP 予想を上回る"
+      "英ILO失業率 低下",
+      "独ZEW景気期待指数 低下",
+      "「米イラン合意間近」報道"
     ],
     "events": [
       {
-        "text": "10:00 〇 (中) 1年物・5年物ローンプライムレート",
+        "text": "15:00 〇 (英) 9月消費者物価指数",
         "importance": "medium"
       },
       {
-        "text": "15:00 〇 (英) 6-8月失業率（ILO方式）",
-        "importance": "medium"
+        "text": "22:00 ◎ (英) ベイリーBOE総裁講演",
+        "importance": "high"
       },
       {
-        "text": "15:00 〇 (英) 6-8月週平均賃金（除賞与、前年比）",
-        "importance": "medium"
-      },
-      {
-        "text": "15:00 〇 (英) 9月失業保険申請件数",
-        "importance": "medium"
-      },
-      {
-        "text": "15:00 〇 (英) 9月失業率",
-        "importance": "medium"
-      },
-      {
-        "text": "18:00 〇 (独) 10月ZEW景況感調査",
-        "importance": "medium"
+        "text": "25:00 ◎ (ユーロ圏) ラガルドECB総裁講演",
+        "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261020/20261020080550.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261021/20261021082105.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
