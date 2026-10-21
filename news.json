@@ -1,92 +1,92 @@
 {
-  "updatedAt": "2026-10-21T06:40:15+09:00",
+  "updatedAt": "2026-10-21T09:09:52+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "２０日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5TWpsQ09KaGFjR04wbUxhNFBBV3owRUN4UWF1YjhpcXFPLVBXXzdiSzZHUUFneFVrTzZWWjFvMmNTLUlPV2t6ag?oc=5",
-      "pubDate": "2026-10-21T06:20:29+09:00",
+      "title": "東京為替：ドル・円は上値が重い、158円台前半で小動き(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWG1tNF9pQUswcVBYQ0Qwcm1NRnNSNDBraHRGTHVmTGdLejd3bU14WnZhd2N1WVE1M1B1RHl4d3RPX09aUmNUVVJVYkpHcXA0dHp3V2JsZVBvTVJIS3hxYmFYanZzQ2dkQ0VGc09Sckk3UHl1VHZTTkotNXcwYmtGVUtfeW9SQlE?oc=5",
+      "pubDate": "2026-10-21T09:05:31+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "外為：1ドル158円28銭前後とドル高・円安で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUlpQcUtxYXpqMGdsd0xITTVTWmJETkthUmRJQS05WDBuMVhtcTAtc3phXzAtVkNRZ2xOSDA0TmF2SHU2NVk3Q2xBZGstcWRhLS1Dckdpdkt3T1BqU1dpR1puYmRuUi16Z3hEbTZrb2ZBT3pmdlhkc3B1THNIWGVnSGc0OTRkWmM?oc=5",
+      "pubDate": "2026-10-21T09:01:50+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、158.29円前後 SGX日経225先物は65305円でスタート(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTXFXbm5DanhoQVFuakl1OU9EVThyMUFLQ2VfQ0hERXBGOG1McjlHck1pUGpldVhfWXE5bUVlMWRkdGg4Nm42UEVJenZSQmp0VURYZTZ4cFZtU212R2xVMU14N2RMTjZjZm40bXRYN2puUmZpMmRUV0VYVGtPYVJpa2dCQTVwMjA?oc=5",
+      "pubDate": "2026-10-21T08:33:47+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "FX/為替「ドル/円今日の見通し｜警戒材料多数も決定打に欠ける」 外為どっとコム トゥデイ 2026年10月21日号",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Gc25lMWYtM3p1TWhFNWswMFh0OFI0Y1BPQmZab29fcUFpTk83R1NWMVk1VzJuejh4WFNjSnJGaGhYbVZnMlhjQVlseGxpdEN0NkoxVnhwbXVLdGxZYkhBem1jOA?oc=5",
+      "pubDate": "2026-10-21T08:29:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル・円は方向感を探る展開か、ユーロ関連の動向にも注意が必要｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rcldnZ2NMUF96RGRaUjhsS1lmSEpMbHVJUkI1cWhLLXVxMGs4bDNoaGNqUGV0czBTUkotR1AtRy1OVHZ5ZHBzNm44cUtUelI4WEE?oc=5",
+      "pubDate": "2026-10-21T08:20:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ユーロ/円見通し(為替/FX ニュース)：ユーロ円は円安で177円台後半｜ドル円の動きに連れて円高の場面も(2026年10月21日)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2VFdQemE3WTJ5MmNweXVXMVBRRkJGcmItSGd1b19kZUsxNlJmUGRTdTRJSmRGRG9wcGFBc0c5ZFZZUlYweTBVWVRENmdUV2ZEdUlLdFZtcHpEbHhnVk9zS1dxUU9PWkZwZXBWZWNtRkh6UDA?oc=5",
+      "pubDate": "2026-10-21T08:18:24+09:00",
+      "source": "OANDA証券"
+    },
+    {
+      "title": "〔外為・今日の材料〕ドル円、レンジ推移か＝材料乏しい（21日）(時事通信)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWkJaOEpuYko2VkIxTE9MUFJtc01nemszUEtxNDFCblVrbG5kNDRKQ3Q4Sm5VbDk4TFBVYkN4ekc0Z2VFQnAtdGN1SkhTcEZibUg4c1lMY1BhdzItSnJJZlk4ckZ5RlVUdW5tQ3VVTUtsVUhVTUYwN1dzWFd1MnRGdGxBQkJMRzA?oc=5",
+      "pubDate": "2026-10-21T08:15:56+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "２１日の東京外国為替市場見通し＝ドル・円、１５８円台前半で神経質な値動きか(ウエルスアドバイザー)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRGhrNVF3eHlKb0VxbXNnZ0s0V3l1WUpkUnY4MEdkNVlGNjdZdjlmMlpZZFlBOVZnSEc0dU5pcDBVb21fTW5nMU1Vc2kydzE2TVl3Rk9FYXo3RGlheVBHTHZMRV8xaENGOXFiY0N6bXJqbjBndWlmcWpiQVdWNWFFNWNxc3RoVjg?oc=5",
+      "pubDate": "2026-10-21T08:14:59+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル/円見通し(為替/FX ニュース )：ドル円は円高で158円台前半｜米10年債利回りやイラン情勢に関する報道が影響か(2026年10月21日)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80NExZZ0tjd1QxN2p1eWRIZVFLajVTejNOQ2Z2ZjhOUGF6QWYzZktUQ3E0SFZZZU5IX19IOVY3SzYwajVxRmlKRGNzSnprZUhZSHlRU3VjV2lkRzdIbFZFTDZldm93am5UczZ3TnI5OUtoR1k?oc=5",
+      "pubDate": "2026-10-21T08:09:58+09:00",
+      "source": "OANDA証券"
+    },
+    {
+      "title": "外為：1ドル158円27銭前後とドル高・円安で推移",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCc004ZHhKYWFuZmFtM0czanRmaDBCSHFqV2xoSVgtWVcwV3A1UlpBWFlvV2J5LWpLb3B5dDRhMXhzSjY0YlJfbWlDZTh3VXB5N2c?oc=5",
+      "pubDate": "2026-10-21T08:01:01+09:00",
+      "source": "株探"
+    },
+    {
+      "title": "東京為替見通し＝ドル円、レンジ取引継続か 高市首相発言や中東リスクで上値重くも底堅い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYmR3dDUtWm1tampzX1hRQi1Ma2s1bXJPbGZHS0NvWEl4eVpkMWFYWnhqV3p6c044MERsQTA2aWthaWpYeGZuVzFBQkNBR2FXcklTQkFpU2FWTmprcVFUVGlwSFhQNzdtckI2R3NBcmtfOHBHMTVNWWMzNmd3VFphTVZzTHZpVU0?oc=5",
+      "pubDate": "2026-10-21T08:00:05+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【本日の見通し】ドル円は落ち着いた動きか、英物価統計待ち",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aMlMxNFpQYXdNUU1HOTJGREdaTVZpZF82am1oMWI0Z1NaNkxuN2hnelhUVEtab0RNOE91a3FYOVA5YW5TYjFlMQ?oc=5",
+      "pubDate": "2026-10-21T07:45:29+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "なぜ円安は止まらないのか。フランス発のユーロ安が映す「通貨の信頼」",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX2xUM01nSURZX3NIUG9qWU52bFA3U1RNZW5fZ0VydjVxZzRyand0VnNXSVVHNzlqV2ZrVFZOSEdiZUJyLWZObDRncEJ2QzIxSGFYM1VuNjFyWkh3WE9SQ3BUc2hNd0lWdUE3cGcwRWtRQVhLNEloSkV4VnVvb1Brb3JLSjJkUQ?oc=5",
-      "pubDate": "2026-10-21T06:15:00+09:00",
-      "source": "Business Insider Japan"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・20日 ドル円、反落(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZVVFRzFQZkcyZmVHcVJ0LTN5TGlQSk01U2JzNDVyeXZsQTBMSlpYUkczUlRBR2dESE10QmNjakU3Tkc1MUxzZG9HQ1ZfZHNRWUdrajNjYklEMTB6YzNwS2VfbENnTkpEdDdqMkp2MWRKdmxrM1RmXy1oLVlPblVPdjgyNHZPSW8?oc=5",
-      "pubDate": "2026-10-21T06:06:04+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "ドル円午前の為替予想、警戒材料多数も決定打に欠ける 2026/10/21",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OM3VPcEtRampXdExrdFpra3FHclBmMzBpWWtrb0FfTElXYnpVQ0h0cDVnN2JSZVdxYWJrZVJrU2dyc2RFZWxoVWtJd01YTVlmVXVWMXd6ZUpUdkJmWExWdE1jTQ?oc=5",
+      "pubDate": "2026-10-21T07:39:00+09:00",
+      "source": "外為どっとコム"
     },
     {
       "title": "ドル円、１５７円台に一時下落 米国とイランの協議に関する情報錯綜＝ＮＹ為替概況",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02XzIxTFNfbHpDOWF1VEZ2ZHNmdHlKbk5qNEdyOEdVUnBUeXZETHJSazEwQ3FydnRzME4zeGQzT0tzSjUwbnlPNQ?oc=5",
-      "pubDate": "2026-10-21T05:40:29+09:00",
+      "pubDate": "2026-10-21T07:12:09+09:00",
       "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、反発が一巡(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUnotOG9Lc1Fzd2pWX0RSOUVURGVKTFdxOWdKQWgxMUtaYXNncUdCZGpDUHdoVnFOenA0MHNKQk56Q1JKUl9oSHAxd2dmY2ZzUV9OM3ZLMnFjc1pUWFBRaWVtMmtlcE1VWlludnp4YWpkNk45MzYyZFY0MzFqWnhTVkFMOHFSTjQ?oc=5",
-      "pubDate": "2026-10-21T04:05:18+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "円相場、26年末に1ドル=154円 野村系の宮崎氏",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTU1pQm84QWwxc3FEcE5oVGotUHdIMUl3N3h4X3dJVFkwVmxNMjBZV3pKQ0J4akFXRi1pNUpKZ1pUUC1TNlNqVU9zdU1EdzRCWEZEbmJrTlRZQUNZc3dncU1UQlZ3QnBDOGZIeg?oc=5",
-      "pubDate": "2026-10-21T04:00:00+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbWxqc1ltSU1ndEE0VElnZldUTGdyRVJpOTdKeXBsc0RDSm40dm9kLTJqaDZlOVpoR2E5eEZIX1o0bFR1SFR2N2k4WjRiTnN5dHVBTHJn?oc=5",
-      "pubDate": "2026-10-21T03:02:58+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･2時 ドル円、反発(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbUVHSXJSV0tLNmRzeFFaT1RaOTR6UkJtYkFFTVpYdUF4ckdCSFpOR3JpTncwSDdPVW1JdmR1TWhSZ1BMQUFtNXhNbU9fUGFlbVhCNnA0emJTSk8wbHhNei05VHIxZTlKbkFncmRiek43ZTg1bUhadlQwUWtHUkRDZjBzblEyNTA?oc=5",
-      "pubDate": "2026-10-21T02:06:48+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、１５８円台前半 米国とイランの協議に関する情報が錯綜＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01VmZ4bXR1dW9vMkg5S3RicHlaWUlsVnBGamJaYjlOSlkyYjdpcU5McWRnOFZlZy1WdE9ZQzAzU2lNSnFEZWRGcQ?oc=5",
-      "pubDate": "2026-10-21T00:56:29+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・24時 ドル円、小安い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbHpfODVpd2NoV2QydUR5QlZHVUZORkV4b0luMjAzUFVBbWI3ZjdnT3BIZG9ZMFBoMkhlUS0xRUxoajIyNEQ4TkstV0s1elhUN3FaMU0wZzVqQlZSaGVNUC1WTVZtX1ZUSWNxbHJ6ZXltamozREIxQ0o3QUJHOHJpeFQ1RThXSVk?oc=5",
-      "pubDate": "2026-10-21T00:05:34+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル、売り優勢 ドル円は一時157.83円まで下げる(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbGhGU0tabkJqbFR0eUYxc2NHZkZyckRrVEtpXzZVdE1KSlNDcVJteVNPWXVucVpmckxiNHB3Y0VSTnpTcVVmclJFb2ZXcWJHa2FxQmZKQU02SUNpMi1Kbk9vVG9YVVBSWU8td3ZZblNsb0h5S1FGcmtBUjJXYWtkWDNoOFNuWXc?oc=5",
-      "pubDate": "2026-10-20T23:35:33+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "【速報】ドル・円158.05円、ドル安値圏、米・9月中古住宅販売成約指数が予想以上に悪化(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzN0MFdyMEhnbEtyWE1seDZrUlFqTWpaVUFKaUw1LVA2dk54ZDRvTFBZVmNaQXlzWmRlWVAxcW5VU1U0MnY1N29peVJ5cW55RWVkWE15c3JBSWVNcmJuYXMxUEhxRjhLTzR4a2gydDl6d2ZUOTdGblIzc2k0ck0zZU1BMDI2RGc?oc=5",
-      "pubDate": "2026-10-20T23:02:14+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、２００日線に顔合わせも上値抑えられる＝ＮＹ為替序盤",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGdnUzVU9yY24wUzZlT0NuNDR4Nm9VbWJMTjNfQU5Qa1I4cWFrRzVoUmNGUFc1a2lFMFZPdDhnNFd0SlVWcDdVOQ?oc=5",
-      "pubDate": "2026-10-20T22:26:29+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、下げ渋り(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWFpwMkZWSEFtdXhETlJ5SG1iU3hvdGZ2MEk0TU01amIwVnVpaE5jQXdhWDZ1TEJPUk0xV0ZxYXJPZWllRnA2QmdzbWF6ckdodUV3MWVtYks5NEZXNDd1VzcwMU1NZzEyNmNqQVZkTTNjelNDQ1R1VTVfMmNabk41bVV5LTJZTlE?oc=5",
-      "pubDate": "2026-10-20T22:07:32+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }
