@@ -1,41 +1,37 @@
 {
-  "updatedAt": "2026-10-21T13:56:04+09:00",
+  "updatedAt": "2026-10-22T13:56:11+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "警戒材料多数も決定打に欠ける",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜警戒材料多数も決定打に欠ける」 外為どっとコム トゥデイ 2026年10月21日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/21/082919",
-    "publishedAt": "2026-10-21T08:29:19+09:00",
-    "createdAt": "2026-10-21T08:30:00+09:00",
+    "headline": "158円挟みの値動き継続　膠着が長期化",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜158円挟みの値動き継続　膠着が長期化」 外為どっとコム トゥデイ 2026年10月22日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/22/081107",
+    "publishedAt": "2026-10-22T08:11:07+09:00",
+    "createdAt": "2026-10-22T08:00:00+09:00",
     "forecastRange": {
       "low": 157.5,
-      "high": 158.9
+      "high": 158.6
     },
-    "outlook": "レンジブレイクは想定しにくい",
+    "outlook": "小幅な値動きにとどまる",
     "factors": [
-      "英ILO失業率 低下",
-      "独ZEW景気期待指数 低下",
-      "「米イラン合意間近」報道"
+      "RBA副総裁「難しい選択を迫られている」",
+      "日銀副総裁「緩和度合いの調整遅れれば、景気悪化につながる可能性」",
+      "英CPI 伸びが加速"
     ],
     "events": [
       {
-        "text": "15:00 〇 (英) 9月消費者物価指数",
+        "text": "21:30 〇 (米) 新規失業保険申請件数",
         "importance": "medium"
       },
       {
-        "text": "22:00 ◎ (英) ベイリーBOE総裁講演",
-        "importance": "high"
-      },
-      {
-        "text": "25:00 ◎ (ユーロ圏) ラガルドECB総裁講演",
-        "importance": "high"
+        "text": "08:30 〇 (日) 9月全国消費者物価指数",
+        "importance": "medium"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261021/20261021082105.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261022/20261022080553.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
