@@ -1,14 +1,45 @@
 {
-  "updatedAt": "2026-10-23T02:39:17+09:00",
+  "updatedAt": "2026-10-23T05:50:27+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "新規参入の両翼、円安で窮地 エア・ドゥとソラシドエア、子会社化検討",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12LW43WW9oMzJEZ1g1T3FHTkV2UG90aTJfWWdMaFh0RUM3QWZEcUpiZ0lvZUdpSnEzOXpDUUlYWGlFUzYyLXRDNm9ZdUZIMXBBNFd4S3VtcEVjVF83?oc=5",
+      "pubDate": "2026-10-23T05:00:00+09:00",
+      "source": "朝日新聞"
+    },
+    {
+      "title": "高市政権1年で円安・金利上昇が止まらない、利上げしても為替介入しても円高に転じない根本原因は「政策発信」と「貿易赤字」",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GX1Z3M25yaFhnYlU0UFBwcU8wSEllbFpjY2F2UTJSWGNqZTA3UjRqNHN0aHRqTk1sOW1BbDZscTQzSWlHWXFYM29TVHTSAU9BVV95cUxNbEtveWVaTmx2SGh5YWZPZDJ4OVZGR1dZVGpnWW8zWW9ZUUZ4XzBMa1NaT0N1SHRLekwwZGJNREUxd05KRzJ2WFA4TWl6NldB?oc=5",
+      "pubDate": "2026-10-23T04:30:00+09:00",
+      "source": "ダイヤモンド・オンライン"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円、戻り鈍い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOUl6SG02M09LZ2FYODQ5aVFucXNhVGVvQXE4dlZ1WjF0NkJqdEp1QjNrdHVJWEl3a0tFVlVaMGNkU1BiVWQzeTE2RmJOQkJoRk5SYm9BZlJZbzRKejZTVWo1TXNuNE0tV1I5WFh3d05ueV9DeC1IWDRqUkhUUEM0dTE3cG1mUmM?oc=5",
+      "pubDate": "2026-10-23T04:05:05+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円、戻り鈍い",
+      "link": "https://zai.diamond.jp/articles/-/497767",
+      "pubDate": "2026-10-23T04:05:00+09:00",
+      "source": "ザイFX！"
+    },
     {
       "title": "ニューヨーク外国為替市場概況･2時 ドル円、下押し(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeWY0ZzhyWExZajZjcEx4Q1g0dnFKVEFaQm01c2l5Y1dKd2IzMHZzd1NraHB0cE1BZlJPUzFzX0doS21qOVctMW9uZXdmY2pMdzBUS0hIdEdiYTlPcWg2SzB6T2hGTnpSQXNySk5tSTc5V25DcFdKVWVtdlBLaThsU3NsNEt2X1E?oc=5",
       "pubDate": "2026-10-23T02:05:33+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･2時 ドル円、下押し",
+      "link": "https://zai.diamond.jp/articles/-/497761",
+      "pubDate": "2026-10-23T02:05:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "ドル円、上値重い 米10年債利回りは15bp超低下(トレーダーズ・ウェブ)",
@@ -17,10 +48,34 @@
       "source": "Yahoo!ファイナンス"
     },
     {
+      "title": "ドル円、上値重い 米10年債利回りは15bp超低下",
+      "link": "https://zai.diamond.jp/articles/-/497760",
+      "pubDate": "2026-10-23T01:48:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "NY外為:円堅調、安全資産買い、フランス政局不安や中東紛争深刻化",
+      "link": "https://zai.diamond.jp/articles/-/497756",
+      "pubDate": "2026-10-23T00:16:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ユーロドル、弱含み",
+      "link": "https://zai.diamond.jp/articles/-/497755",
+      "pubDate": "2026-10-23T00:05:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
       "title": "ドル円、下値堅い 米10年債利回りは10bp超低下(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazdOZGhrM0luTFB6V3VKQ096U3ljQkhSOWxwRml3eWxNcTB0Sy1rMndPMms2cllYSFJLa242Ym9rcmIwLTdpQWpPUm1NX1A3bExMdFFweEhMWklHZDV0V0Q2c0paT0RWYW5hRkQ1dG4yMTJfeDVHLXhlWnF0ZFlHRm9EcDgwX2c?oc=5",
       "pubDate": "2026-10-22T23:31:03+09:00",
       "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、下値堅い 米10年債利回りは10bp超低下",
+      "link": "https://zai.diamond.jp/articles/-/497752",
+      "pubDate": "2026-10-22T23:31:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "【速報】ドル・円157.33円、ドル買いに転じる、米・9月景気先行指数は予想外に改善(フィスコ)",
@@ -29,64 +84,10 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円、一時１５６円台に下落 ＡＩ関連への懸念再燃で逃避買いの円高との指摘も＝ＮＹ為替序盤 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52NGhYRUxRYW1wd2JvQkc0aGsydGpjUnFhZWVCUzlMNFhfN0JmTFFPcW1zMk9Pd2RETHRjdmVCd1FzaTRlM3RJSQ?oc=5",
-      "pubDate": "2026-10-22T22:27:29+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、底堅い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW9RQl9PT2RMdDBpcWVDNHZxeXdSeFdvblBIaTZEeTRZSzJnZ2hnMU1nR1o4MXpIRUtCQ1VQWlgzTEF1RXd3NjJ5T3dnQTZ2NVVydjVYWmxJRGxRTFY4eXpCel9fc0Y3dkFaV3c1VGFKeFNfM1NONjJCdUpFSnQ1THM2SWRuT3M?oc=5",
-      "pubDate": "2026-10-22T22:07:19+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円のピボットは１５７．３３円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLdW1ST2lOZ29tbGljcnIwZFZoU1VjTXE5bWR4N0gzQUtqZnFDWl9JQXNOTndKRVRjSmRIWmhZMjN4cS1qVURWRQ?oc=5",
-      "pubDate": "2026-10-22T22:02:29+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "【速報】ドル・円157.13円、ドル底堅い、先週分新規失業保険申請件数は予想外に減少(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPemhMSjlqc2tjcmd2eWRNbmZtZXJoc1dtVUliR0xndWtfcDk0eXhObkp5SnFIclRYdk1OUVNSM3gzdWhjVFM3Y0FQWVViUzE0dlA4QlBuSjJxR1lwVEgwc3F3WHAwTDlFS18tR3IwMDFoejNxcHhBWm9zbl9PdG1VbTFJWE5PMzg?oc=5",
-      "pubDate": "2026-10-22T21:32:35+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "欧州為替：ドル・円は下げ一服、ユーロ売り圧力は継続(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdDVlREVoMnNOZ3pGVFlDdnptZ2JVSVhUOWl0Q3R3TzROeDZUMm83TldPYml5ME9ob1pjLTN3NXFCOEpJYU9hY3Q2YlVhLUs2T29pTlVQcVo4SnVMLTJJUnVLb19zWmVVMVJaNGZJMTUtdDNHU2tNX2VSUkgyeGpaLVJha0lGR2s?oc=5",
-      "pubDate": "2026-10-22T20:17:08+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "欧州外国為替市場概況・20時 ドル円 上値重い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUJ4QmxPc1RLZ0RtUlZMRmxCbTd0cUVGWll4WEtUZnpvdUhIX3JaOXRDc3ZwV21NeU1xR3JGTWZHQWlWMkdWOERLQ0dkZHh6MzV2LWg4Zk9BZllDanJ0OXZZQTJaWTkyZWhXaVg4eGpFUWl4UUJMQnhuVHNaSWIzLU9TY1NjNEk?oc=5",
-      "pubDate": "2026-10-22T20:07:17+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "FX実践解説、ドル円急落１５６円台「ＡＩ懸念、弱気相場入り？」（2026年10月22日）",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBabW9XVHN1Z1UwNmNzdUZ4TGZPWTNoZ1drYjVrc3Fhc2ZPRDJJbFQyYVRDbC1waFlUd3ZLRm9BenBod2FnbE5TaVlGY24xc21Oa3k5b29pcV92TUtBUzBQekp1VQ?oc=5",
-      "pubDate": "2026-10-22T20:00:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "欧州為替：ドル・円は一段安、円買い優勢(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNenpNQUtEVEVMeGJXYmJvZzMwa3RUSFczWUNMV09LdF9VQk4wX1JSY25Xd1lDTlVPaEN5Zlk1ajBiNFlWcWI5SFVCTHR6WTRMLTBPSU1RbnA4Vmh2TnpWQXlwZklQeWdObXNxbkNla1lJRVQ3TXBmTGU2b0hqM0hZNVVROWZGdkE?oc=5",
-      "pubDate": "2026-10-22T19:30:48+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "【ドル/円、今夜の見通し】ドル/円、157円割れ…米金利低下、株安続くともう一段下げる？＿2026/10/22",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBneENzYnpCVGxXWnljSVpJcFRnLW01US1QRUNEcF82VnV2OHhpaVlOcFRxUzdFZzk2RXhyTk9ZWXhZTm9GV3NTUzZHc3VhTE91UWJadVY0UzdKOWpjajRDd2pSbw?oc=5",
-      "pubDate": "2026-10-22T19:05:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "外為：1ドル156円80銭前後とドル安・円高で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWkgydm1WVEQ4YkVZQmhvTkJtWnY1MWdJcm41aDhabnFxRDhuQk9zM0lQM3JKQTljLUU0QzZOaGJ4clJPSmFkTURydUZNVnJwS2RHZmJ4STJDb0xNN29kRFhqT1NoSmtheDBVakYtenFTNWxBUEs2b3VaVTJnN0c4dzVaSzNmQkE?oc=5",
-      "pubDate": "2026-10-22T19:01:36+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "【速報】ドル・円157.33円、ドル買いに転じる、米・9月景気先行指数は予想外に改善",
+      "link": "https://zai.diamond.jp/articles/-/497749",
+      "pubDate": "2026-10-22T23:05:00+09:00",
+      "source": "ザイFX！"
     }
   ]
 }
