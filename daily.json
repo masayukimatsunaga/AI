@@ -1,37 +1,53 @@
 {
-  "updatedAt": "2026-10-22T13:56:11+09:00",
+  "updatedAt": "2026-10-23T13:58:08+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "158円挟みの値動き継続　膠着が長期化",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜158円挟みの値動き継続　膠着が長期化」 外為どっとコム トゥデイ 2026年10月22日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/22/081107",
-    "publishedAt": "2026-10-22T08:11:07+09:00",
-    "createdAt": "2026-10-22T08:00:00+09:00",
+    "headline": "AIバブル懸念でリスク回避の円買い復活",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜AIバブル懸念でリスク回避の円買い復活」 外為どっとコム トゥデイ 2026年10月23日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/23/083330",
+    "publishedAt": "2026-10-23T08:33:30+09:00",
+    "createdAt": "2026-10-23T08:30:00+09:00",
     "forecastRange": {
-      "low": 157.5,
-      "high": 158.6
+      "low": 155.8,
+      "high": 157.6
     },
-    "outlook": "小幅な値動きにとどまる",
+    "outlook": "株価の下落が続けば一段安",
     "factors": [
-      "RBA副総裁「難しい選択を迫られている」",
-      "日銀副総裁「緩和度合いの調整遅れれば、景気悪化につながる可能性」",
-      "英CPI 伸びが加速"
+      "「リスク回避の円買い」復活",
+      "米新規失業保険申請件数 約3カ月ぶりの低水準",
+      "米10年債利回り 低下幅を拡大"
     ],
     "events": [
       {
-        "text": "21:30 〇 (米) 新規失業保険申請件数",
+        "text": "16:30 〇 (独) 10月製造業PMI・速報値",
         "importance": "medium"
       },
       {
-        "text": "08:30 〇 (日) 9月全国消費者物価指数",
+        "text": "16:30 〇 (独) 10月サービス業PMI・速報値",
+        "importance": "medium"
+      },
+      {
+        "text": "17:00 〇 (ユーロ圏) 10月製造業PMI・速報値",
+        "importance": "medium"
+      },
+      {
+        "text": "17:00 〇 (ユーロ圏) 10月サービス業PMI・速報値",
+        "importance": "medium"
+      },
+      {
+        "text": "17:30 〇 (英) 10月製造業PMI・速報値",
+        "importance": "medium"
+      },
+      {
+        "text": "17:30 〇 (英) 10月サービス業PMI・速報値",
         "importance": "medium"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261022/20261022080553.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261023/20261023081808.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
