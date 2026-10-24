@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-24T07:39:27+09:00",
+  "updatedAt": "2026-10-24T10:09:40+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
+      "title": "高市政権「高圧経済」成功の条件 円安基調がもたらす経済・財政の好循環をしぼませるな 田村秀男の経済正解",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wX09RQXBRS056dlFyTy16d2hGRnYtdnV5OFZtR2VOcG9ZSEVNSEhpQi1pb0MzOWVrY2RPQVpDVHBteWUzNDRuSGphVE1fRGtkQ2hQZ3Z2M2lQT2k4VTQxYUhjWUtmcHdBenJuQ2diRnJ0cTBONXc?oc=5",
+      "pubDate": "2026-10-24T08:00:00+09:00",
+      "source": "産経ニュース"
+    },
+    {
       "title": "NY為替・23日＝-ドル円は4日ぶりに小反発 終値は156.87円(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZlNodC10VGVheVlnejZYdmpuaEY2Rk9tV3NGbFZFOG4zRV9vbzVFQkQ5dkFwT2FiMTk5V3h4dFJBZVBnV0o4RV9zYXNJU3Jsb20wRllNeW5xMldfRy1oMXJCVlljUXV5azdBRDV5WkpLanE0UU01ZFFYY0pCcUp3aXY3NDJnQTA?oc=5",
       "pubDate": "2026-10-24T06:59:02+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円は１５６円台 下げ渋るも円高が上値圧迫＝ＮＹ為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qSnJmaWVTR2Vxc1hfcUxrbFZrU042cGdCanVCMkx3aGVjN0xyYWxzZkpwSnhnMk96LXU5aF9QdWFGYVJIaG5jMA?oc=5",
-      "pubDate": "2026-10-24T06:52:12+09:00",
-      "source": "みんかぶ FX/為替"
     },
     {
       "title": "２３日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
@@ -23,16 +23,22 @@
       "source": "みんかぶ"
     },
     {
+      "title": "来週の為替予想（米ドル/円）AI株安で156円台へ下落、日銀の12月利上げ観測が円高を加速させるか ハロンズFX 2026/10/24",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oMERmTlJsVWs2RWFoRmJJanprd3F6MjgtcnhvWGVpWEVDU05uS0VRM2JKY0JhTkdEQ3dJdW5DWnliZnpYRjJoY2RwU1RrVzVNc3BXMC1Kc0JEd1VRNGE3eVEwQQ?oc=5",
+      "pubDate": "2026-10-24T06:12:47+09:00",
+      "source": "外為どっとコム"
+    },
+    {
       "title": "23日レンジ ドル円 156.08-157.16円(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMDJwdmRZNWNKSGs2cnBwYjNtaW9UUFlTYzdyRUZwMGV1SldqNnhXZFJLcmZpd3J6d1g1Sy1BSFJpSEFjcFQyaEsyTVhaRWx4Ujdpcm5QdWdhMWpnLWpCU1VPVjg4cDVXSUxLc1RUZnAtSDRTc2NBY1RyTVpZRDZzUk4xdUFMem8?oc=5",
       "pubDate": "2026-10-24T06:04:03+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "来週の為替予想（米ドル/円）AI株安で156円台へ下落、日銀の12月利上げ観測が円高を加速させるか ハロンズFX 2026/10/24",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oMERmTlJsVWs2RWFoRmJJanprd3F6MjgtcnhvWGVpWEVDU05uS0VRM2JKY0JhTkdEQ3dJdW5DWnliZnpYRjJoY2RwU1RrVzVNc3BXMC1Kc0JEd1VRNGE3eVEwQQ?oc=5",
-      "pubDate": "2026-10-24T06:03:58+09:00",
-      "source": "外為どっとコム"
+      "title": "ドル円は１５６円台 下げ渋るも円高が上値圧迫＝ＮＹ為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qSnJmaWVTR2Vxc1hfcUxrbFZrU042cGdCanVCMkx3aGVjN0xyYWxzZkpwSnhnMk96LXU5aF9QdWFGYVJIaG5jMA?oc=5",
+      "pubDate": "2026-10-24T05:40:28+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
       "title": "ニューヨーク外国為替市場概況･4時 ドル円、戻り一服(トレーダーズ・ウェブ)",
@@ -80,12 +86,6 @@
       "title": "ドル円は円買いが優勢な場面も続かず＝ロンドン為替概況",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsaHNxUkxURzlwT1hhQUk1R2lMYkFzSWlUTlgySVdmd2Rmc3ZxSGwyWTRFeGsyZW5LUXIzcDlNNmMySGl6bkNkUw?oc=5",
       "pubDate": "2026-10-23T21:05:29+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円はもみ合い＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Rc193dk9vY1BIVW1DTUNWdVNCdzFWbkdEV080SVNYczRuSVM5czVUc2NpSHBGS0l1Y3dvSEcwZ3c5MDdmSG1LMw?oc=5",
-      "pubDate": "2026-10-23T20:36:29+09:00",
       "source": "みんかぶ FX/為替"
     }
   ]
