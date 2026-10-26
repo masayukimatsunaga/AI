@@ -1,53 +1,33 @@
 {
-  "updatedAt": "2026-10-23T13:58:08+09:00",
+  "updatedAt": "2026-10-26T13:54:06+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "AIバブル懸念でリスク回避の円買い復活",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜AIバブル懸念でリスク回避の円買い復活」 外為どっとコム トゥデイ 2026年10月23日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/23/083330",
-    "publishedAt": "2026-10-23T08:33:30+09:00",
-    "createdAt": "2026-10-23T08:30:00+09:00",
+    "headline": "FOMC、日銀会合控え様子見ムードも株価動向には注意",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜FOMC、日銀会合控え様子見ムードも株価動向には注意」 外為どっとコム トゥデイ 2026年10月26日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/26/082042",
+    "publishedAt": "2026-10-26T08:20:42+09:00",
+    "createdAt": "2026-10-26T08:30:00+09:00",
     "forecastRange": {
-      "low": 155.8,
+      "low": 156.0,
       "high": 157.6
     },
-    "outlook": "株価の下落が続けば一段安",
+    "outlook": "様子見ムードが強まる公算",
     "factors": [
-      "「リスク回避の円買い」復活",
-      "米新規失業保険申請件数 約3カ月ぶりの低水準",
-      "米10年債利回り 低下幅を拡大"
+      "日本CPI 伸びが加速",
+      "英小売売上高 予想以上に減少",
+      "独PMI 製造業は上昇"
     ],
     "events": [
       {
-        "text": "16:30 〇 (独) 10月製造業PMI・速報値",
-        "importance": "medium"
-      },
-      {
-        "text": "16:30 〇 (独) 10月サービス業PMI・速報値",
-        "importance": "medium"
-      },
-      {
-        "text": "17:00 〇 (ユーロ圏) 10月製造業PMI・速報値",
-        "importance": "medium"
-      },
-      {
-        "text": "17:00 〇 (ユーロ圏) 10月サービス業PMI・速報値",
-        "importance": "medium"
-      },
-      {
-        "text": "17:30 〇 (英) 10月製造業PMI・速報値",
-        "importance": "medium"
-      },
-      {
-        "text": "17:30 〇 (英) 10月サービス業PMI・速報値",
-        "importance": "medium"
+        "text": "※時間は日本時間での表示になります。 ※「注目の経済指標」「注目のイベント」は注目度が高い順に「◎」「○」「無印」で表示しております。 ※発表時刻は予告なく変更される場合があります。また、予定一覧は信憑性の高いと思われる情報を元にまとめておりますが、内容の正確性を保証するものではございませんので、事前にご留意くださいますようお願いいたします。",
+        "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261023/20261023081808.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261026/20261026080943.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
