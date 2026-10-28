@@ -1,47 +1,41 @@
 {
-  "updatedAt": "2026-10-27T14:12:00+09:00",
+  "updatedAt": "2026-10-28T14:49:24+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "157円台半ばへ上昇　関心は日米金融政策に",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜157円台半ばへ上昇　関心は日米金融政策に」 外為どっとコム トゥデイ 2026年10月27日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/27/082231",
-    "publishedAt": "2026-10-27T08:22:31+09:00",
-    "createdAt": "2026-10-27T08:10:00+09:00",
+    "headline": "158円手前へ上昇　FOMCで利上げのヒントを探る",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜158円手前へ上昇　FOMCで利上げのヒントを探る」 外為どっとコム トゥデイ 2026年10月28日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/28/085937",
+    "publishedAt": "2026-10-28T08:59:37+09:00",
+    "createdAt": "2026-10-28T08:30:00+09:00",
     "forecastRange": {
       "low": 156.8,
-      "high": 158.0
+      "high": 158.6
     },
-    "outlook": "156円台後半では下げ渋る",
+    "outlook": "FOMC慎重姿勢の方が反応が強い公算",
     "factors": [
-      "独IFO企業景況感 上昇"
+      "片山財務相「ずっと注視している」",
+      "米耐久財受注 予想を下回る",
+      "米消費者信頼感指数 予想を大幅に上回る"
     ],
     "events": [
       {
-        "text": "21:30 〇 (米) 9月耐久財受注",
-        "importance": "medium"
-      },
-      {
-        "text": "09:15 ◎ (豪) ブロックRBA総裁講演",
+        "text": "27:00 ◎ (米) FOMC政策金利",
         "importance": "high"
       },
       {
-        "text": "09:30 〇 (豪) 9月消費者物価指数",
-        "importance": "medium"
-      },
-      {
-        "text": "09:30 〇 (豪) 7-9月期消費者物価",
-        "importance": "medium"
+        "text": "27:30 ◎ (米) ウォーシュFRB議長講演",
+        "importance": "high"
       },
       {
         "text": "※時間は日本時間での表示になります。 ※「注目の経済指標」「注目のイベント」は注目度が高い順に「◎」「○」「無印」で表示しております。 ※発表時刻は予告なく変更される場合があります。また、予定一覧は信憑性の高いと思われる情報を元にまとめておりますが、内容の正確性を保証するものではございませんので、事前にご留意くださいますようお願いいたします。",
         "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261027/20261027081548.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261028/20261028084324.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
