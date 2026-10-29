@@ -1,41 +1,53 @@
 {
-  "updatedAt": "2026-10-28T14:49:24+09:00",
+  "updatedAt": "2026-10-29T14:54:11+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃"
   },
   "report": {
-    "headline": "158円手前へ上昇　FOMCで利上げのヒントを探る",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜158円手前へ上昇　FOMCで利上げのヒントを探る」 外為どっとコム トゥデイ 2026年10月28日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/28/085937",
-    "publishedAt": "2026-10-28T08:59:37+09:00",
-    "createdAt": "2026-10-28T08:30:00+09:00",
+    "headline": "FRB議長会見後の下落は一時的　200日移動平均線を試す可能性",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜FRB議長会見後の下落は一時的　200日移動平均線を試す可能性」 外為どっとコム トゥデイ 2026年10月29日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/29/083745",
+    "publishedAt": "2026-10-29T08:37:45+09:00",
+    "createdAt": "2026-10-29T08:30:00+09:00",
     "forecastRange": {
-      "low": 156.8,
+      "low": 157.2,
       "high": 158.6
     },
-    "outlook": "FOMC慎重姿勢の方が反応が強い公算",
+    "outlook": "200日移動平均線を試す可能性",
     "factors": [
-      "片山財務相「ずっと注視している」",
-      "米耐久財受注 予想を下回る",
-      "米消費者信頼感指数 予想を大幅に上回る"
+      "豪4半期CPI コアCPIの伸びが加速",
+      "英財務相 財政規律堅持方針を示す",
+      "FOMC 予想通りの金利据え置き"
     ],
     "events": [
       {
-        "text": "27:00 ◎ (米) FOMC政策金利",
+        "text": "21:30 ◎ (米) 9月個人所得",
         "importance": "high"
       },
       {
-        "text": "27:30 ◎ (米) ウォーシュFRB議長講演",
+        "text": "21:30 ◎ (米) 9月個人消費支出",
         "importance": "high"
       },
       {
-        "text": "※時間は日本時間での表示になります。 ※「注目の経済指標」「注目のイベント」は注目度が高い順に「◎」「○」「無印」で表示しております。 ※発表時刻は予告なく変更される場合があります。また、予定一覧は信憑性の高いと思われる情報を元にまとめておりますが、内容の正確性を保証するものではございませんので、事前にご留意くださいますようお願いいたします。",
+        "text": "21:30 ◎ (米) 9月PCEデフレーター",
+        "importance": "high"
+      },
+      {
+        "text": "21:30 ◎ (米) 9月PCEコア・デフレーター",
+        "importance": "high"
+      },
+      {
+        "text": "21:30 ◎ (米) 7-9月期GDP・速報値",
+        "importance": "high"
+      },
+      {
+        "text": "21:30 ◎ (米) 7-9月期GDP個人消費・速報値",
         "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261028/20261028084324.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261029/20261029083022.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }
