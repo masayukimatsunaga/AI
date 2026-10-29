@@ -1,93 +1,92 @@
 {
-  "updatedAt": "2026-10-29T17:56:25+09:00",
+  "updatedAt": "2026-10-30T01:11:28+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "東京為替：ドル・円は戻りが鈍い、クロス円にらみ(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONjRlWlY0aEM4MElLWFJqNmVYbU9jTUR6eTY3QWJ4VUt2WndVd1ZxNDg5ZEp4ZTN3UEU5bWJDWkhOMlZfNzlPS3FKRUpOaFlVQ2Y1cjNBak51WHJqNWpHdUhtZlcyUDVLV2NDZ1dtRnlvQ1ptMWptWUJ4em1lTU4wZzRsdkRrdHM?oc=5",
-      "pubDate": "2026-10-29T17:32:27+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "東京為替:ドル・円は戻りが鈍い、クロス円にらみ",
-      "link": "https://www.zaikei.co.jp/article/20261029/875479.html",
-      "pubDate": "2026-10-29T17:32:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "欧米為替見通し:ドル・円は底堅いか、米インフレ加速で今後の利上げに期待",
-      "link": "https://www.zaikei.co.jp/article/20261029/875478.html",
-      "pubDate": "2026-10-29T17:25:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "欧米為替見通し:ドル・円は底堅いか、米インフレ加速で今後の利上げに期待(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWhyYUZQUElvTmhxRlh1Y3NQVVR5XzhYSF83QlVpRjl0eUxadEdVd2RScjg1cUM3VERBQU5IdFo0MnpLSW9zVGo2eHpOUGkxblFLelgyU0QyeTdrTzNUdERqV2NMT0FTYnlBRDlIN2QyLXQ2QVF2ZXVNNkExQ3VkVzJGYXR0aUE?oc=5",
-      "pubDate": "2026-10-29T17:25:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "外為17時 円相場、横ばい圏 157円台後半 日銀会合の結果控え小動き",
-      "link": "https://www.nikkei.com/article/DGXZQOFL291GD0Z21C26A0000000/",
-      "pubDate": "2026-10-29T17:19:00+09:00",
-      "source": "日経新聞"
-    },
-    {
-      "title": "ドル円はイベントのはざ間で値動き限定、現状水準から少し離れた位置に「売り」と「買い」 今日の外為注文情報 2026/10/29 17:00",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZNkt1c1JPam0yNFR6TXZYbXlwSjh0UFdsSWhLY0ZWZl9lZFZtc1hYbndVNmJHOTk1OUdnRzd6WEpiSEZjNnJPU2wwRWlVdlVsbzF4Y29BUFU3LVI1d0RRMVJmVQ?oc=5",
-      "pubDate": "2026-10-29T17:15:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "円相場、157円82~83銭 29日午後5時現在",
-      "link": "https://www.jiji.com/jc/article?k=2026102900905&g=eco",
-      "pubDate": "2026-10-29T17:11:00+09:00",
-      "source": "時事ドットコム"
-    },
-    {
-      "title": "円相場、１５７円８２～８３銭＝２９日午後５時現在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HMklEUEZKNGF3X0NKT3N3QmV4TXMtbFZkbjdiUXplam1IX2x2bWNkOV9QRm52QWRWTU14SEVDNWNTalk3ZzlaR3Jta1NETXdENkVwMQ?oc=5",
-      "pubDate": "2026-10-29T17:11:00+09:00",
-      "source": "時事通信ニュース"
-    },
-    {
-      "title": "東京外国為替市場概況・17時 ドル円、伸び悩み(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2lZR3R1WEFIUW5LUkFjT2hydGYyMU1vWm9nY191cmtYQlZENlEzb0Z6SjR1U1FlM1pMWS0wa2lPMEdFamppc3JhWThOZk5NTjRfR1BvUXRGV2kzZlhpZFRqcWVCWHNTby0tRUQ2OFJ6c0lOQ2RxRHJEbjNTekotWFJZUmZic2s?oc=5",
-      "pubDate": "2026-10-29T17:06:49+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円は１５７．８０円台での推移、ロンドン市場に入ってやや落ち着いた動き＝ロンドン為替 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zOW9nbW1HSEpYWTRtWm51aWhoMmpqOWloUVJhZG9yMFcySzRQenc3SHN0ZlB0UXJIalNHUE9UejNLM21tNTFrRg?oc=5",
-      "pubDate": "2026-10-29T16:52:29+09:00",
+      "title": "ドル円、１５７円台後半に値を落とす＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RU1FTVG1sczU3c1RtbEJnTW1Db2FCYnVJMlV5Q1N3am5DN3B5Y3VDVjZTRnJxcHY2WVZRaEJzWlB5UFdJdFlWaA?oc=5",
+      "pubDate": "2026-10-30T00:38:29+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ドル円、157円後半で小じっかり 豪ドル/ドルは日通し安値を更新",
-      "link": "https://zai.diamond.jp/articles/-/498148",
-      "pubDate": "2026-10-29T16:41:00+09:00",
+      "title": "ドル円、157.70円台まで弱含み 米長期金利低下が重し(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbTlva3I0ekJjS2pSc2IzaklTOFh1eklzZlR3RXlTMFV5YUMyNWJBT3kteS1mb0VSeUZWQmlTZ0dTTkdoOElTREhuWlo3WHc3TDkxYXQwVnZLaUJkb0UyYWpycFNwUGtYWTByWGQ4TmNTYllsbW9jOWVuWW1GNUpHQ09CbDVqRlE?oc=5",
+      "pubDate": "2026-10-29T22:43:33+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、１５８円付近 明日は日銀決定会合＝ＮＹ為替序盤",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZSm9LS05WRGdKRU0wdjZZcVpTdG9wYjJzZTR6eHlkUWx0ZHRPOVRuTndUdG80Z2FISHlLdnVBbmNxRUFHbmtXUg?oc=5",
+      "pubDate": "2026-10-29T22:27:28+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "欧州外国為替市場概況・22時 ドル円、底堅い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0dBLUxDTzltaGVEZV9CN2h0NUNRd0xXUXdhUldpdnhqY3JKTlhRQkRXbWQ0QkJmTmYwM2tKenpxcUVBbkotUl9ZVzQtYkczT0pEWXM2VVlxLUs3eUdOcFE0OW9sQ0M2eUlYLVBZcURVTENqUXFYTW9jYnE5V18yUjJHRVBqZUU?oc=5",
+      "pubDate": "2026-10-29T22:04:33+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円のピボットは１５７．９２円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yQjc1MFotN0l4aWNDVDVhTDJ2Xzc5NngtQkRBTTVsRDVHWXdESGQ3aFg5bVNYeUx5cjhCWWl4NXhlSnR5blVIYQ?oc=5",
+      "pubDate": "2026-10-29T22:01:28+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbWxqc1ltSU1ndEE0VElnZldUTGdyRVJpOTdKeXBsc0RDSm40dm9kLTJqaDZlOVpoR2E5eEZIX1o0bFR1SFR2N2k4WjRiTnN5dHVBTHJn?oc=5",
+      "pubDate": "2026-10-29T21:43:53+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "米7-9月期GDP速報値は年率3.4%で予想上回る 結果の内訳と今後のドル円・ゴールドの見通し（9月PCEデフレーターも解説）",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fTE4tM2c5aG01MjFQa2M2a0ZpVmstT3Zwa1lDaTlTM0JvbGlJMWFtOGNtUGZGZ2x1SmhKSk5UeDFRSmRsckdmZUI5UFpHQU03emdJOGhVR1d1aTFCWE9hNmUxb2pDU1hPdTV2Wk1LcnFwY0RTTlVj?oc=5",
+      "pubDate": "2026-10-29T21:36:33+09:00",
+      "source": "OANDA"
+    },
+    {
+      "title": "【速報】ドル・円158円、ドル堅調、米Q3GDPや米・9月コアPCE価格指数は加速(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjVKc253LVhOYVZiV2RNZXZpd1FHT1dISUI0YlBXZnl0OUdZT0VrQXFoODJaWFpqUGF1VXE3WDY2TVJseV9TNVg0RDBQY0xHeUJjLVJfU3ZoWUxQaE9hZ1hHZHZJVmFjMGlMb01uMlhOTXZUSTVjcWMtV3lSMER2V1dRbEpKbjg?oc=5",
+      "pubDate": "2026-10-29T21:35:39+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、もみ合い 9月米PCEコア・デフレーターは予想通り(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFdaZEZDZUdzQ0dISWZUZ3VXQ2VXM3RqNWN0bDVPVEswc0lfY2hZd3dOQXVSWmZTRm5mbURhM29zWEk4WW54eS04MFdtOGJ3aE1nOWNfTFd5R3NyTTNEdVBCa2ZPTldNNzNLb0NJc0NKVGR4ZTdTWTEtei00OGRYdGpiNWdBZEk?oc=5",
+      "pubDate": "2026-10-29T21:35:33+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、強含み 158.08円までわずかに本日高値更新(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2tVMnF2aEg1YnpyM245TjhYb1IwV1ZUelNibElVM3IxSktaYy1FUVhJY192emdaU0gtbjRzcVIycDRWeTEwXzFmbzNGeTFBN2hlOVJGMF96M0VfTFZPWG9XZmY5dUYyYlkySkZ1aFhoNkZLVVY0Q2pKUkJaM0xtdDFJYk16eXM?oc=5",
+      "pubDate": "2026-10-29T21:15:49+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【ドル/円、今夜の見通し】ドル/円、158円台回復…市場の関心は日銀金融政策決定会合へ、注目ポイントを整理＿2026/10/29",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81R3JablBiYUFYNWVIUndLakhGZE5OWGdvXzJlQkttUDI4blZKVG1hcjlyN041eTVwVl92VEt1QkZPR3haNjdjVzZOUWxJOTV6dEk1UnV4RzgxaE9PWXJabkNZSQ?oc=5",
+      "pubDate": "2026-10-29T20:30:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル・円は158円台、米金利の回復で｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WcGJ5NFc1X2tHUVJ5NkJNR1pfSlBDZ3VaRHZkMzlLMWpMSVJuN2FxaXlkdkZjd1BpMmJtQXUzQ25RWjdKdW9nRWk5dVBEVHdNRlE?oc=5",
+      "pubDate": "2026-10-29T20:08:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "【FX】ライブトレード 欧州タイムを攻略だ！「ドル/円、FOMCで方向感出ず…明日の日銀会合に関心集中」ドル円分析＆取引 2026/10/29 17:30",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4welU4ZkVRT1BWTVc3Z19tUmJWcjFXVDdncGRfMUpLazloMTFqNnR3VWhQQkJqYTV3SlM0WnBTdXNCWktHcTBONlM4Z3ZFR0tySENfcW1lZ2dVN3NUeW5ZN3VSMA?oc=5",
-      "pubDate": "2026-10-29T16:30:00+09:00",
+      "title": "FX実践解説、相場分析＆リアルトレード、ドル円などの注目材料（2026年10月29日）",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DN1ZrVXRfaE1LWURJRWk4bVg0YVZMRnBlMEdFZFlpbE1EUTRPNDlCNFJTaTVES0QwWkwwYW9kUmVlb1FIeG9ZRm5NV3czdnN3WmF6WVBpd0dyZ1o3c0k3Sm9jdw?oc=5",
+      "pubDate": "2026-10-29T20:00:00+09:00",
       "source": "外為どっとコム"
     },
     {
-      "title": "東京為替:ドル・円は下げ渋り、午後はやや戻す",
-      "link": "https://www.zaikei.co.jp/article/20261029/875470.html",
-      "pubDate": "2026-10-29T16:23:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "通貨オプション ボラティリティー ドル円１週間 ７%台",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XeDM3S1dBbllLWm91NmZ5ZGM1WmhpUTVaZThPeVdCVklNR0hWUzBEeU5WRzc1LS15U1dlazF0QURMczM2Wkdyaw?oc=5",
-      "pubDate": "2026-10-29T16:17:28+09:00",
-      "source": "みんかぶ FX/為替"
+      "title": "欧州為替：ドル・円は158円台、米金利の回復で 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBra01HVGhkWWpHUUJjWDgwc2VTSVY5bllpd2x0Z0FvODZyRTdielhUb3NPSXQtUVpqN3ZJckhRdTZ3Z0Y0ZVZsTWk5V0hiRy01U3lkZGlOMnhUdE5ISUQzNDRwYTBfcE0?oc=5",
+      "pubDate": "2026-10-29T20:00:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     }
   ]
 }
