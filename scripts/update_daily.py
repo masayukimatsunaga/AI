@@ -29,6 +29,14 @@ RSS_URL = (
     + urllib.parse.quote("外為トゥデイ")
 )
 ORDER_GUIDE_URL = "https://www.gaitame.com/markets/order/det/"
+ORDER_CATEGORY_URL = (
+    "https://www.gaitame.com/media/archive/category/"
+    + urllib.parse.quote("今日の注文情報")
+)
+ORDER_RSS_URL = (
+    "https://www.gaitame.com/media/rss/category/"
+    + urllib.parse.quote("今日の注文情報")
+)
 
 
 class TextExtractor(HTMLParser):
@@ -91,6 +99,11 @@ def created_datetime(body: str) -> str:
         r"作成日時\s*[：:]\s*(\d{4})年(\d{1,2})月(\d{1,2})日(\d{1,2})時(\d{1,2})分",
         text,
     )
+    if not match:
+        match = re.search(
+            r"作成日時\s*[：:]\s*(\d{4})-(\d{1,2})-(\d{1,2})\s+(\d{1,2}):(\d{1,2})",
+            text,
+        )
     if not match:
         return ""
     year, month, day, hour, minute = map(int, match.groups())
@@ -162,6 +175,59 @@ def extract_order_book_image(body: str) -> str:
     return image_url
 
 
+def extract_order_report_summary(body: str) -> str:
+    section = re.search(
+        r"<h2\b[^>]*>\s*ドル円の上値[・･]?下値の注文状況\s*</h2>\s*<p\b[^>]*>(.*?)</p>",
+        body,
+        re.IGNORECASE | re.DOTALL,
+    )
+    return plain_text(section.group(1)) if section else ""
+
+
+def extract_order_report_image(body: str) -> str:
+    candidates = re.findall(r"<img\b[^>]*>", body, re.IGNORECASE | re.DOTALL)
+    for tag in candidates:
+        alt_match = re.search(r"\balt=[\"']([^\"']*)[\"']", tag, re.IGNORECASE)
+        alt = html.unescape(alt_match.group(1)) if alt_match else ""
+        if "注文情報" not in alt or "ドル" not in alt or "現在" not in alt:
+            continue
+        src_match = re.search(r"\bsrc=[\"']([^\"']+)[\"']", tag, re.IGNORECASE)
+        if not src_match:
+            continue
+        image_url = html.unescape(src_match.group(1)).strip()
+        parsed = urllib.parse.urlparse(image_url)
+        if parsed.scheme == "https" and parsed.netloc in {
+            "cdn-ak.f.st-hatena.com",
+            "cdn.image.st-hatena.com",
+        }:
+            return image_url
+    return ""
+
+
+def extract_order_levels(summary: str, side: str) -> list[float]:
+    if side == "sell":
+        pattern = r"(?:上側|上値)[^。]*(?:売り(?:オーダー)?)"
+    else:
+        pattern = r"(?:下側|下値)[^。]*(?:買い(?:オーダー)?)"
+    match = re.search(pattern, summary)
+    if not match:
+        return []
+    values = {
+        float(value)
+        for value in re.findall(r"(?<!\d)(\d{3}(?:\.\d{1,3})?)\s*円", match.group(0))
+    }
+    return sorted(values)
+
+
+def extract_order_unit(body: str) -> str:
+    text = plain_text(body)
+    match = re.search(r"1メモリ\s*[＝=]\s*([0-9,，]+)\s*通貨", text)
+    if not match:
+        return ""
+    amount = match.group(1).replace("，", ",")
+    return f"1メモリ＝{amount}通貨"
+
+
 def headline_from_title(title: str) -> str:
     match = re.search(r"ドル/円今日の見通し\s*(?:｜|\|)\s*(.*?)」\s*外為", title)
     return match.group(1).strip() if match else title.strip()
@@ -218,6 +284,49 @@ def parse_report(xml_text: str) -> dict[str, object]:
     }
 
 
+def parse_order_report(xml_text: str) -> dict[str, object]:
+    root = ET.fromstring(xml_text)
+    selected: ET.Element | None = None
+    for item in root.findall(".//item"):
+        title = (item.findtext("title") or "").strip()
+        if "今日の外為注文情報" in title and "ドル円" in title:
+            selected = item
+            break
+    if selected is None:
+        raise RuntimeError("No USD/JPY order report was found")
+
+    source_title = (selected.findtext("title") or "").strip()
+    link = (selected.findtext("link") or "").strip()
+    parsed_link = urllib.parse.urlparse(link)
+    if (
+        parsed_link.scheme != "https"
+        or parsed_link.netloc != "www.gaitame.com"
+        or not parsed_link.path.startswith("/media/entry/")
+    ):
+        raise RuntimeError(f"Unexpected order report URL: {link}")
+
+    body = selected.findtext("description") or ""
+    summary = extract_order_report_summary(body)
+    published_at = rss_datetime((selected.findtext("pubDate") or "").strip())
+    if datetime.now(JST) - datetime.fromisoformat(published_at) > timedelta(days=10):
+        raise RuntimeError("The newest order report is more than 10 days old")
+
+    headline = re.sub(r"\s*今日の外為注文情報.*$", "", source_title).strip()
+    return {
+        "headline": headline,
+        "sourceTitle": source_title,
+        "url": link,
+        "publishedAt": published_at,
+        "createdAt": created_datetime(body),
+        "summary": summary,
+        "sellLevels": extract_order_levels(summary, "sell"),
+        "buyLevels": extract_order_levels(summary, "buy"),
+        "orderBookImage": extract_order_report_image(body),
+        "unitText": extract_order_unit(body),
+        "orderBookGuideUrl": ORDER_GUIDE_URL,
+    }
+
+
 def current_content() -> dict[str, object] | None:
     try:
         payload = json.loads(OUTPUT.read_text(encoding="utf-8"))
@@ -229,14 +338,34 @@ def current_content() -> dict[str, object] | None:
     return None
 
 
+def previous_order_report() -> dict[str, object] | None:
+    try:
+        payload = json.loads(OUTPUT.read_text(encoding="utf-8"))
+        value = payload.get("orderReport")
+        return value if isinstance(value, dict) else None
+    except (OSError, json.JSONDecodeError):
+        return None
+
+
 def main() -> None:
+    try:
+        order_report = parse_order_report(fetch_text(ORDER_RSS_URL))
+    except Exception as error:
+        order_report = previous_order_report()
+        if order_report is None:
+            raise
+        print(f"Keeping previous order report: {error}")
+
     content = {
         "source": {
             "name": SOURCE_NAME,
             "categoryUrl": CATEGORY_URL,
             "cadence": "平日毎朝8:30〜9:00頃",
+            "orderCategoryUrl": ORDER_CATEGORY_URL,
+            "orderCadence": "平日17:00頃",
         },
         "report": parse_report(fetch_text(RSS_URL)),
+        "orderReport": order_report,
     }
     if content == current_content():
         print("No daily report changes")

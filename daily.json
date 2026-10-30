@@ -1,53 +1,75 @@
 {
-  "updatedAt": "2026-10-29T14:54:11+09:00",
+  "updatedAt": "2026-10-30T14:02:01+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
-    "cadence": "平日毎朝8:30〜9:00頃"
+    "cadence": "平日毎朝8:30〜9:00頃",
+    "orderCategoryUrl": "https://www.gaitame.com/media/archive/category/%E4%BB%8A%E6%97%A5%E3%81%AE%E6%B3%A8%E6%96%87%E6%83%85%E5%A0%B1",
+    "orderCadence": "平日17:00頃"
   },
   "report": {
-    "headline": "FRB議長会見後の下落は一時的　200日移動平均線を試す可能性",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜FRB議長会見後の下落は一時的　200日移動平均線を試す可能性」 外為どっとコム トゥデイ 2026年10月29日号",
-    "url": "https://www.gaitame.com/media/entry/2026/10/29/083745",
-    "publishedAt": "2026-10-29T08:37:45+09:00",
-    "createdAt": "2026-10-29T08:30:00+09:00",
+    "headline": "日銀は金利据え置き濃厚 焦点は12月利上げ示唆の有無",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜日銀は金利据え置き濃厚 焦点は12月利上げ示唆の有無」 外為どっとコム トゥデイ 2026年10月30日号",
+    "url": "https://www.gaitame.com/media/entry/2026/10/30/082454",
+    "publishedAt": "2026-10-30T08:24:54+09:00",
+    "createdAt": "2026-10-30T08:20:00+09:00",
     "forecastRange": {
-      "low": 157.2,
-      "high": 158.6
+      "low": 157.0,
+      "high": 158.8
     },
-    "outlook": "200日移動平均線を試す可能性",
+    "outlook": "円高圧力は限定的",
     "factors": [
-      "豪4半期CPI コアCPIの伸びが加速",
-      "英財務相 財政規律堅持方針を示す",
-      "FOMC 予想通りの金利据え置き"
+      "米PCEデフレーター 予想通りに前月から伸びが加速",
+      "ECB 予想通りの据え置き",
+      "AI関連を巡る懸念再燃"
     ],
     "events": [
       {
-        "text": "21:30 ◎ (米) 9月個人所得",
+        "text": "－ ◎ (日) 日銀金融政策決定会合",
         "importance": "high"
       },
       {
-        "text": "21:30 ◎ (米) 9月個人消費支出",
+        "text": "－ ◎ (日) 日銀展望レポート",
         "importance": "high"
       },
       {
-        "text": "21:30 ◎ (米) 9月PCEデフレーター",
+        "text": "15:30 ◎ (日) 植田日銀総裁講演",
         "importance": "high"
       },
       {
-        "text": "21:30 ◎ (米) 9月PCEコア・デフレーター",
-        "importance": "high"
+        "text": "18:00 〇 (独) 7-9月期GDP・速報値",
+        "importance": "medium"
       },
       {
-        "text": "21:30 ◎ (米) 7-9月期GDP・速報値",
-        "importance": "high"
+        "text": "19:00 〇 (ユーロ圏) 7-9月期GDP・速報値",
+        "importance": "medium"
       },
       {
-        "text": "21:30 ◎ (米) 7-9月期GDP個人消費・速報値",
-        "importance": "high"
+        "text": "22:00 〇 (独) 10月消費者物価指数",
+        "importance": "medium"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261029/20261029083022.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261030/20261030082328.png",
+    "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
+  },
+  "orderReport": {
+    "headline": "ドル円はイベントのはざ間で値動き限定、現状水準から少し離れた位置に「売り」と「買い」",
+    "sourceTitle": "ドル円はイベントのはざ間で値動き限定、現状水準から少し離れた位置に「売り」と「買い」　今日の外為注文情報　2026/10/29 17:00",
+    "url": "https://www.gaitame.com/media/entry/2026/10/29/171555",
+    "publishedAt": "2026-10-29T17:15:55+09:00",
+    "createdAt": "2026-10-29T17:10:00+09:00",
+    "summary": "現行水準の上側の158.200円、158.250円、158.300円に売りオーダーが観測される。一方、下側では157.300円、157.500円に買いが確認される。",
+    "sellLevels": [
+      158.2,
+      158.25,
+      158.3
+    ],
+    "buyLevels": [
+      157.3,
+      157.5
+    ],
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/guh202109/20261029/20261029170714.png",
+    "unitText": "1メモリ＝3,000,000通貨",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
 }

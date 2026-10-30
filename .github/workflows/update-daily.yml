@@ -2,9 +2,11 @@ name: Update USDJPY daily reference
 
 on:
   schedule:
-    # 外為トゥデイは平日8:30〜9:00頃更新。JST 9:20と10:05に確認する。
+    # 朝の外為トゥデイに加え、平日17:00頃の注文情報も取得する。
     - cron: "20 0 * * 1-5"
     - cron: "5 1 * * 1-5"
+    - cron: "25 8 * * 1-5"
+    - cron: "5 10 * * 1-5"
   workflow_dispatch:
 
 permissions:
