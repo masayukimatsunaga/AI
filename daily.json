@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T14:02:01+09:00",
+  "updatedAt": "2026-10-31T00:07:33+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
@@ -53,22 +53,23 @@
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   },
   "orderReport": {
-    "headline": "ドル円はイベントのはざ間で値動き限定、現状水準から少し離れた位置に「売り」と「買い」",
-    "sourceTitle": "ドル円はイベントのはざ間で値動き限定、現状水準から少し離れた位置に「売り」と「買い」　今日の外為注文情報　2026/10/29 17:00",
-    "url": "https://www.gaitame.com/media/entry/2026/10/29/171555",
-    "publishedAt": "2026-10-29T17:15:55+09:00",
-    "createdAt": "2026-10-29T17:10:00+09:00",
-    "summary": "現行水準の上側の158.200円、158.250円、158.300円に売りオーダーが観測される。一方、下側では157.300円、157.500円に買いが確認される。",
+    "headline": "日銀会合は決定打欠きドル円の動意は限定、売りが157.80円より上側に集まり始める",
+    "sourceTitle": "日銀会合は決定打欠きドル円の動意は限定、売りが157.80円より上側に集まり始める　今日の外為注文情報　2026/10/30 17:00",
+    "url": "https://www.gaitame.com/media/entry/2026/10/30/172100",
+    "publishedAt": "2026-10-30T17:21:00+09:00",
+    "createdAt": "2026-10-30T17:10:00+09:00",
+    "summary": "現行水準の上側の157.800円、157.850円、157.900円、158.000円、158.050円に売りオーダーが観測される。一方、下側では157.100円に買いが確認される。",
     "sellLevels": [
-      158.2,
-      158.25,
-      158.3
+      157.8,
+      157.85,
+      157.9,
+      158.0,
+      158.05
     ],
     "buyLevels": [
-      157.3,
-      157.5
+      157.1
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/guh202109/20261029/20261029170714.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/guh202109/20261030/20261030171134.png",
     "unitText": "1メモリ＝3,000,000通貨",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
