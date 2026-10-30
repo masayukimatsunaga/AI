@@ -1,92 +1,93 @@
 {
-  "updatedAt": "2026-10-30T06:10:55+09:00",
+  "updatedAt": "2026-10-30T10:04:47+09:00",
   "sources": [
+    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "ドル円、ＡＩ関連株に売り強まり上値圧迫 ただリスク回避の円高ではない＝ＮＹ為替概況 -",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFY2VMTG9kX1MtYmZFdEZyNW5BUXVqUmhteTFrcUhQQktsTDZhd196ZzJvZ1JZRlJYcUFQV3liUDhyY0dFbkNXXw?oc=5",
-      "pubDate": "2026-10-30T05:40:28+09:00",
-      "source": "みんかぶ FX/為替"
+      "title": "東京為替：ドル・円は下げ幅拡大、157円30銭台に下落",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WYVYxbkVsbjZ2U0syQ3c0bUZ3ZE53Wmd4SEQzajZrV2hpTmRnZUkxOVlVbEYySGNJZDBxQ2FILUdtM09KMmtrUWlEbmlWM1JwUmc?oc=5",
+      "pubDate": "2026-10-30T10:01:48+09:00",
+      "source": "株探"
     },
     {
-      "title": "アマゾンとインテルの決算にリスク回避の円高の反応＝ＮＹ為替速報",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qRzN6XzJHTFo1UnBCNTcwbi1LQzYzdlZPOG02SkJ0RlgtcFRxbFNwNVZpZlNuTVhzSTczZjVQeEI1MVdQYS0yZg?oc=5",
-      "pubDate": "2026-10-30T05:13:29+09:00",
-      "source": "みんかぶ FX/為替"
+      "title": "外為：1ドル157円36銭前後とドル安・円高で推移",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RRVVrZ3ZkUEhhTUkzNkxRU0V4QlZFb004eXpuU3VaZmdneXlLWnVHV29WMHBzS0NrWFYyWjZOOUwyYkFjbFJQU04wNy1XR0I0S19yZ04zdGFoZi11c3NsOU93?oc=5",
+      "pubDate": "2026-10-30T10:01:02+09:00",
+      "source": "株探"
     },
     {
-      "title": "コマツ増益予想に 建機需要増、円安で上方修正 27年3月期（北國新聞社）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82RTJwYWZnRkFtWk96TEZ0NnZheFBRMHdQdGFaOGNJei03bjVfQ0ZUYllqSXpxTGFHb29xQ3ZJTkhoaHdTOVZxSmpSOEMzVnVKZFNxTFkxSXFteUx2RThoQlNrWVBZQm04X25Eb2JJTk5CXzZ4OXRINnJjNjgyRWc?oc=5",
-      "pubDate": "2026-10-30T05:04:29+09:00",
-      "source": "Yahoo!ニュース"
+      "title": "東京為替:ドル・円は下げ幅拡大、157円30銭台に下落",
+      "link": "https://www.zaikei.co.jp/article/20261030/875560.html",
+      "pubDate": "2026-10-30T10:01:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "コマツ増益予想に 建機需要増、円安で上方修正 27年3月期",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xMUtYUVRFZ3RmTzNIaG9EaHgtaWJzZlozcDhOb1RMZnhkWG1xSUwtV2s1OEd4ZUJaelpfaVZTXzJOZWtEYmtTWjRGVQ?oc=5",
-      "pubDate": "2026-10-30T05:00:00+09:00",
-      "source": "47NEWS"
+      "title": "FX実践解説、日銀会合ライブ！相場分析＆リアルトレード、ドル円などの注目材料（2026年10月30日）",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50YmdnU0FBb0RBUGlFaXNLWE5PNGt0UV81dkNxVmVzemJjekVuQ2QtczIyb1d6S2ZmLWN5NHBYX1NjWElJUFI3NTRtOXBmVGlSU3NVU216Um1Mc3FENGJYVjVZbw?oc=5",
+      "pubDate": "2026-10-30T10:00:00+09:00",
+      "source": "外為どっとコム"
     },
     {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、動意薄(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjI3ZFlhVXA0VmZzVUpGT3c3czJvRWU5ZlJ5TGkzM2pJZm5DRzY4c1dRclRjZ2xId2h6WHh4dm9RTVhIUTJmdGxpSTZOVG1PNmlFd2EyblRBYWxTQ19BOXRQalNjOHVCREZfTWN0YWJSTmZ0TmEtVU53Y0M0aU8zYkQzc2ltMFk?oc=5",
-      "pubDate": "2026-10-30T04:06:04+09:00",
+      "title": "ドル円仲値、157.54円 三菱UFJ銀行(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaTFZREthVFJ2RktBanpqRlM4aWYyS0N4WjVkajExLWVhc3BXTHhCTUJPY2gwcEs0MGhINlhqblJVNThGNUlMN2J1NEViek1TM3Z3MXd1Uzk4SGhwS2hKUGxDaVFfOTAweGNRZ01BUUxjdHNRSGtpY2ltYjRyUkVKcVlLTExJUEU?oc=5",
+      "pubDate": "2026-10-30T09:58:05+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbWxqc1ltSU1ndEE0VElnZldUTGdyRVJpOTdKeXBsc0RDSm40dm9kLTJqaDZlOVpoR2E5eEZIX1o0bFR1SFR2N2k4WjRiTnN5dHVBTHJn?oc=5",
-      "pubDate": "2026-10-30T03:47:33+09:00",
+      "title": "ドル円 157.46円まで弱含み、日経平均株価は1000円超の下落(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcE14MmsxQ0dMS2NwaEVNSi11elVUTHhxTlJWVVRwYnZOYkFaMDdBdFpzbS1iNmJUNExiZzlPak1QV3FSLXItZUdBT3BlSFRqMGhXNndwUl9wQXhXWXpXR0lDQVMyRnItbm8wdTVlLWtmTm41ZXNqaHljcGVhSHNDdmdQaVQ1TjQ?oc=5",
+      "pubDate": "2026-10-30T09:47:34+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "NY外為、ドル円は157円台後半でもみ合い ECB据え置きでユーロは年初来安値から反発",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tQkVBaFUwY25fUGVqbnRTM1JnejU3WnpKVkgtMG81eHc2LURYMUswV0lvTEtQdk1iTndFMDUyRUxENFdqdVgtc3RpYWYtSDNtU1dnTW1yVTQ0TGszbW1JV1EwdkZWWWNXc05zbWpoa19LVTRj?oc=5",
-      "pubDate": "2026-10-30T02:55:00+09:00",
-      "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･2時 ドル円、様子見(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkVDNUxYc3RpQk5WR21OaHcwV0FwMERRZEY5S0FHRC1MWGxrWFJjNVh0MVJFNU9yNEpLaVFXY2huNmNBekVxX3RMMVl6RmpoR1A4a1JWejlnU1hpYkJpc0FaRmRUdGJCb3ExZWVFWGppUGxISTF2UktpS1JuUWU0SXJXTTlCLTQ?oc=5",
-      "pubDate": "2026-10-30T02:06:04+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、１５７円台後半に値を落とす＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RU1FTVG1sczU3c1RtbEJnTW1Db2FCYnVJMlV5Q1N3am5DN3B5Y3VDVjZTRnJxcHY2WVZRaEJzWlB5UFdJdFlWaA?oc=5",
-      "pubDate": "2026-10-30T00:38:29+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円、157.70円台まで弱含み 米長期金利低下が重し(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbTlva3I0ekJjS2pSc2IzaklTOFh1eklzZlR3RXlTMFV5YUMyNWJBT3kteS1mb0VSeUZWQmlTZ0dTTkdoOElTREhuWlo3WHc3TDkxYXQwVnZLaUJkb0UyYWpycFNwUGtYWTByWGQ4TmNTYllsbW9jOWVuWW1GNUpHQ09CbDVqRlE?oc=5",
-      "pubDate": "2026-10-29T22:43:33+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円、157.70円台まで弱含み 米長期金利低下が重し｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10QnBKbEpodzdWak55QmdRX1pQeXpuRTIwLUxZbER4UjIzVTR2Q0ZobDNvVlJ5NjhPRUJWenNlRnNpT2VCaXpGZlJrSEFUY0otYlE?oc=5",
-      "pubDate": "2026-10-29T22:43:00+09:00",
+      "title": "ドル円 157.46円まで弱含み、日経平均株価は1000円超の下落",
+      "link": "https://zai.diamond.jp/articles/-/498220",
+      "pubDate": "2026-10-30T09:47:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円、１５８円付近 明日は日銀決定会合＝ＮＹ為替序盤",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZSm9LS05WRGdKRU0wdjZZcVpTdG9wYjJzZTR6eHlkUWx0ZHRPOVRuTndUdG80Z2FISHlLdnVBbmNxRUFHbmtXUg?oc=5",
-      "pubDate": "2026-10-29T22:27:28+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、底堅い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0dBLUxDTzltaGVEZV9CN2h0NUNRd0xXUXdhUldpdnhqY3JKTlhRQkRXbWQ0QkJmTmYwM2tKenpxcUVBbkotUl9ZVzQtYkczT0pEWXM2VVlxLUs3eUdOcFE0OW9sQ0M2eUlYLVBZcURVTENqUXFYTW9jYnE5V18yUjJHRVBqZUU?oc=5",
-      "pubDate": "2026-10-29T22:04:33+09:00",
+      "title": "ドル円、157.70円台で上値重い 日経平均は1000円超安・米金利も低下(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbmMySTVoM0FOSGRyRlBlbGJ0LW9BbDRrLTdpQW92WkVpRE5PZk1sS01YRDZPTlFiX0pkYXNUQVRlTmpoLVM2RDczOHMtUF9FSmQ0M0FPSkdDeEozcDB4X0F0ZnFreVdmOEc5QXFEd09FOHZVellGZmhrbUhhbFBqX3ctYWFHdTg?oc=5",
+      "pubDate": "2026-10-30T09:32:18+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "米7-9月期GDP速報値は年率3.4%で予想上回る 結果の内訳と今後のドル円・ゴールドの見通し（9月PCEデフレーターも解説）",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fTE4tM2c5aG01MjFQa2M2a0ZpVmstT3Zwa1lDaTlTM0JvbGlJMWFtOGNtUGZGZ2x1SmhKSk5UeDFRSmRsckdmZUI5UFpHQU03emdJOGhVR1d1aTFCWE9hNmUxb2pDU1hPdTV2Wk1LcnFwY0RTTlVj?oc=5",
-      "pubDate": "2026-10-29T21:36:33+09:00",
-      "source": "OANDA証券"
+      "title": "ドル円、157.70円台で上値重い 日経平均は1000円超安・米金利も低下",
+      "link": "https://zai.diamond.jp/articles/-/498219",
+      "pubDate": "2026-10-30T09:32:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、157.70円台で上値重い 日経平均は1000円超安・米金利も低下｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FWnVlaXI0NGNJanRSanJWN2NzZ3pCS2UwOVl3ZkxEaHdfR0NnelRWZHo1TWdneUtHYlNfOFJWMXFXZm9WSXV5bDBjVGQtTzFPckE?oc=5",
+      "pubDate": "2026-10-30T09:32:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "東京為替：ドル・円は上昇後に反落、157円70銭台に下落(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFBFQ2ZWZUtoOFlUbzREeXRTM0F0cXBlbjhBeTF2MXl6YXZ2bVRreFJsdUNBQy1rU1Z0UGtqMGZUUFFadHM4WE9jNGxBWFRVaURuY0hMOVlwdXk0c2YxaUc5c09kLS1MMl9peVJYM1lxUnpuMjhzMTF1U05xUnA2VngyNUU0aTg?oc=5",
+      "pubDate": "2026-10-30T09:31:53+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "東京為替:ドル・円は上昇後に反落、157円70銭台に下落",
+      "link": "https://www.zaikei.co.jp/article/20261030/875552.html",
+      "pubDate": "2026-10-30T09:31:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "東京為替：ドル・円は上昇後に反落、157円70銭台に下落 執筆： Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzcHByazZybXNkOFFLdllNRENRcjJpYjNVUGhSbm1VamxYYlYxell0dms5VE84b1lBSk5WR1plZGFtam04azNfVml3TXFTc3JtcUdfVHRoQ3hoWExOOUtqOGJnZjlPWm8?oc=5",
+      "pubDate": "2026-10-30T09:31:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+    },
+    {
+      "title": "ドル円157円台、日銀会合の結果公表を前に神経質な展開続く",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySUJFeXFIOUNwa000aktYM3lPTTExNFpxLWFtYmozNTRzS21obkwyNUoxYjZzZFVuYXZOMjBqajB1aFRTZEVLZVRXaFNkM3pObFNVZ01lWWY0VWhIZkE5QVVEeEptNFdmQWJHUVR5Nm54Wm1r?oc=5",
+      "pubDate": "2026-10-30T09:25:00+09:00",
+      "source": "BigGo ファイナンス"
     }
   ]
 }
