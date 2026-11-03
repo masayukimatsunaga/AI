@@ -1,93 +1,92 @@
 {
-  "updatedAt": "2026-11-03T15:53:19+09:00",
+  "updatedAt": "2026-11-04T00:14:09+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "東京為替:ドル・円は一進一退、カナダドルは堅調",
-      "link": "https://www.zaikei.co.jp/article/20261103/875971.html",
-      "pubDate": "2026-11-03T14:56:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替：ドル・円は一進一退、カナダドルは堅調 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhbFJoa1JGbXotNGd4UjVaX2RFaWx5VUVXQ05JSjhIeGV1Nk5RS3ViWWNMT09EUnZ3YnpsVzA1OXlQZTFRS1BtMlhUczlWMkF6SjlDNWlCMXJLdzdkNzV5THF1U1JUQTg?oc=5",
-      "pubDate": "2026-11-03T14:56:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "東京為替：ドル・円は一進一退、カナダドルは堅調",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObXdURE5BYXNwTDdvYncyX1U5UTA1cGRpWWowOTJqNjdBRjRKenhWWndfT3ZlQ1VUeHVsbWVfMVpZcThJYmpEallkUk1sYmthTzEteFlSX2h1c3dCOGk2NzFOUzM2TTVjRzdCTGw0UWtPTllMX2pwRFRuNmJlUDRyV0EyWXNVM2PSAYwBQVVfeXFMTWE5QjZXVm5xV3BiRWM2TUZDN2FQdmVNLWgzc1RSajUyZktSaWU2NEF2WVR4b1NQOHE5Um8wYTdGSmVOdHE0VHp2QTlnbHBZN3UxT0M5ZWdZTUlOemF1c2Z6R3BZLWVVNkY4Y29YTEVKS3lPSnlzZm02NFZjaXNDRXRxS0pzNUJfUmVxako?oc=5",
-      "pubDate": "2026-11-03T14:56:00+09:00",
-      "source": "ｄメニューニュース"
-    },
-    {
-      "title": "東京為替:ドル・円は底堅い、欧州通貨に買戻し",
-      "link": "https://www.zaikei.co.jp/article/20261103/875970.html",
-      "pubDate": "2026-11-03T14:09:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替：ドル・円は底堅い、欧州通貨に買戻し 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NMDU2ZXJZUnVkV1VBNTgyQ0xlTUZEcGk3cndVZUZOdTZuVE05M1lkYnZQMFZ2ZkdaTi1rT3BGNGR0UXRweGpuY1N5TG1WZGN1cDRjUk9aRmRtQWc4NXhtV241NGp4d2s?oc=5",
-      "pubDate": "2026-11-03T14:09:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "東京為替：ドル・円は底堅い、欧州通貨に買戻し",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGhNSDFtajZSTWtmeGl2aTdoSVVwcmpFeVpvWFhJQ0dUOWFGUFR3MGNnUVRNNUJ0TE4ydjhjdGNRUEYybXlrdXZ0QmFBT0czUXd2a05Wc1F1R2I1d1BRTVdOZEZ3ZF9Wa2lfcDlBR2NjVDNadC1EbEdsbU9VNXdWeDdKVnAyMGvSAYwBQVVfeXFMTWNYT2ZJVHhacEJmcWZCVjNRMV9jZmdVaUo5YkNka2k1c3ZfeDZVNWk5RzF0LUZQalh2UEo1c2JmWGRabGlnZXJMY3RaS1hIZkFfY1hmak4zMGVmTFlQa2lXNHFHWmlEc0gzbXYycnY0TW9kc2p1OGtCZDBOa2k4ZkZFVkl1cG0wVndBRVQ?oc=5",
-      "pubDate": "2026-11-03T14:09:00+09:00",
-      "source": "ｄメニューニュース"
-    },
-    {
-      "title": "東京為替:ドル・円は動意薄、中東にらみ動きづらい",
-      "link": "https://www.zaikei.co.jp/article/20261103/875969.html",
-      "pubDate": "2026-11-03T13:53:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替：ドル・円は動意薄、中東にらみ動きづらい 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yRWtVbU9HUloyT3JoaThiMlpEajhWb05Xa3R3Yy03dHJlWmZvVl9JemN3RkZsX2VRQkRkSlo1SzRLSlVaYTBvVlMwdWRJLUxDS29WWGdJb1Rpd3pfeE42cjhPNnR5N3c?oc=5",
-      "pubDate": "2026-11-03T13:53:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-    },
-    {
-      "title": "東京為替：ドル・円は動意薄、中東にらみ動きづらい",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOEhQYWg1MHZWZHpCZ3VNQ3ZkbkxGMGw4cTBIZ1JKU3ZVQ3JpZzlELWhQNmFQVi13ZWl2Z1RaNVFlRlN2NmNUaTVqNHZ4MlBJWnRPdEluNEU1dTJXVWZTbEhoZDUxUlp6ZXpnTHFSNW5RM2t6aGpIeUN1ZlhuZDRhUTJvWm4wSWPSAYwBQVVfeXFMUEJMVmVUOVAwSFF0SWFRaEJ3TlREV3R1Q1FQQzlNUVdLMnFsRHJwMnhoeFlvYzJNSWVEMFN2SXBZWlFiajc0Q05hNkhlVmNGcDFOLXZpQU9RZEkwQXBTOGZWZlVTYkN2NXQ1ZXJ6c3BKZWo2X0hjS1F6RTJTWWljSzZWM2JHMXlYalcxSl8?oc=5",
-      "pubDate": "2026-11-03T13:53:00+09:00",
-      "source": "ｄメニューニュース"
-    },
-    {
-      "title": "「ドル・円は底堅い値動きか、米中間選挙にらみドルに買いも」",
-      "link": "https://zai.diamond.jp/articles/-/498380",
-      "pubDate": "2026-11-03T13:50:00+09:00",
+      "title": "【速報】ドル・円158.47円、ドル反発、米9月JOLT求人件数は増加、予想上回る｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5NDBiblVGQTgzN0U0bXFMYm14ZGtLU01lSUcxZlJsaHJ6UGt6bHlVUU9lakVaNk0xR2pxVFNRTWt0MXRXS01rSWZ4SEtRU2dHakE?oc=5",
+      "pubDate": "2026-11-04T00:08:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "「ドル・円は底堅い値動きか、米中間選挙にらみドルに買いも」｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BVHBiTUR3eXpXUk5FTEJlUTQ4VmtzeU10R2lFR2JseW8wZ2lpeGZoVjdyZjE4Zi14WldRY3FERFFPbmxZbkZMb2lTMEpHZGxqdGc?oc=5",
-      "pubDate": "2026-11-03T13:50:00+09:00",
+      "title": "NY円158円台前半 前日比18銭円安ドル高、米中間選挙で様子見ムード広がる",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pTHJ0aXo1WVNKbE1RVjBPSm9CRHpHZ1BvQ3Y0WHVfOVVfY19JOFBYeTMwZnF6d01NWktpeFJfSi1scXFNZkVZcnhkSnhqUHZoM0FCOVFwcTJpVEJMQWFNaVlwWEpzTHVwdjNQY0dhQXljd0NJeGc?oc=5",
+      "pubDate": "2026-11-03T23:36:51+09:00",
+      "source": "産経ニュース"
+    },
+    {
+      "title": "ドル円、１５８円台へ上昇も上値重い 米中間選挙や雇用統計などイベント待ちで波乱含み＝ＮＹ為替序盤",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80N2hiTk9YUDZRckV3bVM5Y0VYeHBYNGRCemJrRDVVeGZLd1FVNUlWZFdfdzlRdjVuZHJBenJzYmRtVkJ0Xy1tbg?oc=5",
+      "pubDate": "2026-11-03T23:20:29+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "円相場が157円台後半へ反落、米・イランの核協議進展報道で原油急落",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rdjhDblFmNWVLSXJuN0tCaDkxVUFjZ3gtOVE3WVlsWWdKa3JlTkp0cG1ZUzNleEwtMmlPZEVBd0U3ZTYzbVhQajE3WkJTVUNCX1ZRVDByNjJKdjNXcHhNaVRFS19EaThrRmUtRnUxejlvNHZF?oc=5",
+      "pubDate": "2026-11-03T23:05:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "ドル円のピボットは１５８．０５円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56X1Y5QUNVRFFra1FGTExJUmRrNDFta1dfUllRYVpYMnRUd3cxQkJ0MHhKbnI3U0x4QUFZNzgyQllpbWJzZU5xMA?oc=5",
+      "pubDate": "2026-11-03T22:58:29+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル円、一時157.98円付近まで下押し 米イランの歩み寄り報道で原油価格急落(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU092ckFXX0hvQzBOeGpwUHU1aWNiY2UtcHBxdXJpc21xUnppYTZ4WktIN3ZrbjJpVS1QbEdYUGE3SVgxQzBkd1hhUkszU1ZyWnd1aTA2U0pzVGdIUFpZWGpHZmhUczhyV29fdUJwLTlFWFBpS2JXYXQxeHFZMWF6YU1sZzZER3M?oc=5",
+      "pubDate": "2026-11-03T22:42:04+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、一時157.98円付近まで下押し 米イランの歩み寄り報道で原油価格急落｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wVE1WY0FvME5oZUNoRmpYbllzajhYejZuOTNJNTdfMEp5a1ZxLTAyRWduaW9YTG85WkJCQUJKQWdaYWJ5TktVNURFNHR4ckJIZ1E?oc=5",
+      "pubDate": "2026-11-03T22:42:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "【テクニカル】一目チェック1＝ドル円、雲の中での推移が続く",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WRnJuS1ZSUnNRYTZyaTM3a0RsTUNycndjZV8zeF9WRHFjeEVtYzlVSEtUR2c0cGxwSnB4aG01MGNzR1pHeS13RlVkV21QMGprZmx0OWRoS3ZDQ1p2OHBOQV9aOA?oc=5",
-      "pubDate": "2026-11-03T13:26:06+09:00",
-      "source": "外為どっとコム"
+      "title": "円相場、NY市場で158円台前半に下落 米中間選挙控え様子見",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JRnlJbHlxZUpKV1g5My1Db1JiaTBHUFRnNkRabXQ0Yi1PSU5GTWdRTDZOQ3N1RS1FT3JNdFYzenNUUGo5ZTRhY2Iydmg3Q2hhUU1MbkkxLTJScXRmVWxOcTVZWWpVdVF6eFE5X1UzVU1IWkxJ?oc=5",
+      "pubDate": "2026-11-03T22:25:00+09:00",
+      "source": "BigGo ファイナンス"
     },
     {
-      "title": "東京為替：ドル・円は変わらず、原油相場にらみ 執筆： Fisco",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55TEF0WHJfM1RuUWtYMklhR0xaNFFaQjltanJNSW1qcVMwdVhXT21UNDhsYlY4aFN5WFNkbkVpZ0M5UVRwaWY4VnVRcFVOUlVzTXVTNGlMNHNqUEJ3N0JSN0RVWWxYeDg?oc=5",
-      "pubDate": "2026-11-03T13:25:00+09:00",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+      "title": "欧州外国為替市場概況・22時 ドル円 しっかり(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVGc3TEtOR0NzVzRaSEgtelVhNUNLMzBEZ1NUNGNlV3l5bThZLWhIMG9LSnBiYUkwbl84NlVCRkN4emREN0dhMUozT3I2NHBVV3dMR0M0TnYwZ0RkbnZYbVNWSVlMNDd0dmRMTTV6R2pTcHIxTlJiNHhEVVFGalpadjFxN0dsQlE?oc=5",
+      "pubDate": "2026-11-03T22:06:03+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "東京為替：ドル・円は変わらず、原油相場にらみ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMklqZkdMV1ZkVGVKb3Qzcm1jdERsNG5vczVnemlib3JPb0M1LW5aOGMyUWh4RUtDWlJka1RKRXJJekY1bzBkbFY2M29fMW1BeGdHR0Ftdy1Ha25oU0g1T3NBbHIta0kxLVY3SVoxSnpkQUJJRldQbm5YUjE4SlZMQ0RwWnBzVmPSAYwBQVVfeXFMTkZ5MGw5bjlWM3VlU2ZrbVhGNVBWTmRuSUI0Mmt2VDdCZmJfN1djdU15ek1NX0otOXhWNGxfalNXVGZZTmZZaUFlLTNZaWgtNVh6V0RUdTRaUHczd2l1U29LSFBEU0VRV0Z0X0tJQ1oxbVFtMGYtZVU1Z1NBWEJIVnQ3N215cmlUaEEwcjQ?oc=5",
-      "pubDate": "2026-11-03T13:25:00+09:00",
-      "source": "ｄメニューニュース"
+      "title": "ドル円１５８．２０近辺、ユーロドル１．１１８０近辺＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpVzJsTnpKaFhscmdLZ3RHU1d5RTVPbktiTVgzSUgyYk43cXhyU0RXd2lZVGdOMHQyQUFpV2p0dHlHVC1qd2N6eg?oc=5",
+      "pubDate": "2026-11-03T21:26:29+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドルがやや買われる、原油相場が反発 ドル円１５８円台前半＝ロンドン為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iZS14WnNoeTdOZnRlRi1Vc3ZBWmN3OWJBUkVVUGdKdk8wMDd1djRFbGdPOEc5eEtCeUt5NlY0TWsxeTFvOWhiaVVsR2dqd19nU3pTdklZZmZDUQ?oc=5",
+      "pubDate": "2026-11-03T20:56:27+09:00",
+      "source": "Moomoo"
+    },
+    {
+      "title": "ドル円、158円台に乗せ小高い ユーロは伸び悩み対円で底堅さ維持",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lY2d1R2c3Rjd4M1ZhaHpXcEszWjhPY21DMW01SDd5U2xIWHpYc0N0VUxoNzZHVWRmRm1fUnB5X1Q0cjNMcXBkWlBNYlUxZ3ZJYWxZMHI3aXlieWRja0pNeDRxcVptc1l0elplRnk0b1ZkVGZm?oc=5",
+      "pubDate": "2026-11-03T20:55:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "ドル円、158.30円まで上昇 原油と米金利高でドル買いに(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXgyQTBQSFkyazltRmlKem5hTkMwWkhmSFVYb3NYbHVPTjRzOXJqUExlYzl2U3ZLaVhwb3FQTTNOeXEtR25ENDFwMkZRV3dQc1l2aVpkVmlwQmV1VGVSTDU1WEpaTDBySGwtbHVzbDBtSjdwWl9zamYxRWVBb1RFdmZOTFBOTzg?oc=5",
+      "pubDate": "2026-11-03T20:36:03+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、158.30円まで上昇 原油と米金利高でドル買いに｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUYXhGYnFISGxxT0xBUlFScHR0UDQ2U3QxWVlUbXdHMkVOdzRfcThocXhjZFBYYW1JcGdSQWRsUlZlN19IV0J5V1pRUXIwWnJNYUE?oc=5",
+      "pubDate": "2026-11-03T20:36:00+09:00",
+      "source": "ザイFX！"
     }
   ]
 }
