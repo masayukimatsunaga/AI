@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T03:32:16+09:00",
+  "updatedAt": "2026-11-04T15:33:30+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
@@ -8,24 +8,32 @@
     "orderCadence": "平日17:00頃"
   },
   "report": {
-    "headline": "FRBの12月利上げ巡りISM製造業に注目も レンジブレイクは困難か",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜FRBの12月利上げ巡りISM製造業に注目も レンジブレイクは困難か」 外為どっとコム トゥデイ 2026年11月2日号",
-    "url": "https://www.gaitame.com/media/entry/2026/11/02/084534",
-    "publishedAt": "2026-11-02T08:45:34+09:00",
-    "createdAt": "2026-11-02T08:30:00+09:00",
+    "headline": "米中間選挙の結果見極めへ 結果判明まで長期化の可能性も",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜米中間選挙の結果見極めへ 結果判明まで長期化の可能性も」 外為どっとコム トゥデイ 2026年11月4日号",
+    "url": "https://www.gaitame.com/media/entry/2026/11/04/083436",
+    "publishedAt": "2026-11-04T08:34:36+09:00",
+    "createdAt": "2026-11-04T08:30:00+09:00",
     "forecastRange": {
-      "low": 156.7,
-      "high": 158.2
+      "low": 157.7,
+      "high": 159.3
     },
-    "outlook": "レンジブレイクは想像し難い",
+    "outlook": "株価動向や米経済指標結果を受けた値動き",
     "factors": [
-      "日銀 政策金利を据え置き",
-      "日銀総裁「政策の局面が変化している」",
-      "ユーロ圏GDP 予想を上回る"
+      "RBA 予想通りの利上げ",
+      "イラン情勢巡り 情報錯綜",
+      "JOLTS求人件数 前月から増加"
     ],
     "events": [
       {
-        "text": "24:00 ◎ (米) 10月ISM製造業景況指数",
+        "text": "19:00 〇 (ユーロ圏) 10月消費者物価指数",
+        "importance": "medium"
+      },
+      {
+        "text": "22:15 ◎ (米) 10月ADP全国雇用者数",
+        "importance": "high"
+      },
+      {
+        "text": "24:00 ◎ (米) 10月ISM非製造業景況指数",
         "importance": "high"
       },
       {
@@ -33,7 +41,7 @@
         "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261102/20261102083556.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261104/20261104083328.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   },
   "orderReport": {
