@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:33:41+09:00",
+  "updatedAt": "2026-11-06T15:54:43+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
@@ -8,48 +8,48 @@
     "orderCadence": "平日17:00頃"
   },
   "report": {
-    "headline": "米中間選挙は決め手にならず",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜米中間選挙は決め手にならず」 外為どっとコム トゥデイ 2026年11月5日号",
-    "url": "https://www.gaitame.com/media/entry/2026/11/05/084118",
-    "publishedAt": "2026-11-05T08:41:18+09:00",
-    "createdAt": "2026-11-05T08:30:00+09:00",
+    "headline": "米政局不安でリスク回避 米雇用統計の反応は限定的か",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜米政局不安でリスク回避 米雇用統計の反応は限定的か」 外為どっとコム トゥデイ 2026年11月6日号",
+    "url": "https://www.gaitame.com/media/entry/2026/11/06/084233",
+    "publishedAt": "2026-11-06T08:42:33+09:00",
+    "createdAt": "2026-11-06T08:30:00+09:00",
     "forecastRange": {
-      "low": 157.8,
-      "high": 159.0
+      "low": 156.9,
+      "high": 158.5
     },
-    "outlook": "159円台を窺うことも",
+    "outlook": "不安定な動き",
     "factors": [
-      "米中間選挙 民主党優勢",
-      "米大統領「敗因の一つはイラン」",
-      "ユーロ圏HICPは伸びが加速"
+      "日銀議事録公表",
+      "豪貿易黒字 予想を上回る",
+      "BOE 予想通りの利上げ"
     ],
     "events": [
       {
-        "text": "21:00 ◎ (英) BOE政策金利",
+        "text": "22:30 ◎ (米) 10月非農業部門雇用者数",
         "importance": "high"
       },
       {
-        "text": "21:00 ◎ (英) MPC議事録",
+        "text": "22:30 ◎ (米) 10月失業率",
         "importance": "high"
       },
       {
-        "text": "21:00 ◎ (英) BOE金融政策報告書",
+        "text": "22:30 ◎ (米) 10月平均時給",
         "importance": "high"
       },
       {
-        "text": "21:30 ◎ (英) ベイリーBOE総裁講演",
-        "importance": "high"
-      },
-      {
-        "text": "22:30 〇 (米) 7-9月期単位労働コスト・速報値",
+        "text": "24:00 〇 (米) ミシガン大消費者態度指数・速報値",
         "importance": "medium"
       },
       {
-        "text": "22:30 〇 (米) 新規失業保険申請件数",
-        "importance": "medium"
+        "text": "25:00 ◎ (日) 植田日銀総裁講演",
+        "importance": "high"
+      },
+      {
+        "text": "※時間は日本時間での表示になります。 ※「注目の経済指標」「注目のイベント」は注目度が高い順に「◎」「○」「無印」で表示しております。 ※発表時刻は予告なく変更される場合があります。また、予定一覧は信憑性の高いと思われる情報を元にまとめておりますが、内容の正確性を保証するものではございませんので、事前にご留意くださいますようお願いいたします。",
+        "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261105/20261105082918.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261106/20261106083254.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   },
   "orderReport": {
