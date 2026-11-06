@@ -1,92 +1,91 @@
 {
-  "updatedAt": "2026-11-06T08:39:58+09:00",
+  "updatedAt": "2026-11-06T12:41:09+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "ドル円、157.32円付近 SGX日経225先物は57125円でスタート(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeTliOUNRNkhyWFZ4RTRKcURtLUs3SVBjU2tqSGFRRmFzWkkyaUoyT3VEMFY0WGY1OXN6RUwxdlFsQjl3S1d1bXBJNmlueEc4Q21ZTGx5dmU3SXBwU0o4Um1OSk5JM1Azc2VxbTFIZTl3aHhwN3dMNWRkQXRnZnlrV1NQYnZQWlE?oc=5",
-      "pubDate": "2026-11-06T08:32:32+09:00",
+      "title": "〔週間外為見通し〕ドル円、日米株価見極め＝調整続けば円高か",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdnNlRWtFbmktV0tmYzVGVExjal9FU1VKWVhCTjljVUFlaW9zOHNtaHFtVnlzaWtubGVvSTlBRnZwcFZ3WFg1bS1STUIwWFFTMjhVWTU5MUYwc3hEQ21RV3pKbFdKYnpaWExzdkxqcW9wMjZGOE1QWko1OXBYMlk2US05QkdSNmQwcnBYWWpDcjBBSzlna244QVVzTHUtdw?oc=5",
+      "pubDate": "2026-11-06T12:33:00+09:00",
+      "source": "Moomoo"
+    },
+    {
+      "title": "東京為替：ドル・円は下げ一服、株安で円買い優勢(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUJGc0lidE5GeUZoTHNkTFVQaEs2OEpKVjVmNTZTNElpWU9BbWNBYkljTGdDZ05QNU81dlNCX0RxUzUwajhNMXRNNHV3SnlRM0tMZHJRLTJ4ZnZOM3MtdGhKMnlyVkw4ZUdNaE9qeXdaTW0wWGxYTDN0YTZTQ3diZ3g2RkNwS1E?oc=5",
+      "pubDate": "2026-11-06T12:18:47+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円 157.32円付近、SGX日経225先物は57125円でスタート",
-      "link": "https://zai.diamond.jp/articles/-/498579",
-      "pubDate": "2026-11-06T08:32:00+09:00",
-      "source": "ザイFX！"
+      "title": "東京為替：ドル・円は下げ一服、株安で円買い優勢 執筆 Fisco",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mZFBROGhHNC1ZUjI4T2UteG1NdmY5V0dpXzhDaTAzbC11aGVwM0RESEc2REp4NWVZYl9ocU81Yl8ydVQxUFdvd0l1ODlVMWltUEJ0S3NpVHpZV0R1MzhLRzZITTZYLXM?oc=5",
+      "pubDate": "2026-11-06T12:18:00+09:00",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
     },
     {
-      "title": "ドル円、157.42円まで下値広げる CME日経平均先物が売り優勢(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTl1bDVKbjVoVXhveVdzZTVtVWx6b3VzNktKemR1VE1DZVRtZEVPUEZIaVo2ODhhMXA1dGcxTFd2UWYyLWNfc21kNGFRLUl4c091X3BRZHpNYjZJQVMzLWtKZTJfRmFVZnczY0dqT2FodjFGXzVhMlJDbU1mU3NLcXpDTTlnV2s?oc=5",
-      "pubDate": "2026-11-06T08:14:48+09:00",
+      "title": "東京外国為替市場概況・12時 ドル円、底堅い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTmR0NWd1TWZGdEtFbWdNaWVONjhkRnZ4Q0FJV0ljaWdCa2lCbU0yQXBOaFhRdmN5SUFUWmJibDNIVmdiYWxRbHJETjFjU3VfektsOV91dnpaQURQbHA2ZDFqSzZEd003M3o5ZUhpcFMzNERNbmhnWkdwNjZkUHQwNmp1Mkxsc1U?oc=5",
+      "pubDate": "2026-11-06T12:06:17+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円、157.42円まで下値広げる CME日経平均先物が売り優勢",
-      "link": "https://zai.diamond.jp/articles/-/498576",
-      "pubDate": "2026-11-06T08:14:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、157.42円まで下値広げる CME日経平均先物が売り優勢｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpU2VULWZJbnMyelMwZmNfLVRJTkRRYjRnWElwbjczQVZCUEowS0hlbDcyWlkxOU1KSVc3cjZ0Q280cE9BUGV1aFBFM2k3SUhmdGc?oc=5",
-      "pubDate": "2026-11-06T08:14:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "東京外国為替市場概況・8時 ドル円、小動き(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNlhmUWg0RjVuZUNaeURRa0c4N2F1R2VXbTdBR05UM3FodG1VQjBEZkZ2cDV3Y3FKNVFwQ0RwSUFFY1g0Z3ZqcGR2N3kzSGJEMDltUE5jUndnX3l2ckM2bk9BUlVVY183R1RHLXRyNnNvQU5BS2dqbnRsTTlVTFhPQ3BORmFGOU0?oc=5",
-      "pubDate": "2026-11-06T08:06:03+09:00",
+      "title": "外為：1ドル157円88銭前後とドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdVpBS0tsUklJenFTUTJzMGtmdGRudjZmTXRhd3l1TEVtZXdScURleDNrU2VtajFiSWdYQ3Z5VlRmcWRLaTRaOWY5UUJQUS1fWjhEa0VmdVlmRE9sRGdvdC1mb05FS2JpckN4ZmNWN1lOQUhCbDRIdUUxYjdRNEluYmJ2UkpIclE?oc=5",
+      "pubDate": "2026-11-06T12:01:53+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "外為：1ドル157円69銭前後とドル安・円高で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTW5Ua0FXUDJEQlBtVXNKUzladlB2TjdQVUxfOFRtUFFRZ05PVlhaYk96R19BVmpLa3NQOENuUWlxS2VnclZhVWRSWElHNUdvZzV1elhST3B3QlBlLXp4LW5rbE1ha3JVbzdoN3A3QmxMNkVrVTg2eWRrRm14RU9BQThHblJfTWs?oc=5",
-      "pubDate": "2026-11-06T08:01:46+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "トヨタ、3年ぶり増益見通し 円安・堅調なハイブリッド車 最新の経済ニュース【随時更新】",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HU25MY192cUFwOXVjNERXSzg2UlR1Nk5sc0xsQU53aXQ1RGlsUGVsRHNFYmZkTG94dlhYNDIxclZSXzRvNmkyeFM1R2NXbnBYNm1rZFRWMVVicG8?oc=5",
+      "pubDate": "2026-11-06T11:55:08+09:00",
+      "source": "ABEMA"
     },
     {
-      "title": "世界各国通貨に対する円:対ドル0.03%高、対ユーロ0.02%高",
-      "link": "https://zai.diamond.jp/articles/-/498574",
-      "pubDate": "2026-11-06T08:01:00+09:00",
-      "source": "ザイFX！"
+      "title": "ドル円は下げ一服後に切り返す、米雇用統計の発表を控えて＝東京為替前場概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPeERhSTZjNHd3bnJyLUtzbFNjZWdTQVI2ekJEdll5LW9tNW9ib3k2QnIybHZIMlRJWlV2cGxEc3RlV1hfaHpJZA?oc=5",
+      "pubDate": "2026-11-06T11:40:29+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
-      "title": "東京為替見通し＝ドル円、日米株安を受けたリスク回避の円買いに要警戒か(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLXlYUE50T1J0YVNHM2ZlTnliSkd6alNlTS1yempmMDR2OXkzbG9rbnM5N3BCMVNLVUZtU0VEeGdJMjI0a3NBVlN0Y2duTC1uQmk0X1R1S2V6ZnBtamxuTDljT3FCWDg4Z3NLVUZaTkxpeVM2TTlEbUY5M084TjBxM2VjVk0za1U?oc=5",
-      "pubDate": "2026-11-06T08:00:04+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "通貨オプション ボラティリティー ドル円は７％台後半",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1qWE1BQ0FKakNreU82YnFsZ0FQTzFhbkxVdHRfNFU4dm5zUDJwdUowdEVwQ0trNWpRYWpBbGNlaUpIWC0zWFBTdA?oc=5",
+      "pubDate": "2026-11-06T11:30:29+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
-      "title": "東京為替見通し=ドル円、日米株安を受けたリスク回避の円買いに要警戒か",
-      "link": "https://zai.diamond.jp/articles/-/498573",
-      "pubDate": "2026-11-06T08:00:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円午前の為替予想、米政局不安でリスク回避 米雇用統計の反応は限定的か 2026/11/6",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IcGRGdWhXR0VveER2S0dfQzdKSmV2UTR1YzB5VUVEdjlENmlZTkZ1UDBaY0NpajFrUkZzX0VhUHN0eWE3MlJVY2ZLSDgwdkkzZ0t3Zjh3enJnMzVjd1hmUzA1QQ?oc=5",
-      "pubDate": "2026-11-06T07:54:00+09:00",
+      "title": "【FX】11/6 ドル/円、米10月雇用統計でどうなる！？｜為替市場ニュースの振り返り、今日の見通し",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfNTVYRTh3R1RTT0ZVNExMM0p0bkJkV3Q0cXFHVHdhUXpHQklSWDViM0txeU8zOGx4ZFdBc3hnOXhaT0c3V3F1ZkRJX1FkbXJjNU5yOVl1Zi1lOG9Bdnp5Tk1LUQ?oc=5",
+      "pubDate": "2026-11-06T11:30:00+09:00",
       "source": "外為どっとコム"
     },
     {
-      "title": "〔外為・今日の材料〕ドル円、軟調か＝日米株急落でリスクオフ（6日）(時事通信)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmFBV2Y2T3JVTlF2TEg2cTVlZGJCX3d4RWpPVGJZUGFJS0xxT2owMzhPZTdITEU1cFdKU0hOWnJ6S0N3M0xudHdGZWNqQWFZQjQ3QVFNOXlDd3NZbzlBS19zWWlHZTFFZlRYcFdfN2E0djhsUTNMNEwzV1E5b0lwQVZtZUxGWjA?oc=5",
-      "pubDate": "2026-11-06T07:42:15+09:00",
+      "title": "週間為替展望（ドル／ユーロ）-ドル円、米ハイテク株とCPIに注目(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUJ0ME1OOUJaRmFvWXdGUmg1WEZ6OEs4dU9YWGFNcWlYdEIxVUJvWGxrX0NFOTYxUDZsclpiUVFvSDNlMUg5eUlidDBpbGNQanZJeU5GeVRpOF9oNkpzWHNhbEJvdzhnb1gzZU1ZQm16LWQ3WFhZQ042Sk5iODVRMm5VVllhVkU?oc=5",
+      "pubDate": "2026-11-06T11:23:03+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル/円見通し(為替/FX ニュース )：157円台半ばで小動き｜日銀の利上げ観測で74銭安(2026年11月6日)",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Pd0FCazFicWwycUFQZ0tvYmdBOFlJWV9VTmJTOGtXcHFiQnJkLWpJSnhMMFFqNER5azVubHV0V1laVEowNDlaaWZhQm91VVlEeW5RNEhqVFVUXzktNWVEaXZnWHpSM0xfcmZhelpQX3FyRV9nNjdoS2VB?oc=5",
-      "pubDate": "2026-11-06T07:33:59+09:00",
-      "source": "OANDA証券"
+      "title": "【テクニカル】日足テクニカル・ドル円＝一目・基準線や転換線を念頭に置いた値動き",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzQnJsRkVsOVRrZDFKbTZOME04NGU5bkFSX2FCeWdfOW1oaVVrTUdtWVVnNjdFQWZzU0FYeFBCYVlsZGxESjFMbUlCQjZ4WXI2RGdUTFNOXzVVT0FZSngwMFdVWQ?oc=5",
+      "pubDate": "2026-11-06T11:06:14+09:00",
+      "source": "外為どっとコム"
     },
     {
-      "title": "NYマーケットダイジェスト・5日 株大幅下落・円高(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYndia2VUNUNudGUwYzF4cTdCZ0k3Y0Y5S3MtdnZfTjVMZGltMnd6a1JuMG1NRjA3ekxQVTNiTkhCbEM5RHczQk0ycHdqSzliWHhwSGVVVE4zMUJ2cEEwVzFVeXo1OThqdXUxRUw1QlBxQlJ0LVBFR1J1cTNhNEFLQl9OUmRYQUU?oc=5",
-      "pubDate": "2026-11-06T07:20:04+09:00",
+      "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し「ドル円158円台から急ブレーキ！今夜の米雇用統計で159円回復か急落か」 2026年11月6日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LZk5yRURWVy1iSFdSREpCZi1sUWxaUHIxSmtXMnNXMURRZnhCNzQySnM5SXdtSGZGSjBKTUZILTVMbUVWcGwyN0plbmhnN1VfbEhUd3dac0hFQ3dseVpvTkRiNA?oc=5",
+      "pubDate": "2026-11-06T11:03:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "外為：1ドル157円93銭前後とドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1FaYmpFY1AtYXJPR09KRnJ5cFo3TENSVXlla3NmVDVvbGRHVjAwVnJSelpfaUg5b1dZUHlFZ1lGTG1HUnBsWEFrakNJUDU5VFhuZDc5UGxOdW10Tkp6RnpsbS1aSlBmSWtzMDFtWlhjNEluX3NmUWZWSGNOcG1xYm53WXJiV1U?oc=5",
+      "pubDate": "2026-11-06T11:01:32+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、買い戻し続く 一時157.96円まで上昇(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbWJUZ0pIeEVyRXlmTUVqZ2FjbkVTN0Z1bkgwXzYwZlNrX2xHTEpUSk9lM2x0cVZMRTE4SklwVEtJZ2NtZEh5Y1gzQVRtV09BSWI3ZUpuQTdURnFqZXRoZ3JTUkg3SzhBNHVrXzhrOEtBVkFDU3hqNnR2R0lUUVZXLUxGZEVHOG8?oc=5",
+      "pubDate": "2026-11-06T10:41:18+09:00",
       "source": "Yahoo!ファイナンス"
     }
   ]
