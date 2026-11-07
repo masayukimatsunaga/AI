@@ -1,15 +1,9 @@
 {
-  "updatedAt": "2026-11-07T12:14:40+09:00",
+  "updatedAt": "2026-11-07T19:25:21+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
-    {
-      "title": "ドル円見通し｜AI・半導体株急落、日経平均5.96％安 それでもドル円は157～158円台で膠着【相場の現在地】2026/11/7",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CUVN3TTJ2c0ZiODlHY2pGdzlfb193NjFteHVwcUhaZFJkTVVManBHWkM1RGctMHllUXJNalZzcU8xUkxjTU92djdHellDblJKS0liaFZ2bDNITXF0T1NTTzYydw?oc=5",
-      "pubDate": "2026-11-07T11:00:00+09:00",
-      "source": "外為どっとコム"
-    },
     {
       "title": "〈書評〉『経営者の〈付加価値〉』『為替介入とは何か 200兆円規模｢外為特会｣が生まれた謎』『リベラル再起の条件』",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NNWNqVWpSczQtbUVFR3NWT2tPZklxNkdyNUhpVGlocVJuLVVuZ3pncXJqX01GcmZfbU1wQmJuNVdkdHNJN09uV0k2dkJiR3VTZ090VUw0dmlMU0NYTjZR?oc=5",
@@ -17,28 +11,10 @@
       "source": "東洋経済オンライン"
     },
     {
-      "title": "日本でたどる私のルーツ、先祖ゆかりの地を巡る旅が人気 円安がブームを後押し？ 「共生」の促進を期待する声も（47NEWS）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yT0dhSzdvQS1yTUJ6T3JKMmlsSjJVbjFIQ0p5cUdoQ2wyQ0tNMk9TZHBZdW8wVkU4ckhzRGlvQU1YeDRSTEYyczZQSnBFODZmN3FsUFVycVB2RUxSWjdvc3E2ODlJcS1LamhqQk9pckhPSG1nR09xUm4zVTQ0NDg?oc=5",
-      "pubDate": "2026-11-07T09:02:21+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "世界各国通貨に対する円：対ドル0.03%高、対ユーロ0.02%高｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55Q094MHZvZmw2eTE0SUdnYUFrTncyZi03LXhQa29sWU5BTms1elhGdVpkdVZBTUd3VnFmc2ZlaXBYZExPM3FaekEzRWFPXzFSV1E?oc=5",
-      "pubDate": "2026-11-07T08:35:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-11-07T08:23:49+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "NY為替・6日＝ドル円が3日ぶりに反発 終値は158.48円(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjBnQjlFVjdibjZDWjVfRWowbWJkRHdmdHFxSF9iSXRuQ0JDbWtJMEVTZFZRREwwMkYtUWh4bjdET3NGV05oTkQzX09fOXBZYUl0ZVBMcGo3Y3JJQzF6eE5kVjRPVVA4a1IycmttZ0Q5YkljazJTR3lKNHk2dnNmTDgzd0pNRVU?oc=5",
-      "pubDate": "2026-11-07T07:54:02+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "ドル円見通し｜AI・半導体株急落、日経平均5.96％安 それでもドル円は157～158円台で膠着【相場の現在地】2026/11/7",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CUVN3TTJ2c0ZiODlHY2pGdzlfb193NjFteHVwcUhaZFJkTVVManBHWkM1RGctMHllUXJNalZzcU8xUkxjTU92djdHellDblJKS0liaFZ2bDNITXF0T1NTTzYydw?oc=5",
+      "pubDate": "2026-11-07T11:00:00+09:00",
+      "source": "外為どっとコム"
     },
     {
       "title": "6日レンジ ドル円 157.26-158.58円(トレーダーズ・ウェブ)",
@@ -47,16 +23,16 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "共和党・中間選挙惨敗で“手負いの虎”と化したトランプ大統領の新たな脅威 日本に迫る利上げと円高、「サナエノミクス」が裏目に出て日本経済が逆回転を始めるリスク（マネーポストWEB）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zbGdiZFYzcnlPX2hkWFpxTnZYTDhkNk5pcUdKRl9INHNocXYtNWFrV1JfQWxvU1ZuU2lLX2JtQVZMcEJsTTlXNWpVTkV5aFREYUFxUVdTeWJxa1drNlEzTmkzbkRDemZCem1qLW1GcldhVnd3VWlxTzczMWI3UkU?oc=5",
-      "pubDate": "2026-11-07T07:13:00+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
       "title": "６日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PckhLOEo5cGNEeVIzZlBlNWpQQ1NsNng2NHp0cEJXMGhTZ0o1N1lERmJlLWl6ZElMbS1uR3Vjcy1DTE5UQUlSNw?oc=5",
       "pubDate": "2026-11-07T07:10:29+09:00",
       "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・6日 ドル円、3日ぶり反発｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KcjJSSG12QTljbkR4QXRHb3hIanFKWm9IeDNmM0xCV2NKdVZHV19OaUYxVkJ3b05YeDRKWk4zY3F3aTQ2TjNraHFKZVZBSHZlZlE?oc=5",
+      "pubDate": "2026-11-07T07:03:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "ドル円、１５８円台半ば 米株式市場が落ち着く 強い米雇用統計も反応鈍い＝ＮＹ為替概況 -",
@@ -86,6 +62,30 @@
       "title": "ドル円、１５８円台で変わらず 米雇用統計は強い内容も数字の割には反応鈍い＝ＮＹ為替序盤 -",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTZlhlTzdDZnIyXzZwNDU0Wm83M2NCbk9QX3lHMkZ0VXJEUkcteVhLVnJYOXFORnp3eDlCcDdLX0dRRHpqNnNpbQ?oc=5",
       "pubDate": "2026-11-06T23:15:29+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル円のピボットは１５８．１０円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2blVLZlFaRHQ3Vk01V2M4TDNlQ2pvZThJZzdVdjAwcnROdE9FblVJYXRTNC04X0VleXNMdmU5amdnMVRXZXNsMg?oc=5",
+      "pubDate": "2026-11-06T23:02:28+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ドル買い反応、予想以上に強い米雇用統計で、ドル円一時１５８．５８レベル＝ＮＹ為替 -",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOMWNvODZzTnpVb0RIOUExUUNkMzJqUHNjYzNPbEU4S1lWdHF4TjROS0d4SGJhQUlINXluR0k2dy1BS2QwLTJEbQ?oc=5",
+      "pubDate": "2026-11-06T22:40:29+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "欧州外国為替市場概況・22時 ドル円、小高い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWTUydmxJemdzYlRxWjZ4S3VyZGRtOGswWHFCZFBoQ0pOLS1maG1PdkgzU0R0V09GS2Z3VTZ0eUxEMjA3bFpNZVF5T0JhRkdNUWhFTTlPVmFndU11RkR1V1lwWl8yUFYxMWxFalQwVVZZTEdvcC1kRXRtTU16YXlKZlI5NW43cU0?oc=5",
+      "pubDate": "2026-11-06T22:06:04+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ロンドン昼の時間帯、ドル円１５８．３０付近に高止まり＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Ealh4cGlTSFVFb3BEOTZ0ak0zV3U2MUdSS3ZjeW5WUWNHVHBfN0NNejl1S21vQm1Wb2pFbzZKUXdyNDR6TE9sXw?oc=5",
+      "pubDate": "2026-11-06T21:39:29+09:00",
       "source": "みんかぶ FX/為替"
     }
   ]
