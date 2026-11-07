@@ -1,20 +1,32 @@
 {
-  "updatedAt": "2026-11-07T19:25:21+09:00",
+  "updatedAt": "2026-11-08T01:38:26+09:00",
   "sources": [
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "〈書評〉『経営者の〈付加価値〉』『為替介入とは何か 200兆円規模｢外為特会｣が生まれた謎』『リベラル再起の条件』",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NNWNqVWpSczQtbUVFR3NWT2tPZklxNkdyNUhpVGlocVJuLVVuZ3pncXJqX01GcmZfbU1wQmJuNVdkdHNJN09uV0k2dkJiR3VTZ090VUw0dmlMU0NYTjZR?oc=5",
-      "pubDate": "2026-11-07T11:00:00+09:00",
-      "source": "東洋経済オンライン"
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-11-07T22:47:08+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "1ドル200円が現実味？ 利上げしても円安、利下げしても円安―【堀古英司のウォール街裏話】",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFVjRpZTFqa0otakRXSDd1S1FkemZyS1d4bmNvRWJ2eWg4LUkyRy1IT19tQ3pCTVlQWnFhR3JqbFVteElKcTItZXpZenRQNnhLY1o4bWo5bmduRHM2a1Bjcw?oc=5",
+      "pubDate": "2026-11-07T18:54:56+09:00",
+      "source": "テレ東BIZ"
     },
     {
       "title": "ドル円見通し｜AI・半導体株急落、日経平均5.96％安 それでもドル円は157～158円台で膠着【相場の現在地】2026/11/7",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CUVN3TTJ2c0ZiODlHY2pGdzlfb193NjFteHVwcUhaZFJkTVVManBHWkM1RGctMHllUXJNalZzcU8xUkxjTU92djdHellDblJKS0liaFZ2bDNITXF0T1NTTzYydw?oc=5",
       "pubDate": "2026-11-07T11:00:00+09:00",
       "source": "外為どっとコム"
+    },
+    {
+      "title": "〈書評〉『経営者の〈付加価値〉』『為替介入とは何か 200兆円規模｢外為特会｣が生まれた謎』『リベラル再起の条件』",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NNWNqVWpSczQtbUVFR3NWT2tPZklxNkdyNUhpVGlocVJuLVVuZ3pncXJqX01GcmZfbU1wQmJuNVdkdHNJN09uV0k2dkJiR3VTZ090VUw0dmlMU0NYTjZR?oc=5",
+      "pubDate": "2026-11-07T11:00:00+09:00",
+      "source": "東洋経済オンライン"
     },
     {
       "title": "6日レンジ ドル円 157.26-158.58円(トレーダーズ・ウェブ)",
@@ -65,28 +77,16 @@
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ドル円のピボットは１５８．１０円付近＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2blVLZlFaRHQ3Vk01V2M4TDNlQ2pvZThJZzdVdjAwcnROdE9FblVJYXRTNC04X0VleXNMdmU5amdnMVRXZXNsMg?oc=5",
-      "pubDate": "2026-11-06T23:02:28+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
       "title": "ドル買い反応、予想以上に強い米雇用統計で、ドル円一時１５８．５８レベル＝ＮＹ為替 -",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOMWNvODZzTnpVb0RIOUExUUNkMzJqUHNjYzNPbEU4S1lWdHF4TjROS0d4SGJhQUlINXluR0k2dy1BS2QwLTJEbQ?oc=5",
       "pubDate": "2026-11-06T22:40:29+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "欧州外国為替市場概況・22時 ドル円、小高い(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWTUydmxJemdzYlRxWjZ4S3VyZGRtOGswWHFCZFBoQ0pOLS1maG1PdkgzU0R0V09GS2Z3VTZ0eUxEMjA3bFpNZVF5T0JhRkdNUWhFTTlPVmFndU11RkR1V1lwWl8yUFYxMWxFalQwVVZZTEdvcC1kRXRtTU16YXlKZlI5NW43cU0?oc=5",
-      "pubDate": "2026-11-06T22:06:04+09:00",
+      "title": "【速報】ドル・円158.58円、ドル買い強まる、米雇用統計が予想上回る(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLVNiRnVCNHlsbUJJMmNKSFBLYU1NWkQtQzZaODlNUzQwSVlVZ1Q2ajF5aldFRUE2STBha3ZQS1dSSUFCUlplSkt3UFZsTVdISlBlVGxBTHkyZzF6VWp1TVI4emUtOWxYSUhGY2t0WkFhV21kUUQ2T215WlU0YkdyQ242RklsU3c?oc=5",
+      "pubDate": "2026-11-06T22:32:51+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ロンドン昼の時間帯、ドル円１５８．３０付近に高止まり＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Ealh4cGlTSFVFb3BEOTZ0ak0zV3U2MUdSS3ZjeW5WUWNHVHBfN0NNejl1S21vQm1Wb2pFbzZKUXdyNDR6TE9sXw?oc=5",
-      "pubDate": "2026-11-06T21:39:29+09:00",
-      "source": "みんかぶ FX/為替"
     }
   ]
 }
