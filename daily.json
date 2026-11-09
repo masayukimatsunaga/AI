@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T10:10:47+09:00",
+  "updatedAt": "2026-11-10T03:41:05+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
@@ -45,20 +45,27 @@
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   },
   "orderReport": {
-    "headline": "ドル円は1円程度の振幅、158.30・40円に売り散見",
-    "sourceTitle": "ドル円は1円程度の振幅、158.30・40円に売り散見　今日の外為注文情報　2026/11/6 17:00",
-    "url": "https://www.gaitame.com/media/entry/2026/11/06/171248",
-    "publishedAt": "2026-11-06T17:12:48+09:00",
-    "createdAt": "2026-11-06T17:10:00+09:00",
-    "summary": "現行水準の上側の158.300円、158.400円に売りオーダーが観測される。一方で、下側の157.400円買いオーダーが散見される。イベント前で、積極的な取引は控えられている模様。",
+    "headline": "ドル円は157円半ばから後半に買い集まり始める",
+    "sourceTitle": "ドル円は157円半ばから後半に買い集まり始める　今日の外為注文情報　2026/11/9 17:00",
+    "url": "https://www.gaitame.com/media/entry/2026/11/09/171458",
+    "publishedAt": "2026-11-09T17:14:58+09:00",
+    "createdAt": "2026-11-09T17:10:00+09:00",
+    "summary": "現行水準の上側の158.200円、158.300円、158.350円、158.400円、158.450円に売りオーダーが観測される。一方で、下側の157.500円、157.700円、157.800円、157.850円、157.900円に買いオーダーが集まり始めている。",
     "sellLevels": [
+      158.2,
       158.3,
-      158.4
+      158.35,
+      158.4,
+      158.45
     ],
     "buyLevels": [
-      157.4
+      157.5,
+      157.7,
+      157.8,
+      157.85,
+      157.9
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/guh202109/20261106/20261106170711.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/guh202109/20261109/20261109170713.png",
     "unitText": "1メモリ＝3,000,000通貨",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
