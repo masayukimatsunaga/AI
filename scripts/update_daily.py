@@ -14,6 +14,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
+from typing import Callable
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -233,14 +234,35 @@ def headline_from_title(title: str) -> str:
     return match.group(1).strip() if match else title.strip()
 
 
+def newest_rss_item(
+    root: ET.Element, title_matches: Callable[[str], bool]
+) -> ET.Element | None:
+    """Return the newest matching item even if the RSS feed order changes."""
+    candidates = [
+        item
+        for item in root.findall(".//item")
+        if title_matches((item.findtext("title") or "").strip())
+    ]
+    if not candidates:
+        return None
+
+    def published_at(item: ET.Element) -> datetime:
+        value = (item.findtext("pubDate") or "").strip()
+        try:
+            parsed = parsedate_to_datetime(value)
+            return parsed if parsed.tzinfo else parsed.replace(tzinfo=timezone.utc)
+        except (TypeError, ValueError):
+            return datetime.min.replace(tzinfo=timezone.utc)
+
+    return max(candidates, key=published_at)
+
+
 def parse_report(xml_text: str) -> dict[str, object]:
     root = ET.fromstring(xml_text)
-    selected: ET.Element | None = None
-    for item in root.findall(".//item"):
-        title = (item.findtext("title") or "").strip()
-        if "外為どっとコム トゥデイ" in title and "ドル/円" in title:
-            selected = item
-            break
+    selected = newest_rss_item(
+        root,
+        lambda title: "外為どっとコム トゥデイ" in title and "ドル/円" in title,
+    )
     if selected is None:
         raise RuntimeError("No 外為どっとコム トゥデイ USD/JPY report was found")
 
@@ -286,12 +308,10 @@ def parse_report(xml_text: str) -> dict[str, object]:
 
 def parse_order_report(xml_text: str) -> dict[str, object]:
     root = ET.fromstring(xml_text)
-    selected: ET.Element | None = None
-    for item in root.findall(".//item"):
-        title = (item.findtext("title") or "").strip()
-        if "今日の外為注文情報" in title and "ドル円" in title:
-            selected = item
-            break
+    selected = newest_rss_item(
+        root,
+        lambda title: "今日の外為注文情報" in title and "ドル円" in title,
+    )
     if selected is None:
         raise RuntimeError("No USD/JPY order report was found")
 
