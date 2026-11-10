@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:41:05+09:00",
+  "updatedAt": "2026-11-10T13:34:44+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
@@ -8,40 +8,36 @@
     "orderCadence": "平日17:00頃"
   },
   "report": {
-    "headline": "強い米雇用統計でもレンジブレイクならず",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜強い米雇用統計でもレンジブレイクならず」 外為どっとコム トゥデイ 2026年11月9日号",
-    "url": "https://www.gaitame.com/media/entry/2026/11/09/081825",
-    "publishedAt": "2026-11-09T08:18:25+09:00",
-    "createdAt": "2026-11-09T08:15:00+09:00",
+    "headline": "158円挟みの展開続く",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜158円挟みの展開続く」 外為どっとコム トゥデイ 2026年11月10日号",
+    "url": "https://www.gaitame.com/media/entry/2026/11/10/084027",
+    "publishedAt": "2026-11-10T08:40:27+09:00",
+    "createdAt": "2026-11-10T08:30:00+09:00",
     "forecastRange": {
-      "low": 157.8,
-      "high": 159.0
+      "low": 157.2,
+      "high": 158.6
     },
-    "outlook": "158円台を中心にもみ合う展開",
+    "outlook": "157円台では底堅く推移しそう",
     "factors": [
-      "日本実質賃金 9カ月連続でプラス",
-      "独鉱工業生産 予想に反して増加",
-      "米雇用統計 非農業部門雇用者数が予想を上回る"
+      "中国CPI 伸びが鈍化",
+      "「イランが要求取り下げ」報道",
+      "NY連銀インフレ調査 予想を上回る"
     ],
     "events": [
       {
-        "text": "10:30 〇 (中) 10月消費者物価指数",
-        "importance": "medium"
-      },
-      {
-        "text": "26:25 ◎ (英) ベイリーBOE総裁講演",
+        "text": "22:30 ◎ (米) 10月消費者物価指数",
         "importance": "high"
       },
       {
-        "text": "08:50 〇 (日) 日銀金融政策決定会合における主な意見",
-        "importance": "medium"
+        "text": "22:30 ◎ (米) 10月消費者物価指数・コア",
+        "importance": "high"
       },
       {
         "text": "※時間は日本時間での表示になります。 ※「注目の経済指標」「注目のイベント」は注目度が高い順に「◎」「○」「無印」で表示しております。 ※発表時刻は予告なく変更される場合があります。また、予定一覧は信憑性の高いと思われる情報を元にまとめておりますが、内容の正確性を保証するものではございませんので、事前にご留意くださいますようお願いいたします。",
         "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261109/20261109080954.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261110/20261110083108.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   },
   "orderReport": {
