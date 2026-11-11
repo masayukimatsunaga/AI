@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-11-11T11:42:07+09:00",
+  "updatedAt": "2026-11-11T16:51:02+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
     "cadence": "平日毎朝8:30〜9:00頃",
     "orderCategoryUrl": "https://www.gaitame.com/media/archive/category/%E4%BB%8A%E6%97%A5%E3%81%AE%E6%B3%A8%E6%96%87%E6%83%85%E5%A0%B1",
-    "orderCadence": "平日17:00頃"
+    "orderCadence": "平日17:00頃",
+    "orderDataUrl": "https://www.gaitame.com/markets/order/"
   },
   "report": {
     "headline": "12月FOMCでの大幅利上げの可能性浮上 200日線を維持できるか",

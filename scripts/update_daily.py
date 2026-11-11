@@ -30,6 +30,7 @@ RSS_URL = (
     + urllib.parse.quote("外為トゥデイ")
 )
 ORDER_GUIDE_URL = "https://www.gaitame.com/markets/order/det/"
+ORDER_DATA_URL = "https://www.gaitame.com/markets/order/"
 ORDER_CATEGORY_URL = (
     "https://www.gaitame.com/media/archive/category/"
     + urllib.parse.quote("今日の注文情報")
@@ -383,6 +384,7 @@ def main() -> None:
             "cadence": "平日毎朝8:30〜9:00頃",
             "orderCategoryUrl": ORDER_CATEGORY_URL,
             "orderCadence": "平日17:00頃",
+            "orderDataUrl": ORDER_DATA_URL,
         },
         "report": parse_report(fetch_text(RSS_URL)),
         "orderReport": order_report,
