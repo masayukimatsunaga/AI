@@ -1,93 +1,93 @@
 {
-  "updatedAt": "2026-11-12T19:21:35+09:00",
+  "updatedAt": "2026-11-13T03:36:50+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "欧州為替：ドル・円は底堅い、ドル買い継続(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeUNEaWlSX2dMOVlkZjZxNFYzQTAwWmZCcThWZmNManUzYkM0OG1nb2VlWGUxeEFYaDVKNnhNZWM3SU1sUkl3LXFhUXZKMnZ0dWwzcUYxWjc2UmdWcm9jMHNuZGRBZHhlcllqZ04zdnhoZWp6X2hwOWlJalBpXzdfbnZlNnZGZFk?oc=5",
-      "pubDate": "2026-11-12T18:24:31+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "欧州為替:ドル・円は底堅い、ドル買い継続",
-      "link": "https://www.zaikei.co.jp/article/20261112/877310.html",
-      "pubDate": "2026-11-12T18:24:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京外国為替市場で円安進む 一時1ドル＝160円に迫る水準に",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45Q0k4UkF0NnJLX3hNd3FYWDVmS2pqYVB2azFicDhya0g2SUZORTBqazlmTVY5dm1OZ3VmRmw5UFRuUkRvMUdzVG0xU1NieEc0RWZiNzcwcHFWUXdwRHJz?oc=5",
-      "pubDate": "2026-11-12T18:19:08+09:00",
-      "source": "NHKニュース"
-    },
-    {
-      "title": "ロンドン序盤、ドル買い一服 ドル円は１５９．６０台に反落＝ロンドン為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tQUJnQVNLeFBOVTVXZXpkakpCYWV0R2ZtSHdDM2dGcFhXVVlpaUlZUUxUQ2ZWcjJRS1V0al9WV1RseTdFeWRENw?oc=5",
-      "pubDate": "2026-11-12T18:03:29+09:00",
+      "title": "ドル円は１５９．７５円付近での推移＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GbEFhdVdsVVN0Tmo5QUROSEliR09ENmdzVndHOHRMRExIa3BMbno4V0draDlJMnF2ZTZTbEUzT3NpRDdwcjB3OA?oc=5",
+      "pubDate": "2026-11-13T03:05:29+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "通貨オプション ボラティリティー ドル円１週間６．６７％",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE50QnZieHkyOGdLdlpNZkE0cGFTU0M2NWU3c2Zkemc0MG9vamF2anJOc3JkdFFVdDNXNm1ZSlhkb2E0a1pkTU1QMw?oc=5",
-      "pubDate": "2026-11-12T17:39:28+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "人民元、対ドルで反発 16時30分時点は6.6689元",
-      "link": "https://www.nikkei.com/article/DGXZQOFL128500S6A111C2000000/",
-      "pubDate": "2026-11-12T17:39:00+09:00",
-      "source": "日経新聞"
-    },
-    {
-      "title": "東京為替概況:ドル・円は伸び悩み、節目控え上値は重い",
-      "link": "https://zai.diamond.jp/articles/-/498933",
-      "pubDate": "2026-11-12T17:37:00+09:00",
+      "title": "NY外為:メキシコ軟調、トランプ大統領が対メキシコ高関税を脅かす、キャラバンを巡り",
+      "link": "https://zai.diamond.jp/articles/-/498963",
+      "pubDate": "2026-11-13T02:40:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-11-12T17:30:16+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "外為17時 円相場、4日続落 159円台後半 米金利上昇で",
-      "link": "https://www.nikkei.com/article/DGXZQOFL1222O0S6A111C2000000/",
-      "pubDate": "2026-11-12T17:27:00+09:00",
-      "source": "日経新聞"
-    },
-    {
-      "title": "欧米為替見通し:「ドル・円は伸び悩みか、ドル買い継続も日米協調介入に警戒」",
-      "link": "https://www.zaikei.co.jp/article/20261112/877305.html",
-      "pubDate": "2026-11-12T17:25:00+09:00",
+      "title": "NY外為:メキシコ軟調、トランプ大統領が対メキシコ高関税を脅かす、キャラバン対応を巡り",
+      "link": "https://www.zaikei.co.jp/article/20261113/877343.html",
+      "pubDate": "2026-11-13T02:33:00+09:00",
       "source": "財経新聞"
     },
     {
-      "title": "欧米為替見通し：「ドル・円は伸び悩みか、ドル買い継続も日米協調介入に警戒」(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaW8wZGczTXVnWEZ0XzN3ZlpPM0JkaEU3MzljdV9oSEROMnVVSGM0QkN5aFRwcTYwZzFLd3M2cDRWTFU0elNudXVwbWp4TGNYMGN0OVBZU1VFaGF5SkNZTDQtanZfeWZtemY1b2drMHBQdkVvZmREOV9PczRhLUdPc1lrT09IUTA?oc=5",
-      "pubDate": "2026-11-12T17:25:00+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円の160.00円前後に売りオーダーの集積は限定的、まだかかると見るか突破は想定内と見るか 今日の外為注文情報 2026/11/12 17:00",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1leWhQaW91VnRjeU55ck0tR1BzdHNjQkJmNG5HUU8ySWc3UnFUUnRjNF8yMGdkZVlXNlBWa1pXQkppbENaYWxOcVIyM0VxTXdndFlJYUNwX2E3Z1pfdVp6TFAzRQ?oc=5",
-      "pubDate": "2026-11-12T17:20:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "円相場、159円71～72銭 12日午後5時現在（時事通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Td1RPYm03djFURndVT0w1MFpPbVF1N2NTM0JhRU5JNDF0Z2JZSUptV2M3LUhYbW5NdHdibDR2WVNnVWM5X3VDd0dFR0lidjZHRnVyQzNlLThpTERNUWI5dHFXNllGcTJkdDZRSy01ZzZ4UVBpMWxXZWtCRVQ1eGc?oc=5",
-      "pubDate": "2026-11-12T17:10:44+09:00",
+      "title": "【速報】外国為替市場で一時1ドル＝160円台 9月上旬以来約2カ月ぶりの円安ドル高水準（テレビ朝日系（ANN））",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzlXMk1wRGI5MFJFTWFaU01FZWxnREk3RVFuSkNNalRJbnVELWpTNHVrMk55T29sM21zR0hwcjFnSG9lN3hDNUtjWW1zc09wTEtuYU1TOW40NkxNMy1yRFVMU0RhODBuMXdMbl9qVWZ5bk55NlV4MXp5RklLenBZenpnSU5Kb2liZ3FOREp3?oc=5",
+      "pubDate": "2026-11-13T02:08:37+09:00",
       "source": "Yahoo!ニュース"
     },
     {
-      "title": "円相場、159円71~72銭 12日午後5時現在",
-      "link": "https://www.jiji.com/jc/article?k=2026111200798&g=eco",
-      "pubDate": "2026-11-12T17:09:00+09:00",
-      "source": "時事ドットコム"
+      "title": "ニューヨーク外国為替市場概況･2時 ドル円、荒い値動き(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmdSMGlXdHZqY1RzQ1BUYTY1Y3I2VTc4NmkxU3dNY2lGWDRDVjlLYlItOU9rUW1rMFhvMEU1TFR0WnlQWFRGMTZIYmZRakN0OFZYT3BxT3RMMDNEdjNsckdfb0RKZjJkaFk2NDRlOTc1U0VMOXFkcnpiSDUzSDFDMWpjd1J3QmM?oc=5",
+      "pubDate": "2026-11-13T02:08:17+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･2時 ドル円、荒い値動き",
+      "link": "https://zai.diamond.jp/articles/-/498962",
+      "pubDate": "2026-11-13T02:08:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "円相場1ドル＝160円台 約2か月ぶり円安水準",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zaWpPVHZlWlZ6bUpsUFg3REV0NnVmV1dOekpsVDR2MHl1VkVfdmtZRW56MnNKdmx1ZllENHpWOEx4NVUwN0MwRkJ1WWpYa013NEgtaG5tLXhFN2dZWU9Z?oc=5",
+      "pubDate": "2026-11-13T02:07:38+09:00",
+      "source": "NHKニュース"
+    },
+    {
+      "title": "ドル円、一時下押し 159.33円まで売りに押される(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTm1Ubi1xbHVlMmpfNHFib3N4cF9qOU9NaUJQbXlsQTJQdTJoQlVHOFNiMDlCbEM1Mk1mSVhnQjhtUENEYlk5cEVxbUVSaHNsZktKbjdxQUNlbXA5OHI4bkVtSktOQV9jSkx5WWZmUWRNdHA2aHdaZ1JaVU1taVNVRWZ4NTNPUzg?oc=5",
+      "pubDate": "2026-11-13T01:48:04+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、一時下押し 159.33円まで売りに押される",
+      "link": "https://zai.diamond.jp/articles/-/498960",
+      "pubDate": "2026-11-13T01:48:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、一時下押し 159.33円まで売りに押される｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96RjJYSXlhakR6VlVVYy1WbzJBUmpfNC1uWkV4aGpWY0JvMWlWNnl5ZXNRUThSQ0ZnQXhfY0lGSnYzVHFJU0VLMk8zOVVNVzljVXc?oc=5",
+      "pubDate": "2026-11-13T01:48:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円が急速に下落 １６０円台を瞬間的に付けた後に＝ＮＹ為替速報",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBEN0FjbjYwUE9BT2hoMjlBYVZ6YmwwbVNtV1dCMmcxcmI5WVZOZ25yTlRYRXdwYVIyYnlveFhhWHdmWGpUcERPVw?oc=5",
+      "pubDate": "2026-11-13T01:47:28+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "NY外為:ドル・円再び心理的節目160円試す、FOMCの追加利上げを織り込み長期金利が上昇",
+      "link": "https://zai.diamond.jp/articles/-/498959",
+      "pubDate": "2026-11-13T01:43:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "NY外為：ドル・円再び心理的節目160円試す、FOMCの追加利上げを織り込み長期金利が上昇(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHB6Y0Ywel9DdTNkQkRhN25uN1FrMmtZQTM5ZzBZZTJKc3B2MUpYMThTbG9QUTlwdWpEalF6dHR1SHJSVkVvS1JBcGN1amdDTVFnbVNLNTk0NHc5d2VXRmpnYUl3OVFVNm5ibFBSOTZZSE9CemxTQ19wX1hVV1p4WTRkWGVJdFk?oc=5",
+      "pubDate": "2026-11-13T01:33:50+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、9月2日以来の160円台 一時160.00円(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTlhfRkVQQXoyQ1JfdDRSdndaTkJZMGcxYXdpZHlxeC1TY21ZQmR0YTd2UDR5WV9qa2l2SmtUUGZBbVh2dkxnTXR1dnRUemcydjdnVkdLdUN6bTlzbTByZ2FtdVpBTW9iMVhvR3pzY1NDY1owWWRTbzBjd3UwQzVtZl80Y1NQaGM?oc=5",
+      "pubDate": "2026-11-13T01:32:48+09:00",
+      "source": "Yahoo!ファイナンス"
     }
   ]
 }
