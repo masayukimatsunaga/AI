@@ -1,93 +1,93 @@
 {
-  "updatedAt": "2026-11-12T11:32:21+09:00",
+  "updatedAt": "2026-11-12T19:21:35+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "ドル円、159.80円台まで強含み 日銀審議委員のハト派発言も後押しに",
-      "link": "https://zai.diamond.jp/articles/-/498908",
-      "pubDate": "2026-11-12T11:22:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "三村財務官が口先介入「動きは速すぎる」 1ドル＝160円に迫る円安水準を受け",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ3ROSWRXeU1JVUVFX2szaDZZeUNuVlpjR2xYNHVZZHRQbHBMM2ZVTVpmQm1ZRU8zdUlfcDlGN2ZId2pvdVdhR0NCTjNUSHBwbkZLX1FnUWo5TVRZck5IeHJYMmROdnZ5OTRCODl1MEhwcmEzNXY3OEMzYnRoVTN1bTNleHpHd3V0M1g1OElGd1VoMy1oWXRnYkRJN3FBMVVyTV95eTcwVHhTVGpjXy15dmhFck0?oc=5",
-      "pubDate": "2026-11-12T11:21:20+09:00",
-      "source": "ABEMA"
-    },
-    {
-      "title": "【テクニカル】日足テクニカル・ドル円＝9/2以来の高値更新、160円台に迫る",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xTVpZai03NnR6UVY1SUpKUWxfTHdZOXF2Wlh4OU5lZGtURGNoOWI5RHhOTElLaXdCSGd6dmlNaHdEVGtzXzdLdm5HVlB1Q083UUtRS2JjYVJBQl9wTFZuSWw2QQ?oc=5",
-      "pubDate": "2026-11-12T11:03:11+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "外為：1ドル159円66銭前後と大幅なドル高・円安で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVZTSHJsd2FUTVdQZGYyenVSNTZiaW1nQ2dpSjdUWEpTX2MwR3REVXJCT0pvYkU5Vi1ySFRGVnNRMkJBeHFuRTlDYUdzSmN3WEZVT2tRVkVpTTBEcHhpLWc3Rm00SkpKRUEtWFpPbjlHbi1YNWMtZTdpVEk2Q01TS0JIZVZrNXc?oc=5",
-      "pubDate": "2026-11-12T11:01:58+09:00",
+      "title": "欧州為替：ドル・円は底堅い、ドル買い継続(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeUNEaWlSX2dMOVlkZjZxNFYzQTAwWmZCcThWZmNManUzYkM0OG1nb2VlWGUxeEFYaDVKNnhNZWM3SU1sUkl3LXFhUXZKMnZ0dWwzcUYxWjc2UmdWcm9jMHNuZGRBZHhlcllqZ04zdnhoZWp6X2hwOWlJalBpXzdfbnZlNnZGZFk?oc=5",
+      "pubDate": "2026-11-12T18:24:31+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円159.70円付近 三村牽制発言とハト日銀委員で上下動 日経は堅調",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zTXJpX0Q0WUxzU1J6Y3VtNzFxNno3U3hNZzdwcDJGVmQ5dDBZTXAwQ0djRjZIWktmZFU4ZllEdmtkMnViTVdtcQ?oc=5",
-      "pubDate": "2026-11-12T11:00:29+09:00",
+      "title": "欧州為替:ドル・円は底堅い、ドル買い継続",
+      "link": "https://www.zaikei.co.jp/article/20261112/877310.html",
+      "pubDate": "2026-11-12T18:24:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "東京外国為替市場で円安進む 一時1ドル＝160円に迫る水準に",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45Q0k4UkF0NnJLX3hNd3FYWDVmS2pqYVB2azFicDhya0g2SUZORTBqazlmTVY5dm1OZ3VmRmw5UFRuUkRvMUdzVG0xU1NieEc0RWZiNzcwcHFWUXdwRHJz?oc=5",
+      "pubDate": "2026-11-12T18:19:08+09:00",
+      "source": "NHKニュース"
+    },
+    {
+      "title": "ロンドン序盤、ドル買い一服 ドル円は１５９．６０台に反落＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tQUJnQVNLeFBOVTVXZXpkakpCYWV0R2ZtSHdDM2dGcFhXVVlpaUlZUUxUQ2ZWcjJRS1V0al9WV1RseTdFeWRENw?oc=5",
+      "pubDate": "2026-11-12T18:03:29+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "円相場、1ドル159円台後半に下落 財務官が円買い介入示唆",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tZTdUUndHcGV4OFEyV1FuY0xhd2dkbDhnaEZKLURFU3VmZlo4c2NLa0F4Q2Z2dnA5T2J2SktveXJFUkE3UWdRc00xSDE4ZUMyQXN6eGZvYVJCdjRzMzIyaTgzWVhOZnc5?oc=5",
-      "pubDate": "2026-11-12T10:59:04+09:00",
-      "source": "毎日新聞"
+      "title": "通貨オプション ボラティリティー ドル円１週間６．６７％",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE50QnZieHkyOGdLdlpNZkE0cGFTU0M2NWU3c2Zkemc0MG9vamF2anJOc3JkdFFVdDNXNm1ZSlhkb2E0a1pkTU1QMw?oc=5",
+      "pubDate": "2026-11-12T17:39:28+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
-      "title": "「夏の記憶忘れるのは早い」＝急速な円安けん制―財務官",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13UzV2TTY2LWd0aWdrSnVaMlZidUdjTm5aZEgzSm1XY2hKNTRsRUgxTUhnWjRyeXA5MnlZa0d6MkpINDNPckVtSlo5VksweVdHVGtZeGEyS2szNjd1UWc?oc=5",
-      "pubDate": "2026-11-12T10:53:00+09:00",
-      "source": "時事通信ニュース"
+      "title": "人民元、対ドルで反発 16時30分時点は6.6689元",
+      "link": "https://www.nikkei.com/article/DGXZQOFL128500S6A111C2000000/",
+      "pubDate": "2026-11-12T17:39:00+09:00",
+      "source": "日経新聞"
     },
     {
-      "title": "浅田日銀審議委員 利上げで経済下振れなら基調インフレ押し下げるリスク",
-      "link": "https://fx.minkabu.jp/news/384232",
-      "pubDate": "2026-11-12T10:45:00+09:00",
-      "source": "みんかぶ"
+      "title": "東京為替概況:ドル・円は伸び悩み、節目控え上値は重い",
+      "link": "https://zai.diamond.jp/articles/-/498933",
+      "pubDate": "2026-11-12T17:37:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "浅田日銀審議委員 利上げの効果が現れるまでには1年以上かかる見通し",
-      "link": "https://fx.minkabu.jp/news/384229",
-      "pubDate": "2026-11-12T10:44:00+09:00",
-      "source": "みんかぶ"
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-11-12T17:30:16+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "浅田日銀審議委員 利上げの実体経済への影響、以前より高まっている",
-      "link": "https://fx.minkabu.jp/news/384227",
-      "pubDate": "2026-11-12T10:44:00+09:00",
-      "source": "みんかぶ"
+      "title": "外為17時 円相場、4日続落 159円台後半 米金利上昇で",
+      "link": "https://www.nikkei.com/article/DGXZQOFL1222O0S6A111C2000000/",
+      "pubDate": "2026-11-12T17:27:00+09:00",
+      "source": "日経新聞"
     },
     {
-      "title": "財務官、円安ドル高けん制 「動き速過ぎる」（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfdjROaVVNS2h0QmppQXFVRmFSS2NQT09mbEx0TlBObWwxMjdScFRRT1ZTSjVNaGw2eGw3RGw0Mnp0eHlkbmdKbUQxY0Jqb0JpcG44UGhfT2dxZzlpQjZwbm52c1hSendIYjBzeU1hLXV0Rjh0NTZnVXd0aVZLYkk?oc=5",
-      "pubDate": "2026-11-12T10:41:38+09:00",
+      "title": "欧米為替見通し:「ドル・円は伸び悩みか、ドル買い継続も日米協調介入に警戒」",
+      "link": "https://www.zaikei.co.jp/article/20261112/877305.html",
+      "pubDate": "2026-11-12T17:25:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "欧米為替見通し：「ドル・円は伸び悩みか、ドル買い継続も日米協調介入に警戒」(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaW8wZGczTXVnWEZ0XzN3ZlpPM0JkaEU3MzljdV9oSEROMnVVSGM0QkN5aFRwcTYwZzFLd3M2cDRWTFU0elNudXVwbWp4TGNYMGN0OVBZU1VFaGF5SkNZTDQtanZfeWZtemY1b2drMHBQdkVvZmREOV9PczRhLUdPc1lrT09IUTA?oc=5",
+      "pubDate": "2026-11-12T17:25:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円の160.00円前後に売りオーダーの集積は限定的、まだかかると見るか突破は想定内と見るか 今日の外為注文情報 2026/11/12 17:00",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1leWhQaW91VnRjeU55ck0tR1BzdHNjQkJmNG5HUU8ySWc3UnFUUnRjNF8yMGdkZVlXNlBWa1pXQkppbENaYWxOcVIyM0VxTXdndFlJYUNwX2E3Z1pfdVp6TFAzRQ?oc=5",
+      "pubDate": "2026-11-12T17:20:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "円相場、159円71～72銭 12日午後5時現在（時事通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Td1RPYm03djFURndVT0w1MFpPbVF1N2NTM0JhRU5JNDF0Z2JZSUptV2M3LUhYbW5NdHdibDR2WVNnVWM5X3VDd0dFR0lidjZHRnVyQzNlLThpTERNUWI5dHFXNllGcTJkdDZRSy01ZzZ4UVBpMWxXZWtCRVQ1eGc?oc=5",
+      "pubDate": "2026-11-12T17:10:44+09:00",
       "source": "Yahoo!ニュース"
     },
     {
-      "title": "財務官、円安ドル高けん制 「動き速過ぎる」 | 全国のニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fSVJpdzJjcVN5WWhhQWxZOTN0SHRGRzAyREowQjhVQlVmS1dsLWlhSWJIU0pkeXJMSkFSakdYaEVKLU0tQW1RRFJzTDV1NHFMdDUwRnZzSmc0TnR1SEE?oc=5",
-      "pubDate": "2026-11-12T10:41:37+09:00",
-      "source": "福井新聞社"
-    },
-    {
-      "title": "財務官、円安ドル高けん制",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LaHVnTmRMNkt4dkt6QmtLR0lZYmFuV1hRVFdOblZDOElJRExGZDd4UXdkWFZMd1BvYWNhWEhXRU94a0E2Q3h2OHFJbHBkSllUMmt5OFFPODQ?oc=5",
-      "pubDate": "2026-11-12T10:41:37+09:00",
-      "source": "京都新聞デジタル"
-    },
-    {
-      "title": "浅田日銀審議委員 利上げが実体経済に及ぼす影響を注視する必要がある",
-      "link": "https://fx.minkabu.jp/news/384228",
-      "pubDate": "2026-11-12T10:41:00+09:00",
-      "source": "みんかぶ"
+      "title": "円相場、159円71~72銭 12日午後5時現在",
+      "link": "https://www.jiji.com/jc/article?k=2026111200798&g=eco",
+      "pubDate": "2026-11-12T17:09:00+09:00",
+      "source": "時事ドットコム"
     }
   ]
 }
