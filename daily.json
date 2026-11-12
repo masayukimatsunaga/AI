@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T16:51:02+09:00",
+  "updatedAt": "2026-11-12T11:47:14+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
@@ -9,32 +9,39 @@
     "orderDataUrl": "https://www.gaitame.com/markets/order/"
   },
   "report": {
-    "headline": "12月FOMCでの大幅利上げの可能性浮上 200日線を維持できるか",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜12月FOMCでの大幅利上げの可能性浮上 200日線を維持できるか」 外為どっとコム トゥデイ 2026年11月11日号",
-    "url": "https://www.gaitame.com/media/entry/2026/11/11/083808",
-    "publishedAt": "2026-11-11T08:38:08+09:00",
-    "createdAt": "2026-11-11T08:30:00+09:00",
+    "headline": "約2か月半ぶり高値 160円を巡る攻防へ",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜約2か月半ぶり高値 160円を巡る攻防へ」 外為どっとコム トゥデイ 2026年11月12日号",
+    "url": "https://www.gaitame.com/media/entry/2026/11/12/085414",
+    "publishedAt": "2026-11-12T08:54:14+09:00",
+    "createdAt": "2026-11-12T08:30:00+09:00",
     "forecastRange": {
-      "low": 158.0,
-      "high": 159.4
+      "low": 159.0,
+      "high": 160.6
     },
-    "outlook": "ドル買いが続くかどうか",
+    "outlook": "上昇基調は維持されやすい",
     "factors": [
-      "日銀会合における主な意見公表",
-      "中国貿易収支 予想に届かず",
-      "FRB理事「50bp利上げを検討すべき」"
+      "フィラデルフィア連銀総裁「さらなる緩やかな引き締めが適切」",
+      "英MPC委員「先手を打って引き締め姿勢を強化」"
     ],
     "events": [
       {
-        "text": "18:45 ◎ (ユーロ圏) ラガルドECB総裁講演",
-        "importance": "high"
+        "text": "16:00 〇 (英) 7-9月期GDP・速報値",
+        "importance": "medium"
+      },
+      {
+        "text": "16:00 〇 (英) 9月GDP",
+        "importance": "medium"
+      },
+      {
+        "text": "22:30 〇 (米) 新規失業保険申請件数",
+        "importance": "medium"
       },
       {
         "text": "※時間は日本時間での表示になります。 ※「注目の経済指標」「注目のイベント」は注目度が高い順に「◎」「○」「無印」で表示しております。 ※発表時刻は予告なく変更される場合があります。また、予定一覧は信憑性の高いと思われる情報を元にまとめておりますが、内容の正確性を保証するものではございませんので、事前にご留意くださいますようお願いいたします。",
         "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261111/20261111083152.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261112/20261112084812.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   },
   "orderReport": {
