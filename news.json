@@ -1,93 +1,93 @@
 {
-  "updatedAt": "2026-11-13T15:50:43+09:00",
+  "updatedAt": "2026-11-14T00:26:03+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "ドル円、一時159.66円まで一転下落 介入警戒感からまとまった売り観測",
-      "link": "https://zai.diamond.jp/articles/-/499012",
-      "pubDate": "2026-11-13T15:41:00+09:00",
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、神経質",
+      "link": "https://zai.diamond.jp/articles/-/499032",
+      "pubDate": "2026-11-14T00:08:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円、午後３時過ぎに買いが勢い付く、一時１６０．１９レベル＝東京為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sUzh6YU1TcDAtSGlMOUtaZFdEMl9Wd1JCV0tlQl9zakRUX3pPR3ZpTmY3el9RQjNMRHJscWprRE8xUHpCeUxnaA?oc=5",
-      "pubDate": "2026-11-13T15:25:29+09:00",
+      "title": "ドル円は１５９円台後半推移＝ＮＹ為替序盤",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvaHZEdDJHbzV5OUpRMmhJX3ByTzhBNFExMWxMN3VOOVhXR1ZuX29USXJDMHlqTEpLMGh6eUpOaXpYSWtvbTBnMg?oc=5",
+      "pubDate": "2026-11-13T23:48:29+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "東京為替：ドル・円は160円台、上値は重い(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQmpybThxNTdubmRMdnpDMHR1Tk1xYk1GTzdUMGoyU1BYNFd0X3RYQWlucURzMDlaRWE5WmlUelJxazhMNnBBX3I3NXd5R0VFUXdHU05XaUNoLUg3d1Y4Q0tUQVNZbGNZVjRhQXFBRVRKZ2xoZXZwMVBqY2hGN3RKU055c2JmUG8?oc=5",
-      "pubDate": "2026-11-13T15:20:56+09:00",
+      "title": "日銀為替市況 午後５時時点、１５９円８４～８６銭のドル高・円安",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55WXpnX0dSY0MtenZudi1fQWxoQ1BMVTg2Z2NndVE3Q2lGa0NGbUJuZlNIWklhaWZnQWF3OVVsaHFsNnFhbzNQN1YxTmNSYkI4eXc?oc=5",
+      "pubDate": "2026-11-13T23:31:29+09:00",
+      "source": "株探"
+    },
+    {
+      "title": "【米PPI】10月は前月比＋0.3%で予想下回る、前年比は6.5%に上昇 内訳とドル円・ゴールドの見通し",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UT21FY3dxMUpOOEw0eGV2X3hoQk4xanhKNkwzMTUwUFJ4c1hpNXo0LWpBcVBuS3M0RVVaTmxEWUlHNXd4cHJCZ0lrZXNBQzlKUWhHc0MzMHlqZzdEWXJZS2VzejJXT3B1cmxBLUVRRlRRdmJOM1BSNQ?oc=5",
+      "pubDate": "2026-11-13T23:28:53+09:00",
+      "source": "OANDA証券"
+    },
+    {
+      "title": "ドル円のピボットは 159.94円付近＝ＮＹ為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zSWJqOGI4TkNxZnJXWjN4QlkxeDhRSF84aU5SakxhRXc3NGhDc19NZEI3Znd3RzRDTFMtLThNdTVhN01jUU92UA?oc=5",
+      "pubDate": "2026-11-13T23:24:28+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "【速報】ドル・円159.86円、ドルもみ合い、米10月コアPPIは予想上回る(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORHpqd282bzNaTng4T1owOXQtQnRYTDRJdDd1dmJSLVA5WUJCWG53TDZRZVJ6VVgtTmYxNFB3dFk3dE13dlRKb2hWRXJWakVUYWJJc0d5Q25ROVgwaEl4dVdEOEpLdW1yTzlEU21UYm5lY09hTGdaX0o4TmtiY3B6cEhUU244ck0?oc=5",
+      "pubDate": "2026-11-13T22:37:17+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "東京為替:ドル・円は160円台、上値は重い",
-      "link": "https://www.zaikei.co.jp/article/20261113/877501.html",
-      "pubDate": "2026-11-13T15:20:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "ドル円、一時160.10円まで上昇 昨日高値上抜け",
-      "link": "https://zai.diamond.jp/articles/-/499006",
-      "pubDate": "2026-11-13T15:12:00+09:00",
+      "title": "【速報】ドル・円159.86円、ドルもみ合い、米10月コアPPIは予想上回る",
+      "link": "https://zai.diamond.jp/articles/-/499029",
+      "pubDate": "2026-11-13T22:37:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "FX個人投資家動向｜トルコリラ円はインフレ見通し悪化が重し、ドル円は160円台へ上昇 2026年11月13日",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1RmgtZVBlVjhoU2dCaGlxUEZPRmpkYU1vQmlrYnI3V2RuaEJDZmJ2OUdGYURXbzFpSjBzNkk3VDYtNFRvclFUTVM1MTd6RjhhdlJ2c0hLYlZsbHJIZ3k1NDdGZw?oc=5",
-      "pubDate": "2026-11-13T15:12:00+09:00",
-      "source": "外為どっとコム"
+      "title": "【速報】ドル・円159.86円、ドルもみ合い、米10月コアPPIは予想上回る｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vNG1fdmpYcWRQNGdKdnI3dFpCVFVUd2dPOF83VWpLYlkybW04UFlFaHhNQk4zUEpjWEd6LW1hbDZfVlE3VTlLQ2xHVDBOcmdEQXc?oc=5",
+      "pubDate": "2026-11-13T22:37:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "【速報】円相場が一時1ドル＝160円台に下落 東京市場で 米CPI上振れで利上げ観測高まる 政府・日銀の為替介入に警戒感",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxYWxTam1QZ3lPendwT1ZmbHpPTy15X0NYMHdkR2VvYmxzbUxmX3JaSlJyeExGME1raVBCb1dLSGg1ek5EaElMb2c0RGFZamkxdEV5RzNpUQ?oc=5",
-      "pubDate": "2026-11-13T15:06:37+09:00",
-      "source": "TBS NEWS DIG"
+      "title": "ドル円、弱含み 予想比下振れの10月米PPI受け",
+      "link": "https://zai.diamond.jp/articles/-/499028",
+      "pubDate": "2026-11-13T22:35:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "外為：1ドル159円96銭前後とドル高・円安で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXRIcElBMzBLVlJMWEZacDRyUmw4OXJqSXRMTXFjd0JQZC1reXAwQmlfc0dRV01vVXFlTzhid0lDbUVoZ09ReG9leG9XX2hkeHBvLXAtSzZVY3F1RjgxZUwtRklzdTc1YlNvZHNpeW1sUjRON0hJaHM0SVZEUUZoNW5URWg5ZjQ?oc=5",
-      "pubDate": "2026-11-13T15:01:51+09:00",
+      "title": "ドル円、弱含み 予想比下振れの10月米PPI受け｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96d1pRZGFJZkhMTmJwUk5VcUNRaWpGZ0R5cG9jRVM3SG10R1ZCMm0zWFlwaVRtZno2aXpocEhld3hyRE5mTFRKMWNjYzZoRzI5aUE?oc=5",
+      "pubDate": "2026-11-13T22:35:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "欧州外国為替市場概況・22時 ドル円、小高い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRHpTM29jTWNXTVNickFTOVNwbk9GS1VYSHdnWW9GSzUzcU9XTDJUTWpNN3dNakpUVkNRZElFOUV2RnlZY0lRVml1M1RiaEtfa1NqMHMtcTZuM1pkUWI2TTJKR19jMmVLV1lLcTR0d2JpWlMxUnZscjdVMElSRjFyajZLUUtFTkk?oc=5",
+      "pubDate": "2026-11-13T22:06:03+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "１３日の東京外国為替市場＝ドル・円、１５９円９０銭台で底堅い、一時１６０円台(ウエルスアドバイザー)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnduRzkzWnFqVEpGN19HVlBfNFJlYUhxUUtWNWo5X25TQjFjN3FLUEowZUltS1NhXzFGQVdTYTBONGVfamM0cWZwaC1UZnhkWXdsRXpCd0tWMmJ0T0ozZ25aVm11UnNwOW9FWlJZSjlBTzRYcmxvYUNQS3AtQmZjOFMxNDFjZmM?oc=5",
-      "pubDate": "2026-11-13T15:01:24+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "欧州外国為替市場概況・22時 ドル円、小高い",
+      "link": "https://zai.diamond.jp/articles/-/499024",
+      "pubDate": "2026-11-13T22:06:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "円安 ２か月半ぶり１６０円台",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tenZieWRvMlB4My00Yl9JZkhadUZIdUpfLWRET1dMNDd4bmJjLXkzLUJYUG1LTGdkc1hRZEc2Nzg5Zl9waTJ3Uk9hMU9PMTBfMktGQnM4czluNG1WVFR3ZVRVTHQ?oc=5",
-      "pubDate": "2026-11-13T15:00:00+09:00",
-      "source": "読売新聞"
+      "title": "ドル円再び１６０円台乗せも、値動き限定的＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfZ0pRVXd5QXV2MFRCRTl4cmdqMkpaWnlvT1NQLWJMaXNDYUdOclV3MmFSSHJYRjhBaElsVTBHb09Db3FVU2NTRw?oc=5",
+      "pubDate": "2026-11-13T21:48:29+09:00",
+      "source": "みんかぶ FX/為替"
     },
     {
-      "title": "ゴルフをするなら東南アジア？ 「歴史的な円安」で日本が人気＝韓国（中央日報日本語版）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GazFraWFrQkJxWVB4bE1xcDZkejBYaFN4WlRQeTd2Mm1SdU1fSHVkUXhTaU54V0NjSWpVbThwUnc2aWhzV19NRndUQVBoUkpRWnpyMjVhWU1mMGZDaGtTRkJ6bzQ2dGFMS1h4cWVKYVJLY2E2X0tIZHRZOGhadzQ?oc=5",
-      "pubDate": "2026-11-13T14:51:45+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "円相場 1ドル＝160円迫る水準 米利上げペース加速の見方から",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wakZJWFFMbWRBYklrODhvTEk3V1pCT1gyWXJlNEJscWdfTEtwOUxQSFBUU0RkejJxV0N6UW83bmpBYmFBblZuVXlyV0hvVV9tcE5KQWJJc005LXFWbjln?oc=5",
-      "pubDate": "2026-11-13T14:49:42+09:00",
-      "source": "NHKニュース"
-    },
-    {
-      "title": "東京為替：ドル・円は節目で攻防、ドル買い地合いで(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2JGb05xYXVYSmdnOGRySjA4V2JYN0xkaG9yUzIyXzR5US02MjlxOEJtXzFmTDE1U0NJUlF0bV8wVG5zZW5WWWtlR1p3T0h4U3JQUVYyMFUwZUNtOWlvelYwLW1tcG9WMVA0RFdfWnBKdEh5dE1JczZZMWw3ZENMMFJoNFVvakE?oc=5",
-      "pubDate": "2026-11-13T14:46:10+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "東京為替:ドル・円は節目で攻防、ドル買い地合いで",
-      "link": "https://www.zaikei.co.jp/article/20261113/877494.html",
-      "pubDate": "2026-11-13T14:46:00+09:00",
-      "source": "財経新聞"
+      "title": "ドル円、160.06円付近まで上げる 米長期金利も小幅ながら上昇",
+      "link": "https://zai.diamond.jp/articles/-/499023",
+      "pubDate": "2026-11-13T21:22:00+09:00",
+      "source": "ザイFX！"
     }
   ]
 }
