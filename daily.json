@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T00:55:23+09:00",
+  "updatedAt": "2026-11-13T11:29:53+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
@@ -9,31 +9,28 @@
     "orderDataUrl": "https://www.gaitame.com/markets/order/"
   },
   "report": {
-    "headline": "約2か月半ぶり高値 160円を巡る攻防へ",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜約2か月半ぶり高値 160円を巡る攻防へ」 外為どっとコム トゥデイ 2026年11月12日号",
-    "url": "https://www.gaitame.com/media/entry/2026/11/12/085414",
-    "publishedAt": "2026-11-12T08:54:14+09:00",
-    "createdAt": "2026-11-12T08:30:00+09:00",
+    "headline": "FRB利上げ加速観測も160円台では神経質な値動き",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜FRB利上げ加速観測も160円台では神経質な値動き」 外為どっとコム トゥデイ 2026年11月13日号",
+    "url": "https://www.gaitame.com/media/entry/2026/11/13/084725",
+    "publishedAt": "2026-11-13T08:47:25+09:00",
+    "createdAt": "2026-11-13T08:40:00+09:00",
     "forecastRange": {
-      "low": 159.0,
+      "low": 159.2,
       "high": 160.6
     },
-    "outlook": "上昇基調は維持されやすい",
+    "outlook": "160円台は神経質な値動き",
     "factors": [
-      "フィラデルフィア連銀総裁「さらなる緩やかな引き締めが適切」",
-      "英MPC委員「先手を打って引き締め姿勢を強化」"
+      "三村財務官 円安をけん制",
+      "浅田日銀審議委員 発言",
+      "英GDP 予想を上回る"
     ],
     "events": [
       {
-        "text": "16:00 〇 (英) 7-9月期GDP・速報値",
+        "text": "22:30 〇 (米) 10月生産者物価指数",
         "importance": "medium"
       },
       {
-        "text": "16:00 〇 (英) 9月GDP",
-        "importance": "medium"
-      },
-      {
-        "text": "22:30 〇 (米) 新規失業保険申請件数",
+        "text": "22:30 〇 (米) 10月生産者物価指数・コア",
         "importance": "medium"
       },
       {
@@ -41,7 +38,7 @@
         "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261112/20261112084812.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261113/20261113084037.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   },
   "orderReport": {
