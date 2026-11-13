@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:29:53+09:00",
+  "updatedAt": "2026-11-13T23:52:08+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
@@ -42,21 +42,20 @@
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   },
   "orderReport": {
-    "headline": "ドル円の160.00円前後に売りオーダーの集積は限定的、まだかかると見るか突破は想定内と見るか",
-    "sourceTitle": "ドル円の160.00円前後に売りオーダーの集積は限定的、まだかかると見るか突破は想定内と見るか　今日の外為注文情報　2026/11/12 17:00",
-    "url": "https://www.gaitame.com/media/entry/2026/11/12/172057",
-    "publishedAt": "2026-11-12T17:20:57+09:00",
-    "createdAt": "2026-11-12T17:10:00+09:00",
-    "summary": "現行水準の上側では159.950円、160.000円、160.200円に売りオーダーが観測される。一方、下側では159.350円に買いオーダー、159.450円にストップ売りが確認できる。160円台突破にはなお時間を要するとみる向きがある一方、突破は想定内とみる向きもあり、市場参加者の見方は分かれている模様。",
+    "headline": "ドル円160円台では神経質な展開、売り注文は限定的",
+    "sourceTitle": "ドル円160円台では神経質な展開、売り注文は限定的　今日の外為注文情報　2026/11/13 17:00",
+    "url": "https://www.gaitame.com/media/entry/2026/11/13/171812",
+    "publishedAt": "2026-11-13T17:18:12+09:00",
+    "createdAt": "2026-11-13T17:10:00+09:00",
+    "summary": "現行水準の上側では159.900円、159.950円、160.200円、160.300円に売りオーダーが観測されるものの、それ以外に目立つオーダーは集まっていない。",
     "sellLevels": [
+      159.9,
       159.95,
-      160.0,
-      160.2
+      160.2,
+      160.3
     ],
-    "buyLevels": [
-      159.35
-    ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/guh202109/20261112/20261112171040.png",
+    "buyLevels": [],
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/guh202109/20261113/20261113170747.png",
     "unitText": "1メモリ＝3,000,000通貨",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
