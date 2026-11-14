@@ -21,15 +21,17 @@ jobs:
         with:
           python-version: "3.x"
       - name: Refresh Japanese USDJPY news
-        run: python scripts/update_news.py
+        run: |
+          python scripts/update_news.py
+          python scripts/update_225225.py
       - name: Commit refreshed snapshot
         run: |
-          if git diff --quiet -- news.json; then
-            echo "No news changes"
+          if git diff --quiet -- news.json market_context.json; then
+            echo "No market content changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json
-          git commit -m "Update USDJPY news snapshot"
+          git add news.json market_context.json
+          git commit -m "Update USDJPY market context"
           git push
