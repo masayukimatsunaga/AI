@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T18:00:57+09:00",
+  "updatedAt": "2026-11-15T00:50:43+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
@@ -12,12 +12,6 @@
       "source": "東京報道新聞"
     },
     {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-11-14T16:34:14+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "為替週間見通し:伸び悩みか、米12月追加利上げ観測も為替介入に警戒",
       "link": "https://www.zaikei.co.jp/article/20261114/877586.html",
       "pubDate": "2026-11-14T14:49:00+09:00",
@@ -28,12 +22,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXltazNVTk1mRFZRc3Z3U2pXU1BuWUhYM1huTnE5ZkdOdlFiclRIbkxWOERCcGxnS1VhYkc2d1BoTElaWGFNbmJGeGlmS3pPcVl6T1dGV0x4djJVbDBHZ3BmanVxZ2Vpb3YtNV82WW1FYlVIY0t3Y1VGd3lNUTN3Z1o3WkxLeWc?oc=5",
       "pubDate": "2026-11-14T12:41:32+09:00",
       "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "英ポンド週間見通し：伸び悩みか、英追加利上げ期待も日本の為替介入に警戒 投稿日時： 2026/11/14 12:40[フィスコ]",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WRElxQWpDS21TWmZWalBJRFMyUUdNVU9DcGJnY1E2dnFiM0FyN0dMVkRtSHVjb0JTd2hlZ0hwdmxWdFpmX2V4ZA?oc=5",
-      "pubDate": "2026-11-14T12:40:43+09:00",
-      "source": "みんかぶ"
     },
     {
       "title": "英ポンド週間見通し:伸び悩みか、英追加利上げ期待も日本の為替介入に警戒",
@@ -86,8 +74,20 @@
     {
       "title": "NY連銀総裁、なお高すぎるインフレに慎重姿勢 ドル円は159円台後半で小動き",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRVG1YdmFpN1Z2eU5hVWQ0cVZMVUVjdUM5bEtoWV9zQjh4RzJKdUktUVh2WlBpa3I1TTFpTlBwdndYbFFvc2U1SnNyUUtnVUFsaHdUNTIxY0gxSmgyckUwMTRkRXFMcTZlWC1vSjNxbzVvMWpi?oc=5",
-      "pubDate": "2026-11-14T08:07:20+09:00",
+      "pubDate": "2026-11-14T08:05:00+09:00",
       "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "ドル円は160円台を維持できず、地合いは堅調＝ＮＹ為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PaHdDTFJzUFB0VDZRMUNOUi0wTk5TTU5pZlAwRFZsU2tFdEFkVHN5UFF2eW5PaVRRYkM5aHlwclREWE1pakttcA?oc=5",
+      "pubDate": "2026-11-14T07:10:29+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "１３日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NZUdacGlHNGJtTml6OVFmTGJUU0J5RU5nNWlVbDljOHpLTDQtZzU4M2tZbXBoZ0pHRFFuUEJrbDJqdjNlT0hGTw?oc=5",
+      "pubDate": "2026-11-14T07:06:29+09:00",
+      "source": "みんかぶ FX/為替"
     }
   ]
 }
