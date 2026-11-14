@@ -1,10 +1,58 @@
 {
-  "updatedAt": "2026-11-14T10:51:19+09:00",
+  "updatedAt": "2026-11-14T18:00:57+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "円安加速に財務官が警告 夏の協調介入に言及、市場をけん制",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DeUhnVzRKRWZWTFlkQkdTU19iM1lsaFZWUDROWjRrR1REMTY5Wi0wY2xjY2hWaGR4akZXcjRPajBJU2J2am5oUGQ0SVRocHQwc25z?oc=5",
+      "pubDate": "2026-11-14T16:49:21+09:00",
+      "source": "東京報道新聞"
+    },
+    {
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-11-14T16:34:14+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "為替週間見通し:伸び悩みか、米12月追加利上げ観測も為替介入に警戒",
+      "link": "https://www.zaikei.co.jp/article/20261114/877586.html",
+      "pubDate": "2026-11-14T14:49:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "ユーロ週間見通し：弱含みか、ECB利上げ観測も円安牽制や仏情勢が重し(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXltazNVTk1mRFZRc3Z3U2pXU1BuWUhYM1huTnE5ZkdOdlFiclRIbkxWOERCcGxnS1VhYkc2d1BoTElaWGFNbmJGeGlmS3pPcVl6T1dGV0x4djJVbDBHZ3BmanVxZ2Vpb3YtNV82WW1FYlVIY0t3Y1VGd3lNUTN3Z1o3WkxLeWc?oc=5",
+      "pubDate": "2026-11-14T12:41:32+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "英ポンド週間見通し：伸び悩みか、英追加利上げ期待も日本の為替介入に警戒 投稿日時： 2026/11/14 12:40[フィスコ]",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WRElxQWpDS21TWmZWalBJRFMyUUdNVU9DcGJnY1E2dnFiM0FyN0dMVkRtSHVjb0JTd2hlZ0hwdmxWdFpmX2V4ZA?oc=5",
+      "pubDate": "2026-11-14T12:40:43+09:00",
+      "source": "みんかぶ"
+    },
+    {
+      "title": "英ポンド週間見通し:伸び悩みか、英追加利上げ期待も日本の為替介入に警戒",
+      "link": "https://www.zaikei.co.jp/article/20261114/877587.html",
+      "pubDate": "2026-11-14T12:40:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "ドル円見通し｜一時160円台、157～158円台の膠着はなぜ崩れた？ 米金利上昇とAI株選別【相場の現在地】",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZRDZVbkhOb0VhRGVqX1I0akRpV2NXakJUS1pRRTNCNFNXdlBsdzZHUWNxWERXekJTbkxLRjU2ZlcteGVvY0hYUWhUbVhndXloSUNmR2pxY2FGMjFObkotOWxUTQ?oc=5",
+      "pubDate": "2026-11-14T11:00:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "円安進行をうかがう展開に【マーケット先読み】",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEbzlVajQ0bm1WUmkyVlF1QWY4VEY5Qk9LazA4a0ZkQjNDLTQ0NzFzWmhTYWZoYzE1YTZPOV9nXzZPLWppdENnTDQzdUhrSDBteUpXVElRZzkyTUkxdWRtcTZn?oc=5",
+      "pubDate": "2026-11-14T10:00:00+09:00",
+      "source": "テレ東BIZ"
+    },
     {
       "title": "NY金先物は小幅続落、FRB高官のタカ派発言で追加利上げ観測が重し",
       "link": "https://zai.diamond.jp/articles/-/499052",
@@ -38,56 +86,8 @@
     {
       "title": "NY連銀総裁、なお高すぎるインフレに慎重姿勢 ドル円は159円台後半で小動き",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRVG1YdmFpN1Z2eU5hVWQ0cVZMVUVjdUM5bEtoWV9zQjh4RzJKdUktUVh2WlBpa3I1TTFpTlBwdndYbFFvc2U1SnNyUUtnVUFsaHdUNTIxY0gxSmgyckUwMTRkRXFMcTZlWC1vSjNxbzVvMWpi?oc=5",
-      "pubDate": "2026-11-14T08:05:00+09:00",
+      "pubDate": "2026-11-14T08:07:20+09:00",
       "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "13日レンジ ドル円 159.52-160.19円(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPREFtVEZiZ3ZvTzFLZjc1NFViVlFEcWFmWXU4bFVSVFZiWEtuMXh6YlpHX05IZkh2cE5PSGdhOVJPVzVOYWFBVy1LTER1TDg3Mi1kYXA1WTd3bHlXUU1uTG9rbHVXWXU3RUFOQWwtcUZOMndsbUhONG9XSkRRTFlmSkZ1MWd0MG8?oc=5",
-      "pubDate": "2026-11-14T07:20:04+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ドル円は160円台を維持できず、地合いは堅調＝ＮＹ為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PaHdDTFJzUFB0VDZRMUNOUi0wTk5TTU5pZlAwRFZsU2tFdEFkVHN5UFF2eW5PaVRRYkM5aHlwclREWE1pakttcA?oc=5",
-      "pubDate": "2026-11-14T07:10:29+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "１３日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NZUdacGlHNGJtTml6OVFmTGJUU0J5RU5nNWlVbDljOHpLTDQtZzU4M2tZbXBoZ0pHRFFuUEJrbDJqdjNlT0hGTw?oc=5",
-      "pubDate": "2026-11-14T07:06:29+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・13日 ユーロドル、4日続落",
-      "link": "https://zai.diamond.jp/articles/-/499047",
-      "pubDate": "2026-11-14T07:03:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【来週の為替予想】「注目のFX週間イベント 来週のドル/円はどう動く？」11/16～11/22",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XaS1qeGhTVGw2R3RCTkhuQUhUeWw4N3prbGVIdFhVUWtWS1BRamFSMVlDcWpjdHNRZHU0QW5tRWRuck83R0t5TXdhU3ZzaVRGc0xRdV8xTUlERnlpVFJOZ3FDUQ?oc=5",
-      "pubDate": "2026-11-14T06:10:11+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "【速報】FRB報告「AIが一部けん引した資産市場の高騰にリスクが見られる」",
-      "link": "https://zai.diamond.jp/articles/-/499046",
-      "pubDate": "2026-11-14T06:06:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "来週の為替予想（米ドル/円）160円再来でよみがえる『最後の退避勧告』、介入警戒下で上値を試す条件は ハロンズFX 2026/11/14",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IQUNKWEs1LS1rVVdJb0lSRU1GYmpRTGhmb1RGMldVTjZnQWNabGtZZlFGX09nVVJGRDJpWFJKeXBqSXZuNS1KUnhmSFlhM2JRTFdsNDlPc0RWRUNta3JacW5RZw?oc=5",
-      "pubDate": "2026-11-14T06:01:28+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "ドル円は押し目からやや反発＝NY為替",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MUkFtai1JWEhzQ0ctMzdEa1ozdEFBVW9oRVU3WGhXaV93TVRNRGxWMjJRcEVFVXUwZkhLT3FoUktkUFJteGc?oc=5",
-      "pubDate": "2026-11-14T05:47:00+09:00",
-      "source": "みんかぶ"
     }
   ]
 }
