@@ -1,10 +1,70 @@
 {
-  "updatedAt": "2026-11-14T06:40:01+09:00",
+  "updatedAt": "2026-11-14T10:51:19+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "NY金先物は小幅続落、FRB高官のタカ派発言で追加利上げ観測が重し",
+      "link": "https://zai.diamond.jp/articles/-/499052",
+      "pubDate": "2026-11-14T09:00:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【来週の注目イベント】APEC会合、米中露首脳会談の可能性、英欧加日CPI、米FOMC議事要旨や小売売上高",
+      "link": "https://zai.diamond.jp/articles/-/499051",
+      "pubDate": "2026-11-14T08:56:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "世界各国通貨に対する円:対ドル0.03%高、対ユーロ0.02%高",
+      "link": "https://zai.diamond.jp/articles/-/499050",
+      "pubDate": "2026-11-14T08:55:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "NY為替・13日＝ドル円が4日ぶりに小反落 終値は159.71円(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjZVYjhjQUZteWZEWkJvd1V0S19XbFJJbmtHZDhoM0daMlBERDY0eHdDNW5HQW9KZzVCbnAxX29NQlVXaUs1RDYzQjNpN1BuN2I5a3Voa3B4TlVucVFfUHVxT29GMVl4bHJaUG9JRTJHTjlaemJQOHZ2TE9tY2ZTekdPTG5ybFU?oc=5",
+      "pubDate": "2026-11-14T08:30:03+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "NY円、159円台後半 前日比19銭円高ドル安 政府、日銀による為替介入への警戒感",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZTzRDLXNlNS15Y01yQllQWlVnMWxIcC1jcXEzWVFJRlBYQ1FiZUNWZm1VNEl2XzBaU3FtOWJsdlJYN2xLY3E3NVpTb2U3Vk5GQTRqYlY4MUZlbFhiYXBvaTJiVG9lRGJuNGJpbmNRRkg2NEpEa0E?oc=5",
+      "pubDate": "2026-11-14T08:20:42+09:00",
+      "source": "産経ニュース"
+    },
+    {
+      "title": "NY連銀総裁、なお高すぎるインフレに慎重姿勢 ドル円は159円台後半で小動き",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRVG1YdmFpN1Z2eU5hVWQ0cVZMVUVjdUM5bEtoWV9zQjh4RzJKdUktUVh2WlBpa3I1TTFpTlBwdndYbFFvc2U1SnNyUUtnVUFsaHdUNTIxY0gxSmgyckUwMTRkRXFMcTZlWC1vSjNxbzVvMWpi?oc=5",
+      "pubDate": "2026-11-14T08:05:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "13日レンジ ドル円 159.52-160.19円(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPREFtVEZiZ3ZvTzFLZjc1NFViVlFEcWFmWXU4bFVSVFZiWEtuMXh6YlpHX05IZkh2cE5PSGdhOVJPVzVOYWFBVy1LTER1TDg3Mi1kYXA1WTd3bHlXUU1uTG9rbHVXWXU3RUFOQWwtcUZOMndsbUhONG9XSkRRTFlmSkZ1MWd0MG8?oc=5",
+      "pubDate": "2026-11-14T07:20:04+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円は160円台を維持できず、地合いは堅調＝ＮＹ為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PaHdDTFJzUFB0VDZRMUNOUi0wTk5TTU5pZlAwRFZsU2tFdEFkVHN5UFF2eW5PaVRRYkM5aHlwclREWE1pakttcA?oc=5",
+      "pubDate": "2026-11-14T07:10:29+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "１３日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NZUdacGlHNGJtTml6OVFmTGJUU0J5RU5nNWlVbDljOHpLTDQtZzU4M2tZbXBoZ0pHRFFuUEJrbDJqdjNlT0hGTw?oc=5",
+      "pubDate": "2026-11-14T07:06:29+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・13日 ユーロドル、4日続落",
+      "link": "https://zai.diamond.jp/articles/-/499047",
+      "pubDate": "2026-11-14T07:03:00+09:00",
+      "source": "ザイFX！"
+    },
     {
       "title": "【来週の為替予想】「注目のFX週間イベント 来週のドル/円はどう動く？」11/16～11/22",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XaS1qeGhTVGw2R3RCTkhuQUhUeWw4N3prbGVIdFhVUWtWS1BRamFSMVlDcWpjdHNRZHU0QW5tRWRuck83R0t5TXdhU3ZzaVRGc0xRdV8xTUlERnlpVFJOZ3FDUQ?oc=5",
@@ -28,66 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MUkFtai1JWEhzQ0ctMzdEa1ozdEFBVW9oRVU3WGhXaV93TVRNRGxWMjJRcEVFVXUwZkhLT3FoUktkUFJteGc?oc=5",
       "pubDate": "2026-11-14T05:47:00+09:00",
       "source": "みんかぶ"
-    },
-    {
-      "title": "【テクニカル】乖離ランク＝ドル円以外がマイナス圏に",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52ZkNKbjJncmlzeFhTN1BFUHlZR3ozVDN3OTJPNXZ5aUxDUjJaZ1N5Ul9kTTRxOW1xR0FYRXpVUC1WY2xqeEJTcGNVLXY2cDZwRkpKNmlzakVQZlRadlM3bEJhMA?oc=5",
-      "pubDate": "2026-11-14T04:43:42+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "NY外為:円一段高、当局の円安是正介入警戒感がくすぶる",
-      "link": "https://zai.diamond.jp/articles/-/499044",
-      "pubDate": "2026-11-14T04:43:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "NY外為：円一段高、当局の円安是正介入警戒感がくすぶる｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKd2ZydVRSc21KME5pc19yd1VJNFNhbGlBWTRDdGlCZlczekRIcEFkMFVJc0U3Wjl4MkJNbWFrZ1JaUWprWG80VmJ5QmxyQjJtM3c?oc=5",
-      "pubDate": "2026-11-14T04:43:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、弱含み(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWHRXX2lHMG8tOU83dEptNS16bjBDYXFpSWd5amM1UVIxWWhMTS1KUHh2VUlKRFcwZDFSU01HZkx1Q1JuN0QtN3pqclM0VmtXOUVtQkJoRm84d3gtbkZRdnpuZ1doNmJWRVhZNVBZUm5CMnhWaXZPUlYtakxGd2gwNFlQT2ZhYjA?oc=5",
-      "pubDate": "2026-11-14T04:06:03+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、弱含み",
-      "link": "https://zai.diamond.jp/articles/-/499042",
-      "pubDate": "2026-11-14T04:06:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円159.50円台、週末を前に調整入る＝NY為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvYy1fSGJMQnVkeVlkWG5NR2NOYkhHaU5FdE5Ld2pMTk5rVUJBeWhOQS0yelkyRXd3c2hRbDdwY01HNWgwRTE4YQ?oc=5",
-      "pubDate": "2026-11-14T03:26:29+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円、軟調 一時159.55円まで下押し",
-      "link": "https://zai.diamond.jp/articles/-/499039",
-      "pubDate": "2026-11-14T03:16:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、軟調 一時159.55円まで下押し｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxR0pFLXczX0U3d0pPTUNleVlxUFpLeDRFdjJfLW9ldEotQ3RKSHMySF91aFJhNzRhbGlaR1h0UERzQTl5MTlLenVTMDNvVVZDY0E?oc=5",
-      "pubDate": "2026-11-14T03:16:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･2時 ユーロドル、弱含み",
-      "link": "https://zai.diamond.jp/articles/-/499037",
-      "pubDate": "2026-11-14T02:06:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "NY外為:ドル続伸、FRB高官は利上げの必要性主張",
-      "link": "https://zai.diamond.jp/articles/-/499036",
-      "pubDate": "2026-11-14T01:53:00+09:00",
-      "source": "ザイFX！"
     }
   ]
 }
