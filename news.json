@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-11-15T09:23:21+09:00",
+  "updatedAt": "2026-11-15T16:14:12+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-11-15T15:00:19+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "米金利上昇 進む円安 今後の行方は？【明日への投資戦略 11/16～11/20】",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EWnRkdzNPdzZfTUlULWs0T3BDSTFBeDdNZWRzQUJfSmYtdlVBMlQ2YlhnWVdMQk5Qdmp3MmM0SEM3dlhtUG1RVzhsMndEY0lDUXF6Z1c1RE9ZdzlXZWpfdWYwLTB3Zw?oc=5",
+      "pubDate": "2026-11-15T12:00:00+09:00",
+      "source": "テレ東BIZ"
+    },
+    {
+      "title": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbWxqc1ltSU1ndEE0VElnZldUTGdyRVJpOTdKeXBsc0RDSm40dm9kLTJqaDZlOVpoR2E5eEZIX1o0bFR1SFR2N2k4WjRiTnN5dHVBTHJn?oc=5",
+      "pubDate": "2026-11-15T11:31:25+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "米ドル/円は160円を試すが、円安ではなく米ドル高が主導！ 再び日米協調介入の可能性も!? クロス円は外貨売り・円買いの好機とみる(ザイＦＸ！)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0FCcWxHY0xROVVFemFhMmExTlRZSFNpVXlkY1F2bkRmWENUdTZmYzB6bHZlUWxRV2xHWFVnZFdQRV9VUm9NVmlTMzBSNzE2MGJJOTdpaGJKQ0JJM3N0eW1YYnJXal81cFpoLWNuYXQ5dHRYMTFnalRaMTAzVm9GVGdkdDFnX1k?oc=5",
@@ -12,34 +30,22 @@
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-11-15T07:24:03+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
       "title": "来週のドル円相場はどうなる？11/16週のイベント予定 「エヌビディア決算と10月全国CPIに注目」 2026年11月15日",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4Vm1QS1h0UVVqU0xjS0pHdlJ1ME5oLUN3WFA1UmhJSlV6bjVZbHhlR3N3emtFR3Y5eHRNbGFqZlRBYXdDU2FMR0N6VHpyOFNLNVJaNFVaaTRRb2JLNVdhVHdrNA?oc=5",
-      "pubDate": "2026-11-15T07:04:25+09:00",
+      "pubDate": "2026-11-15T07:04:30+09:00",
       "source": "外為どっとコム"
     },
     {
-      "title": "円安加速に財務官が警告 夏の協調介入に言及、市場をけん制",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DeUhnVzRKRWZWTFlkQkdTU19iM1lsaFZWUDROWjRrR1REMTY5Wi0wY2xjY2hWaGR4akZXcjRPajBJU2J2am5oUGQ0SVRocHQwc25z?oc=5",
-      "pubDate": "2026-11-14T16:49:21+09:00",
-      "source": "東京報道新聞"
+      "title": "（慢性円安）ちぐはぐ政策、不信の連鎖",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kbTVWdFZ6U2RsdHNnTE1MdXRTN3ZFZWxmZTlTNnZmOFhqeXN4NEI1SGJaSDBUWE9zc1dsY19VdHVWeWx1VndYZzY3X3VKOVhrTkxYWlZXMlRaUFBX?oc=5",
+      "pubDate": "2026-11-15T05:00:00+09:00",
+      "source": "朝日新聞"
     },
     {
       "title": "為替週間見通し:伸び悩みか、米12月追加利上げ観測も為替介入に警戒",
       "link": "https://www.zaikei.co.jp/article/20261114/877586.html",
       "pubDate": "2026-11-14T14:49:00+09:00",
       "source": "財経新聞"
-    },
-    {
-      "title": "ユーロ週間見通し：弱含みか、ECB利上げ観測も円安牽制や仏情勢が重し(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXltazNVTk1mRFZRc3Z3U2pXU1BuWUhYM1huTnE5ZkdOdlFiclRIbkxWOERCcGxnS1VhYkc2d1BoTElaWGFNbmJGeGlmS3pPcVl6T1dGV0x4djJVbDBHZ3BmanVxZ2Vpb3YtNV82WW1FYlVIY0t3Y1VGd3lNUTN3Z1o3WkxLeWc?oc=5",
-      "pubDate": "2026-11-14T12:41:32+09:00",
-      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "英ポンド週間見通し:伸び悩みか、英追加利上げ期待も日本の為替介入に警戒",
@@ -78,16 +84,10 @@
       "source": "産経ニュース"
     },
     {
-      "title": "NY連銀総裁、なお高すぎるインフレに慎重姿勢 ドル円は159円台後半で小動き",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRVG1YdmFpN1Z2eU5hVWQ0cVZMVUVjdUM5bEtoWV9zQjh4RzJKdUktUVh2WlBpa3I1TTFpTlBwdndYbFFvc2U1SnNyUUtnVUFsaHdUNTIxY0gxSmgyckUwMTRkRXFMcTZlWC1vSjNxbzVvMWpi?oc=5",
-      "pubDate": "2026-11-14T08:05:00+09:00",
-      "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "ドル円は160円台を維持できず、地合いは堅調＝ＮＹ為替概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PaHdDTFJzUFB0VDZRMUNOUi0wTk5TTU5pZlAwRFZsU2tFdEFkVHN5UFF2eW5PaVRRYkM5aHlwclREWE1pakttcA?oc=5",
-      "pubDate": "2026-11-14T07:10:29+09:00",
-      "source": "みんかぶ FX/為替"
+      "title": "NY外為市場=ドル、週間で約2カ月ぶり上昇へ 円は160円近辺で介入警戒 | ロイター",
+      "link": "https://www.reuters.com/jp/opinion/WXXOXNOD2VI3XNAUWLJ6FW267Y-2026-11-13/",
+      "pubDate": "2026-11-14T07:15:00+09:00",
+      "source": "reuters"
     }
   ]
 }

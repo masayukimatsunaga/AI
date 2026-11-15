@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T09:23:21+09:00",
+  "updatedAt": "2026-11-15T16:14:12+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -11,6 +11,12 @@
     ]
   },
   "news": [
+    {
+      "title": "AIが金融システム最大のリスクに―米市場関係者の87%、FRB調査で",
+      "link": "https://www.zaikei.co.jp/article/20261115/877639.html",
+      "publishedAt": "2026-11-15T15:17:00+09:00",
+      "source": "財経新聞"
+    },
     {
       "title": "為替週間見通し:伸び悩みか、米12月追加利上げ観測も為替介入に警戒",
       "link": "https://www.zaikei.co.jp/article/20261114/877586.html",
@@ -28,6 +34,12 @@
       "link": "https://zai.diamond.jp/articles/-/499051",
       "publishedAt": "2026-11-14T08:56:00+09:00",
       "source": "ザイFX！"
+    },
+    {
+      "title": "NY外為市場=ドル、週間で約2カ月ぶり上昇へ 円は160円近辺で介入警戒 | ロイター",
+      "link": "https://www.reuters.com/jp/opinion/WXXOXNOD2VI3XNAUWLJ6FW267Y-2026-11-13/",
+      "publishedAt": "2026-11-14T07:15:00+09:00",
+      "source": "reuters"
     },
     {
       "title": "ニューヨーク外国為替市場概況・13日 ユーロドル、4日続落",
@@ -69,18 +81,6 @@
       "title": "NY外為:ドル続伸、FRB高官は利上げの必要性主張",
       "link": "https://zai.diamond.jp/articles/-/499036",
       "publishedAt": "2026-11-14T01:53:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "NY外為:円堅調、心理的節目160円付近では当局の円安是正介入警戒",
-      "link": "https://zai.diamond.jp/articles/-/499035",
-      "publishedAt": "2026-11-14T00:45:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【NY為替オープニング】市場はあと4回の米利上げ織り込み始め長期金利上昇、米10月PPIはインフレ鎮静化",
-      "link": "https://zai.diamond.jp/articles/-/499031",
-      "publishedAt": "2026-11-14T00:10:00+09:00",
       "source": "ザイFX！"
     }
   ],
@@ -309,9 +309,9 @@
       "米国 10月 生産者物価指数（PPI）[前年比]：結果 6.5%／予想 6.6%"
     ],
     "neutralFactors": [
+      "AIが金融システム最大のリスクに―米市場関係者の87%、FRB調査で",
       "【来週の注目イベント】APEC会合、米中露首脳会談の可能性、英欧加日CPI、米FOMC議事要旨や小売売上高",
-      "ニューヨーク外国為替市場概況・13日 ユーロドル、4日続落",
-      "【速報】FRB報告「AIが一部けん引した資産市場の高騰にリスクが見られる」"
+      "NY外為市場=ドル、週間で約2カ月ぶり上昇へ 円は160円近辺で介入警戒 | ロイター"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
