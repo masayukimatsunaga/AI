@@ -1,22 +1,15 @@
 {
-  "updatedAt": "2026-11-15T23:49:39+09:00",
+  "updatedAt": "2026-11-16T05:24:27+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
     "fxUrl": "https://225225.jp/4fx/",
     "scheduleUrl": "https://nikkei225jp.com/schedule/",
     "feeds": [
-      "https://nikkei225jp.com/_data/_nfsDATA/rss/News_9.js",
-      "https://nikkei225jp.com/_data/_nfsDATA/rss/News_ALL1.js"
+      "https://nikkei225jp.com/_data/_nfsDATA/rss/News_9.js"
     ]
   },
   "news": [
-    {
-      "title": "AIが金融システム最大のリスクに―米市場関係者の87%、FRB調査で",
-      "link": "https://www.zaikei.co.jp/article/20261115/877639.html",
-      "publishedAt": "2026-11-15T15:17:00+09:00",
-      "source": "財経新聞"
-    },
     {
       "title": "為替週間見通し:伸び悩みか、米12月追加利上げ観測も為替介入に警戒",
       "link": "https://www.zaikei.co.jp/article/20261114/877586.html",
@@ -81,6 +74,12 @@
       "title": "ニューヨーク外国為替市場概況･2時 ユーロドル、弱含み",
       "link": "https://zai.diamond.jp/articles/-/499037",
       "publishedAt": "2026-11-14T02:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "NY外為:ドル続伸、FRB高官は利上げの必要性主張",
+      "link": "https://zai.diamond.jp/articles/-/499036",
+      "publishedAt": "2026-11-14T01:53:00+09:00",
       "source": "ザイFX！"
     }
   ],
@@ -348,12 +347,14 @@
       "米国 10月 生産者物価指数（PPI）[前年比]：結果 6.5%／予想 6.6%"
     ],
     "neutralFactors": [
-      "AIが金融システム最大のリスクに―米市場関係者の87%、FRB調査で",
       "【ドル円予想2026/11/11】本日のドル円の変動材料は?地政学リスクと日銀の金融政策について★分かり易いFX情報番組",
-      "【来週の注目イベント】APEC会合、米中露首脳会談の可能性、英欧加日CPI、米FOMC議事要旨や小売売上高"
+      "【来週の注目イベント】APEC会合、米中露首脳会談の可能性、英欧加日CPI、米FOMC議事要旨や小売売上高",
+      "NY外為市場=ドル、週間で約2カ月ぶり上昇へ 円は160円近辺で介入警戒 | ロイター"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
-  "warnings": [],
+  "warnings": [
+    "ニュース取得失敗: Could not fetch https://nikkei225jp.com/_data/_nfsDATA/rss/News_ALL1.js: HTTP Error 404: Not Found"
+  ],
   "disclaimer": "公開情報の機械整理であり、売買推奨や将来の価格保証ではありません。"
 }
