@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T09:24:10+09:00",
+  "updatedAt": "2026-11-16T16:20:48+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,76 +12,76 @@
   },
   "news": [
     {
-      "title": "【為替】「基準」が変わってきた円安阻止介入",
-      "link": "https://media.monex.co.jp/articles/-/30510",
-      "publishedAt": "2026-11-16T09:15:00+09:00",
-      "source": "吉田恒の為替デイリー"
-    },
-    {
-      "title": "日経平均は205円高と続伸スタートもマイナス転換=16日寄り付き",
-      "link": "https://finance.yahoo.co.jp/news/detail/4a0af817aab5d1baefb24a7600c8385d2ec9c977",
-      "publishedAt": "2026-11-16T09:10:00+09:00",
-      "source": "ウエルスアドバイザー"
-    },
-    {
-      "title": "日経平均寄り付き:前週末比205.86円高の61348.21円",
-      "link": "https://zai.diamond.jp/articles/-/499063",
-      "publishedAt": "2026-11-16T09:07:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "円相場、159円78~79銭 16日午前9時現在",
-      "link": "https://www.jiji.com/jc/article?k=2026111600161&g=eco",
-      "publishedAt": "2026-11-16T09:05:00+09:00",
+      "title": "一定の間隔、幅にとらわれず 追加利上げ―高田日銀委員",
+      "link": "https://www.jiji.com/jc/article?k=2026111600648&g=eco",
+      "publishedAt": "2026-11-16T16:06:00+09:00",
       "source": "時事ドットコム"
     },
     {
-      "title": "東京為替:ドル・円はもみ合い、159円80銭付近",
-      "link": "https://www.zaikei.co.jp/article/20261116/877677.html",
-      "publishedAt": "2026-11-16T09:02:00+09:00",
+      "title": "【株式市場】日経平均は1480円安と大幅反落、6万円割れ、半導体関連株に売り集中",
+      "link": "https://kabu-ir.com/article/522036494.html",
+      "publishedAt": "2026-11-16T15:49:00+09:00",
+      "source": "日本インタビュ新聞"
+    },
+    {
+      "title": "1480円安の5万9662円02銭 16日の平均株価",
+      "link": "https://www.jiji.com/jc/article?k=2026111600619&g=eco",
+      "publishedAt": "2026-11-16T15:39:00+09:00",
+      "source": "時事ドットコム"
+    },
+    {
+      "title": "日経平均大引け 反落 1480円安の5万9662円",
+      "link": "https://www.nikkei.com/article/DGXZQOFL164KS0W6A111C2000000/",
+      "publishedAt": "2026-11-16T15:36:00+09:00",
+      "source": "日経新聞"
+    },
+    {
+      "title": "日経平均終値1480円安、尾を引くAI不安 ニトリHDなど消費関連に強さ",
+      "link": "https://www.nikkei.com/article/DGXZQOFL1615UTW6A111C2000000/",
+      "publishedAt": "2026-11-16T15:36:00+09:00",
+      "source": "日経新聞"
+    },
+    {
+      "title": "日経平均大引け:前週末比1480.33円安の59662.02円",
+      "link": "https://zai.diamond.jp/articles/-/499086",
+      "publishedAt": "2026-11-16T15:35:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "東京為替:ドル・円はじり安、円買い継続",
+      "link": "https://www.zaikei.co.jp/article/20261116/877817.html",
+      "publishedAt": "2026-11-16T15:23:00+09:00",
       "source": "財経新聞"
     },
     {
-      "title": "日本経済指標【実質GDP1次速報値】",
-      "link": "https://fx.minkabu.jp/news/384490",
-      "publishedAt": "2026-11-16T09:00:00+09:00",
-      "source": "みんかぶ"
+      "title": "東京為替:ドル・円は一段安、株安・円高で",
+      "link": "https://www.zaikei.co.jp/article/20261116/877811.html",
+      "publishedAt": "2026-11-16T14:46:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "まもなく日本実質GDP1次速報値の発表",
-      "link": "https://fx.minkabu.jp/news/384488",
-      "publishedAt": "2026-11-16T08:40:00+09:00",
-      "source": "みんかぶ"
-    },
-    {
-      "title": "ドル円は159.80円近辺、SGX日経225先物は61355円で開始",
-      "link": "https://zai.diamond.jp/articles/-/499060",
-      "publishedAt": "2026-11-16T08:33:00+09:00",
+      "title": "東京為替概況:ドル・円は安値圏、株安を嫌気",
+      "link": "https://zai.diamond.jp/articles/-/499084",
+      "publishedAt": "2026-11-16T14:38:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "シンガポール・日経平均先物=寄り付き6万1355円(前日比105円高)",
-      "link": "https://finance.yahoo.co.jp/news/detail/64c3189145ebcb0610c9e8c397e5ea8353b19da8",
-      "publishedAt": "2026-11-16T08:33:00+09:00",
-      "source": "ウエルスアドバイザー"
-    },
-    {
-      "title": "16日の東京外国為替市場見通し=ドル・円、介入警戒で159円台後半を中心に神経質な展開か",
-      "link": "https://finance.yahoo.co.jp/news/detail/4c558c78a3dbff2cbad2ca109ec6943d98b527bb",
-      "publishedAt": "2026-11-16T08:15:00+09:00",
-      "source": "ウエルスアドバイザー"
-    },
-    {
-      "title": "東京為替見通し=ドル円、底堅い展開か ドル全面高と米財務長官の対応余力低下が支え",
-      "link": "https://zai.diamond.jp/articles/-/499058",
-      "publishedAt": "2026-11-16T08:00:00+09:00",
+      "title": "ドル円 159.49円まで下押し、先週末の安値を下抜ける",
+      "link": "https://zai.diamond.jp/articles/-/499083",
+      "publishedAt": "2026-11-16T14:13:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドルは高値もみ合い、タカ派FRBと介入警戒が綱引き=今週の外為市場",
-      "link": "https://www.reuters.com/jp/opinion/ZWVEVF4PIROFTKCNELEPV7PX2A-2026-11-15/",
-      "publishedAt": "2026-11-16T07:35:00+09:00",
-      "source": "reuters"
+      "title": "ドル円リアルタイムオーダー=159.60円 OP19日NYカット",
+      "link": "https://zai.diamond.jp/articles/-/499082",
+      "publishedAt": "2026-11-16T14:10:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "東京為替:ドル・円は安値圏、株安を嫌気",
+      "link": "https://www.zaikei.co.jp/article/20261116/877805.html",
+      "publishedAt": "2026-11-16T14:05:00+09:00",
+      "source": "財経新聞"
     }
   ],
   "recentIndicators": [
@@ -159,12 +159,10 @@
       "importance": 3,
       "title": "第3四半期 実質GDP[前期比]",
       "result": "0.0%",
-      "forecast": "0.2%",
+      "forecast": "0.1%",
       "previous": "0.4%",
       "url": "https://nikkei225jp.com/schedule/"
-    }
-  ],
-  "upcomingIndicators": [
+    },
     {
       "scheduledAt": "2026-11-16T13:30:00+09:00",
       "dateLabel": "11/16",
@@ -173,7 +171,7 @@
       "country": "日本",
       "importance": 3,
       "title": "09月 設備稼働率[前月比]",
-      "result": "",
+      "result": "1.6%",
       "forecast": "",
       "previous": "-4.2%",
       "url": "https://nikkei225jp.com/schedule/"
@@ -186,11 +184,13 @@
       "country": "日本",
       "importance": 3,
       "title": "09月 鉱工業生産[前年比]",
-      "result": "",
-      "forecast": "1.9%",
+      "result": "1.7%",
+      "forecast": "",
       "previous": "1.9%",
       "url": "https://nikkei225jp.com/schedule/"
-    },
+    }
+  ],
+  "upcomingIndicators": [
     {
       "scheduledAt": "2026-11-16T22:30:00+09:00",
       "dateLabel": "11/16",
@@ -200,7 +200,7 @@
       "importance": 3,
       "title": "11月 ニューヨーク連銀製造業景気指数",
       "result": "",
-      "forecast": "19.5",
+      "forecast": "18.0",
       "previous": "25.5",
       "url": "https://nikkei225jp.com/schedule/"
     },
@@ -265,7 +265,7 @@
       "importance": 4,
       "title": "10月 中古住宅販売成約指数[前月比]",
       "result": "",
-      "forecast": "",
+      "forecast": "-1.9%",
       "previous": "-7.3%",
       "url": "https://nikkei225jp.com/schedule/"
     },
@@ -291,7 +291,7 @@
       "importance": 4,
       "title": "11月 フィラデルフィア連銀景況指数",
       "result": "",
-      "forecast": "23.0",
+      "forecast": "21.5",
       "previous": "20.9",
       "url": "https://nikkei225jp.com/schedule/"
     },
@@ -305,7 +305,7 @@
       "title": "11月 製造業PMI（購買担当者景気指数・速報値）",
       "result": "",
       "forecast": "",
-      "previous": "",
+      "previous": "54.9",
       "url": "https://nikkei225jp.com/schedule/"
     },
     {
@@ -318,7 +318,7 @@
       "title": "11月 非製造業PMI（購買担当者景気指数・速報値）",
       "result": "",
       "forecast": "",
-      "previous": "",
+      "previous": "56.1",
       "url": "https://nikkei225jp.com/schedule/"
     },
     {
@@ -331,28 +331,28 @@
       "title": "11月 ｺﾝﾎﾟｼﾞｯﾄPMI（購買担当者景気指数・速報値）",
       "result": "",
       "forecast": "",
-      "previous": "",
+      "previous": "55.9",
       "url": "https://nikkei225jp.com/schedule/"
     }
   ],
   "fundamental": {
-    "score": -1,
-    "label": "材料は拮抗",
+    "score": 4,
+    "label": "ドル高・円安材料が優勢",
     "upFactors": [
-      "【為替】「基準」が変わってきた円安阻止介入",
-      "日本 第3四半期 実質GDP[前期比年率]：結果 -0.1%／予想 0.2%",
-      "日本 第3四半期 実質GDP[前期比]：結果 0.0%／予想 0.2%"
+      "【株式市場】日経平均は1480円安と大幅反落、6万円割れ、半導体関連株に売り集中",
+      "1480円安の5万9662円02銭 16日の平均株価",
+      "日経平均大引け 反落 1480円安の5万9662円",
+      "日経平均終値1480円安、尾を引くAI不安 ニトリHDなど消費関連に強さ",
+      "日経平均大引け:前週末比1480.33円安の59662.02円"
     ],
     "downFactors": [
-      "日経平均は205円高と続伸スタートもマイナス転換=16日寄り付き",
-      "日経平均寄り付き:前週末比205.86円高の61348.21円",
+      "東京為替:ドル・円は一段安、株安・円高で",
       "米国 10月 生産者物価指数（PPI）[前月比]：結果 0.3%／予想 0.4%",
       "米国 10月 生産者物価指数（PPI）[前年比]：結果 6.5%／予想 6.6%"
     ],
     "neutralFactors": [
-      "円相場、159円78~79銭 16日午前9時現在",
-      "東京為替:ドル・円はもみ合い、159円80銭付近",
-      "日本経済指標【実質GDP1次速報値】"
+      "一定の間隔、幅にとらわれず 追加利上げ―高田日銀委員",
+      "東京為替:ドル・円はじり安、円買い継続"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
