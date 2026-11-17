@@ -1,92 +1,92 @@
 {
-  "updatedAt": "2026-11-17T10:05:44+09:00",
+  "updatedAt": "2026-11-17T18:15:18+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "東京為替：ドル・円は本日安値更新後、159円40銭台でもみ合い(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjV5MUtPSC0yU04xVXBJbFhNV0hDdzM1OEVtbGRSS2wxbG04RGt4d0oxNXJiUW5JNDZobUxjZWFYTlBObldLczEtdlRYSmptUHlWNHJ0TGc4S3VzQzVhcG5GT1lwRVJ2NHZUd0FQaFFwVUNGd0pYZFRWYXZPemstdmwxYVdDZkU?oc=5",
-      "pubDate": "2026-11-17T09:32:38+09:00",
+      "title": "外為：1ドル159円09銭前後とドル安・円高で推移(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUlGQXdONDlQZGZDV0o1Q0NYUF9SWEtacDRIVUp1NW9YZnlDSk9oNWJFS3piRnB3UVlkajV3ODloRWItX0lxNTlkalNxdTB1RFdVc2hobV9mQVYzc0pGSVhmOW1CdUYtODl4NkpxdEJFRVNtVjJjbTVkVHpLVlpJcVRLTmFVOVU?oc=5",
+      "pubDate": "2026-11-17T18:01:56+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "東京為替:ドル・円は本日安値更新後、159円40銭台でもみ合い",
-      "link": "https://www.zaikei.co.jp/article/20261117/877930.html",
-      "pubDate": "2026-11-17T09:32:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "ドル円 159.34円まで下押し、株安でやや円買い",
-      "link": "https://zai.diamond.jp/articles/-/499143",
-      "pubDate": "2026-11-17T09:28:00+09:00",
+      "title": "ドル円、再び下落 本日安値159.07円手前まで反落",
+      "link": "https://zai.diamond.jp/articles/-/499177",
+      "pubDate": "2026-11-17T17:56:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円 159.34円まで下押し、株安でやや円買い｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OZHI4S25mVTRLb04wLTRFUkZac1JhT3oxWjdleERPY3ZJRGxHeU9UN1R4NXJwZGs2MDJKV1MycWNJNW8zWDhELXB5VDB3ak9KSXc?oc=5",
-      "pubDate": "2026-11-17T09:28:00+09:00",
+      "title": "東京為替概況: ドル・円は反落、午後は下落基調",
+      "link": "https://zai.diamond.jp/articles/-/499176",
+      "pubDate": "2026-11-17T17:44:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円理論価格 1ドル＝158.79円（前日比-0.06円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HR21fRl94NnNQX2dkejhGMXIxcmJfREpnX0hoMGZqV09jdVpQRFJBVUxMX2NjbmhWa3BSVjkzMVlvUGVET21nTw?oc=5",
-      "pubDate": "2026-11-17T09:15:29+09:00",
+      "title": "人民元、対ドルで続伸 16時30分時点は6.6655元",
+      "link": "https://www.nikkei.com/article/DGXZQOFL177NO0X11C26A1000000/",
+      "pubDate": "2026-11-17T17:41:00+09:00",
+      "source": "日経新聞"
+    },
+    {
+      "title": "欧米為替見通し: ドル・円は伸び悩みか、米経済指標や株価動向を注視(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQajhNLXNXdlFkLVlTby1UbnRxaUFjYTFzUDNPdmhqWGhpTThyM1RWSjllc1Z0U3ZpNlJ4SjJ5RUNLYTJDUElRNmRQZnJrUzFOUEtCc2Q1cllkZEwyTkhoeTJQcEcwTGRqTF9GeEs5dVE0aFVBLTJzWG4tUW8xYklGQ25rX0hCR0k?oc=5",
+      "pubDate": "2026-11-17T17:25:00+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "通貨オプション ボラティリティー ドル円１週間６．２３％",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IdTJPV3RxSDM2X1NTY1VuTVpjVVVTTVBaQTZVVzJtOC1WNlNoeVQ1SjBtRHBYWHF4TmRkS09FaUFJODBjNm9nbA?oc=5",
+      "pubDate": "2026-11-17T17:17:51+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "16日は原油WTIが低下、ドル円が下落",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR3hNNnpsWC16Zm5PbGc0VU1hdTFydXExdU5icGVXbERrWFJQcm1jMVVjV2FxNHg5X0xCTERjekxjeUktUnItbzd3Vi1rUVFhX2JOODJyNGxHdUZGN2YtbS0xM3NvYkJZb0dmQTFXeE1URnFOalZob0FVRUJrMUtKVTV3?oc=5",
-      "pubDate": "2026-11-17T09:07:00+09:00",
-      "source": "FOREX.com"
-    },
-    {
-      "title": "円相場、159円52~52銭 17日午前9時現在",
-      "link": "https://www.jiji.com/jc/article?k=2026111700296&g=eco",
-      "pubDate": "2026-11-17T09:06:00+09:00",
-      "source": "時事ドットコム"
-    },
-    {
-      "title": "円相場、１５９円５２～５２銭＝１７日午前９時現在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IRFpNVFJlVkd1S0NQeVR4empSTWg1UkkxZVh5OUx0RFVjWTNvZG5uZDJVNURTNmFjZ2x3RklRc25ydmdTRHp6WE9LdFJOazNtdFA4Xw?oc=5",
-      "pubDate": "2026-11-17T09:06:00+09:00",
-      "source": "時事通信ニュース"
-    },
-    {
-      "title": "東京為替:ドル・円は159円50銭台に上昇後、やや押し戻される",
-      "link": "https://www.zaikei.co.jp/article/20261117/877926.html",
-      "pubDate": "2026-11-17T09:04:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "【為替】これまでとは違う「円安160円」",
-      "link": "https://media.monex.co.jp/articles/-/30523",
-      "pubDate": "2026-11-17T09:00:00+09:00",
-      "source": "吉田恒の為替デイリー"
-    },
-    {
-      "title": "FX/為替「ドル/円今日の見通し｜エヌビディアの四半期決算に注目」 外為どっとコム トゥデイ 2026年11月17日号",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpT0dYeVBQOFhneTFEMjdIZG84TnBNOHMxQmdILXdiRHBVQk5iMHdwdDlqaFJ5d0JNam90ZGJDbE9oeEZyUmxmSWtyZkt1UzRuV0VGQ2xOeWtpR2xMTDNablB1RQ?oc=5",
-      "pubDate": "2026-11-17T08:56:00+09:00",
-      "source": "外為どっとコム"
-    },
-    {
-      "title": "円安で物価上昇し消費萎縮…日本経済、1年ぶりマイナス成長（中央日報日本語版）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGRHI5Rkk2UWY3aWQ5ak9MUmV0UWpWemRNRzdMelljdnJuT25yOHFTTXVhZUV3ZE40RWZjRFd5WTBnZEgyM3dxYjFaWjA5eFdrU3JiVHdtVFdIOVlGT0lqNV9odEZoblhQVWFqS1QyVHdpdWhpZkJlMFNGWWRCdDg?oc=5",
-      "pubDate": "2026-11-17T08:40:36+09:00",
-      "source": "Yahoo!ニュース"
-    },
-    {
-      "title": "ドル円は159.47-48円近辺、SGX日経225先物は59065円で開始(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRGlwcUI4VUE5bWl0dWVHcHh5UFZZV29ScGNBUmZGV2J3SmZrTmtvSmowU2JRZ1p1WHhWSjVhUGhjaUpiblphYzhwNHlwZWVGV3lONUZtYUVvbzA2VDMzR3BNNmJxTEdCb0w1VzRvb09pS0JheVlPVHhNU2ZLTWdSYU9ZLVlxNzQ?oc=5",
-      "pubDate": "2026-11-17T08:36:04+09:00",
+      "title": "東京為替：ドル・円は反落、午後は下落基調(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTy1hMjlXRl9PWm1VbnJ6YlRxWDg3TXRVMEItTmtKYUZWSEhmRWJlcW40YWJwN3ZLNkJXRWhKaEJnVEF2ZzBMb1c1QlU2MkJ2bjlEbXIyOEwwYmJhWmU1aVJUUE8ybnRhVkRhSHBCc29PMWNMN0FTdXp6bTJUY2hjamg0emdob2M?oc=5",
+      "pubDate": "2026-11-17T17:17:44+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "ドル円は159.47-48円近辺、SGX日経225先物は59065円で開始",
-      "link": "https://zai.diamond.jp/articles/-/499140",
-      "pubDate": "2026-11-17T08:36:00+09:00",
+      "title": "東京為替:ドル・円は反落、午後は下落基調",
+      "link": "https://www.zaikei.co.jp/article/20261117/878063.html",
+      "pubDate": "2026-11-17T17:17:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "円相場、159円33~33銭 17日午後5時現在",
+      "link": "https://www.jiji.com/jc/article?k=2026111700920&g=eco",
+      "pubDate": "2026-11-17T17:13:00+09:00",
+      "source": "時事ドットコム"
+    },
+    {
+      "title": "ドル円の159円割れに押し目買い、159円後半に売りが並ぶ 今日の外為注文情報 2026/11/17 17:00",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yNGxDbnZfN0VnMm5iRGNKSmQ1Q1Q1d3MzLTNNMkJsd3ZmV0dUWVRQWHZ6MUVyalZJQWY4c0tnTXZMZTBjLTBGRG9fMXJYYkJ1ZmhJNi1pVVcxVUJHRHRYTE9qaw?oc=5",
+      "pubDate": "2026-11-17T17:13:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル円１５９．３０近辺、ユーロドル１．０９９５近辺＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yeTVlVnBYMzlIbkVsb0lzTnNoci0tNE80N2NYcVc2dkNUTHhyc2QwUm54elNTbVNNbGpsOXo4UUdKZGRUVFUwaQ?oc=5",
+      "pubDate": "2026-11-17T17:09:50+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "東京外国為替市場概況・17時 ドル円、下げ渋り(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQekJlTGtscnZCYVVRa2Z3Q0VwcFpuV1J6VjJ5WHR1SV9FckdJRk5Ma0ZYelRJYndNWHJKUzRLSG95WlRERFkzWi1Ub3VROFpxVU9famlmWDZiYUlzWWFvZ2IxRXMwNWxMY0E4YlYtb0R4dWR6U0VzOGJwcDd5X3otMFl1Y2wtOEU?oc=5",
+      "pubDate": "2026-11-17T17:06:04+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "【FX】ライブトレード 欧州タイムを攻略だ！「ドル/円、159円台…米小売売上高、エヌビディア四半期決算に注目」ドル円分析＆取引 2026/11/17 17:00",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxMjNkbTZ3eVlxR25Bb09VU0w3bUY1OUw1MXNrbVZfVGQ5Z0FreW85WDgzcU03VzZlUFlYMktRbjlXeWc3R0FaQzUxaW11VUFIV21qZFR4azJidUE1ZUhveUlTdw?oc=5",
+      "pubDate": "2026-11-17T16:30:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル円、売り一服 159.00円手前で下げ渋る",
+      "link": "https://zai.diamond.jp/articles/-/499172",
+      "pubDate": "2026-11-17T16:18:00+09:00",
       "source": "ザイFX！"
     }
   ]

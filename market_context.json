@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T10:05:44+09:00",
+  "updatedAt": "2026-11-17T18:15:19+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,75 +12,75 @@
   },
   "news": [
     {
-      "title": "「株式」ADR日本株ランキング~全般売り優勢、シカゴは大阪日中比545円安の59205円",
-      "link": "https://www.zaikei.co.jp/article/20261117/877943.html",
-      "publishedAt": "2026-11-17T09:52:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替:ドル・円は本日安値更新後、159円40銭台でもみ合い",
-      "link": "https://www.zaikei.co.jp/article/20261117/877930.html",
-      "publishedAt": "2026-11-17T09:32:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "ドル円 159.34円まで下押し、株安でやや円買い",
-      "link": "https://zai.diamond.jp/articles/-/499143",
-      "publishedAt": "2026-11-17T09:28:00+09:00",
+      "title": "ドル円、再び下落 本日安値159.07円手前まで反落",
+      "link": "https://zai.diamond.jp/articles/-/499177",
+      "publishedAt": "2026-11-17T17:56:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "日経平均は366円安でスタート、アドバンテストや三井住友などが下落",
-      "link": "https://www.zaikei.co.jp/article/20261117/877929.html",
-      "publishedAt": "2026-11-17T09:27:00+09:00",
+      "title": "東京為替概況: ドル・円は反落、午後は下落基調",
+      "link": "https://zai.diamond.jp/articles/-/499176",
+      "publishedAt": "2026-11-17T17:44:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "欧米為替見通し: ドル・円は伸び悩みか、米経済指標や株価動向を注視",
+      "link": "https://www.zaikei.co.jp/article/20261117/878065.html",
+      "publishedAt": "2026-11-17T17:25:00+09:00",
       "source": "財経新聞"
     },
     {
-      "title": "金・銀価格が1年ぶり安値に下落、米FRB利上げ観測が重し",
-      "link": "https://forbesjapan.com/articles/detail/108379",
-      "publishedAt": "2026-11-17T09:15:00+09:00",
-      "source": "forbes"
+      "title": "東京為替:ドル・円は反落、午後は下落基調",
+      "link": "https://www.zaikei.co.jp/article/20261117/878063.html",
+      "publishedAt": "2026-11-17T17:17:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "円相場、159円52~52銭 17日午前9時現在",
-      "link": "https://www.jiji.com/jc/article?k=2026111700296&g=eco",
-      "publishedAt": "2026-11-17T09:06:00+09:00",
+      "title": "円相場、159円33~33銭 17日午後5時現在",
+      "link": "https://www.jiji.com/jc/article?k=2026111700920&g=eco",
+      "publishedAt": "2026-11-17T17:13:00+09:00",
       "source": "時事ドットコム"
     },
     {
-      "title": "日経平均寄り付き:前日比366.22円安の59295.8円",
-      "link": "https://zai.diamond.jp/articles/-/499142",
-      "publishedAt": "2026-11-17T09:06:00+09:00",
+      "title": "ドル円、売り一服 159.00円手前で下げ渋る",
+      "link": "https://zai.diamond.jp/articles/-/499172",
+      "publishedAt": "2026-11-17T16:18:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "東京為替:ドル・円は159円50銭台に上昇後、やや押し戻される",
-      "link": "https://www.zaikei.co.jp/article/20261117/877926.html",
-      "publishedAt": "2026-11-17T09:04:00+09:00",
+      "title": "欧州外為早朝 ユーロ、対ドルで横ばい圏 1.10ドルちょうど近辺",
+      "link": "https://www.nikkei.com/article/DGXZQOFL176FR0X11C26A1000000/",
+      "publishedAt": "2026-11-17T16:16:00+09:00",
+      "source": "日経新聞"
+    },
+    {
+      "title": "東京為替:ドル・円は軟調、ドル売り・円買いで",
+      "link": "https://www.zaikei.co.jp/article/20261117/878048.html",
+      "publishedAt": "2026-11-17T16:15:00+09:00",
       "source": "財経新聞"
     },
     {
-      "title": "【為替】これまでとは違う「円安160円」",
-      "link": "https://media.monex.co.jp/articles/-/30523",
-      "publishedAt": "2026-11-17T09:00:00+09:00",
-      "source": "吉田恒の為替デイリー"
+      "title": "【ドル円予想2026/11/17】米指標が強くてもドル売り?要人発言で流れが変わる?★分かり易いFX情報番組",
+      "link": "https://www.youtube.com/watch?v=2CwqBe17Pa0",
+      "publishedAt": "2026-11-17T15:54:00+09:00",
+      "source": "ひまわり証券"
     },
     {
-      "title": "ドル円は159.47-48円近辺、SGX日経225先物は59065円で開始",
-      "link": "https://zai.diamond.jp/articles/-/499140",
-      "publishedAt": "2026-11-17T08:36:00+09:00",
+      "title": "日経平均大引け:前日比801.59円安の58860.43円",
+      "link": "https://zai.diamond.jp/articles/-/499167",
+      "publishedAt": "2026-11-17T15:32:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "東京為替見通し=ドル円、米利上げ観測が支えも株安が重し APEC前に方向感出にくい",
-      "link": "https://zai.diamond.jp/articles/-/499136",
-      "publishedAt": "2026-11-17T08:00:00+09:00",
-      "source": "ザイFX！"
+      "title": "外為14時 円相場、上げ幅拡大 159円台前半 対ユーロでも上昇",
+      "link": "https://www.nikkei.com/article/DGXZQOFL1749T0X11C26A1000000/",
+      "publishedAt": "2026-11-17T14:20:00+09:00",
+      "source": "日経新聞"
     },
     {
-      "title": "円建てCME先物は16日の225先物比545円安の59205円で推移",
-      "link": "https://zai.diamond.jp/articles/-/499134",
-      "publishedAt": "2026-11-17T07:44:00+09:00",
+      "title": "ドル円、159.15円まで下げ幅拡大 黒田前日銀総裁「金利を中立水準以上に引き上げも」",
+      "link": "https://zai.diamond.jp/articles/-/499158",
+      "publishedAt": "2026-11-17T13:39:00+09:00",
       "source": "ザイFX！"
     }
   ],
@@ -388,22 +388,19 @@
     }
   ],
   "fundamental": {
-    "score": 5,
-    "label": "ドル高・円安材料が優勢",
+    "score": 1,
+    "label": "材料は拮抗",
     "upFactors": [
-      "「株式」ADR日本株ランキング~全般売り優勢、シカゴは大阪日中比545円安の59205円",
-      "日経平均は366円安でスタート、アドバンテストや三井住友などが下落",
-      "金・銀価格が1年ぶり安値に下落、米FRB利上げ観測が重し",
-      "日経平均寄り付き:前日比366.22円安の59295.8円",
-      "日本 第3四半期 実質GDP[前期比年率]：結果 -0.1%／予想 0.2%"
+      "日本 第3四半期 実質GDP[前期比年率]：結果 -0.1%／予想 0.2%",
+      "日本 第3四半期 実質GDP[前期比]：結果 0.0%／予想 0.1%"
     ],
     "downFactors": [
       "米国 11月 ニューヨーク連銀製造業景気指数：結果 7.8／予想 18.0"
     ],
     "neutralFactors": [
-      "東京為替:ドル・円は本日安値更新後、159円40銭台でもみ合い",
-      "ドル円 159.34円まで下押し、株安でやや円買い",
-      "円相場、159円52~52銭 17日午前9時現在"
+      "ドル円、再び下落 本日安値159.07円手前まで反落",
+      "東京為替概況: ドル・円は反落、午後は下落基調",
+      "欧米為替見通し: ドル・円は伸び悩みか、米経済指標や株価動向を注視"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
