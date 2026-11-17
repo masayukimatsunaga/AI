@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T01:04:48+09:00",
+  "updatedAt": "2026-11-17T13:23:58+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
@@ -9,40 +9,48 @@
     "orderDataUrl": "https://www.gaitame.com/markets/order/"
   },
   "report": {
-    "headline": "160円挟んで神経質な展開",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜160円挟んで神経質な展開」 外為どっとコム トゥデイ 2026年11月16日号",
-    "url": "https://www.gaitame.com/media/entry/2026/11/16/091311",
-    "publishedAt": "2026-11-16T09:00:00+09:00",
-    "createdAt": "2026-11-16T08:50:00+09:00",
+    "headline": "エヌビディアの四半期決算に注目",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜エヌビディアの四半期決算に注目」 外為どっとコム トゥデイ 2026年11月17日号",
+    "url": "https://www.gaitame.com/media/entry/2026/11/17/085621",
+    "publishedAt": "2026-11-17T08:56:21+09:00",
+    "createdAt": "2026-11-17T08:40:00+09:00",
     "forecastRange": {
-      "low": 159.0,
-      "high": 160.3
+      "low": 158.8,
+      "high": 159.9
     },
-    "outlook": "160円台は神経質な値動き",
+    "outlook": "ドル買いと円買いの綱引きに",
     "factors": [
-      "高市首相、「骨太方針原因で市場にショック発生したと考えてない」",
-      "ユーロ貿易収支2カ月連続赤字",
-      "米PPI、前年比は前月から伸び加速"
+      "日本四半期GDP、4期ぶりにマイナス成長",
+      "FRB議長、AIの米経済への影響で複数シナリオ",
+      "米国株AI懸念で大幅安"
     ],
     "events": [
       {
-        "text": "11:00 〇 (中) 10月小売売上高",
+        "text": "16:00 〇 (英) 7-9月失業率（ILO方式）",
         "importance": "medium"
       },
       {
-        "text": "26:00 ◎ (米) ウォーシュFRB議長講演",
-        "importance": "high"
-      },
-      {
-        "text": "08:00 〇 (豪) ブロックRBA総裁講演",
+        "text": "16:00 〇 (英) 7-9月週平均賃金・除賞与（前年比）",
         "importance": "medium"
       },
       {
-        "text": "※時間は日本時間での表示になります。 ※「注目の経済指標」「注目のイベント」は注目度が高い順に「◎」「○」「無印」で表示しております。 ※発表時刻は予告なく変更される場合があります。また、予定一覧は信憑性の高いと思われる情報を元にまとめておりますが、内容の正確性を保証するものではございませんので、事前にご留意くださいますようお願いいたします。",
+        "text": "16:00 〇 (英) 10月失業保険申請件数",
+        "importance": "medium"
+      },
+      {
+        "text": "16:00 〇 (英) 10月失業率",
+        "importance": "medium"
+      },
+      {
+        "text": "19:00 〇 (独) 11月ZEW景況感調査",
+        "importance": "medium"
+      },
+      {
+        "text": "22:30 ◎ (米) 10月小売売上高",
         "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261116/20261116090803.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261117/20261117085049.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   },
   "orderReport": {
