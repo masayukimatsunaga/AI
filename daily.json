@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T02:06:16+09:00",
+  "updatedAt": "2026-11-18T12:30:27+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
@@ -9,48 +9,48 @@
     "orderDataUrl": "https://www.gaitame.com/markets/order/"
   },
   "report": {
-    "headline": "エヌビディアの四半期決算に注目",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜エヌビディアの四半期決算に注目」 外為どっとコム トゥデイ 2026年11月17日号",
-    "url": "https://www.gaitame.com/media/entry/2026/11/17/085621",
-    "publishedAt": "2026-11-17T08:56:21+09:00",
-    "createdAt": "2026-11-17T08:40:00+09:00",
+    "headline": "AI株安一服なら160円を目指すか",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜AI株安一服なら160円を目指すか」 外為どっとコム トゥデイ 2026年11月18日号",
+    "url": "https://www.gaitame.com/media/entry/2026/11/18/090027",
+    "publishedAt": "2026-11-18T09:00:27+09:00",
+    "createdAt": "2026-11-18T08:40:00+09:00",
     "forecastRange": {
       "low": 158.8,
-      "high": 159.9
+      "high": 160.0
     },
-    "outlook": "ドル買いと円買いの綱引きに",
+    "outlook": "AI株安一服なら再び160円へ",
     "factors": [
-      "日本四半期GDP、4期ぶりにマイナス成長",
-      "FRB議長、AIの米経済への影響で複数シナリオ",
-      "米国株AI懸念で大幅安"
+      "RBA議事要旨公表",
+      "英賃金、鈍化",
+      "独ZEW期待指数が2月以来の高水準へ"
     ],
     "events": [
       {
-        "text": "16:00 〇 (英) 7-9月失業率（ILO方式）",
+        "text": "16:00 〇 (英) 10月消費者物価指数",
         "importance": "medium"
       },
       {
-        "text": "16:00 〇 (英) 7-9月週平均賃金・除賞与（前年比）",
-        "importance": "medium"
-      },
-      {
-        "text": "16:00 〇 (英) 10月失業保険申請件数",
-        "importance": "medium"
-      },
-      {
-        "text": "16:00 〇 (英) 10月失業率",
-        "importance": "medium"
-      },
-      {
-        "text": "19:00 〇 (独) 11月ZEW景況感調査",
-        "importance": "medium"
-      },
-      {
-        "text": "22:30 ◎ (米) 10月小売売上高",
+        "text": "16:30 ◎ (英) ベイリーBOE総裁講演",
         "importance": "high"
+      },
+      {
+        "text": "23:25 ◎ (ユーロ圏) ラガルドECB総裁講演",
+        "importance": "high"
+      },
+      {
+        "text": "24:00 ◎ (英) ベイリーBOE総裁講演",
+        "importance": "high"
+      },
+      {
+        "text": "28:00 〇 (米) FOMC議事録",
+        "importance": "medium"
+      },
+      {
+        "text": "09:30 〇 (豪) 10月新規雇用者数",
+        "importance": "medium"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261117/20261117085049.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261118/20261118084739.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   },
   "orderReport": {
