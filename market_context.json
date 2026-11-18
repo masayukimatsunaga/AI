@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T10:19:29+09:00",
+  "updatedAt": "2026-11-18T18:13:17+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,75 +12,75 @@
   },
   "news": [
     {
-      "title": "植田日銀総裁 基調的物価上昇率が2%で定着するかどうか確認することが重要",
-      "link": "https://fx.minkabu.jp/news/384770",
-      "publishedAt": "2026-11-18T10:17:00+09:00",
-      "source": "みんかぶ"
-    },
-    {
-      "title": "東京為替概況:ドル・円は159円50銭台に上昇、米利上げ観測を意識",
-      "link": "https://zai.diamond.jp/articles/-/499239",
-      "publishedAt": "2026-11-18T10:14:00+09:00",
+      "title": "東京為替概況:ドル・円は反落、午後は主要通貨売り",
+      "link": "https://zai.diamond.jp/articles/-/499268",
+      "publishedAt": "2026-11-18T17:54:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "東京為替:ドル・円は159円60銭まで上昇、ユーロ・ドルは続落",
-      "link": "https://www.zaikei.co.jp/article/20261118/878165.html",
-      "publishedAt": "2026-11-18T10:02:00+09:00",
+      "title": "欧米為替見通し: ドル・円は伸び悩みか、米経済指標や株価動向を注視",
+      "link": "https://www.zaikei.co.jp/article/20261118/878260.html",
+      "publishedAt": "2026-11-18T17:37:00+09:00",
       "source": "財経新聞"
     },
     {
-      "title": "日経平均は146円高でスタート、KOKUSAIやキオクシアHDなどが上昇",
-      "link": "https://www.zaikei.co.jp/article/20261118/878152.html",
-      "publishedAt": "2026-11-18T09:36:00+09:00",
+      "title": "外為17時 円相場、横ばい圏 159円台前半 米利上げ観測は重荷",
+      "link": "https://www.nikkei.com/article/DGXZQOFL187G80Y6A111C2000000/",
+      "publishedAt": "2026-11-18T17:35:00+09:00",
+      "source": "日経新聞"
+    },
+    {
+      "title": "(まとめ)日経平均は163円高の59,024円で反発 APECや米中露首脳会談に注目",
+      "link": "https://media.monex.co.jp/articles/-/30542",
+      "publishedAt": "2026-11-18T17:33:00+09:00",
+      "source": "monex"
+    },
+    {
+      "title": "東京為替:ドル・円は反落、午後は主要通貨売り",
+      "link": "https://www.zaikei.co.jp/article/20261118/878261.html",
+      "publishedAt": "2026-11-18T17:26:00+09:00",
       "source": "財経新聞"
     },
     {
-      "title": "東京為替:ドル・円は159円50銭付近でもみ合い、上値追いは限定的",
-      "link": "https://www.zaikei.co.jp/article/20261118/878150.html",
-      "publishedAt": "2026-11-18T09:31:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "ドル円 159円半ば、底堅いも前日高値の前に伸び悩み",
-      "link": "https://zai.diamond.jp/articles/-/499236",
-      "publishedAt": "2026-11-18T09:11:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "円相場、159円50~50銭 18日午前9時現在",
-      "link": "https://www.jiji.com/jc/article?k=2026111800315&g=eco",
-      "publishedAt": "2026-11-18T09:07:00+09:00",
+      "title": "円相場、159円33~34銭 18日午後5時現在",
+      "link": "https://www.jiji.com/jc/article?k=2026111800921&g=eco",
+      "publishedAt": "2026-11-18T17:11:00+09:00",
       "source": "時事ドットコム"
     },
     {
-      "title": "日経平均寄り付き:前日比146.97円高の59007.4円",
-      "link": "https://zai.diamond.jp/articles/-/499235",
-      "publishedAt": "2026-11-18T09:03:00+09:00",
+      "title": "欧州外為早朝 ユーロ、対ドルで下落 1.09ドル台後半",
+      "link": "https://www.nikkei.com/article/DGXZQOFL185RR0Y6A111C2000000/",
+      "publishedAt": "2026-11-18T16:12:00+09:00",
+      "source": "日経新聞"
+    },
+    {
+      "title": "東京外為市場・15時=ドル159円前半で方向性出ず、実需は円安圧力残るとの見方",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmRwN3hmcHhtZTZSWko3WGtXbXZha1FKYUVEbXNDRmlVb2FEQ1dBUy1rWlg2YmRxRmlIUlMwUmVucVBnV1FIVW5yZDVrQjFxa3lNaFl2YnlENGNqb2ROR2NFZWtuVTZkVnFVN19pZnE5Yk1WSU1fRF9HZ1c0Vk1pVEZvcGM3dw?oc=5&hl=ja&gl=JP&ceid=JP:ja",
+      "publishedAt": "2026-11-18T15:38:00+09:00",
+      "source": "reuters"
+    },
+    {
+      "title": "日経平均大引け:前日比163.85円高の59024.28円",
+      "link": "https://zai.diamond.jp/articles/-/499257",
+      "publishedAt": "2026-11-18T15:31:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円は159.53-54円近辺、SGX日経225先物は59755円で開始",
-      "link": "https://zai.diamond.jp/articles/-/499231",
-      "publishedAt": "2026-11-18T08:36:00+09:00",
-      "source": "ザイFX！"
+      "title": "東京為替:ドル・円は戻りが鈍い、ドル買い抑制",
+      "link": "https://www.zaikei.co.jp/article/20261118/878237.html",
+      "publishedAt": "2026-11-18T15:13:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "NY金先物は小幅続落、FRB高官のタカ派発言や米小売売上高の上振れが重し",
-      "link": "https://zai.diamond.jp/articles/-/499227",
-      "publishedAt": "2026-11-18T08:05:00+09:00",
-      "source": "ザイFX！"
+      "title": "東京為替:ドル・円は下げ一服、米金利にらみ",
+      "link": "https://www.zaikei.co.jp/article/20261118/878234.html",
+      "publishedAt": "2026-11-18T14:47:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "東京為替見通し=ドル円、底堅さ維持しつつ160円台の重さも意識する動きか",
-      "link": "https://zai.diamond.jp/articles/-/499226",
-      "publishedAt": "2026-11-18T08:00:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "円建てCME先物は17日の225先物比10円安の58890円で推移",
-      "link": "https://zai.diamond.jp/articles/-/499225",
-      "publishedAt": "2026-11-18T07:56:00+09:00",
+      "title": "東京為替概況:ドル・円はじり安、ポンドは底堅い",
+      "link": "https://zai.diamond.jp/articles/-/499254",
+      "publishedAt": "2026-11-18T14:40:00+09:00",
       "source": "ザイFX！"
     }
   ],
@@ -388,22 +388,22 @@
     }
   ],
   "fundamental": {
-    "score": -2,
-    "label": "ドル安・円高材料が優勢",
+    "score": 0,
+    "label": "材料は拮抗",
     "upFactors": [
-      "東京為替概況:ドル・円は159円50銭台に上昇、米利上げ観測を意識",
+      "外為17時 円相場、横ばい圏 159円台前半 米利上げ観測は重荷",
+      "東京外為市場・15時=ドル159円前半で方向性出ず、実需は円安圧力残るとの見方",
       "米国 10月 小売売上高（自動車除くコア）[前月比]：結果 0.6%／予想 0.4%"
     ],
     "downFactors": [
-      "日経平均は146円高でスタート、KOKUSAIやキオクシアHDなどが上昇",
-      "日経平均寄り付き:前日比146.97円高の59007.4円",
+      "(まとめ)日経平均は163円高の59,024円で反発 APECや米中露首脳会談に注目",
       "米国 10月 鉱工業生産指数[前月比]：結果 -0.4%／予想 0.1%",
       "米国 10月 設備稼働率：結果 76.4%／予想 76.8%"
     ],
     "neutralFactors": [
-      "植田日銀総裁 基調的物価上昇率が2%で定着するかどうか確認することが重要",
-      "東京為替:ドル・円は159円60銭まで上昇、ユーロ・ドルは続落",
-      "東京為替:ドル・円は159円50銭付近でもみ合い、上値追いは限定的"
+      "東京為替概況:ドル・円は反落、午後は主要通貨売り",
+      "欧米為替見通し: ドル・円は伸び悩みか、米経済指標や株価動向を注視",
+      "東京為替:ドル・円は反落、午後は主要通貨売り"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
