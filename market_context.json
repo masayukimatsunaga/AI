@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T03:09:09+09:00",
+  "updatedAt": "2026-11-19T09:26:01+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,118 +12,79 @@
   },
   "news": [
     {
-      "title": "【ドル円予想2026/11/10】米CPI+要人発言でドル円は上昇?でも次第に上値は重くなる?★分かり易いFX情報番組",
-      "link": "https://www.youtube.com/watch?v=HCn63PFP2Vg",
-      "publishedAt": "2026-11-19T02:34:00+09:00",
-      "source": "ひまわり証券"
+      "title": "日経平均は119円高、寄り後は底堅く推移",
+      "link": "https://www.zaikei.co.jp/article/20261119/878319.html",
+      "publishedAt": "2026-11-19T09:11:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "ニューヨーク外国為替市場概況･2時 ユーロドル、上値重い",
-      "link": "https://zai.diamond.jp/articles/-/499293",
-      "publishedAt": "2026-11-19T02:07:00+09:00",
+      "title": "円相場、159円38~38銭 19日午前9時現在",
+      "link": "https://www.jiji.com/jc/article?k=2026111900249&g=eco",
+      "publishedAt": "2026-11-19T09:10:00+09:00",
+      "source": "時事ドットコム"
+    },
+    {
+      "title": "日経平均寄り付き:前日比0.91円高の59025.19円",
+      "link": "https://zai.diamond.jp/articles/-/499322",
+      "publishedAt": "2026-11-19T09:03:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "NY外為:ドル底堅い、ウォラーFRB理事は0.5%の利上げを推奨",
-      "link": "https://zai.diamond.jp/articles/-/499292",
-      "publishedAt": "2026-11-19T01:16:00+09:00",
+      "title": "東京為替:ドル・円は159円30銭台で推移、FRB追加利上げ観測を意識",
+      "link": "https://www.zaikei.co.jp/article/20261119/878317.html",
+      "publishedAt": "2026-11-19T09:02:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "今日の為替市場ポイント:日米金利差を意識したドル買いが支えとなりやすい",
+      "link": "https://www.zaikei.co.jp/article/20261119/878313.html",
+      "publishedAt": "2026-11-19T08:44:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "ドル円は159.37円近辺、SGX日経225先物は59215円で開始",
+      "link": "https://zai.diamond.jp/articles/-/499319",
+      "publishedAt": "2026-11-19T08:34:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "【ドル円予想2026/11/12】FRB高官の発言続く!ドル円は一段高を試せる?★分かり易いFX情報番組",
-      "link": "https://www.youtube.com/watch?v=RSbSbgRbyvg",
-      "publishedAt": "2026-11-19T01:15:00+09:00",
-      "source": "ひまわり証券"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・24時 ユーロドル、下げ渋り",
-      "link": "https://zai.diamond.jp/articles/-/499288",
-      "publishedAt": "2026-11-19T00:07:00+09:00",
+      "title": "NY金先物は大幅反落、FOMC議事要旨で12月追加利上げ観測強まり52週安値更新",
+      "link": "https://zai.diamond.jp/articles/-/499316",
+      "publishedAt": "2026-11-19T08:10:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "【速報】ドル・円159.24円、ドル反落、米・10月中古住宅販売成約指数は予想下回る",
-      "link": "https://zai.diamond.jp/articles/-/499287",
-      "publishedAt": "2026-11-19T00:02:00+09:00",
+      "title": "東京為替見通し=ドル円、米中ロの大国外交が相場を揺さぶる可能性 豪雇用統計にも注目",
+      "link": "https://zai.diamond.jp/articles/-/499314",
+      "publishedAt": "2026-11-19T08:00:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "【NY為替オープニング】FOMC議事録や20年債入札に注目、ウォラーFRB理事が50BPの利上げに言及",
-      "link": "https://zai.diamond.jp/articles/-/499285",
-      "publishedAt": "2026-11-18T23:51:00+09:00",
+      "title": "19日の東京外国為替市場見通し=ドル・円、159円台半ばを軸にもみ合いか",
+      "link": "https://finance.yahoo.co.jp/news/detail/909db08f26f6fda620e5e43b30b07d283643144e",
+      "publishedAt": "2026-11-19T07:57:00+09:00",
+      "source": "ウエルスアドバイザー"
+    },
+    {
+      "title": "円建てCME先物は18日の225先物比415円安の58835円で推移",
+      "link": "https://zai.diamond.jp/articles/-/499313",
+      "publishedAt": "2026-11-19T07:39:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円、伸び悩み 米長期金利が低下に転じる",
-      "link": "https://zai.diamond.jp/articles/-/499283",
-      "publishedAt": "2026-11-18T23:21:00+09:00",
+      "title": "米10月FOMC議事要旨:10月据え置きは条件付き、12月会合で大幅利上げも視野",
+      "link": "https://zai.diamond.jp/articles/-/499312",
+      "publishedAt": "2026-11-19T07:34:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "【速報】ドル・円159.42円、ドル底堅い、米・10月住宅着工件数は予想上回る、許可件数は予想下振れ",
-      "link": "https://zai.diamond.jp/articles/-/499281",
-      "publishedAt": "2026-11-18T22:33:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ウォラーFRB理事 利上げをもう少し積極化する必要ある=ブルームバーグ",
-      "link": "https://fx.minkabu.jp/news/384846",
-      "publishedAt": "2026-11-18T22:08:00+09:00",
-      "source": "みんかぶ"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、強含み",
-      "link": "https://zai.diamond.jp/articles/-/499275",
-      "publishedAt": "2026-11-18T22:06:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、買い戻し 米長期金利が上昇に転じてドル買いに",
-      "link": "https://zai.diamond.jp/articles/-/499274",
-      "publishedAt": "2026-11-18T21:52:00+09:00",
+      "title": "ニューヨーク外国為替市場概況・18日 ユーロドル、下落",
+      "link": "https://zai.diamond.jp/articles/-/499310",
+      "publishedAt": "2026-11-19T07:03:00+09:00",
       "source": "ザイFX！"
     }
   ],
   "recentIndicators": [
-    {
-      "scheduledAt": "2026-11-17T23:15:00+09:00",
-      "dateLabel": "11/17",
-      "timeLabel": "23:15",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 4,
-      "title": "10月 設備稼働率",
-      "result": "76.4%",
-      "forecast": "76.8%",
-      "previous": "76.9%",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-18T08:50:00+09:00",
-      "dateLabel": "11/18",
-      "timeLabel": "08:50",
-      "countryCode": "jp",
-      "country": "日本",
-      "importance": 3,
-      "title": "10月 通関ベース貿易収支",
-      "result": "-4765.0億円",
-      "forecast": "-10211.0億円",
-      "previous": "-5366.0億円",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-18T22:30:00+09:00",
-      "dateLabel": "11/18",
-      "timeLabel": "22:30",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 3,
-      "title": "10月 住宅着工件数",
-      "result": "130.9万件",
-      "forecast": "125.0万件",
-      "previous": "122.1万件",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
     {
       "scheduledAt": "2026-11-18T22:30:00+09:00",
       "dateLabel": "11/18",
@@ -214,21 +175,6 @@
       "forecast": "",
       "previous": "407.1万バレル",
       "url": "https://nikkei225jp.com/schedule/"
-    }
-  ],
-  "upcomingIndicators": [
-    {
-      "scheduledAt": "2026-11-19T04:00:00+09:00",
-      "dateLabel": "11/18",
-      "timeLabel": "28:00",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 4,
-      "title": "10月 FOMC議事録",
-      "result": "",
-      "forecast": "",
-      "previous": "",
-      "url": "https://nikkei225jp.com/schedule/"
     },
     {
       "scheduledAt": "2026-11-19T06:00:00+09:00",
@@ -238,7 +184,7 @@
       "country": "米国",
       "importance": 3,
       "title": "09月 対米証券投資",
-      "result": "",
+      "result": "1553.0億ドル",
       "forecast": "",
       "previous": "2792.0億ドル",
       "url": "https://nikkei225jp.com/schedule/"
@@ -251,7 +197,7 @@
       "country": "日本",
       "importance": 3,
       "title": "09月 機械受注[前月比]",
-      "result": "",
+      "result": "-0.3%",
       "forecast": "1.6%",
       "previous": "5.2%",
       "url": "https://nikkei225jp.com/schedule/"
@@ -264,11 +210,13 @@
       "country": "日本",
       "importance": 3,
       "title": "09月 機械受注[前年比]",
-      "result": "",
+      "result": "13.4%",
       "forecast": "13.8%",
       "previous": "18.6%",
       "url": "https://nikkei225jp.com/schedule/"
-    },
+    }
+  ],
+  "upcomingIndicators": [
     {
       "scheduledAt": "2026-11-19T22:30:00+09:00",
       "dateLabel": "11/19",
@@ -306,6 +254,45 @@
       "result": "",
       "forecast": "170.0万件",
       "previous": "169.7万件",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-20T08:30:00+09:00",
+      "dateLabel": "11/20",
+      "timeLabel": "08:30",
+      "countryCode": "jp",
+      "country": "日本",
+      "importance": 3,
+      "title": "10月 全国消費者物価指数（CPI）[前年比]",
+      "result": "",
+      "forecast": "2.5%",
+      "previous": "2.1%",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-20T08:30:00+09:00",
+      "dateLabel": "11/20",
+      "timeLabel": "08:30",
+      "countryCode": "jp",
+      "country": "日本",
+      "importance": 3,
+      "title": "10月 全国消費者物価指数（CPIコア指数）[前年比]",
+      "result": "",
+      "forecast": "2.3%",
+      "previous": "2.1%",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-21T00:00:00+09:00",
+      "dateLabel": "11/20",
+      "timeLabel": "24:00",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 3,
+      "title": "11月 ミシガン大学消費者信頼感指数",
+      "result": "",
+      "forecast": "51.8",
+      "previous": "51.0",
       "url": "https://nikkei225jp.com/schedule/"
     },
     {
@@ -361,6 +348,84 @@
       "url": "https://nikkei225jp.com/schedule/"
     },
     {
+      "scheduledAt": "2026-11-25T22:30:00+09:00",
+      "dateLabel": "11/25",
+      "timeLabel": "22:30",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 4,
+      "title": "10月 PCE価格指数[前年比]",
+      "result": "",
+      "forecast": "",
+      "previous": "3.6%",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-25T22:30:00+09:00",
+      "dateLabel": "11/25",
+      "timeLabel": "22:30",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 4,
+      "title": "10月 コアPCE価格指数[前年比]",
+      "result": "",
+      "forecast": "",
+      "previous": "3.1%",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-25T22:30:00+09:00",
+      "dateLabel": "11/25",
+      "timeLabel": "22:30",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 4,
+      "title": "第3四半期 実質GDP[前期比年率]",
+      "result": "",
+      "forecast": "",
+      "previous": "3.4%",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-25T22:30:00+09:00",
+      "dateLabel": "11/25",
+      "timeLabel": "22:30",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 4,
+      "title": "10月 耐久財受注[前月比]",
+      "result": "",
+      "forecast": "",
+      "previous": "1.9%",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-25T22:30:00+09:00",
+      "dateLabel": "11/25",
+      "timeLabel": "22:30",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 4,
+      "title": "10月 耐久財受注（輸送除くコア）[前月比]",
+      "result": "",
+      "forecast": "",
+      "previous": "0.5%",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-26T00:00:00+09:00",
+      "dateLabel": "11/25",
+      "timeLabel": "24:00",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 4,
+      "title": "10月 新築住宅販売件数",
+      "result": "",
+      "forecast": "",
+      "previous": "67.6万件",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
       "scheduledAt": "2026-11-26T00:00:00+09:00",
       "dateLabel": "11/26",
       "timeLabel": "00:00",
@@ -375,16 +440,17 @@
     }
   ],
   "fundamental": {
-    "score": -1,
-    "label": "材料は拮抗",
+    "score": -2,
+    "label": "ドル安・円高材料が優勢",
     "upFactors": [],
     "downFactors": [
-      "米国 10月 設備稼働率：結果 76.4%／予想 76.8%"
+      "日経平均は119円高、寄り後は底堅く推移",
+      "日経平均寄り付き:前日比0.91円高の59025.19円"
     ],
     "neutralFactors": [
-      "【ドル円予想2026/11/10】米CPI+要人発言でドル円は上昇?でも次第に上値は重くなる?★分かり易いFX情報番組",
-      "ニューヨーク外国為替市場概況･2時 ユーロドル、上値重い",
-      "NY外為:ドル底堅い、ウォラーFRB理事は0.5%の利上げを推奨"
+      "円相場、159円38~38銭 19日午前9時現在",
+      "東京為替:ドル・円は159円30銭台で推移、FRB追加利上げ観測を意識",
+      "今日の為替市場ポイント:日米金利差を意識したドル買いが支えとなりやすい"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
