@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T02:24:34+09:00",
+  "updatedAt": "2026-11-20T08:53:28+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,144 +12,79 @@
   },
   "news": [
     {
-      "title": "ニューヨーク外国為替市場概況･2時 ドル円、方向感模索",
-      "link": "https://zai.diamond.jp/articles/-/499384",
-      "publishedAt": "2026-11-20T02:08:00+09:00",
+      "title": "ドル円は159.67円近辺、SGX日経225先物は57730円で開始",
+      "link": "https://zai.diamond.jp/articles/-/499402",
+      "publishedAt": "2026-11-20T08:42:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "NY外為:ドル・円心理的節目160円手前から反落、当局の円安是正介入警戒感",
-      "link": "https://zai.diamond.jp/articles/-/499383",
-      "publishedAt": "2026-11-20T02:00:00+09:00",
+      "title": "日本経済指標【消費者物価指数】",
+      "link": "https://fx.minkabu.jp/news/385027",
+      "publishedAt": "2026-11-20T08:40:00+09:00",
+      "source": "みんかぶ"
+    },
+    {
+      "title": "シンガポール・日経平均先物=寄り付き5万7730円(前日比2115円安)",
+      "link": "https://finance.yahoo.co.jp/news/detail/6fa389d8d4bbe000e29b928e5357d0a395e324ac",
+      "publishedAt": "2026-11-20T08:31:00+09:00",
+      "source": "ウエルスアドバイザー"
+    },
+    {
+      "title": "まもなく日本消費者物価指数の発表",
+      "link": "https://fx.minkabu.jp/news/385025",
+      "publishedAt": "2026-11-20T08:20:00+09:00",
+      "source": "みんかぶ"
+    },
+    {
+      "title": "【ドル円予想2026/11/17】米指標が強くてもドル売り?要人発言で流れが変わる?★分かり易いFX情報番組",
+      "link": "https://www.youtube.com/watch?v=2CwqBe17Pa0",
+      "publishedAt": "2026-11-20T08:10:00+09:00",
+      "source": "ひまわり証券"
+    },
+    {
+      "title": "NY金先物は続落、FOMCでの大幅利上げ観測によるドル買いで52週安値更新",
+      "link": "https://zai.diamond.jp/articles/-/499396",
+      "publishedAt": "2026-11-20T08:00:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円、上値重い 米国株の下落と米長期金利の低下が重し",
-      "link": "https://zai.diamond.jp/articles/-/499379",
-      "publishedAt": "2026-11-20T00:40:00+09:00",
+      "title": "東京為替見通し=ドル円、アンソロピックIPOでも株安 クロス円売りが上値抑制",
+      "link": "https://zai.diamond.jp/articles/-/499397",
+      "publishedAt": "2026-11-20T08:00:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・24時 ドル円、伸び悩み",
-      "link": "https://zai.diamond.jp/articles/-/499376",
-      "publishedAt": "2026-11-20T00:08:00+09:00",
-      "source": "ザイFX！"
+      "title": "20日の東京外国為替市場見通し=ドル・円、159円台後半を軸にもみ合いか",
+      "link": "https://finance.yahoo.co.jp/news/detail/2e1f47507ecc63e7ba03a54f508d15c8b2b70a58",
+      "publishedAt": "2026-11-20T07:51:00+09:00",
+      "source": "ウエルスアドバイザー"
     },
     {
-      "title": "【速報】ドル・円159.92円、米・10月景気先行指数は予想外のマイナス",
-      "link": "https://zai.diamond.jp/articles/-/499375",
-      "publishedAt": "2026-11-20T00:03:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【NY為替オープニング】原油高や米12月FOMCでの大幅利上げの思惑にドル買い",
-      "link": "https://zai.diamond.jp/articles/-/499373",
-      "publishedAt": "2026-11-19T23:52:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【速報】ドル・円159.97円まで、米・週次新規失業保険申請件数は予想上回る",
-      "link": "https://zai.diamond.jp/articles/-/499370",
-      "publishedAt": "2026-11-19T22:33:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、高値もみ合い",
-      "link": "https://zai.diamond.jp/articles/-/499363",
-      "publishedAt": "2026-11-19T22:06:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "欧州為替:ドル・円は160円に接近、ドル売り継続",
-      "link": "https://www.zaikei.co.jp/article/20261119/878450.html",
-      "publishedAt": "2026-11-19T20:13:00+09:00",
+      "title": "NY為替:原油高や連邦公開市場委員会(FOMC)に大幅利上げ観測",
+      "link": "https://www.zaikei.co.jp/article/20261120/878495.html",
+      "publishedAt": "2026-11-20T07:49:00+09:00",
       "source": "財経新聞"
     },
     {
-      "title": "欧州外国為替市場概況・20時 ドル円、強含み",
-      "link": "https://zai.diamond.jp/articles/-/499360",
-      "publishedAt": "2026-11-19T20:05:00+09:00",
+      "title": "円建てCME先物は19日の225先物比1840円高安の57900円で推移",
+      "link": "https://zai.diamond.jp/articles/-/499395",
+      "publishedAt": "2026-11-20T07:27:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "NY為替見通し=ドル円、アンソロピックIPO受けた株式市場の動向に要注目か",
-      "link": "https://zai.diamond.jp/articles/-/499359",
-      "publishedAt": "2026-11-19T19:34:00+09:00",
+      "title": "ニューヨーク外国為替市場概況・19日 ドル円、5日ぶり反発",
+      "link": "https://zai.diamond.jp/articles/-/499393",
+      "publishedAt": "2026-11-20T07:04:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円、じり高 159.90円まで本日高値更新",
-      "link": "https://zai.diamond.jp/articles/-/499357",
-      "publishedAt": "2026-11-19T19:10:00+09:00",
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円、もみ合い",
+      "link": "https://zai.diamond.jp/articles/-/499388",
+      "publishedAt": "2026-11-20T04:06:00+09:00",
       "source": "ザイFX！"
     }
   ],
   "recentIndicators": [
-    {
-      "scheduledAt": "2026-11-19T00:00:00+09:00",
-      "dateLabel": "11/18",
-      "timeLabel": "24:00",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 4,
-      "title": "10月 中古住宅販売成約指数[前月比]",
-      "result": "-4.7%",
-      "forecast": "-1.9%",
-      "previous": "-7.3%",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-19T00:30:00+09:00",
-      "dateLabel": "11/18",
-      "timeLabel": "24:30",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 3,
-      "title": "11/07 - 11/13 原油在庫[前週比]",
-      "result": "338.0万バレル",
-      "forecast": "",
-      "previous": "465.7万バレル",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-19T00:30:00+09:00",
-      "dateLabel": "11/18",
-      "timeLabel": "24:30",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 3,
-      "title": "11/07 - 11/13 ガソリン在庫[前週比]",
-      "result": "519.2万バレル",
-      "forecast": "",
-      "previous": "179.9万バレル",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-19T00:30:00+09:00",
-      "dateLabel": "11/18",
-      "timeLabel": "24:30",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 3,
-      "title": "11/07 - 11/13 留出油在庫[前週比]",
-      "result": "157.1万バレル",
-      "forecast": "",
-      "previous": "407.1万バレル",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-19T06:00:00+09:00",
-      "dateLabel": "11/18",
-      "timeLabel": "30:00",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 3,
-      "title": "09月 対米証券投資",
-      "result": "1553.0億ドル",
-      "forecast": "",
-      "previous": "2792.0億ドル",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
     {
       "scheduledAt": "2026-11-19T08:50:00+09:00",
       "dateLabel": "11/19",
@@ -214,9 +149,7 @@
       "forecast": "170.0万件",
       "previous": "169.7万件",
       "url": "https://nikkei225jp.com/schedule/"
-    }
-  ],
-  "upcomingIndicators": [
+    },
     {
       "scheduledAt": "2026-11-20T08:30:00+09:00",
       "dateLabel": "11/20",
@@ -225,7 +158,7 @@
       "country": "日本",
       "importance": 3,
       "title": "10月 全国消費者物価指数（CPI）[前年比]",
-      "result": "",
+      "result": "2.3%",
       "forecast": "2.5%",
       "previous": "2.1%",
       "url": "https://nikkei225jp.com/schedule/"
@@ -238,11 +171,13 @@
       "country": "日本",
       "importance": 3,
       "title": "10月 全国消費者物価指数（CPIコア指数）[前年比]",
-      "result": "",
+      "result": "2.2%",
       "forecast": "2.3%",
       "previous": "2.1%",
       "url": "https://nikkei225jp.com/schedule/"
-    },
+    }
+  ],
+  "upcomingIndicators": [
     {
       "scheduledAt": "2026-11-21T00:00:00+09:00",
       "dateLabel": "11/20",
@@ -388,19 +323,21 @@
     }
   ],
   "fundamental": {
-    "score": -1,
+    "score": 1,
     "label": "材料は拮抗",
     "upFactors": [
-      "【NY為替オープニング】原油高や米12月FOMCでの大幅利上げの思惑にドル買い"
+      "シンガポール・日経平均先物=寄り付き5万7730円(前日比2115円安)",
+      "日本 10月 全国消費者物価指数（CPI）[前年比]：結果 2.3%／予想 2.5%",
+      "日本 10月 全国消費者物価指数（CPIコア指数）[前年比]：結果 2.2%／予想 2.3%"
     ],
     "downFactors": [
       "米国 11/08 - 11/14 新規失業保険申請件数：結果 20.3万件／予想 19.8万件",
       "米国 11/01 - 11/07 失業保険継続受給者数：結果 176.3万件／予想 170.0万件"
     ],
     "neutralFactors": [
-      "ニューヨーク外国為替市場概況･2時 ドル円、方向感模索",
-      "NY外為:ドル・円心理的節目160円手前から反落、当局の円安是正介入警戒感",
-      "ドル円、上値重い 米国株の下落と米長期金利の低下が重し"
+      "ドル円は159.67円近辺、SGX日経225先物は57730円で開始",
+      "日本経済指標【消費者物価指数】",
+      "まもなく日本消費者物価指数の発表"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
