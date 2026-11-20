@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T11:54:56+09:00",
+  "updatedAt": "2026-11-21T01:02:36+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
@@ -38,24 +38,23 @@
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   },
   "orderReport": {
-    "headline": "ドル高・株高を受けてドル円が159円後半の売オーダーを消化中",
-    "sourceTitle": "ドル高・株高を受けてドル円が159円後半の売オーダーを消化中　今日の外為注文情報　2026/11/19 17:00",
-    "url": "https://www.gaitame.com/media/entry/2026/11/19/171627",
-    "publishedAt": "2026-11-19T17:16:27+09:00",
-    "createdAt": "2026-11-19T17:10:00+09:00",
-    "summary": "現行水準の上側では159.750円、159.800円、159.850円、159.900円、159.950円、160.000円、160.100円、160.200円に売りオーダーが並んでいる。一方、下方向では159.200円、159.300円、159.350円に買いオーダーが散見される。",
+    "headline": "株安・円高でドル円の159円後半には売オーダーが並ぶ",
+    "sourceTitle": "株安・円高でドル円の159円後半には売オーダーが並ぶ　今日の外為注文情報　2026/11/20 17:00",
+    "url": "https://www.gaitame.com/media/entry/2026/11/20/171546",
+    "publishedAt": "2026-11-20T17:15:46+09:00",
+    "createdAt": "2026-11-20T17:10:00+09:00",
+    "summary": "現行水準の上側では159.350円、159.400円、159.450円、159.500円、159.600円、159.650円、159.700円に売りオーダーが並んでいる。一方、下方向では158.900円、159.000円に買いオーダーが散見される。",
     "sellLevels": [
-      159.75,
-      159.8,
-      159.85,
-      159.9,
-      159.95,
-      160.0,
-      160.1,
-      160.2
+      159.35,
+      159.4,
+      159.45,
+      159.5,
+      159.6,
+      159.65,
+      159.7
     ],
     "buyLevels": [],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/guh202109/20261119/20261119170710.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/guh202109/20261120/20261120170856.png",
     "unitText": "1メモリ＝3,000,000通貨",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   }
