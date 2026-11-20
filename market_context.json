@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T01:23:46+09:00",
+  "updatedAt": "2026-11-21T07:49:32+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -11,6 +11,54 @@
     ]
   },
   "news": [
+    {
+      "title": "ニューヨーク外国為替市場概況・20日 ドル円、反落",
+      "link": "https://zai.diamond.jp/articles/-/499473",
+      "publishedAt": "2026-11-21T07:03:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "NY外為市場=ドル高一服、FRBタカ派姿勢継続観測で下げ幅限定",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNFVVdkQtQ3lRSHo4UmxtMWZxQlllUFZIZ2VRcGpfMXBoWVlZSU9ubjM4SnBMZ3VPQ05QSV9icnA4MEFKZmstTzA4Z2hmdlRhUV9yYkZpeUVIaXNMaWkzV2UybFVoNkpHenozWUFKckQwSEdseUlvNjZ1eEJUV3I5eWNubFVydw?oc=5&hl=ja&gl=JP&ceid=JP:ja",
+      "publishedAt": "2026-11-21T06:10:00+09:00",
+      "source": "reuters"
+    },
+    {
+      "title": "NY外為:リスク回避で円やフランに買い、安全資産の米国債買いが加速",
+      "link": "https://zai.diamond.jp/articles/-/499471",
+      "publishedAt": "2026-11-21T05:09:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、一時158.51円まで下落 株急落と金利低下で",
+      "link": "https://zai.diamond.jp/articles/-/499470",
+      "publishedAt": "2026-11-21T04:39:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･4時 ドル円、小高い",
+      "link": "https://zai.diamond.jp/articles/-/499467",
+      "publishedAt": "2026-11-21T04:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況･2時 ドル円、もみ合い",
+      "link": "https://zai.diamond.jp/articles/-/499463",
+      "publishedAt": "2026-11-21T02:07:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【ドル円予想2026/11/20】今夜も160円の手前で足踏み続く?米消費者心理とFRB発言に注目!★分かり易いFX情報番組",
+      "link": "https://www.youtube.com/watch?v=3ATlBSCWy64",
+      "publishedAt": "2026-11-21T01:56:00+09:00",
+      "source": "ひまわり証券"
+    },
+    {
+      "title": "ベセント米財務長官、FRBに大幅利上げの回避求める",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNEpodkZ4LWU0UnNSMnlPVHJ4NVN2Nm1PLWo3cGZaNFdZZm1MQWU0eVZqdmdCMy00bUZudUlIQnBBUWx6dThLellIS3dSNTVXTWxDc09lNUh2QVJyeXYyNXgtUTRjRlJRZ0ljUlBMd1ZGb0U3NTBTU1ZsU0c1SkRpVU1udUtwZXhXa19TWVFCTmo2ZFNoYV9HZTB1Yw?oc=5&hl=ja&gl=JP&ceid=JP:ja",
+      "publishedAt": "2026-11-21T01:16:00+09:00",
+      "source": "reuters"
+    },
     {
       "title": "【速報】ドル・円158.87円、米・11月ミシガン大学消費者信頼感指数確報値は上方修正",
       "link": "https://zai.diamond.jp/articles/-/499458",
@@ -34,122 +82,9 @@
       "link": "https://zai.diamond.jp/articles/-/499450",
       "publishedAt": "2026-11-20T22:08:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "欧州外国為替市場概況・20時 ドル円、戻り限定",
-      "link": "https://zai.diamond.jp/articles/-/499447",
-      "publishedAt": "2026-11-20T20:05:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "欧州為替:ドル・円は下げ渋り、ユーロやNZドルに売り",
-      "link": "https://www.zaikei.co.jp/article/20261120/878655.html",
-      "publishedAt": "2026-11-20T20:00:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "NY為替見通し=ドル円、NY株続落ならリスク回避の円買いに警戒",
-      "link": "https://zai.diamond.jp/articles/-/499445",
-      "publishedAt": "2026-11-20T19:33:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "欧州為替:ドル・円は一段安、円買い優勢",
-      "link": "https://www.zaikei.co.jp/article/20261120/878654.html",
-      "publishedAt": "2026-11-20T19:30:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "【ドル円予想2026/11/20】今夜も160円の手前で足踏み続く?米消費者心理とFRB発言に注目!★分かり易いFX情報番組",
-      "link": "https://www.youtube.com/watch?v=3ATlBSCWy64",
-      "publishedAt": "2026-11-20T19:26:00+09:00",
-      "source": "ひまわり証券"
-    },
-    {
-      "title": "ドル円、158.75円まで下げ幅拡大 米長期金利が低下",
-      "link": "https://zai.diamond.jp/articles/-/499443",
-      "publishedAt": "2026-11-20T18:53:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "欧州為替:ドル・円は一時158円台、リスク回避ムードで",
-      "link": "https://www.zaikei.co.jp/article/20261120/878653.html",
-      "publishedAt": "2026-11-20T18:26:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替概況:ドル・円は軟調、世界株安で",
-      "link": "https://zai.diamond.jp/articles/-/499441",
-      "publishedAt": "2026-11-20T18:24:00+09:00",
-      "source": "ザイFX！"
     }
   ],
   "recentIndicators": [
-    {
-      "scheduledAt": "2026-11-19T08:50:00+09:00",
-      "dateLabel": "11/19",
-      "timeLabel": "08:50",
-      "countryCode": "jp",
-      "country": "日本",
-      "importance": 3,
-      "title": "09月 機械受注[前月比]",
-      "result": "-0.3%",
-      "forecast": "1.6%",
-      "previous": "5.2%",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-19T08:50:00+09:00",
-      "dateLabel": "11/19",
-      "timeLabel": "08:50",
-      "countryCode": "jp",
-      "country": "日本",
-      "importance": 3,
-      "title": "09月 機械受注[前年比]",
-      "result": "13.4%",
-      "forecast": "13.8%",
-      "previous": "18.6%",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-19T22:30:00+09:00",
-      "dateLabel": "11/19",
-      "timeLabel": "22:30",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 4,
-      "title": "11月 フィラデルフィア連銀景況指数",
-      "result": "6.3",
-      "forecast": "21.5",
-      "previous": "20.9",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-19T22:30:00+09:00",
-      "dateLabel": "11/19",
-      "timeLabel": "22:30",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 3,
-      "title": "11/08 - 11/14 新規失業保険申請件数",
-      "result": "20.3万件",
-      "forecast": "19.8万件",
-      "previous": "20.0万件",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-19T22:30:00+09:00",
-      "dateLabel": "11/19",
-      "timeLabel": "22:30",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 3,
-      "title": "11/01 - 11/07 失業保険継続受給者数",
-      "result": "176.3万件",
-      "forecast": "170.0万件",
-      "previous": "169.7万件",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
     {
       "scheduledAt": "2026-11-20T08:30:00+09:00",
       "dateLabel": "11/20",
@@ -228,6 +163,19 @@
       "result": "",
       "forecast": "55.2",
       "previous": "55.9",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-25T00:00:00+09:00",
+      "dateLabel": "11/24",
+      "timeLabel": "24:00",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 3,
+      "title": "11月 リッチモンド連銀製造業指数",
+      "result": "",
+      "forecast": "",
+      "previous": "-2.0",
       "url": "https://nikkei225jp.com/schedule/"
     },
     {
@@ -323,20 +271,19 @@
     }
   ],
   "fundamental": {
-    "score": 0,
-    "label": "材料は拮抗",
+    "score": 4,
+    "label": "ドル高・円安材料が優勢",
     "upFactors": [
+      "NY外為市場=ドル高一服、FRBタカ派姿勢継続観測で下げ幅限定",
+      "ベセント米財務長官、FRBに大幅利上げの回避求める",
       "日本 10月 全国消費者物価指数（CPI）[前年比]：結果 2.3%／予想 2.5%",
       "日本 10月 全国消費者物価指数（CPIコア指数）[前年比]：結果 2.2%／予想 2.3%"
     ],
-    "downFactors": [
-      "米国 11/08 - 11/14 新規失業保険申請件数：結果 20.3万件／予想 19.8万件",
-      "米国 11/01 - 11/07 失業保険継続受給者数：結果 176.3万件／予想 170.0万件"
-    ],
+    "downFactors": [],
     "neutralFactors": [
-      "【速報】ドル・円158.87円、米・11月ミシガン大学消費者信頼感指数確報値は上方修正",
-      "ニューヨーク外国為替市場概況・24時 ドル円、下げ渋り",
-      "ドル、弱含み ドル円は一時158.55円まで下げる"
+      "ニューヨーク外国為替市場概況・20日 ドル円、反落",
+      "NY外為:リスク回避で円やフランに買い、安全資産の米国債買いが加速",
+      "ドル円、一時158.51円まで下落 株急落と金利低下で"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
