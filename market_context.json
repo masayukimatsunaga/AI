@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T08:53:28+09:00",
+  "updatedAt": "2026-11-20T16:22:09+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,75 +12,75 @@
   },
   "news": [
     {
-      "title": "ドル円は159.67円近辺、SGX日経225先物は57730円で開始",
-      "link": "https://zai.diamond.jp/articles/-/499402",
-      "publishedAt": "2026-11-20T08:42:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "日本経済指標【消費者物価指数】",
-      "link": "https://fx.minkabu.jp/news/385027",
-      "publishedAt": "2026-11-20T08:40:00+09:00",
-      "source": "みんかぶ"
-    },
-    {
-      "title": "シンガポール・日経平均先物=寄り付き5万7730円(前日比2115円安)",
-      "link": "https://finance.yahoo.co.jp/news/detail/6fa389d8d4bbe000e29b928e5357d0a395e324ac",
-      "publishedAt": "2026-11-20T08:31:00+09:00",
-      "source": "ウエルスアドバイザー"
-    },
-    {
-      "title": "まもなく日本消費者物価指数の発表",
-      "link": "https://fx.minkabu.jp/news/385025",
-      "publishedAt": "2026-11-20T08:20:00+09:00",
-      "source": "みんかぶ"
-    },
-    {
-      "title": "【ドル円予想2026/11/17】米指標が強くてもドル売り?要人発言で流れが変わる?★分かり易いFX情報番組",
-      "link": "https://www.youtube.com/watch?v=2CwqBe17Pa0",
-      "publishedAt": "2026-11-20T08:10:00+09:00",
-      "source": "ひまわり証券"
-    },
-    {
-      "title": "NY金先物は続落、FOMCでの大幅利上げ観測によるドル買いで52週安値更新",
-      "link": "https://zai.diamond.jp/articles/-/499396",
-      "publishedAt": "2026-11-20T08:00:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "東京為替見通し=ドル円、アンソロピックIPOでも株安 クロス円売りが上値抑制",
-      "link": "https://zai.diamond.jp/articles/-/499397",
-      "publishedAt": "2026-11-20T08:00:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "20日の東京外国為替市場見通し=ドル・円、159円台後半を軸にもみ合いか",
-      "link": "https://finance.yahoo.co.jp/news/detail/2e1f47507ecc63e7ba03a54f508d15c8b2b70a58",
-      "publishedAt": "2026-11-20T07:51:00+09:00",
-      "source": "ウエルスアドバイザー"
-    },
-    {
-      "title": "NY為替:原油高や連邦公開市場委員会(FOMC)に大幅利上げ観測",
-      "link": "https://www.zaikei.co.jp/article/20261120/878495.html",
-      "publishedAt": "2026-11-20T07:49:00+09:00",
+      "title": "東京為替:ドル・円は軟調、日本株の急落で",
+      "link": "https://www.zaikei.co.jp/article/20261120/878626.html",
+      "publishedAt": "2026-11-20T16:09:00+09:00",
       "source": "財経新聞"
     },
     {
-      "title": "円建てCME先物は19日の225先物比1840円高安の57900円で推移",
-      "link": "https://zai.diamond.jp/articles/-/499395",
-      "publishedAt": "2026-11-20T07:27:00+09:00",
+      "title": "ドル/円は160円台定着なるか、米利上げ観測・株の動向にらみ=来週の外為市場",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU05jNWJ0X04xNmoyQWRBd0pONXY4dG54b0tBN1lXQ25EeFlvRW0wSERxbmkxVkdkTmRJMmxwb1pJQnN2RWkyRVBGY0g1d1NJZnp6OS1kLWdGOGo5dm84NFdtT2RGMVdYOUpMS2tvbWVWS25paGp4NVVKZHJMNzlLbWlrTzZqQQ?oc=5&hl=ja&gl=JP&ceid=JP:ja",
+      "publishedAt": "2026-11-20T16:01:00+09:00",
+      "source": "reuters"
+    },
+    {
+      "title": "【株式市場】日経平均3007円安の大幅反落、AI・半導体株に売り集中、米株全面安が波及",
+      "link": "https://kabu-ir.com/article/522074692.html",
+      "publishedAt": "2026-11-20T15:56:00+09:00",
+      "source": "日本インタビュ新聞"
+    },
+    {
+      "title": "3007円安の5万6436円65銭 20日の平均株価",
+      "link": "https://www.jiji.com/jc/article?k=2026112000858&g=eco",
+      "publishedAt": "2026-11-20T15:49:00+09:00",
+      "source": "時事ドットコム"
+    },
+    {
+      "title": "日経平均終値3007円安 AI巡り混乱",
+      "link": "https://news.yahoo.co.jp/pickup/6603296?source=rss",
+      "publishedAt": "2026-11-20T15:48:00+09:00",
+      "source": "Yahoo!"
+    },
+    {
+      "title": "【ドル円予想2026/11/20】今夜も160円の手前で足踏み続く?米消費者心理とFRB発言に注目!★分かり易いFX情報番組",
+      "link": "https://www.youtube.com/watch?v=3ATlBSCWy64",
+      "publishedAt": "2026-11-20T15:39:00+09:00",
+      "source": "ひまわり証券"
+    },
+    {
+      "title": "日経平均大引け 3日ぶり反落 3007円安の5万6436円",
+      "link": "https://www.nikkei.com/article/DGXZQOFL205GL0Q6A121C2000000/",
+      "publishedAt": "2026-11-20T15:35:00+09:00",
+      "source": "日経新聞"
+    },
+    {
+      "title": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず",
+      "link": "https://www.nikkei.com/article/DGXZQOFL200MHTQ6A121C2000000/",
+      "publishedAt": "2026-11-20T15:32:00+09:00",
+      "source": "日経新聞"
+    },
+    {
+      "title": "日経平均大引け:前日比3007.56円安の56436.65円",
+      "link": "https://zai.diamond.jp/articles/-/499430",
+      "publishedAt": "2026-11-20T15:30:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・19日 ドル円、5日ぶり反発",
-      "link": "https://zai.diamond.jp/articles/-/499393",
-      "publishedAt": "2026-11-20T07:04:00+09:00",
-      "source": "ザイFX！"
+      "title": "3007円安の5万6436円で安値引け",
+      "link": "https://www.nsjournal.jp/%e2%98%86%e6%a6%82%e6%b3%81-%e5%a4%a7%e5%bc%95%e3%81%91%e3%80%803007%e5%86%86%e5%ae%89%e3%81%ae5%e4%b8%876436%e5%86%86%e3%81%a7%e5%ae%89%e5%80%a4%e5%bc%95%e3%81%91/",
+      "publishedAt": "2026-11-20T15:30:00+09:00",
+      "source": "日本証券新聞"
     },
     {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、もみ合い",
-      "link": "https://zai.diamond.jp/articles/-/499388",
-      "publishedAt": "2026-11-20T04:06:00+09:00",
+      "title": "東京為替:ドル・円は下げ一服、株価にらみ",
+      "link": "https://www.zaikei.co.jp/article/20261120/878618.html",
+      "publishedAt": "2026-11-20T15:09:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "ドル円、159.05円まで下値広げる 日経平均3000円近く下落・米金利低下幅拡大",
+      "link": "https://zai.diamond.jp/articles/-/499425",
+      "publishedAt": "2026-11-20T14:23:00+09:00",
       "source": "ザイFX！"
     }
   ],
@@ -200,7 +200,7 @@
       "importance": 5,
       "title": "11月 製造業PMI（購買担当者景気指数）",
       "result": "",
-      "forecast": "",
+      "forecast": "54.6",
       "previous": "54.9",
       "url": "https://nikkei225jp.com/schedule/"
     },
@@ -213,7 +213,7 @@
       "importance": 4,
       "title": "11月 サービス業PMI（購買担当者景気指数）",
       "result": "",
-      "forecast": "",
+      "forecast": "55.7",
       "previous": "56.1",
       "url": "https://nikkei225jp.com/schedule/"
     },
@@ -226,7 +226,7 @@
       "importance": 4,
       "title": "11月 ｺﾝﾎﾟｼﾞｯﾄPMI（購買担当者景気指数）",
       "result": "",
-      "forecast": "",
+      "forecast": "55.2",
       "previous": "55.9",
       "url": "https://nikkei225jp.com/schedule/"
     },
@@ -239,7 +239,7 @@
       "importance": 4,
       "title": "11月 コンファレンスボード消費者信頼感指数",
       "result": "",
-      "forecast": "",
+      "forecast": "92.0",
       "previous": "91.7",
       "url": "https://nikkei225jp.com/schedule/"
     },
@@ -252,7 +252,7 @@
       "importance": 4,
       "title": "10月 PCE価格指数[前年比]",
       "result": "",
-      "forecast": "",
+      "forecast": "3.8%",
       "previous": "3.6%",
       "url": "https://nikkei225jp.com/schedule/"
     },
@@ -265,7 +265,7 @@
       "importance": 4,
       "title": "10月 コアPCE価格指数[前年比]",
       "result": "",
-      "forecast": "",
+      "forecast": "3.2%",
       "previous": "3.1%",
       "url": "https://nikkei225jp.com/schedule/"
     },
@@ -278,7 +278,7 @@
       "importance": 4,
       "title": "第3四半期 実質GDP[前期比年率]",
       "result": "",
-      "forecast": "",
+      "forecast": "3.4%",
       "previous": "3.4%",
       "url": "https://nikkei225jp.com/schedule/"
     },
@@ -291,7 +291,7 @@
       "importance": 4,
       "title": "10月 耐久財受注[前月比]",
       "result": "",
-      "forecast": "",
+      "forecast": "0.5%",
       "previous": "1.9%",
       "url": "https://nikkei225jp.com/schedule/"
     },
@@ -304,7 +304,7 @@
       "importance": 4,
       "title": "10月 耐久財受注（輸送除くコア）[前月比]",
       "result": "",
-      "forecast": "",
+      "forecast": "0.5%",
       "previous": "0.5%",
       "url": "https://nikkei225jp.com/schedule/"
     },
@@ -317,27 +317,28 @@
       "importance": 4,
       "title": "10月 新築住宅販売件数",
       "result": "",
-      "forecast": "",
+      "forecast": "64.7万件",
       "previous": "67.6万件",
       "url": "https://nikkei225jp.com/schedule/"
     }
   ],
   "fundamental": {
-    "score": 1,
-    "label": "材料は拮抗",
+    "score": 5,
+    "label": "ドル高・円安材料が優勢",
     "upFactors": [
-      "シンガポール・日経平均先物=寄り付き5万7730円(前日比2115円安)",
-      "日本 10月 全国消費者物価指数（CPI）[前年比]：結果 2.3%／予想 2.5%",
-      "日本 10月 全国消費者物価指数（CPIコア指数）[前年比]：結果 2.2%／予想 2.3%"
+      "ドル/円は160円台定着なるか、米利上げ観測・株の動向にらみ=来週の外為市場",
+      "【株式市場】日経平均3007円安の大幅反落、AI・半導体株に売り集中、米株全面安が波及",
+      "3007円安の5万6436円65銭 20日の平均株価",
+      "日経平均終値3007円安 AI巡り混乱",
+      "日経平均大引け 3日ぶり反落 3007円安の5万6436円"
     ],
     "downFactors": [
       "米国 11/08 - 11/14 新規失業保険申請件数：結果 20.3万件／予想 19.8万件",
       "米国 11/01 - 11/07 失業保険継続受給者数：結果 176.3万件／予想 170.0万件"
     ],
     "neutralFactors": [
-      "ドル円は159.67円近辺、SGX日経225先物は57730円で開始",
-      "日本経済指標【消費者物価指数】",
-      "まもなく日本消費者物価指数の発表"
+      "東京為替:ドル・円は軟調、日本株の急落で",
+      "【ドル円予想2026/11/20】今夜も160円の手前で足踏み続く?米消費者心理とFRB発言に注目!★分かり易いFX情報番組"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
