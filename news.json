@@ -1,10 +1,46 @@
 {
-  "updatedAt": "2026-11-21T07:49:32+09:00",
+  "updatedAt": "2026-11-21T12:59:50+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "「1ドル157円では米国株を買えない」は早計？ 米国在住投資家が狙う“株安・円高”の瞬間（みんかぶマガジン）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zd2p4RTBWRGl3Y3lDcGx0WVl4NXh6Z2tvWEx1T2djRXlWZG9xRG81WXNGbUpMODJlb1dvck5wOFpoWExpaExzTTRVa3BydlJfRk91T1BKSHExSlVKZERyVUVhOTZqem1EV0NkanplYjBTMWRhbmlXNmd0NVZkWnM?oc=5",
+      "pubDate": "2026-11-21T12:10:20+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "北陸の企業倒産「今年最多に」2026年10月に29件 物価高騰や円安・サイバー攻撃で「最後のひと押しを懸念」（MRO北陸放送）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnTkRxZjBfblVtYTRiVEw1QVozbjdSemRwQUJLZ0RuZmIwMjJCeFduLVo1R2tvNy1KLWZ4YlhvcnNab0Vsc0RDMnF0ZS1CLU1mZWlLSDMxN19FSGlHUE5wU01BY2FGSmRzX1MwbWpmd2FOSTJEbm1GMTctWnRTYzg?oc=5",
+      "pubDate": "2026-11-21T09:42:17+09:00",
+      "source": "Yahoo!ニュース"
+    },
+    {
+      "title": "円安圧力が再燃？アメリカ｢積極的な利上げモード｣の行方",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uMDg3QWM0UEd1ZVEtLUw5cjlhMEotQnBjWkFiZHhZT1ZMTHFZS1NhLU1zVDkwM2NIcGREMXlMQnlBY3RhRTFOU1pxS0xKYUhZMFNHeHJiOA?oc=5",
+      "pubDate": "2026-11-21T09:00:00+09:00",
+      "source": "四季報オンライン"
+    },
+    {
+      "title": "世界各国通貨に対する円:対ドル0.03%高、対ユーロ0.02%高",
+      "link": "https://zai.diamond.jp/articles/-/499476",
+      "pubDate": "2026-11-21T08:37:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、158円台後半から下落 米期待インフレ鈍化で利上げ観測後退",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlSzFHT3hOaFRNQ091S2JKeGczRnhMZXRxendSc2FtaGFBMFVCdnc3QTVfNjJ3dlhnN2s3Y0ctZ0Y1T1F6UGFLd1p6MWQ4RktlRFNsTjV0X3lKUEJYdGJ5cF9MY2pHT2hYS04wZldleUtJb0wy?oc=5",
+      "pubDate": "2026-11-21T08:25:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "20日レンジ ドル円 158.42-159.84円(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1BST0E3S0gteFlxcXZ1bFhtMXNrbTlQS2Q0NmpRQmZZNlRva2M1MGVpZkZBLXM1ZGhyRnQ2V3VsNjNvM1BQRUI5MmpONTVidXdwd0taVG14QmxoSWw0WTRTdFhzZlB6MUVVUU9xU1FjcTlsT21TMW8zVWhaM3A4NzJSOHNoTmc?oc=5",
+      "pubDate": "2026-11-21T07:20:03+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "NYマーケットダイジェスト・20日 株急落・金利低下・円高(トレーダーズ・ウェブ)",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0J4OXpSbVFoWGZqeGg5bWNjZ0FhdlpLMXRmcG9wSGx2R1p0b1p3YWRILWhsU0hLbFpLcXZJRDdJbVc3a3FvZy0xOFlhcE4tTE1KVEVmeE93aVFmYW1yaV9hd09fMnBzWm5maG02OURlYW5fQlZjeWJ6S1ZHRk9SVF9ROWV1X28?oc=5",
@@ -16,6 +52,12 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1COWFoaDc4YkhOMDdpM2I0emJwMFBsdm8xUHNlamFCVWpxb21FVmhGU2l1b19kZkM3YjE4UG1wQ2RoRVlWejY1MQ?oc=5",
       "pubDate": "2026-11-21T07:10:50+09:00",
       "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・20日 ドル円、反落(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc014MGN6QlEzODBqNGZEcTBQNzBCd1l3UERIaF9MOGJ2dXJFSFdDX0lfcjdqb3gtV2wxenJFT244dGZwTTVEOEtOUXlhcjFLOVRlRjBCQjVKSW5ZaWFLSEtrTWF3amRGanYzWkZHYnVYRDR0b3BjOXRmUG1JOWNaNXZYYmUwcWs?oc=5",
+      "pubDate": "2026-11-21T07:03:47+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
       "title": "ニューヨーク外国為替市場概況・20日 ドル円、反落",
@@ -42,52 +84,10 @@
       "source": "外為どっとコム"
     },
     {
-      "title": "NY外為市場=ドル高一服、FRBタカ派姿勢継続観測で下げ幅限定",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNFVVdkQtQ3lRSHo4UmxtMWZxQlllUFZIZ2VRcGpfMXBoWVlZSU9ubjM4SnBMZ3VPQ05QSV9icnA4MEFKZmstTzA4Z2hmdlRhUV9yYkZpeUVIaXNMaWkzV2UybFVoNkpHenozWUFKckQwSEdseUlvNjZ1eEJUV3I5eWNubFVydw?oc=5&hl=ja&gl=JP&ceid=JP:ja",
-      "pubDate": "2026-11-21T06:10:00+09:00",
-      "source": "reuters"
-    },
-    {
       "title": "来週の為替予想（米ドル/円）株安で円買いが息を吹き返す！逃避先がドルから円へ移れば157円も ハロンズFX 2026/11/21",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aQVMzLW1vN2NlRjdXclBmUXpONFBxbi1ONzVzckE0QXZOMWdmWm94UlVJd3NZeC1HWWVJZnNpdWVLcTNnT3BVcWRGUmRqN19XMng1aTNjbUswQkQtVk9xc1RRMA?oc=5",
       "pubDate": "2026-11-21T06:02:52+09:00",
       "source": "外為どっとコム"
-    },
-    {
-      "title": "NY外為:リスク回避で円やフランに買い、安全資産の米国債買いが加速",
-      "link": "https://zai.diamond.jp/articles/-/499471",
-      "pubDate": "2026-11-21T05:09:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "（慢性円安）介入しても、個人投資家円売り 「マーケットは見透かしている」",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKQ0dvWHNxdkJfLUZ6TFRQME80Ym1tUURsdEtZZFVLcDNxbWdRMDUyY0l1cnh3bjFQT2p1TERyalNhX1l0a2VQMmVETmdmeUw0aGRwdzlkekcxZ2Mw?oc=5",
-      "pubDate": "2026-11-21T05:00:00+09:00",
-      "source": "朝日新聞"
-    },
-    {
-      "title": "25日の米PCE、FRBの利上げ占う 円安に傾けば再び介入の議論も",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfcUI0SjZwS09YNFFjRGZkUHY5ZnpUeUFFVm5HdjZPOWdQeERDXzl1aFF2ZzFpOHhaSTNMUnkzM2NDaEVzRk9IRUxSLTJYSlhBdllwN21BNXo0OWFfZTFSc0tBc0JvelpOdXdwaHJ6b3M2S0JPQWpIYllGeW5rZw?oc=5",
-      "pubDate": "2026-11-21T05:00:00+09:00",
-      "source": "日本経済新聞"
-    },
-    {
-      "title": "ドル円、NY市場で158円台後半に小反発 米長期金利の下げ渋りが支え",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DLTRsRUZmWUVQcFZPMHEtUmxGQUlLY3NNWGtsbkk2VHRfSDItOVRqTlg2YXl0Y3I1MUl6WkhManhzNE5RVmVGRjNfQ1dFbVBoVWs0d3oyd0MxelFwbVMza0pQN0pGSllpLXVLaWxzbVk1WWk3?oc=5",
-      "pubDate": "2026-11-21T04:55:00+09:00",
-      "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "ドル円、１５８円台半ばまで下げ幅拡大 リスク回避の円高が強まる＝ＮＹ為替",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vMEhwQk5McDNiUnJuNWVNWDlQNXp4Q2xHcWxwYV9FZXVSOXNOakRWZlI3c3FkbWp3ckV0Smw4Y1ZkSGNyXzIzTQ?oc=5",
-      "pubDate": "2026-11-21T04:43:51+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "ドル円、一時158.51円まで下落 株急落と金利低下で(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWi1GVmllUFBjdWhuRE90am5pTTY5MlZnUEllTi1PeW5RbVpGckgzQnBMTmVObU94QkVNMUw2QkU4LVJQZG9xUkNydGlxeXpPeE83RUdDNVZocDRyVzhvdHRvTXE2aHBCVzJ5QW5CMWZoRVRvWlhwTWtCYXVQYnphSWU3NkhNczg?oc=5",
-      "pubDate": "2026-11-21T04:39:33+09:00",
-      "source": "Yahoo!ファイナンス"
     }
   ]
 }

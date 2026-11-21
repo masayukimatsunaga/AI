@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:49:32+09:00",
+  "updatedAt": "2026-11-21T12:59:51+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,16 +12,16 @@
   },
   "news": [
     {
+      "title": "日銀利上げの「残弾」はあと何発?最タカ派と最ハト派のはざまで読む利上げの行方",
+      "link": "https://media.rakuten-sec.net/articles/-/54101",
+      "publishedAt": "2026-11-21T11:00:00+09:00",
+      "source": "toshiru"
+    },
+    {
       "title": "ニューヨーク外国為替市場概況・20日 ドル円、反落",
       "link": "https://zai.diamond.jp/articles/-/499473",
       "publishedAt": "2026-11-21T07:03:00+09:00",
       "source": "ザイFX！"
-    },
-    {
-      "title": "NY外為市場=ドル高一服、FRBタカ派姿勢継続観測で下げ幅限定",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNFVVdkQtQ3lRSHo4UmxtMWZxQlllUFZIZ2VRcGpfMXBoWVlZSU9ubjM4SnBMZ3VPQ05QSV9icnA4MEFKZmstTzA4Z2hmdlRhUV9yYkZpeUVIaXNMaWkzV2UybFVoNkpHenozWUFKckQwSEdseUlvNjZ1eEJUV3I5eWNubFVydw?oc=5&hl=ja&gl=JP&ceid=JP:ja",
-      "publishedAt": "2026-11-21T06:10:00+09:00",
-      "source": "reuters"
     },
     {
       "title": "NY外為:リスク回避で円やフランに買い、安全資産の米国債買いが加速",
@@ -271,15 +271,17 @@
     }
   ],
   "fundamental": {
-    "score": 4,
+    "score": 3,
     "label": "ドル高・円安材料が優勢",
     "upFactors": [
-      "NY外為市場=ドル高一服、FRBタカ派姿勢継続観測で下げ幅限定",
+      "日銀利上げの「残弾」はあと何発?最タカ派と最ハト派のはざまで読む利上げの行方",
       "ベセント米財務長官、FRBに大幅利上げの回避求める",
       "日本 10月 全国消費者物価指数（CPI）[前年比]：結果 2.3%／予想 2.5%",
       "日本 10月 全国消費者物価指数（CPIコア指数）[前年比]：結果 2.2%／予想 2.3%"
     ],
-    "downFactors": [],
+    "downFactors": [
+      "日銀利上げの「残弾」はあと何発?最タカ派と最ハト派のはざまで読む利上げの行方"
+    ],
     "neutralFactors": [
       "ニューヨーク外国為替市場概況・20日 ドル円、反落",
       "NY外為:リスク回避で円やフランに買い、安全資産の米国債買いが加速",
