@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-11-21T21:42:49+09:00",
+  "updatedAt": "2026-11-22T04:49:32+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
+    {
+      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+      "pubDate": "2026-11-22T03:30:18+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbWxqc1ltSU1ndEE0VElnZldUTGdyRVJpOTdKeXBsc0RDSm40dm9kLTJqaDZlOVpoR2E5eEZIX1o0bFR1SFR2N2k4WjRiTnN5dHVBTHJn?oc=5",
+      "pubDate": "2026-11-22T01:05:02+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
     {
       "title": "【ドル円予想2026/11/20】今夜も160円の手前で足踏み続く?米消費者心理とFRB発言に注目!★分かり易いFX情報番組",
       "link": "https://www.youtube.com/watch?v=3ATlBSCWy64",
@@ -76,18 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWRGdyU3RJZEplUjdYSVBpMkppQkZrbDlMNkhEUUp5OHo3OTUyeElxZnFPYlVXaUVHbklRbE8wZEZWN1RJUUdnVnhLTkc2UC1YTUFvYmxZeTlGYVFQMjB1Wk1raTQ0NWVId3FsRjdFOEpSaG82eDhQSE9ueFhRQQ?oc=5&hl=ja&gl=JP&ceid=JP:ja",
       "pubDate": "2026-11-21T07:05:00+09:00",
       "source": "reuters"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・20日 ドル円、反落(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc014MGN6QlEzODBqNGZEcTBQNzBCd1l3UERIaF9MOGJ2dXJFSFdDX0lfcjdqb3gtV2wxenJFT244dGZwTTVEOEtOUXlhcjFLOVRlRjBCQjVKSW5ZaWFLSEtrTWF3amRGanYzWkZHYnVYRDR0b3BjOXRmUG1JOWNaNXZYYmUwcWs?oc=5",
-      "pubDate": "2026-11-21T07:03:47+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・20日 ドル円、反落",
-      "link": "https://zai.diamond.jp/articles/-/499473",
-      "pubDate": "2026-11-21T07:03:00+09:00",
-      "source": "ザイFX！"
     }
   ]
 }
