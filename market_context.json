@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T00:42:06+09:00",
+  "updatedAt": "2026-11-23T06:17:46+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -60,12 +60,6 @@
       "source": "ザイFX！"
     },
     {
-      "title": "ベセント米財務長官、FRBに大幅利上げの回避求める",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNEpodkZ4LWU0UnNSMnlPVHJ4NVN2Nm1PLWo3cGZaNFdZZm1MQWU0eVZqdmdCMy00bUZudUlIQnBBUWx6dThLellIS3dSNTVXTWxDc09lNUh2QVJyeXYyNXgtUTRjRlJRZ0ljUlBMd1ZGb0U3NTBTU1ZsU0c1SkRpVU1udUtwZXhXa19TWVFCTmo2ZFNoYV9HZTB1Yw?oc=5&hl=ja&gl=JP&ceid=JP:ja",
-      "publishedAt": "2026-11-21T01:16:00+09:00",
-      "source": "reuters"
-    },
-    {
       "title": "【速報】ドル・円158.87円、米・11月ミシガン大学消費者信頼感指数確報値は上方修正",
       "link": "https://zai.diamond.jp/articles/-/499458",
       "publishedAt": "2026-11-21T00:08:00+09:00",
@@ -81,6 +75,12 @@
       "title": "ドル、弱含み ドル円は一時158.55円まで下げる",
       "link": "https://zai.diamond.jp/articles/-/499452",
       "publishedAt": "2026-11-20T22:44:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "欧州外国為替市場概況・22時 ドル円、弱含み",
+      "link": "https://zai.diamond.jp/articles/-/499450",
+      "publishedAt": "2026-11-20T22:08:00+09:00",
       "source": "ザイFX！"
     }
   ],

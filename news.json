@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T00:42:06+09:00",
+  "updatedAt": "2026-11-23T06:17:46+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
@@ -10,18 +10,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3UlNTS2Flem9fOG5iM25kTTJRRTRNWG1yM2ZMSkMxdzV5bWxQb0pJNnIxTjh6SGxTdTYtMWwwV3dGT3pRcFRNRTBnODhYVXlOd2luZDcycnZEUzhvQXA1WVdpTzM?oc=5",
       "pubDate": "2026-11-22T18:00:00+09:00",
       "source": "テレ東BIZ"
-    },
-    {
-      "title": "円安は賃貸経営にどんな影響がある？滞納リスク、外国人の不動産購入、金利上昇｜金子徳公",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pSkstNS1MZDFqdlB5WjExZlRQSG9ZS0Q5aFQ5S05kOW52eUd0OEtmSldxSHN6LTJ1RzI0SkkwZWtIUG15STh4ZVFKTE5Na1UweUpqVjRBaW1zbHRmdVo0WDgwQlg2UUdtTGJN?oc=5",
-      "pubDate": "2026-11-22T17:41:29+09:00",
-      "source": "mbp-japan.com"
-    },
-    {
-      "title": "2022年の賃貸業界を振り返る。電子契約の解禁、円安による建材高騰、相続土地国庫帰属制度、世帯数減少の2023年問題",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41YzhMdDgwMEJkemN2NXhZZmJuVHM1bkJuWFBEbVhaSnV1ODVtTjZZSWlydXRsc2dKTkdfeDNGMHotT05pT3ZEYWhRT1JKM2hPcW9sUTJOTUVqTnhsc3B5VDd6RGoxZ2tzVWJB?oc=5",
-      "pubDate": "2026-11-22T17:41:29+09:00",
-      "source": "mbp-japan.com"
     },
     {
       "title": "株安・円安・金利高 今後の相場の行方は？【明日への投資戦略 11/24～11/27】",
@@ -88,6 +76,18 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uMDg3QWM0UEd1ZVEtLUw5cjlhMEotQnBjWkFiZHhZT1ZMTHFZS1NhLU1zVDkwM2NIcGREMXlMQnlBY3RhRTFOU1pxS0xKYUhZMFNHeHJiOA?oc=5",
       "pubDate": "2026-11-21T09:00:00+09:00",
       "source": "四季報オンライン"
+    },
+    {
+      "title": "世界各国通貨に対する円:対ドル0.03%高、対ユーロ0.02%高",
+      "link": "https://zai.diamond.jp/articles/-/499476",
+      "pubDate": "2026-11-21T08:37:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、158円台後半から下落 米期待インフレ鈍化で利上げ観測後退",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlSzFHT3hOaFRNQ091S2JKeGczRnhMZXRxendSc2FtaGFBMFVCdnc3QTVfNjJ3dlhnN2s3Y0ctZ0Y1T1F6UGFLd1p6MWQ4RktlRFNsTjV0X3lKUEJYdGJ5cF9MY2pHT2hYS04wZldleUtJb0wy?oc=5",
+      "pubDate": "2026-11-21T08:25:00+09:00",
+      "source": "BigGo ファイナンス"
     }
   ]
 }
