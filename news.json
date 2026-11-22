@@ -1,9 +1,64 @@
 {
-  "updatedAt": "2026-11-22T16:30:58+09:00",
+  "updatedAt": "2026-11-23T00:42:06+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース"
+    "nikkei225jp.com 為替ニュース",
+    "Google ニュース"
   ],
   "items": [
+    {
+      "title": "円安の本当の構造的要因とは？【モヤモヤサテライト】｜SPECIALコンテンツ",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3UlNTS2Flem9fOG5iM25kTTJRRTRNWG1yM2ZMSkMxdzV5bWxQb0pJNnIxTjh6SGxTdTYtMWwwV3dGT3pRcFRNRTBnODhYVXlOd2luZDcycnZEUzhvQXA1WVdpTzM?oc=5",
+      "pubDate": "2026-11-22T18:00:00+09:00",
+      "source": "テレ東BIZ"
+    },
+    {
+      "title": "円安は賃貸経営にどんな影響がある？滞納リスク、外国人の不動産購入、金利上昇｜金子徳公",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pSkstNS1MZDFqdlB5WjExZlRQSG9ZS0Q5aFQ5S05kOW52eUd0OEtmSldxSHN6LTJ1RzI0SkkwZWtIUG15STh4ZVFKTE5Na1UweUpqVjRBaW1zbHRmdVo0WDgwQlg2UUdtTGJN?oc=5",
+      "pubDate": "2026-11-22T17:41:29+09:00",
+      "source": "mbp-japan.com"
+    },
+    {
+      "title": "2022年の賃貸業界を振り返る。電子契約の解禁、円安による建材高騰、相続土地国庫帰属制度、世帯数減少の2023年問題",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41YzhMdDgwMEJkemN2NXhZZmJuVHM1bkJuWFBEbVhaSnV1ODVtTjZZSWlydXRsc2dKTkdfeDNGMHotT05pT3ZEYWhRT1JKM2hPcW9sUTJOTUVqTnhsc3B5VDd6RGoxZ2tzVWJB?oc=5",
+      "pubDate": "2026-11-22T17:41:29+09:00",
+      "source": "mbp-japan.com"
+    },
+    {
+      "title": "株安・円安・金利高 今後の相場の行方は？【明日への投資戦略 11/24～11/27】",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRHFGQVZtZEJSRnNEWWF6R1hqZVllY0hXejRvaUpYZ0ozUHktVXFrUzlEVWZKRXdsR0xidkw2RDZsamUwYXVVLW9ic1MwY0tDU3pPUG9mWWVRWjNobURDY19oSi1jZw?oc=5",
+      "pubDate": "2026-11-22T12:00:00+09:00",
+      "source": "テレ東BIZ"
+    },
+    {
+      "title": "円安見透かすFX投資家「もう円高はないだろう」視線は高金利の外貨",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UZ2dlZURMMTFRc1hxVjcwSWNuNGR1TFNaZFRZSzRRdFZmcWZ5cWlTdHdwcnh5R3VWcm94cTNZV2xxQUk5aHBGSjgyVXRFNFM0NGwtaHdHXzJZRkViOXdPWkszUkVGTDg?oc=5",
+      "pubDate": "2026-11-22T11:00:00+09:00",
+      "source": "朝日新聞"
+    },
+    {
+      "title": "ドル円、160円攻防が続く見通し 米PCEと東京都区部CPIが焦点に",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41aGNMVXBRZy1ScFFWdlVfRVBhVGxNSmR6QU9nbEUwSldQd2VTWDVDWnJwVG9jS1lRUTAyMklyX3dQNzdyVkRpZXV3cG4yOGZjMmJCN2MzNzdPNXlrNXRBYmpKVklrNEFxeFFlVnZiQnB1VWpG?oc=5",
+      "pubDate": "2026-11-22T07:25:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "来週のドル円相場はどうなる？11/23週のイベント予定「米PCE・東京都区部CPIに注目！160円を巡る攻防が続く見込み」 2026年11月22日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRREJjMVU0WEF2V1VBWXVKMlJ2TXlwdC13UUlaZGJ6c19FRHFhTDBSYmN4TnFETW5xTzlENUZTVElNN0NDbmNvalhpallYU3c2ZWtTNlpNOGx5ejVLYXBFRk1ESQ?oc=5",
+      "pubDate": "2026-11-22T06:59:28+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "［FT］AI株投資が招く円安圧力",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pTnc3X0YweWVpVXd1a0VCZERPcHFPSzY1V1JjT0NCWlkyTGZRclVQamZfZGktaHpuREMtdWd4RlR4ZFM3bnBWZmJ5RUg4OVpyd0JnZXc0OXcwRlNfM2RTUXVaa0ZGN0pjWVIwOA?oc=5",
+      "pubDate": "2026-11-22T05:00:00+09:00",
+      "source": "日本経済新聞"
+    },
+    {
+      "title": "利上げ期待･AI懸念･介入警戒で円高か【マーケット先読み】",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6ZnBqUnRfTExqUXFlaVZ6UVlKWVJTOXFwTjVFdC1QTGFXSEpTZDkzR042X0hhS1hLUXhMZjBKMnBLNmZmYUNreWpySmduT1hnbVc2VHRzNF9kcV9ZZmdJelRR?oc=5",
+      "pubDate": "2026-11-21T22:32:10+09:00",
+      "source": "テレ東BIZ"
+    },
     {
       "title": "【ドル円予想2026/11/20】今夜も160円の手前で足踏み続く?米消費者心理とFRB発言に注目!★分かり易いFX情報番組",
       "link": "https://www.youtube.com/watch?v=3ATlBSCWy64",
@@ -11,82 +66,28 @@
       "source": "ひまわり証券"
     },
     {
-      "title": "為替週間見通し:伸び悩みか、米利上げ期待も為替介入への警戒が重し",
-      "link": "https://www.zaikei.co.jp/article/20261121/878683.html",
-      "pubDate": "2026-11-21T14:46:00+09:00",
-      "source": "財経新聞"
+      "title": "為替週間見通し：伸び悩みか、米利上げ期待も為替介入への警戒が重し(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUVPUjVJXzFLODdZbDJUZ1h6VFRhb1VKYU1tOUU3NkxIaV9lSHdDU09HUG81RTFIemFNVWhkbnFnVHl1NkJqOC1TZy16dGdDVkxFU0F4OS11N1RrNjBoNkpSY1pOWFN2OUEwSEZCdGZEX2lTRWRpZjVQTU45M3pDOENUajFRNWs?oc=5",
+      "pubDate": "2026-11-21T14:32:42+09:00",
+      "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "世界各国通貨に対する円:対ドル0.03%高、対ユーロ0.02%高",
-      "link": "https://zai.diamond.jp/articles/-/499476",
-      "pubDate": "2026-11-21T08:37:00+09:00",
-      "source": "ザイFX！"
+      "title": "「1ドル157円では米国株を買えない」は早計？ 米国在住投資家が狙う“株安・円高”の瞬間（みんかぶマガジン）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zd2p4RTBWRGl3Y3lDcGx0WVl4NXh6Z2tvWEx1T2djRXlWZG9xRG81WXNGbUpMODJlb1dvck5wOFpoWExpaExzTTRVa3BydlJfRk91T1BKSHExSlVKZERyVUVhOTZqem1EV0NkanplYjBTMWRhbmlXNmd0NVZkWnM?oc=5",
+      "pubDate": "2026-11-21T12:10:20+09:00",
+      "source": "Yahoo!ニュース"
     },
     {
-      "title": "NY外為市場=ドル高一服、FRBタカ派姿勢継続観測で下げ幅限定",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWRGdyU3RJZEplUjdYSVBpMkppQkZrbDlMNkhEUUp5OHo3OTUyeElxZnFPYlVXaUVHbklRbE8wZEZWN1RJUUdnVnhLTkc2UC1YTUFvYmxZeTlGYVFQMjB1Wk1raTQ0NWVId3FsRjdFOEpSaG82eDhQSE9ueFhRQQ?oc=5&hl=ja&gl=JP&ceid=JP:ja",
-      "pubDate": "2026-11-21T07:05:00+09:00",
-      "source": "reuters"
+      "title": "プライベート・クレジットは2027年の金融不安のトリガーとなるか？デフォルト率が悪化、ドル円相場への影響は！？ 2026年11月21日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95dmZZSEg5MlVmRl9iYXdpX2Itck4tQkc2M3RqVGdYREQwYTF3UFNiZ2hMcnl4Tk56R1R2Mi1YWGl5M3RjMV96VVMwOHEzUzFDZldqOHhyd0Q1bHdkNEs2a1JKVQ?oc=5",
+      "pubDate": "2026-11-21T10:00:00+09:00",
+      "source": "外為どっとコム"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・20日 ドル円、反落",
-      "link": "https://zai.diamond.jp/articles/-/499473",
-      "pubDate": "2026-11-21T07:03:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "NY外為:リスク回避で円やフランに買い、安全資産の米国債買いが加速",
-      "link": "https://zai.diamond.jp/articles/-/499471",
-      "pubDate": "2026-11-21T05:09:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、一時158.51円まで下落 株急落と金利低下で",
-      "link": "https://zai.diamond.jp/articles/-/499470",
-      "pubDate": "2026-11-21T04:39:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、小高い",
-      "link": "https://zai.diamond.jp/articles/-/499467",
-      "pubDate": "2026-11-21T04:06:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･2時 ドル円、もみ合い",
-      "link": "https://zai.diamond.jp/articles/-/499463",
-      "pubDate": "2026-11-21T02:07:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ベセント米財務長官、FRBに大幅利上げの回避求める",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNEpodkZ4LWU0UnNSMnlPVHJ4NVN2Nm1PLWo3cGZaNFdZZm1MQWU0eVZqdmdCMy00bUZudUlIQnBBUWx6dThLellIS3dSNTVXTWxDc09lNUh2QVJyeXYyNXgtUTRjRlJRZ0ljUlBMd1ZGb0U3NTBTU1ZsU0c1SkRpVU1udUtwZXhXa19TWVFCTmo2ZFNoYV9HZTB1Yw?oc=5&hl=ja&gl=JP&ceid=JP:ja",
-      "pubDate": "2026-11-21T01:16:00+09:00",
-      "source": "reuters"
-    },
-    {
-      "title": "【速報】ドル・円158.87円、米・11月ミシガン大学消費者信頼感指数確報値は上方修正",
-      "link": "https://zai.diamond.jp/articles/-/499458",
-      "pubDate": "2026-11-21T00:08:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・24時 ドル円、下げ渋り",
-      "link": "https://zai.diamond.jp/articles/-/499457",
-      "pubDate": "2026-11-21T00:07:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル、弱含み ドル円は一時158.55円まで下げる",
-      "link": "https://zai.diamond.jp/articles/-/499452",
-      "pubDate": "2026-11-20T22:44:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、弱含み",
-      "link": "https://zai.diamond.jp/articles/-/499450",
-      "pubDate": "2026-11-20T22:08:00+09:00",
-      "source": "ザイFX！"
+      "title": "円安圧力が再燃？アメリカ｢積極的な利上げモード｣の行方",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uMDg3QWM0UEd1ZVEtLUw5cjlhMEotQnBjWkFiZHhZT1ZMTHFZS1NhLU1zVDkwM2NIcGREMXlMQnlBY3RhRTFOU1pxS0xKYUhZMFNHeHJiOA?oc=5",
+      "pubDate": "2026-11-21T09:00:00+09:00",
+      "source": "四季報オンライン"
     }
   ]
 }
