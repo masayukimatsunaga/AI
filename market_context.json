@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T04:49:32+09:00",
+  "updatedAt": "2026-11-22T09:22:08+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -30,22 +30,16 @@
       "source": "時事ドットコム"
     },
     {
-      "title": "来週の相場で注目すべき3つのポイント:企業向けサービス価格指数、米コアPCE価格指数、東京CPI",
-      "link": "https://www.zaikei.co.jp/article/20261121/878706.html",
-      "publishedAt": "2026-11-21T16:26:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "金、週間で約9%下落―3月以来の大幅安、FRB利上げ観測とAI株売りが重荷",
-      "link": "https://www.zaikei.co.jp/article/20261121/878690.html",
-      "publishedAt": "2026-11-21T15:33:00+09:00",
-      "source": "財経新聞"
-    },
-    {
       "title": "為替週間見通し:伸び悩みか、米利上げ期待も為替介入への警戒が重し",
       "link": "https://www.zaikei.co.jp/article/20261121/878683.html",
       "publishedAt": "2026-11-21T14:46:00+09:00",
       "source": "財経新聞"
+    },
+    {
+      "title": "週末にAI株安・円高が気になる人へ。サンデードル円からサンデー ...",
+      "link": "https://note.com/kamiturejp/n/ne536bfb2a3a4",
+      "publishedAt": "2026-11-21T10:22:00+09:00",
+      "source": "bing"
     },
     {
       "title": "NY外為市場=ドル高一服、FRBタカ派姿勢継続観測で下げ幅限定",
@@ -82,6 +76,12 @@
       "link": "https://zai.diamond.jp/articles/-/499463",
       "publishedAt": "2026-11-21T02:07:00+09:00",
       "source": "ザイFX！"
+    },
+    {
+      "title": "ベセント米財務長官、FRBに大幅利上げの回避求める",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNEpodkZ4LWU0UnNSMnlPVHJ4NVN2Nm1PLWo3cGZaNFdZZm1MQWU0eVZqdmdCMy00bUZudUlIQnBBUWx6dThLellIS3dSNTVXTWxDc09lNUh2QVJyeXYyNXgtUTRjRlJRZ0ljUlBMd1ZGb0U3NTBTU1ZsU0c1SkRpVU1udUtwZXhXa19TWVFCTmo2ZFNoYV9HZTB1Yw?oc=5&hl=ja&gl=JP&ceid=JP:ja",
+      "publishedAt": "2026-11-21T01:16:00+09:00",
+      "source": "reuters"
     }
   ],
   "recentIndicators": [
@@ -271,7 +271,7 @@
     }
   ],
   "fundamental": {
-    "score": 3,
+    "score": 2,
     "label": "ドル高・円安材料が優勢",
     "upFactors": [
       "為替週間見通し:伸び悩みか、米利上げ期待も為替介入への警戒が重し",
@@ -280,7 +280,8 @@
       "日本 10月 全国消費者物価指数（CPIコア指数）[前年比]：結果 2.2%／予想 2.3%"
     ],
     "downFactors": [
-      "為替週間見通し:伸び悩みか、米利上げ期待も為替介入への警戒が重し"
+      "為替週間見通し:伸び悩みか、米利上げ期待も為替介入への警戒が重し",
+      "週末にAI株安・円高が気になる人へ。サンデードル円からサンデー ..."
     ],
     "neutralFactors": [
       "FRB、12月利上げほぼ確実に|0.5%の大幅利上げ確率も1割に",

@@ -1,21 +1,33 @@
 {
-  "updatedAt": "2026-11-22T04:49:32+09:00",
+  "updatedAt": "2026-11-22T09:22:08+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-      "pubDate": "2026-11-22T03:30:18+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "【ドル円週間見通し】伸び悩みか 米引き締め前進に期待も為替介入に警戒",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10VkhMdDZmeGdLQXoxMVppZl90ckZQbDlBZ2wwLXBtTTQ5dU82WXQyWElwcU40QUNyQWdHMkEwUHdFQzJTeEtv?oc=5",
+      "pubDate": "2026-11-22T08:00:00+09:00",
+      "source": "マネーポストWEB"
     },
     {
-      "title": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbWxqc1ltSU1ndEE0VElnZldUTGdyRVJpOTdKeXBsc0RDSm40dm9kLTJqaDZlOVpoR2E5eEZIX1o0bFR1SFR2N2k4WjRiTnN5dHVBTHJn?oc=5",
-      "pubDate": "2026-11-22T01:05:02+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "ドル円、160円攻防が続く見通し 米PCEと東京都区部CPIが焦点に",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41aGNMVXBRZy1ScFFWdlVfRVBhVGxNSmR6QU9nbEUwSldQd2VTWDVDWnJwVG9jS1lRUTAyMklyX3dQNzdyVkRpZXV3cG4yOGZjMmJCN2MzNzdPNXlrNXRBYmpKVklrNEFxeFFlVnZiQnB1VWpG?oc=5",
+      "pubDate": "2026-11-22T07:25:00+09:00",
+      "source": "BigGo ファイナンス"
+    },
+    {
+      "title": "来週のドル円相場はどうなる？11/23週のイベント予定「米PCE・東京都区部CPIに注目！160円を巡る攻防が続く見込み」 2026年11月22日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRREJjMVU0WEF2V1VBWXVKMlJ2TXlwdC13UUlaZGJ6c19FRHFhTDBSYmN4TnFETW5xTzlENUZTVElNN0NDbmNvalhpallYU3c2ZWtTNlpNOGx5ejVLYXBFRk1ESQ?oc=5",
+      "pubDate": "2026-11-22T06:59:28+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "［FT］AI株投資が招く円安圧力",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pTnc3X0YweWVpVXd1a0VCZERPcHFPSzY1V1JjT0NCWlkyTGZRclVQamZfZGktaHpuREMtdWd4RlR4ZFM3bnBWZmJ5RUg4OVpyd0JnZXc0OXcwRlNfM2RTUXVaa0ZGN0pjWVIwOA?oc=5",
+      "pubDate": "2026-11-22T05:00:00+09:00",
+      "source": "日本経済新聞"
     },
     {
       "title": "【ドル円予想2026/11/20】今夜も160円の手前で足踏み続く?米消費者心理とFRB発言に注目!★分かり易いFX情報番組",
@@ -42,6 +54,12 @@
       "source": "Yahoo!ニュース"
     },
     {
+      "title": "週末にAI株安・円高が気になる人へ。サンデードル円からサンデー ...",
+      "link": "https://note.com/kamiturejp/n/ne536bfb2a3a4",
+      "pubDate": "2026-11-21T10:22:00+09:00",
+      "source": "bing"
+    },
+    {
       "title": "プライベート・クレジットは2027年の金融不安のトリガーとなるか？デフォルト率が悪化、ドル円相場への影響は！？ 2026年11月21日",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95dmZZSEg5MlVmRl9iYXdpX2Itck4tQkc2M3RqVGdYREQwYTF3UFNiZ2hMcnl4Tk56R1R2Mi1YWGl5M3RjMV96VVMwOHEzUzFDZldqOHhyd0Q1bHdkNEs2a1JKVQ?oc=5",
       "pubDate": "2026-11-21T10:00:00+09:00",
@@ -52,12 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6ZnBqUnRfTExqUXFlaVZ6UVlKWVJTOXFwTjVFdC1QTGFXSEpTZDkzR042X0hhS1hLUXhMZjBKMnBLNmZmYUNreWpySmduT1hnbVc2VHRzNF9kcV9ZZmdJelRR?oc=5",
       "pubDate": "2026-11-21T10:00:00+09:00",
       "source": "テレ東BIZ"
-    },
-    {
-      "title": "北陸の企業倒産「今年最多に」2026年10月に29件 物価高騰や円安・サイバー攻撃で「最後のひと押しを懸念」（MRO北陸放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnTkRxZjBfblVtYTRiVEw1QVozbjdSemRwQUJLZ0RuZmIwMjJCeFduLVo1R2tvNy1KLWZ4YlhvcnNab0Vsc0RDMnF0ZS1CLU1mZWlLSDMxN19FSGlHUE5wU01BY2FGSmRzX1MwbWpmd2FOSTJEbm1GMTctWnRTYzg?oc=5",
-      "pubDate": "2026-11-21T09:42:17+09:00",
-      "source": "Yahoo!ニュース"
     },
     {
       "title": "円安圧力が再燃？アメリカ｢積極的な利上げモード｣の行方",
@@ -76,18 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlSzFHT3hOaFRNQ091S2JKeGczRnhMZXRxendSc2FtaGFBMFVCdnc3QTVfNjJ3dlhnN2s3Y0ctZ0Y1T1F6UGFLd1p6MWQ4RktlRFNsTjV0X3lKUEJYdGJ5cF9MY2pHT2hYS04wZldleUtJb0wy?oc=5",
       "pubDate": "2026-11-21T08:25:00+09:00",
       "source": "BigGo ファイナンス"
-    },
-    {
-      "title": "２０日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1COWFoaDc4YkhOMDdpM2I0emJwMFBsdm8xUHNlamFCVWpxb21FVmhGU2l1b19kZkM3YjE4UG1wQ2RoRVlWejY1MQ?oc=5",
-      "pubDate": "2026-11-21T07:10:50+09:00",
-      "source": "みんかぶ FX/為替"
-    },
-    {
-      "title": "NY外為市場=ドル高一服、FRBタカ派姿勢継続観測で下げ幅限定",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWRGdyU3RJZEplUjdYSVBpMkppQkZrbDlMNkhEUUp5OHo3OTUyeElxZnFPYlVXaUVHbklRbE8wZEZWN1RJUUdnVnhLTkc2UC1YTUFvYmxZeTlGYVFQMjB1Wk1raTQ0NWVId3FsRjdFOEpSaG82eDhQSE9ueFhRQQ?oc=5&hl=ja&gl=JP&ceid=JP:ja",
-      "pubDate": "2026-11-21T07:05:00+09:00",
-      "source": "reuters"
     }
   ]
 }
