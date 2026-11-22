@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T09:22:08+09:00",
+  "updatedAt": "2026-11-22T16:30:58+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,9 +12,9 @@
   },
   "news": [
     {
-      "title": "FRB、12月利上げほぼ確実に|0.5%の大幅利上げ確率も1割に",
-      "link": "https://crypto-times.jp/news-fomc-december-rate-hike/",
-      "publishedAt": "2026-11-21T19:07:00+09:00",
+      "title": "【今週の相場】AI株安が直撃、日経3007円安・BTC2年ぶり安値",
+      "link": "https://crypto-times.jp/news-weekly-market-review-20261122/",
+      "publishedAt": "2026-11-22T12:00:00+09:00",
       "source": "CRYPTO TIMES"
     },
     {
@@ -24,22 +24,10 @@
       "source": "ひまわり証券"
     },
     {
-      "title": "銀行預金、「1億円以上」3.6倍 富裕層に資産集まる構図に―日銀統計",
-      "link": "https://www.jiji.com/jc/article?k=2026112100141&g=eco",
-      "publishedAt": "2026-11-21T17:12:00+09:00",
-      "source": "時事ドットコム"
-    },
-    {
       "title": "為替週間見通し:伸び悩みか、米利上げ期待も為替介入への警戒が重し",
       "link": "https://www.zaikei.co.jp/article/20261121/878683.html",
       "publishedAt": "2026-11-21T14:46:00+09:00",
       "source": "財経新聞"
-    },
-    {
-      "title": "週末にAI株安・円高が気になる人へ。サンデードル円からサンデー ...",
-      "link": "https://note.com/kamiturejp/n/ne536bfb2a3a4",
-      "publishedAt": "2026-11-21T10:22:00+09:00",
-      "source": "bing"
     },
     {
       "title": "NY外為市場=ドル高一服、FRBタカ派姿勢継続観測で下げ幅限定",
@@ -82,6 +70,18 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNEpodkZ4LWU0UnNSMnlPVHJ4NVN2Nm1PLWo3cGZaNFdZZm1MQWU0eVZqdmdCMy00bUZudUlIQnBBUWx6dThLellIS3dSNTVXTWxDc09lNUh2QVJyeXYyNXgtUTRjRlJRZ0ljUlBMd1ZGb0U3NTBTU1ZsU0c1SkRpVU1udUtwZXhXa19TWVFCTmo2ZFNoYV9HZTB1Yw?oc=5&hl=ja&gl=JP&ceid=JP:ja",
       "publishedAt": "2026-11-21T01:16:00+09:00",
       "source": "reuters"
+    },
+    {
+      "title": "【速報】ドル・円158.87円、米・11月ミシガン大学消費者信頼感指数確報値は上方修正",
+      "link": "https://zai.diamond.jp/articles/-/499458",
+      "publishedAt": "2026-11-21T00:08:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、下げ渋り",
+      "link": "https://zai.diamond.jp/articles/-/499457",
+      "publishedAt": "2026-11-21T00:07:00+09:00",
+      "source": "ザイFX！"
     }
   ],
   "recentIndicators": [
@@ -271,22 +271,22 @@
     }
   ],
   "fundamental": {
-    "score": 2,
+    "score": 4,
     "label": "ドル高・円安材料が優勢",
     "upFactors": [
+      "【今週の相場】AI株安が直撃、日経3007円安・BTC2年ぶり安値",
       "為替週間見通し:伸び悩みか、米利上げ期待も為替介入への警戒が重し",
       "NY外為市場=ドル高一服、FRBタカ派姿勢継続観測で下げ幅限定",
       "日本 10月 全国消費者物価指数（CPI）[前年比]：結果 2.3%／予想 2.5%",
       "日本 10月 全国消費者物価指数（CPIコア指数）[前年比]：結果 2.2%／予想 2.3%"
     ],
     "downFactors": [
-      "為替週間見通し:伸び悩みか、米利上げ期待も為替介入への警戒が重し",
-      "週末にAI株安・円高が気になる人へ。サンデードル円からサンデー ..."
+      "為替週間見通し:伸び悩みか、米利上げ期待も為替介入への警戒が重し"
     ],
     "neutralFactors": [
-      "FRB、12月利上げほぼ確実に|0.5%の大幅利上げ確率も1割に",
       "【ドル円予想2026/11/20】今夜も160円の手前で足踏み続く?米消費者心理とFRB発言に注目!★分かり易いFX情報番組",
-      "銀行預金、「1億円以上」3.6倍 富裕層に資産集まる構図に―日銀統計"
+      "ニューヨーク外国為替市場概況・20日 ドル円、反落",
+      "NY外為:リスク回避で円やフランに買い、安全資産の米国債買いが加速"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
