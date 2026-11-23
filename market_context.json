@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T06:17:46+09:00",
+  "updatedAt": "2026-11-23T10:59:26+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,22 +12,64 @@
   },
   "news": [
     {
-      "title": "【今週の相場】AI株安が直撃、日経3007円安・BTC2年ぶり安値",
-      "link": "https://crypto-times.jp/news-weekly-market-review-20261122/",
-      "publishedAt": "2026-11-22T12:00:00+09:00",
-      "source": "CRYPTO TIMES"
+      "title": "ドル円、買い一服 158.90円挟みのもみ合いに転じる",
+      "link": "https://zai.diamond.jp/articles/-/499490",
+      "publishedAt": "2026-11-23T10:47:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "東京為替:ドル・円は158円90銭付近で小動き、東京市場は祝日",
+      "link": "https://www.zaikei.co.jp/article/20261123/878757.html",
+      "publishedAt": "2026-11-23T10:34:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "東京為替:ドル・円は159円台で伸び悩み、158円90銭台で推移",
+      "link": "https://www.zaikei.co.jp/article/20261123/878756.html",
+      "publishedAt": "2026-11-23T10:02:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "東京為替:ドル・円は159円04銭まで上昇後、上値追い一服",
+      "link": "https://www.zaikei.co.jp/article/20261123/878755.html",
+      "publishedAt": "2026-11-23T09:32:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "ドル円 159.04円まで上げ幅拡大、SGX日経225先物は56100円台",
+      "link": "https://zai.diamond.jp/articles/-/499485",
+      "publishedAt": "2026-11-23T09:08:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "東京為替:ドル・円は159円03銭まで上昇、朝方から上値を伸ばす",
+      "link": "https://www.zaikei.co.jp/article/20261123/878754.html",
+      "publishedAt": "2026-11-23T09:06:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "ドル円 158.88円までじり高、日米株価指数先物が堅調推移",
+      "link": "https://zai.diamond.jp/articles/-/499484",
+      "publishedAt": "2026-11-23T08:34:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "東京為替見通し=ドル円、日米株価下落を受けたリスク回避の円買いが継続か",
+      "link": "https://zai.diamond.jp/articles/-/499482",
+      "publishedAt": "2026-11-23T08:00:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円 158.60円前後、レンジは158.51円から158.67円",
+      "link": "https://zai.diamond.jp/articles/-/499480",
+      "publishedAt": "2026-11-23T06:42:00+09:00",
+      "source": "ザイFX！"
     },
     {
       "title": "【ドル円予想2026/11/20】今夜も160円の手前で足踏み続く?米消費者心理とFRB発言に注目!★分かり易いFX情報番組",
       "link": "https://www.youtube.com/watch?v=3ATlBSCWy64",
       "publishedAt": "2026-11-21T17:40:00+09:00",
       "source": "ひまわり証券"
-    },
-    {
-      "title": "NY外為市場=ドル高一服、FRBタカ派姿勢継続観測で下げ幅限定",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWRGdyU3RJZEplUjdYSVBpMkppQkZrbDlMNkhEUUp5OHo3OTUyeElxZnFPYlVXaUVHbklRbE8wZEZWN1RJUUdnVnhLTkc2UC1YTUFvYmxZeTlGYVFQMjB1Wk1raTQ0NWVId3FsRjdFOEpSaG82eDhQSE9ueFhRQQ?oc=5&hl=ja&gl=JP&ceid=JP:ja",
-      "publishedAt": "2026-11-21T07:05:00+09:00",
-      "source": "reuters"
     },
     {
       "title": "ニューヨーク外国為替市場概況・20日 ドル円、反落",
@@ -39,48 +81,6 @@
       "title": "NY外為:リスク回避で円やフランに買い、安全資産の米国債買いが加速",
       "link": "https://zai.diamond.jp/articles/-/499471",
       "publishedAt": "2026-11-21T05:09:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、一時158.51円まで下落 株急落と金利低下で",
-      "link": "https://zai.diamond.jp/articles/-/499470",
-      "publishedAt": "2026-11-21T04:39:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･4時 ドル円、小高い",
-      "link": "https://zai.diamond.jp/articles/-/499467",
-      "publishedAt": "2026-11-21T04:06:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況･2時 ドル円、もみ合い",
-      "link": "https://zai.diamond.jp/articles/-/499463",
-      "publishedAt": "2026-11-21T02:07:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【速報】ドル・円158.87円、米・11月ミシガン大学消費者信頼感指数確報値は上方修正",
-      "link": "https://zai.diamond.jp/articles/-/499458",
-      "publishedAt": "2026-11-21T00:08:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・24時 ドル円、下げ渋り",
-      "link": "https://zai.diamond.jp/articles/-/499457",
-      "publishedAt": "2026-11-21T00:07:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル、弱含み ドル円は一時158.55円まで下げる",
-      "link": "https://zai.diamond.jp/articles/-/499452",
-      "publishedAt": "2026-11-20T22:44:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "欧州外国為替市場概況・22時 ドル円、弱含み",
-      "link": "https://zai.diamond.jp/articles/-/499450",
-      "publishedAt": "2026-11-20T22:08:00+09:00",
       "source": "ザイFX！"
     }
   ],
@@ -271,19 +271,17 @@
     }
   ],
   "fundamental": {
-    "score": 4,
+    "score": 2,
     "label": "ドル高・円安材料が優勢",
     "upFactors": [
-      "【今週の相場】AI株安が直撃、日経3007円安・BTC2年ぶり安値",
-      "NY外為市場=ドル高一服、FRBタカ派姿勢継続観測で下げ幅限定",
       "日本 10月 全国消費者物価指数（CPI）[前年比]：結果 2.3%／予想 2.5%",
       "日本 10月 全国消費者物価指数（CPIコア指数）[前年比]：結果 2.2%／予想 2.3%"
     ],
     "downFactors": [],
     "neutralFactors": [
-      "【ドル円予想2026/11/20】今夜も160円の手前で足踏み続く?米消費者心理とFRB発言に注目!★分かり易いFX情報番組",
-      "ニューヨーク外国為替市場概況・20日 ドル円、反落",
-      "NY外為:リスク回避で円やフランに買い、安全資産の米国債買いが加速"
+      "ドル円、買い一服 158.90円挟みのもみ合いに転じる",
+      "東京為替:ドル・円は158円90銭付近で小動き、東京市場は祝日",
+      "東京為替:ドル・円は159円台で伸び悩み、158円90銭台で推移"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
