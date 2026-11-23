@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T19:51:40+09:00",
+  "updatedAt": "2026-11-24T07:41:05+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,120 +12,79 @@
   },
   "news": [
     {
-      "title": "日銀の利上げ、2027年に1.75%到達か|米運用大手が予測",
-      "link": "https://crypto-times.jp/news-major-us-asset-manager-predicts-boj-interest-rates-will-reach-1-75-by-2027/",
-      "publishedAt": "2026-11-23T19:43:00+09:00",
-      "source": "CRYPTO TIMES"
+      "title": "NY金:続伸で3640.30ドル、米金利低下に伴うドル買い後退で買い戻し優勢",
+      "link": "https://www.zaikei.co.jp/article/20261124/878827.html",
+      "publishedAt": "2026-11-24T07:31:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "NY為替見通し=ドル円、リスクセンチメントに左右される展開か",
-      "link": "https://zai.diamond.jp/articles/-/499503",
-      "publishedAt": "2026-11-23T19:42:00+09:00",
+      "title": "ニューヨーク外国為替市場概況・23日 ユーロドル、下落",
+      "link": "https://zai.diamond.jp/articles/-/499541",
+      "publishedAt": "2026-11-24T07:03:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "1ドル159円の円安でもビットコインは1000万円割れ、次に怖いのは円高か",
-      "link": "https://crypto-times.jp/news-bitcoin-below-10m-yen-weak-yen-no-cushion/",
-      "publishedAt": "2026-11-23T18:45:00+09:00",
-      "source": "CRYPTO TIMES"
-    },
-    {
-      "title": "欧州為替:ドル・円は小高い、159円台に定着",
-      "link": "https://www.zaikei.co.jp/article/20261123/878779.html",
-      "publishedAt": "2026-11-23T18:18:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "ドル円リアルタイムオーダー=159.25円 OP23日NYカット大きめ",
-      "link": "https://zai.diamond.jp/articles/-/499501",
-      "publishedAt": "2026-11-23T18:08:00+09:00",
+      "title": "ドル円、158.90円まで下押し 米長期金利が低下",
+      "link": "https://zai.diamond.jp/articles/-/499535",
+      "publishedAt": "2026-11-24T04:51:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円160円の攻防、AI株投資による円売りも?介入警戒で上値重く",
-      "link": "https://crypto-times.jp/news-the-battle-over-the-160-yen-mark-for-the-dollar-yen-exchange-rate-continues/",
-      "publishedAt": "2026-11-23T17:31:00+09:00",
-      "source": "CRYPTO TIMES"
-    },
-    {
-      "title": "東京為替:ドル・円は小じっかり、クロス円に追随",
-      "link": "https://www.zaikei.co.jp/article/20261123/878778.html",
-      "publishedAt": "2026-11-23T17:15:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替:ドル・円は伸び悩み、クロス円は続伸",
-      "link": "https://www.zaikei.co.jp/article/20261123/878777.html",
-      "publishedAt": "2026-11-23T16:04:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "「ドル・円は伸び悩みか、株式市場の混乱一服も円売りは限定的」",
-      "link": "https://zai.diamond.jp/articles/-/499497",
-      "publishedAt": "2026-11-23T15:59:00+09:00",
+      "title": "ニューヨーク外国為替市場概況・4時 ユーロ円、地合いが弱い",
+      "link": "https://zai.diamond.jp/articles/-/499532",
+      "publishedAt": "2026-11-24T04:05:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "東京為替:ドル・円は動意薄、中国・香港株は反発",
-      "link": "https://www.zaikei.co.jp/article/20261123/878776.html",
-      "publishedAt": "2026-11-23T15:27:00+09:00",
-      "source": "財経新聞"
+      "title": "NY外為:ドル伸び悩む、米2年債入札は順調",
+      "link": "https://zai.diamond.jp/articles/-/499531",
+      "publishedAt": "2026-11-24T03:41:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "東京為替:ドル・円は伸び悩み、ドル売り地合いで",
-      "link": "https://www.zaikei.co.jp/article/20261123/878775.html",
-      "publishedAt": "2026-11-23T14:56:00+09:00",
-      "source": "財経新聞"
+      "title": "ニューヨーク外国為替市場概況・2時 ユーロドル、軟調",
+      "link": "https://zai.diamond.jp/articles/-/499527",
+      "publishedAt": "2026-11-24T02:06:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "東京為替:ドル・円は伸び悩み、アジア株は軟調",
-      "link": "https://www.zaikei.co.jp/article/20261123/878774.html",
-      "publishedAt": "2026-11-23T14:15:00+09:00",
-      "source": "財経新聞"
+      "title": "NY外為:ドル一段高、円やフラン売り戻し、安全資産としての米国債購入後退で金利が上昇",
+      "link": "https://zai.diamond.jp/articles/-/499526",
+      "publishedAt": "2026-11-24T02:04:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、底堅い",
+      "link": "https://zai.diamond.jp/articles/-/499521",
+      "publishedAt": "2026-11-24T00:04:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "NY外為:ドル・円159円台半ば、リスクオン加速、米株先物が大幅高、半導体最大手エヌビディア関連報が好感",
+      "link": "https://zai.diamond.jp/articles/-/499519",
+      "publishedAt": "2026-11-23T23:35:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、強含み 一時159.42円まで上げる",
+      "link": "https://zai.diamond.jp/articles/-/499516",
+      "publishedAt": "2026-11-23T23:15:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【速報】ドル・円159.40円、リスクオン、エヌビディア取締役会がファン氏をCEOに即時復職決定との報を受け",
+      "link": "https://zai.diamond.jp/articles/-/499515",
+      "publishedAt": "2026-11-23T23:07:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【速報】ドル・円159.02円、ドル買い一服、米・10月シカゴ連銀全米活動指数は予想外のマイナス",
+      "link": "https://zai.diamond.jp/articles/-/499509",
+      "publishedAt": "2026-11-23T22:36:00+09:00",
+      "source": "ザイFX！"
     }
   ],
   "recentIndicators": [
-    {
-      "scheduledAt": "2026-11-20T08:30:00+09:00",
-      "dateLabel": "11/20",
-      "timeLabel": "08:30",
-      "countryCode": "jp",
-      "country": "日本",
-      "importance": 3,
-      "title": "10月 全国消費者物価指数（CPI）[前年比]",
-      "result": "2.3%",
-      "forecast": "2.5%",
-      "previous": "2.1%",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-20T08:30:00+09:00",
-      "dateLabel": "11/20",
-      "timeLabel": "08:30",
-      "countryCode": "jp",
-      "country": "日本",
-      "importance": 3,
-      "title": "10月 全国消費者物価指数（CPIコア指数）[前年比]",
-      "result": "2.2%",
-      "forecast": "2.3%",
-      "previous": "2.1%",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-21T00:00:00+09:00",
-      "dateLabel": "11/20",
-      "timeLabel": "24:00",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 3,
-      "title": "11月 ミシガン大学消費者信頼感指数",
-      "result": "51.5",
-      "forecast": "51.8",
-      "previous": "51.0",
-      "url": "https://nikkei225jp.com/schedule/"
-    }
-  ],
-  "upcomingIndicators": [
     {
       "scheduledAt": "2026-11-23T23:45:00+09:00",
       "dateLabel": "11/23",
@@ -134,7 +93,7 @@
       "country": "米国",
       "importance": 5,
       "title": "11月 製造業PMI（購買担当者景気指数）",
-      "result": "",
+      "result": "54.5",
       "forecast": "54.6",
       "previous": "54.9",
       "url": "https://nikkei225jp.com/schedule/"
@@ -147,7 +106,7 @@
       "country": "米国",
       "importance": 4,
       "title": "11月 サービス業PMI（購買担当者景気指数）",
-      "result": "",
+      "result": "54.7",
       "forecast": "55.7",
       "previous": "56.1",
       "url": "https://nikkei225jp.com/schedule/"
@@ -160,11 +119,13 @@
       "country": "米国",
       "importance": 4,
       "title": "11月 ｺﾝﾎﾟｼﾞｯﾄPMI（購買担当者景気指数）",
-      "result": "",
+      "result": "54.6",
       "forecast": "55.2",
       "previous": "55.9",
       "url": "https://nikkei225jp.com/schedule/"
-    },
+    }
+  ],
+  "upcomingIndicators": [
     {
       "scheduledAt": "2026-11-25T00:00:00+09:00",
       "dateLabel": "11/24",
@@ -197,11 +158,50 @@
       "timeLabel": "22:30",
       "countryCode": "us",
       "country": "米国",
+      "importance": 3,
+      "title": "10月 個人所得[前月比]",
+      "result": "",
+      "forecast": "0.4%",
+      "previous": "0.2%",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-25T22:30:00+09:00",
+      "dateLabel": "11/25",
+      "timeLabel": "22:30",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 3,
+      "title": "10月 個人支出[前月比]",
+      "result": "",
+      "forecast": "0.5%",
+      "previous": "0.5%",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-25T22:30:00+09:00",
+      "dateLabel": "11/25",
+      "timeLabel": "22:30",
+      "countryCode": "us",
+      "country": "米国",
       "importance": 4,
       "title": "10月 PCE価格指数[前年比]",
       "result": "",
       "forecast": "3.8%",
       "previous": "3.6%",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-25T22:30:00+09:00",
+      "dateLabel": "11/25",
+      "timeLabel": "22:30",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 3,
+      "title": "11/15 - 11/21 新規失業保険申請件数",
+      "result": "",
+      "forecast": "20.1万件",
+      "previous": "20.3万件",
       "url": "https://nikkei225jp.com/schedule/"
     },
     {
@@ -228,6 +228,19 @@
       "result": "",
       "forecast": "3.4%",
       "previous": "3.4%",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-25T22:30:00+09:00",
+      "dateLabel": "11/25",
+      "timeLabel": "22:30",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 3,
+      "title": "11/08 - 11/14 失業保険継続受給者数",
+      "result": "",
+      "forecast": "176.1万件",
+      "previous": "176.3万件",
       "url": "https://nikkei225jp.com/schedule/"
     },
     {
@@ -268,24 +281,100 @@
       "forecast": "64.7万件",
       "previous": "67.6万件",
       "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-26T00:30:00+09:00",
+      "dateLabel": "11/25",
+      "timeLabel": "24:30",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 3,
+      "title": "11/14 - 11/20 原油在庫[前週比]",
+      "result": "",
+      "forecast": "",
+      "previous": "338.0万バレル",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-26T00:30:00+09:00",
+      "dateLabel": "11/25",
+      "timeLabel": "24:30",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 3,
+      "title": "11/14 - 11/20 ガソリン在庫[前週比]",
+      "result": "",
+      "forecast": "",
+      "previous": "519.2万バレル",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-11-26T00:30:00+09:00",
+      "dateLabel": "11/25",
+      "timeLabel": "24:30",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 3,
+      "title": "11/14 - 11/20 留出油在庫[前週比]",
+      "result": "",
+      "forecast": "",
+      "previous": "157.1万バレル",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-12-01T23:45:00+09:00",
+      "dateLabel": "12/1",
+      "timeLabel": "23:45",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 4,
+      "title": "11月 製造業PMI（購買担当者景気指数・確報値）",
+      "result": "",
+      "forecast": "",
+      "previous": "",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-12-02T00:00:00+09:00",
+      "dateLabel": "12/2",
+      "timeLabel": "00:00",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 5,
+      "title": "11月 ISM製造業景気指数",
+      "result": "",
+      "forecast": "",
+      "previous": "55.5",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-12-02T00:00:00+09:00",
+      "dateLabel": "12/2",
+      "timeLabel": "00:00",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 4,
+      "title": "10月 JOLTS求人件数",
+      "result": "",
+      "forecast": "",
+      "previous": "752.3万人",
+      "url": "https://nikkei225jp.com/schedule/"
     }
   ],
   "fundamental": {
-    "score": 1,
-    "label": "材料は拮抗",
-    "upFactors": [
-      "1ドル159円の円安でもビットコインは1000万円割れ、次に怖いのは円高か",
-      "日本 10月 全国消費者物価指数（CPI）[前年比]：結果 2.3%／予想 2.5%",
-      "日本 10月 全国消費者物価指数（CPIコア指数）[前年比]：結果 2.2%／予想 2.3%"
-    ],
+    "score": -4,
+    "label": "ドル安・円高材料が優勢",
+    "upFactors": [],
     "downFactors": [
-      "日銀の利上げ、2027年に1.75%到達か|米運用大手が予測",
-      "1ドル159円の円安でもビットコインは1000万円割れ、次に怖いのは円高か"
+      "NY金:続伸で3640.30ドル、米金利低下に伴うドル買い後退で買い戻し優勢",
+      "米国 11月 製造業PMI（購買担当者景気指数）：結果 54.5／予想 54.6",
+      "米国 11月 サービス業PMI（購買担当者景気指数）：結果 54.7／予想 55.7",
+      "米国 11月 ｺﾝﾎﾟｼﾞｯﾄPMI（購買担当者景気指数）：結果 54.6／予想 55.2"
     ],
     "neutralFactors": [
-      "NY為替見通し=ドル円、リスクセンチメントに左右される展開か",
-      "欧州為替:ドル・円は小高い、159円台に定着",
-      "ドル円リアルタイムオーダー=159.25円 OP23日NYカット大きめ"
+      "ニューヨーク外国為替市場概況・23日 ユーロドル、下落",
+      "ドル円、158.90円まで下押し 米長期金利が低下",
+      "ニューヨーク外国為替市場概況・4時 ユーロ円、地合いが弱い"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },

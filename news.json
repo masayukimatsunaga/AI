@@ -1,91 +1,92 @@
 {
-  "updatedAt": "2026-11-23T19:51:40+09:00",
+  "updatedAt": "2026-11-24T07:41:05+09:00",
   "sources": [
-    "nikkei225jp.com 為替ニュース"
+    "nikkei225jp.com 為替ニュース",
+    "Google ニュース"
   ],
   "items": [
     {
-      "title": "NY為替見通し=ドル円、リスクセンチメントに左右される展開か",
-      "link": "https://zai.diamond.jp/articles/-/499503",
-      "pubDate": "2026-11-23T19:42:00+09:00",
+      "title": "ドル円午前の為替予想、一時159円台回復も160円の壁を前に伸び悩む 2026/11/24",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jNFA4UlYxdEJnS0lPcWZraHlQc1l5RVpKalVuR0VyZ2Z6UnNhSkxtTGRHTjM5bWJVN2RDNW9Qa3lqS2VjZ1BxVVRNWlNESHZ1UExiQUM1YTVZNUxmeDdiNjRjVQ?oc=5",
+      "pubDate": "2026-11-24T07:34:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "【今日のドル円】昨日の振り返りと今日のドル円相場見通し「エヌビディア36％急騰で一時159.50円へ！休場明け東京勢の参戦で160円突破なるか」 2026年11月24日",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ybW9QamlpOTljX0xVcVByMDJFYW5jaVZJREhDTkdKQmZlZXU4MXc1SnNLTkJaXzBMLWlaeXhwcmZkT0Q0RWI1ZHBJaWdNZFBJZ1I2UmZkUmNycEVYc0pKQWxHdw?oc=5",
+      "pubDate": "2026-11-24T07:17:00+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "朝のドル円は１５８．９０円台＝東京為替",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBvd2RuU09JTk5HTWJ2ZFRfbWdvTWZzOFVFS0llTkNJNXNlR1RjMnpjSVNtMEpIQ252dEhZTFhwbTJiaTg1SkE?oc=5",
+      "pubDate": "2026-11-24T07:10:00+09:00",
+      "source": "みんかぶ"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・23日 ユーロドル、下落",
+      "link": "https://zai.diamond.jp/articles/-/499541",
+      "pubDate": "2026-11-24T07:03:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "欧州為替:ドル・円は小高い、159円台に定着",
-      "link": "https://www.zaikei.co.jp/article/20261123/878779.html",
-      "pubDate": "2026-11-23T18:18:00+09:00",
-      "source": "財経新聞"
+      "title": "円安見透かすFX投資家「もう円高はないだろう」視線は高金利の外貨",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UZ2dlZURMMTFRc1hxVjcwSWNuNGR1TFNaZFRZSzRRdFZmcWZ5cWlTdHdwcnh5R3VWcm94cTNZV2xxQUk5aHBGSjgyVXRFNFM0NGwtaHdHXzJZRkViOXdPWkszUkVGTDg?oc=5",
+      "pubDate": "2026-11-24T06:39:19+09:00",
+      "source": "朝日新聞"
     },
     {
-      "title": "ドル円リアルタイムオーダー=159.25円 OP23日NYカット大きめ",
-      "link": "https://zai.diamond.jp/articles/-/499501",
-      "pubDate": "2026-11-23T18:08:00+09:00",
+      "title": "リスク回避の円高は一服 エヌビディアのフアン氏がＣＥＯに即時復帰＝ＮＹ為替概況",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ELS04MDRLdkNLODUyaUpnejd3Y1c5Qmg2bExVMWVyRzZNV19NUVBuRVFPSjhSblhJQ2owRXZwR201S0daTTlTWA?oc=5",
+      "pubDate": "2026-11-24T06:35:50+09:00",
+      "source": "みんかぶ FX/為替"
+    },
+    {
+      "title": "【テクニカル】乖離ランク＝ドル円、首位 ランド円が最下位変わらず",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHM0U1UW51aHMtbHZsbTg3alZuQUZLVS1OZkJxc0RLLWJ0akJHalVHM3hrZ1JFQWR0cmFnTVBoX3JRckZHM3lsWTJnOHFMMTdrcVFnUHRVSDB2RnBETHIzYUFTYw?oc=5",
+      "pubDate": "2026-11-24T04:57:10+09:00",
+      "source": "外為どっとコム"
+    },
+    {
+      "title": "ドル円、158.90円まで下押し 米長期金利が低下(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeWJPUmwwMDJXTEx3bXFYcC1hSW1EQzNLNjBXSzlpRkNvd01yNzhLX3Y1bk5pRGtEOWF1RktqM0ptTW8yRWxqSXVxR1JQT2JDY2x1Zm5DSGZUcVVUT1A4R3BOUFBhcEJIYlU4LUtWdy03N090NVVwZXhMNHE0eWFEdzRJd3VWYkU?oc=5",
+      "pubDate": "2026-11-24T04:51:48+09:00",
+      "source": "Yahoo!ファイナンス"
+    },
+    {
+      "title": "ドル円、158.90円まで下押し 米長期金利が低下",
+      "link": "https://zai.diamond.jp/articles/-/499535",
+      "pubDate": "2026-11-24T04:51:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円160円の攻防、AI株投資による円売りも?介入警戒で上値重く",
-      "link": "https://crypto-times.jp/news-the-battle-over-the-160-yen-mark-for-the-dollar-yen-exchange-rate-continues/",
-      "pubDate": "2026-11-23T17:31:00+09:00",
-      "source": "CRYPTO TIMES"
-    },
-    {
-      "title": "東京為替:ドル・円は小じっかり、クロス円に追随",
-      "link": "https://www.zaikei.co.jp/article/20261123/878778.html",
-      "pubDate": "2026-11-23T17:15:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替:ドル・円は伸び悩み、クロス円は続伸",
-      "link": "https://www.zaikei.co.jp/article/20261123/878777.html",
-      "pubDate": "2026-11-23T16:04:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "「ドル・円は伸び悩みか、株式市場の混乱一服も円売りは限定的」",
-      "link": "https://zai.diamond.jp/articles/-/499497",
-      "pubDate": "2026-11-23T15:59:00+09:00",
+      "title": "ドル円、158.90円まで下押し 米長期金利が低下｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51eUlmbnBLNUpnT3h5UU1LRE9YSE5PdFlPSl9rTHBYS010Y0YwdGRJYXExNmFWUWdoZ0Q0SkZ6RGw0eUNvQng5RGNEc3lOWUdnY1E?oc=5",
+      "pubDate": "2026-11-24T04:51:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "東京為替:ドル・円は伸び悩み、ドル売り地合いで",
-      "link": "https://www.zaikei.co.jp/article/20261123/878775.html",
-      "pubDate": "2026-11-23T14:56:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替:ドル・円は節目付近、円売りは一服",
-      "link": "https://www.zaikei.co.jp/article/20261123/878773.html",
-      "pubDate": "2026-11-23T14:02:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "ドル円、しっかり 159.06円まで本日高値更新",
-      "link": "https://zai.diamond.jp/articles/-/499494",
-      "pubDate": "2026-11-23T13:37:00+09:00",
+      "title": "NY外為:ドル伸び悩む、米2年債入札は順調",
+      "link": "https://zai.diamond.jp/articles/-/499531",
+      "pubDate": "2026-11-24T03:41:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "東京為替:ドル・円は底堅い、クロス円は堅調",
-      "link": "https://www.zaikei.co.jp/article/20261123/878771.html",
-      "pubDate": "2026-11-23T13:09:00+09:00",
-      "source": "財経新聞"
+      "title": "ドル円が159円台後半へ上昇、エヌビディアCEO復帰でリスク選好戻る",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yRk1IUElha0lIUjlPYUJKakQ1aGVkQTVBR1l2REk0cER4bHg2aV9tU09SS3NCXzE2MlhuRUlRVWlxUWJYVjBKRVg0QjZmaV9JWS1Ldk55TE5DOWR5SVZQT2liOFVxTlNEendwX0FMN3Q2eEtH?oc=5",
+      "pubDate": "2026-11-24T02:25:00+09:00",
+      "source": "BigGo ファイナンス"
     },
     {
-      "title": "東京為替:ドル・円は小じっかり、ドルに買戻し",
-      "link": "https://www.zaikei.co.jp/article/20261123/878759.html",
-      "pubDate": "2026-11-23T12:20:00+09:00",
-      "source": "財経新聞"
+      "title": "ニューヨーク外国為替市場概況・2時 ユーロドル、軟調",
+      "link": "https://zai.diamond.jp/articles/-/499527",
+      "pubDate": "2026-11-24T02:06:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "東京為替:ドル・円は158円80銭台で小動き、方向感に乏しい展開",
-      "link": "https://www.zaikei.co.jp/article/20261123/878758.html",
-      "pubDate": "2026-11-23T11:27:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "ドル円、買い一服 158.90円挟みのもみ合いに転じる",
-      "link": "https://zai.diamond.jp/articles/-/499490",
-      "pubDate": "2026-11-23T10:47:00+09:00",
+      "title": "NY外為:ドル一段高、円やフラン売り戻し、安全資産としての米国債購入後退で金利が上昇",
+      "link": "https://zai.diamond.jp/articles/-/499526",
+      "pubDate": "2026-11-24T02:04:00+09:00",
       "source": "ザイFX！"
     }
   ]
