@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T07:41:05+09:00",
+  "updatedAt": "2026-11-24T15:28:12+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,75 +12,75 @@
   },
   "news": [
     {
-      "title": "NY金:続伸で3640.30ドル、米金利低下に伴うドル買い後退で買い戻し優勢",
-      "link": "https://www.zaikei.co.jp/article/20261124/878827.html",
-      "publishedAt": "2026-11-24T07:31:00+09:00",
+      "title": "東京為替:ドル・円は高値圏、円売り地合いは継続",
+      "link": "https://www.zaikei.co.jp/article/20261124/878937.html",
+      "publishedAt": "2026-11-24T15:15:00+09:00",
       "source": "財経新聞"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・23日 ユーロドル、下落",
-      "link": "https://zai.diamond.jp/articles/-/499541",
-      "publishedAt": "2026-11-24T07:03:00+09:00",
+      "title": "24日の東京外国為替市場=ドル・円、159円台前半に上昇",
+      "link": "https://finance.yahoo.co.jp/news/detail/baf2452b2880e6e90c81c39613fdb698513d0db0",
+      "publishedAt": "2026-11-24T15:08:00+09:00",
+      "source": "ウエルスアドバイザー"
+    },
+    {
+      "title": "[動画]みずほ証券コラボ┃11月24日【日米株、反発 需給から探るめど~今週は米PCE、都区部CPI~】みずほウィークリーVIEW 中島三養…",
+      "link": "https://media.rakuten-sec.net/articles/-/54126",
+      "publishedAt": "2026-11-24T15:05:00+09:00",
+      "source": "toshiru"
+    },
+    {
+      "title": "日経平均は2286円高、米経済指標や企業決算に関心",
+      "link": "https://www.zaikei.co.jp/article/20261124/878934.html",
+      "publishedAt": "2026-11-24T14:51:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "東京為替:ドル・円は159円台、円売り再開",
+      "link": "https://www.zaikei.co.jp/article/20261124/878933.html",
+      "publishedAt": "2026-11-24T14:50:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "ドル円、強含み 159.11円まで本日高値更新",
+      "link": "https://zai.diamond.jp/articles/-/499570",
+      "publishedAt": "2026-11-24T14:22:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円、158.90円まで下押し 米長期金利が低下",
-      "link": "https://zai.diamond.jp/articles/-/499535",
-      "publishedAt": "2026-11-24T04:51:00+09:00",
-      "source": "ザイFX！"
+      "title": "東京為替:ドル・円はもみ合い、節目付近で売り買い",
+      "link": "https://www.zaikei.co.jp/article/20261124/878925.html",
+      "publishedAt": "2026-11-24T14:09:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・4時 ユーロ円、地合いが弱い",
-      "link": "https://zai.diamond.jp/articles/-/499532",
-      "publishedAt": "2026-11-24T04:05:00+09:00",
-      "source": "ザイFX！"
+      "title": "日経平均は2157円高、韓国KOSPI大幅高で東京市場の株価支援要因に",
+      "link": "https://www.zaikei.co.jp/article/20261124/878922.html",
+      "publishedAt": "2026-11-24T13:52:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "NY外為:ドル伸び悩む、米2年債入札は順調",
-      "link": "https://zai.diamond.jp/articles/-/499531",
-      "publishedAt": "2026-11-24T03:41:00+09:00",
-      "source": "ザイFX！"
+      "title": "東京為替:ドル・円は小動き、節目付近でもみ合い",
+      "link": "https://www.zaikei.co.jp/article/20261124/878921.html",
+      "publishedAt": "2026-11-24T13:49:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・2時 ユーロドル、軟調",
-      "link": "https://zai.diamond.jp/articles/-/499527",
-      "publishedAt": "2026-11-24T02:06:00+09:00",
-      "source": "ザイFX！"
+      "title": "東京為替:ドル・円は底堅い、株価にらみ",
+      "link": "https://www.zaikei.co.jp/article/20261124/878918.html",
+      "publishedAt": "2026-11-24T13:18:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "NY外為:ドル一段高、円やフラン売り戻し、安全資産としての米国債購入後退で金利が上昇",
-      "link": "https://zai.diamond.jp/articles/-/499526",
-      "publishedAt": "2026-11-24T02:04:00+09:00",
-      "source": "ザイFX！"
+      "title": "外為12時 円相場、上昇 158円台後半 原油安や実需買い受け",
+      "link": "https://www.nikkei.com/article/DGXZQOFL242OU0U6A121C2000000/",
+      "publishedAt": "2026-11-24T12:34:00+09:00",
+      "source": "日経新聞"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・24時 ドル円、底堅い",
-      "link": "https://zai.diamond.jp/articles/-/499521",
-      "publishedAt": "2026-11-24T00:04:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "NY外為:ドル・円159円台半ば、リスクオン加速、米株先物が大幅高、半導体最大手エヌビディア関連報が好感",
-      "link": "https://zai.diamond.jp/articles/-/499519",
-      "publishedAt": "2026-11-23T23:35:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、強含み 一時159.42円まで上げる",
-      "link": "https://zai.diamond.jp/articles/-/499516",
-      "publishedAt": "2026-11-23T23:15:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【速報】ドル・円159.40円、リスクオン、エヌビディア取締役会がファン氏をCEOに即時復職決定との報を受け",
-      "link": "https://zai.diamond.jp/articles/-/499515",
-      "publishedAt": "2026-11-23T23:07:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【速報】ドル・円159.02円、ドル買い一服、米・10月シカゴ連銀全米活動指数は予想外のマイナス",
-      "link": "https://zai.diamond.jp/articles/-/499509",
-      "publishedAt": "2026-11-23T22:36:00+09:00",
+      "title": "日経平均後場寄り付き:前日比2150.86円高の58587.51円",
+      "link": "https://zai.diamond.jp/articles/-/499563",
+      "publishedAt": "2026-11-24T12:34:00+09:00",
       "source": "ザイFX！"
     }
   ],
@@ -362,19 +362,20 @@
     }
   ],
   "fundamental": {
-    "score": -4,
+    "score": -5,
     "label": "ドル安・円高材料が優勢",
     "upFactors": [],
     "downFactors": [
-      "NY金:続伸で3640.30ドル、米金利低下に伴うドル買い後退で買い戻し優勢",
+      "日経平均は2286円高、米経済指標や企業決算に関心",
+      "日経平均は2157円高、韓国KOSPI大幅高で東京市場の株価支援要因に",
       "米国 11月 製造業PMI（購買担当者景気指数）：結果 54.5／予想 54.6",
       "米国 11月 サービス業PMI（購買担当者景気指数）：結果 54.7／予想 55.7",
       "米国 11月 ｺﾝﾎﾟｼﾞｯﾄPMI（購買担当者景気指数）：結果 54.6／予想 55.2"
     ],
     "neutralFactors": [
-      "ニューヨーク外国為替市場概況・23日 ユーロドル、下落",
-      "ドル円、158.90円まで下押し 米長期金利が低下",
-      "ニューヨーク外国為替市場概況・4時 ユーロ円、地合いが弱い"
+      "東京為替:ドル・円は高値圏、円売り地合いは継続",
+      "24日の東京外国為替市場=ドル・円、159円台前半に上昇",
+      "[動画]みずほ証券コラボ┃11月24日【日米株、反発 需給から探るめど~今週は米PCE、都区部CPI~】みずほウィークリーVIEW 中島三養…"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
