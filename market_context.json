@@ -1,87 +1,86 @@
 {
-  "updatedAt": "2026-11-24T15:28:12+09:00",
+  "updatedAt": "2026-11-25T03:21:43+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
     "fxUrl": "https://225225.jp/4fx/",
     "scheduleUrl": "https://nikkei225jp.com/schedule/",
     "feeds": [
-      "https://nikkei225jp.com/_data/_nfsDATA/rss/News_9.js",
-      "https://nikkei225jp.com/_data/_nfsDATA/rss/News_ALL1.js"
+      "https://nikkei225jp.com/_data/_nfsDATA/rss/News_9.js"
     ]
   },
   "news": [
     {
-      "title": "東京為替:ドル・円は高値圏、円売り地合いは継続",
-      "link": "https://www.zaikei.co.jp/article/20261124/878937.html",
-      "publishedAt": "2026-11-24T15:15:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "24日の東京外国為替市場=ドル・円、159円台前半に上昇",
-      "link": "https://finance.yahoo.co.jp/news/detail/baf2452b2880e6e90c81c39613fdb698513d0db0",
-      "publishedAt": "2026-11-24T15:08:00+09:00",
-      "source": "ウエルスアドバイザー"
-    },
-    {
-      "title": "[動画]みずほ証券コラボ┃11月24日【日米株、反発 需給から探るめど~今週は米PCE、都区部CPI~】みずほウィークリーVIEW 中島三養…",
-      "link": "https://media.rakuten-sec.net/articles/-/54126",
-      "publishedAt": "2026-11-24T15:05:00+09:00",
-      "source": "toshiru"
-    },
-    {
-      "title": "日経平均は2286円高、米経済指標や企業決算に関心",
-      "link": "https://www.zaikei.co.jp/article/20261124/878934.html",
-      "publishedAt": "2026-11-24T14:51:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替:ドル・円は159円台、円売り再開",
-      "link": "https://www.zaikei.co.jp/article/20261124/878933.html",
-      "publishedAt": "2026-11-24T14:50:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "ドル円、強含み 159.11円まで本日高値更新",
-      "link": "https://zai.diamond.jp/articles/-/499570",
-      "publishedAt": "2026-11-24T14:22:00+09:00",
+      "title": "ニューヨーク外国為替市場概況・2時 ドル円、伸び悩み",
+      "link": "https://zai.diamond.jp/articles/-/499615",
+      "publishedAt": "2026-11-25T02:05:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "東京為替:ドル・円はもみ合い、節目付近で売り買い",
-      "link": "https://www.zaikei.co.jp/article/20261124/878925.html",
-      "publishedAt": "2026-11-24T14:09:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "日経平均は2157円高、韓国KOSPI大幅高で東京市場の株価支援要因に",
-      "link": "https://www.zaikei.co.jp/article/20261124/878922.html",
-      "publishedAt": "2026-11-24T13:52:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替:ドル・円は小動き、節目付近でもみ合い",
-      "link": "https://www.zaikei.co.jp/article/20261124/878921.html",
-      "publishedAt": "2026-11-24T13:49:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替:ドル・円は底堅い、株価にらみ",
-      "link": "https://www.zaikei.co.jp/article/20261124/878918.html",
-      "publishedAt": "2026-11-24T13:18:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "外為12時 円相場、上昇 158円台後半 原油安や実需買い受け",
-      "link": "https://www.nikkei.com/article/DGXZQOFL242OU0U6A121C2000000/",
-      "publishedAt": "2026-11-24T12:34:00+09:00",
-      "source": "日経新聞"
-    },
-    {
-      "title": "日経平均後場寄り付き:前日比2150.86円高の58587.51円",
-      "link": "https://zai.diamond.jp/articles/-/499563",
-      "publishedAt": "2026-11-24T12:34:00+09:00",
+      "title": "NY外為:ドル伸び悩み、原油反発、米イラン紛争の外交解決困難との懸念強まる",
+      "link": "https://zai.diamond.jp/articles/-/499614",
+      "publishedAt": "2026-11-25T01:14:00+09:00",
       "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ユーロドル、上昇一服",
+      "link": "https://zai.diamond.jp/articles/-/499609",
+      "publishedAt": "2026-11-25T00:07:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【速報】ドル・円159.31円、ドル買い強まる、米・11月消費者信頼感指数は予想上回る",
+      "link": "https://zai.diamond.jp/articles/-/499608",
+      "publishedAt": "2026-11-25T00:04:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【市場反応】米11月フィラデルフィア連銀非製造業活動/米週次ADP雇用統計、ドル下げ止まる",
+      "link": "https://zai.diamond.jp/articles/-/499598",
+      "publishedAt": "2026-11-24T22:56:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【速報】ドル・円159.03円、ドル軟調、米・週次ADP雇用統計は伸び鈍化",
+      "link": "https://zai.diamond.jp/articles/-/499595",
+      "publishedAt": "2026-11-24T22:18:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【速報】米・週次ADP雇用統計は+2.1万人",
+      "link": "https://zai.diamond.jp/articles/-/499594",
+      "publishedAt": "2026-11-24T22:16:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "欧州外国為替市場概況・22時 ドル円、上値が重い",
+      "link": "https://zai.diamond.jp/articles/-/499592",
+      "publishedAt": "2026-11-24T22:07:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "欧州為替:ドル・円は上昇分を削る、米金利の低下で",
+      "link": "https://www.zaikei.co.jp/article/20261124/878960.html",
+      "publishedAt": "2026-11-24T20:12:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "欧州外国為替市場概況・20時 ユーロ円、上値を広げる",
+      "link": "https://zai.diamond.jp/articles/-/499590",
+      "publishedAt": "2026-11-24T20:07:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "NY為替見通し=ドル円、米株反発の持続性とエヌビディア問題が焦点",
+      "link": "https://zai.diamond.jp/articles/-/499589",
+      "publishedAt": "2026-11-24T19:34:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "欧州為替:ドル・円は堅調、クロス円主導で",
+      "link": "https://www.zaikei.co.jp/article/20261124/878959.html",
+      "publishedAt": "2026-11-24T19:07:00+09:00",
+      "source": "財経新聞"
     }
   ],
   "recentIndicators": [
@@ -123,9 +122,7 @@
       "forecast": "55.2",
       "previous": "55.9",
       "url": "https://nikkei225jp.com/schedule/"
-    }
-  ],
-  "upcomingIndicators": [
+    },
     {
       "scheduledAt": "2026-11-25T00:00:00+09:00",
       "dateLabel": "11/24",
@@ -134,8 +131,8 @@
       "country": "米国",
       "importance": 3,
       "title": "11月 リッチモンド連銀製造業指数",
-      "result": "",
-      "forecast": "",
+      "result": "3.0",
+      "forecast": "-2.0",
       "previous": "-2.0",
       "url": "https://nikkei225jp.com/schedule/"
     },
@@ -147,11 +144,13 @@
       "country": "米国",
       "importance": 4,
       "title": "11月 コンファレンスボード消費者信頼感指数",
-      "result": "",
+      "result": "103.3",
       "forecast": "92.0",
       "previous": "91.7",
       "url": "https://nikkei225jp.com/schedule/"
-    },
+    }
+  ],
+  "upcomingIndicators": [
     {
       "scheduledAt": "2026-11-25T22:30:00+09:00",
       "dateLabel": "11/25",
@@ -322,19 +321,6 @@
       "url": "https://nikkei225jp.com/schedule/"
     },
     {
-      "scheduledAt": "2026-12-01T23:45:00+09:00",
-      "dateLabel": "12/1",
-      "timeLabel": "23:45",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 4,
-      "title": "11月 製造業PMI（購買担当者景気指数・確報値）",
-      "result": "",
-      "forecast": "",
-      "previous": "",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
       "scheduledAt": "2026-12-02T00:00:00+09:00",
       "dateLabel": "12/2",
       "timeLabel": "00:00",
@@ -359,26 +345,39 @@
       "forecast": "",
       "previous": "752.3万人",
       "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-12-02T22:15:00+09:00",
+      "dateLabel": "12/2",
+      "timeLabel": "22:15",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 4,
+      "title": "11月 ADP雇用統計 [前月比]",
+      "result": "",
+      "forecast": "",
+      "previous": "8.6万人",
+      "url": "https://nikkei225jp.com/schedule/"
     }
   ],
   "fundamental": {
-    "score": -5,
+    "score": -3,
     "label": "ドル安・円高材料が優勢",
     "upFactors": [],
     "downFactors": [
-      "日経平均は2286円高、米経済指標や企業決算に関心",
-      "日経平均は2157円高、韓国KOSPI大幅高で東京市場の株価支援要因に",
       "米国 11月 製造業PMI（購買担当者景気指数）：結果 54.5／予想 54.6",
       "米国 11月 サービス業PMI（購買担当者景気指数）：結果 54.7／予想 55.7",
       "米国 11月 ｺﾝﾎﾟｼﾞｯﾄPMI（購買担当者景気指数）：結果 54.6／予想 55.2"
     ],
     "neutralFactors": [
-      "東京為替:ドル・円は高値圏、円売り地合いは継続",
-      "24日の東京外国為替市場=ドル・円、159円台前半に上昇",
-      "[動画]みずほ証券コラボ┃11月24日【日米株、反発 需給から探るめど~今週は米PCE、都区部CPI~】みずほウィークリーVIEW 中島三養…"
+      "ニューヨーク外国為替市場概況・2時 ドル円、伸び悩み",
+      "NY外為:ドル伸び悩み、原油反発、米イラン紛争の外交解決困難との懸念強まる",
+      "ニューヨーク外国為替市場概況・24時 ユーロドル、上昇一服"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
-  "warnings": [],
+  "warnings": [
+    "ニュース取得失敗: Could not fetch https://nikkei225jp.com/_data/_nfsDATA/rss/News_ALL1.js: HTTP Error 404: Not Found"
+  ],
   "disclaimer": "公開情報の機械整理であり、売買推奨や将来の価格保証ではありません。"
 }
