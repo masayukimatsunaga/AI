@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T01:02:36+09:00",
+  "updatedAt": "2026-11-24T14:48:41+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
@@ -9,32 +9,28 @@
     "orderDataUrl": "https://www.gaitame.com/markets/order/"
   },
   "report": {
-    "headline": "日銀利上げ期待でも円高は限定的か",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜日銀利上げ期待でも円高は限定的か」 外為どっとコム トゥデイ 2026年11月20日号",
-    "url": "https://www.gaitame.com/media/entry/2026/11/20/083732",
-    "publishedAt": "2026-11-20T08:37:32+09:00",
-    "createdAt": "2026-11-20T08:30:00+09:00",
+    "headline": "一時159円台回復も160円の壁を前に伸び悩む",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜一時159円台回復も160円の壁を前に伸び悩む」 外為どっとコム トゥデイ 2026年11月24日号",
+    "url": "https://www.gaitame.com/media/entry/2026/11/24/084645",
+    "publishedAt": "2026-11-24T08:46:45+09:00",
+    "createdAt": "2026-11-24T08:30:00+09:00",
     "forecastRange": {
-      "low": 158.9,
-      "high": 160.3
+      "low": 158.4,
+      "high": 159.8
     },
-    "outlook": "158円台では下値支え",
+    "outlook": "159.80-90円台突破は困難",
     "factors": [
-      "豪失業率 5年ぶり水準へ悪化",
-      "日銀総裁 円安の影響「物価上振れにつながるリスク」",
-      "米新規失業保険申請件数 予想を上回る"
+      "独PMI上昇",
+      "英PMI低下",
+      "エヌビディアCEO復帰"
     ],
     "events": [
-      {
-        "text": "17:30 ◎ (ユーロ圏) ラガルドECB総裁講演",
-        "importance": "high"
-      },
       {
         "text": "※時間は日本時間での表示になります。 ※「注目の経済指標」「注目のイベント」は注目度が高い順に「◎」「○」「無印」で表示しております。 ※発表時刻は予告なく変更される場合があります。また、予定一覧は信憑性の高いと思われる情報を元にまとめておりますが、内容の正確性を保証するものではございませんので、事前にご留意くださいますようお願いいたします。",
         "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261120/20261120083159.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261124/20261124083545.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   },
   "orderReport": {
