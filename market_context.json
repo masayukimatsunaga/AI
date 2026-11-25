@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T11:48:42+09:00",
+  "updatedAt": "2026-11-25T22:01:26+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,76 +12,76 @@
   },
   "news": [
     {
-      "title": "1934円安の5万6710円43銭 25日午前の平均株価",
-      "link": "https://www.jiji.com/jc/article?k=2026112500549&g=eco",
-      "publishedAt": "2026-11-25T11:40:00+09:00",
-      "source": "時事ドットコム"
+      "title": "【日銀ETF売却益の財源化】政府、経済安全保障への投資を前倒し、つなぎ国債で資金確保へ",
+      "link": "https://kabu-ir.com/article/522123016.html",
+      "publishedAt": "2026-11-25T21:01:00+09:00",
+      "source": "日本インタビュ新聞"
     },
     {
-      "title": "日経平均前場引け:前日比1934.20円安の56710.43円",
-      "link": "https://zai.diamond.jp/articles/-/499642",
-      "publishedAt": "2026-11-25T11:33:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "1934円安の5万6710円。台湾と韓国が下げ幅を拡大",
-      "link": "https://www.nsjournal.jp/%e2%98%86%e6%a6%82%e6%b3%81-%e5%89%8d%e5%bc%95%e3%81%91%e3%80%801934%e5%86%86%e5%ae%89%e3%81%ae5%e4%b8%876710%e5%86%86%e3%80%82%e5%8f%b0%e6%b9%be%e3%81%a8%e9%9f%93%e5%9b%bd%e3%81%8c%e4%b8%8b/",
-      "publishedAt": "2026-11-25T11:30:00+09:00",
-      "source": "日本証券新聞"
-    },
-    {
-      "title": "東京為替:ドル・円は159円20銭台で推移、方向感に乏しい展開続く",
-      "link": "https://www.zaikei.co.jp/article/20261125/879046.html",
-      "publishedAt": "2026-11-25T11:05:00+09:00",
+      "title": "欧州為替:ドル・円は伸び悩み、米インフレ指標待ち",
+      "link": "https://www.zaikei.co.jp/article/20261125/879126.html",
+      "publishedAt": "2026-11-25T20:12:00+09:00",
       "source": "財経新聞"
     },
     {
-      "title": "東京為替:ドル・円は159円30銭近辺、方向感に乏しい展開続く",
-      "link": "https://www.zaikei.co.jp/article/20261125/879033.html",
-      "publishedAt": "2026-11-25T10:32:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替:ドル・円は159円34銭まで上昇後、159円20銭台に押し戻される",
-      "link": "https://www.zaikei.co.jp/article/20261125/879029.html",
-      "publishedAt": "2026-11-25T10:02:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "東京為替:ドル・円は159円30銭台に持ち直すも、方向感に乏しい",
-      "link": "https://www.zaikei.co.jp/article/20261125/879023.html",
-      "publishedAt": "2026-11-25T09:32:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "【為替】クロス円に広がる円安終了の可能性",
-      "link": "https://media.monex.co.jp/articles/-/30571",
-      "publishedAt": "2026-11-25T09:30:00+09:00",
-      "source": "吉田恒の為替デイリー"
-    },
-    {
-      "title": "円相場、159円25~26銭 25日午前9時現在",
-      "link": "https://www.jiji.com/jc/article?k=2026112500303&g=eco",
-      "publishedAt": "2026-11-25T09:06:00+09:00",
-      "source": "時事ドットコム"
-    },
-    {
-      "title": "日経平均寄り付き:前日比261.14円安の58383.49円",
-      "link": "https://zai.diamond.jp/articles/-/499636",
-      "publishedAt": "2026-11-25T09:06:00+09:00",
+      "title": "欧州外国為替市場概況・20時 ドル円、神経質な値動き継続",
+      "link": "https://zai.diamond.jp/articles/-/499669",
+      "publishedAt": "2026-11-25T20:06:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ドル円 159.23円付近、SGX日経225先物は57415円でスタート",
-      "link": "https://zai.diamond.jp/articles/-/499634",
-      "publishedAt": "2026-11-25T08:33:00+09:00",
+      "title": "NY為替見通し=ドル円、米PCEデフレーターに注目しつつ株価も確認",
+      "link": "https://zai.diamond.jp/articles/-/499668",
+      "publishedAt": "2026-11-25T19:48:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "東京為替見通し=ドル円は10月特殊要因除くコアCPI、豪ドルは豪10月CPIに要注目か",
-      "link": "https://zai.diamond.jp/articles/-/499629",
-      "publishedAt": "2026-11-25T08:00:00+09:00",
+      "title": "欧州為替:ドル・円は上値が重い、日中高値を意識",
+      "link": "https://www.zaikei.co.jp/article/20261125/879125.html",
+      "publishedAt": "2026-11-25T19:07:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "欧州為替:ドル・円は伸び悩み、米株安に警戒",
+      "link": "https://www.zaikei.co.jp/article/20261125/879122.html",
+      "publishedAt": "2026-11-25T18:29:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "エヌビディア・ショック後もドル円は冷静。米感謝祭を前に年内は手じまい優先か",
+      "link": "https://media.rakuten-sec.net/articles/-/54138",
+      "publishedAt": "2026-11-25T17:55:00+09:00",
+      "source": "toshiru"
+    },
+    {
+      "title": "【ドル円予想2026/11/24】米消費者心理と製造業をチェック!ドル円を動かす材料は出る?★分かり易いFX情報番組",
+      "link": "https://www.youtube.com/watch?v=H3jbBqaTg7A",
+      "publishedAt": "2026-11-25T17:54:00+09:00",
+      "source": "ひまわり証券"
+    },
+    {
+      "title": "東京為替概況:ドル・円は反落、上昇分を削る",
+      "link": "https://zai.diamond.jp/articles/-/499665",
+      "publishedAt": "2026-11-25T17:52:00+09:00",
       "source": "ザイFX！"
+    },
+    {
+      "title": "外為17時 円相場、反発 159円台前半 リスク回避の買い",
+      "link": "https://www.nikkei.com/article/DGXZQOFL254PQ0V21C26A1000000/",
+      "publishedAt": "2026-11-25T17:35:00+09:00",
+      "source": "日経新聞"
+    },
+    {
+      "title": "欧米為替見通し: ドル・円は伸び悩みか、米インフレ加速も警戒で円買い圧力",
+      "link": "https://www.zaikei.co.jp/article/20261125/879116.html",
+      "publishedAt": "2026-11-25T17:25:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "東京為替:ドル・円は反落、上昇分を削る",
+      "link": "https://www.zaikei.co.jp/article/20261125/879114.html",
+      "publishedAt": "2026-11-25T17:19:00+09:00",
+      "source": "財経新聞"
     }
   ],
   "recentIndicators": [
@@ -349,19 +349,14 @@
     }
   ],
   "fundamental": {
-    "score": 4,
-    "label": "ドル高・円安材料が優勢",
-    "upFactors": [
-      "1934円安の5万6710円43銭 25日午前の平均株価",
-      "日経平均前場引け:前日比1934.20円安の56710.43円",
-      "1934円安の5万6710円。台湾と韓国が下げ幅を拡大",
-      "【為替】クロス円に広がる円安終了の可能性"
-    ],
+    "score": 0,
+    "label": "材料は拮抗",
+    "upFactors": [],
     "downFactors": [],
     "neutralFactors": [
-      "東京為替:ドル・円は159円20銭台で推移、方向感に乏しい展開続く",
-      "東京為替:ドル・円は159円30銭近辺、方向感に乏しい展開続く",
-      "東京為替:ドル・円は159円34銭まで上昇後、159円20銭台に押し戻される"
+      "【日銀ETF売却益の財源化】政府、経済安全保障への投資を前倒し、つなぎ国債で資金確保へ",
+      "欧州為替:ドル・円は伸び悩み、米インフレ指標待ち",
+      "欧州外国為替市場概況・20時 ドル円、神経質な値動き継続"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
