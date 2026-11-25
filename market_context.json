@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T22:01:26+09:00",
+  "updatedAt": "2026-11-26T07:35:05+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,146 +12,79 @@
   },
   "news": [
     {
-      "title": "【日銀ETF売却益の財源化】政府、経済安全保障への投資を前倒し、つなぎ国債で資金確保へ",
-      "link": "https://kabu-ir.com/article/522123016.html",
-      "publishedAt": "2026-11-25T21:01:00+09:00",
-      "source": "日本インタビュ新聞"
-    },
-    {
-      "title": "欧州為替:ドル・円は伸び悩み、米インフレ指標待ち",
-      "link": "https://www.zaikei.co.jp/article/20261125/879126.html",
-      "publishedAt": "2026-11-25T20:12:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "欧州外国為替市場概況・20時 ドル円、神経質な値動き継続",
-      "link": "https://zai.diamond.jp/articles/-/499669",
-      "publishedAt": "2026-11-25T20:06:00+09:00",
+      "title": "ニューヨーク外国為替市場概況・25日 ドル円、3日ぶり小反落",
+      "link": "https://zai.diamond.jp/articles/-/499718",
+      "publishedAt": "2026-11-26T07:03:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "NY為替見通し=ドル円、米PCEデフレーターに注目しつつ株価も確認",
-      "link": "https://zai.diamond.jp/articles/-/499668",
-      "publishedAt": "2026-11-25T19:48:00+09:00",
+      "title": "ニューヨーク外国為替市場概況・4時 ドル円、買い戻し",
+      "link": "https://zai.diamond.jp/articles/-/499706",
+      "publishedAt": "2026-11-26T04:04:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "欧州為替:ドル・円は上値が重い、日中高値を意識",
-      "link": "https://www.zaikei.co.jp/article/20261125/879125.html",
-      "publishedAt": "2026-11-25T19:07:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "欧州為替:ドル・円は伸び悩み、米株安に警戒",
-      "link": "https://www.zaikei.co.jp/article/20261125/879122.html",
-      "publishedAt": "2026-11-25T18:29:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "エヌビディア・ショック後もドル円は冷静。米感謝祭を前に年内は手じまい優先か",
-      "link": "https://media.rakuten-sec.net/articles/-/54138",
-      "publishedAt": "2026-11-25T17:55:00+09:00",
-      "source": "toshiru"
-    },
-    {
-      "title": "【ドル円予想2026/11/24】米消費者心理と製造業をチェック!ドル円を動かす材料は出る?★分かり易いFX情報番組",
-      "link": "https://www.youtube.com/watch?v=H3jbBqaTg7A",
-      "publishedAt": "2026-11-25T17:54:00+09:00",
-      "source": "ひまわり証券"
-    },
-    {
-      "title": "東京為替概況:ドル・円は反落、上昇分を削る",
-      "link": "https://zai.diamond.jp/articles/-/499665",
-      "publishedAt": "2026-11-25T17:52:00+09:00",
+      "title": "NY外為:ドル売り後退、米7年債入札は弱い",
+      "link": "https://zai.diamond.jp/articles/-/499702",
+      "publishedAt": "2026-11-26T02:30:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "外為17時 円相場、反発 159円台前半 リスク回避の買い",
-      "link": "https://www.nikkei.com/article/DGXZQOFL254PQ0V21C26A1000000/",
-      "publishedAt": "2026-11-25T17:35:00+09:00",
-      "source": "日経新聞"
+      "title": "ニューヨーク外国為替市場概況・2時 ドル円、軟調",
+      "link": "https://zai.diamond.jp/articles/-/499699",
+      "publishedAt": "2026-11-26T02:06:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "欧米為替見通し: ドル・円は伸び悩みか、米インフレ加速も警戒で円買い圧力",
-      "link": "https://www.zaikei.co.jp/article/20261125/879116.html",
-      "publishedAt": "2026-11-25T17:25:00+09:00",
-      "source": "財経新聞"
+      "title": "NY外為:円やスイスフランは堅調、リスク回避や安全資産買い再燃、米は新関税提案",
+      "link": "https://zai.diamond.jp/articles/-/499698",
+      "publishedAt": "2026-11-26T01:41:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "東京為替:ドル・円は反落、上昇分を削る",
-      "link": "https://www.zaikei.co.jp/article/20261125/879114.html",
-      "publishedAt": "2026-11-25T17:19:00+09:00",
-      "source": "財経新聞"
+      "title": "ドル円、159円割れ 一時158.94円まで下げる",
+      "link": "https://zai.diamond.jp/articles/-/499697",
+      "publishedAt": "2026-11-26T01:38:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ニューヨーク外国為替市場概況・24時 ドル円、頭重い",
+      "link": "https://zai.diamond.jp/articles/-/499693",
+      "publishedAt": "2026-11-26T00:07:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【NY為替オープニング】ベージュブックや7年債入札に注目、米コアPCEで12月FOMCでの利上げより確実に",
+      "link": "https://zai.diamond.jp/articles/-/499692",
+      "publishedAt": "2026-11-26T00:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【速報】ドル・円159.27円、ドル買い先行、米・10月新築住宅販売件数は予想上回る",
+      "link": "https://zai.diamond.jp/articles/-/499691",
+      "publishedAt": "2026-11-26T00:02:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、弱含み 一時159.04円付近まで下押し",
+      "link": "https://zai.diamond.jp/articles/-/499689",
+      "publishedAt": "2026-11-25T23:49:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【市場反応】米10月コアPCE価格指数/7-9月期GDP改定値は予想上回る、失業保険申請件数は57年ぶり低水準でドル売り",
+      "link": "https://zai.diamond.jp/articles/-/499687",
+      "publishedAt": "2026-11-25T23:39:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【速報】ドル・円159.18円、リスクオフで円堅調、米コアPCEは予想上回る",
+      "link": "https://zai.diamond.jp/articles/-/499686",
+      "publishedAt": "2026-11-25T22:39:00+09:00",
+      "source": "ザイFX！"
     }
   ],
   "recentIndicators": [
-    {
-      "scheduledAt": "2026-11-25T00:00:00+09:00",
-      "dateLabel": "11/24",
-      "timeLabel": "24:00",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 3,
-      "title": "11月 リッチモンド連銀製造業指数",
-      "result": "3.0",
-      "forecast": "-2.0",
-      "previous": "-2.0",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-25T00:00:00+09:00",
-      "dateLabel": "11/24",
-      "timeLabel": "24:00",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 4,
-      "title": "11月 コンファレンスボード消費者信頼感指数",
-      "result": "103.3",
-      "forecast": "92.0",
-      "previous": "91.7",
-      "url": "https://nikkei225jp.com/schedule/"
-    }
-  ],
-  "upcomingIndicators": [
-    {
-      "scheduledAt": "2026-11-25T22:30:00+09:00",
-      "dateLabel": "11/25",
-      "timeLabel": "22:30",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 3,
-      "title": "10月 個人所得[前月比]",
-      "result": "",
-      "forecast": "0.4%",
-      "previous": "0.2%",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-25T22:30:00+09:00",
-      "dateLabel": "11/25",
-      "timeLabel": "22:30",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 3,
-      "title": "10月 個人支出[前月比]",
-      "result": "",
-      "forecast": "0.5%",
-      "previous": "0.5%",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-11-25T22:30:00+09:00",
-      "dateLabel": "11/25",
-      "timeLabel": "22:30",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 4,
-      "title": "10月 PCE価格指数[前年比]",
-      "result": "",
-      "forecast": "3.8%",
-      "previous": "3.6%",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
     {
       "scheduledAt": "2026-11-25T22:30:00+09:00",
       "dateLabel": "11/25",
@@ -160,7 +93,7 @@
       "country": "米国",
       "importance": 3,
       "title": "11/15 - 11/21 新規失業保険申請件数",
-      "result": "",
+      "result": "18.9万件",
       "forecast": "20.1万件",
       "previous": "20.3万件",
       "url": "https://nikkei225jp.com/schedule/"
@@ -173,7 +106,7 @@
       "country": "米国",
       "importance": 4,
       "title": "10月 コアPCE価格指数[前年比]",
-      "result": "",
+      "result": "3.3%",
       "forecast": "3.2%",
       "previous": "3.1%",
       "url": "https://nikkei225jp.com/schedule/"
@@ -186,7 +119,7 @@
       "country": "米国",
       "importance": 4,
       "title": "第3四半期 実質GDP[前期比年率]",
-      "result": "",
+      "result": "4.3%",
       "forecast": "3.4%",
       "previous": "3.4%",
       "url": "https://nikkei225jp.com/schedule/"
@@ -199,7 +132,7 @@
       "country": "米国",
       "importance": 3,
       "title": "11/08 - 11/14 失業保険継続受給者数",
-      "result": "",
+      "result": "169.7万件",
       "forecast": "176.1万件",
       "previous": "176.3万件",
       "url": "https://nikkei225jp.com/schedule/"
@@ -212,7 +145,7 @@
       "country": "米国",
       "importance": 4,
       "title": "10月 耐久財受注[前月比]",
-      "result": "",
+      "result": "0.2%",
       "forecast": "0.5%",
       "previous": "1.9%",
       "url": "https://nikkei225jp.com/schedule/"
@@ -225,7 +158,7 @@
       "country": "米国",
       "importance": 4,
       "title": "10月 耐久財受注（輸送除くコア）[前月比]",
-      "result": "",
+      "result": "0.5%",
       "forecast": "0.5%",
       "previous": "0.5%",
       "url": "https://nikkei225jp.com/schedule/"
@@ -238,7 +171,7 @@
       "country": "米国",
       "importance": 4,
       "title": "10月 新築住宅販売件数",
-      "result": "",
+      "result": "70.1万件",
       "forecast": "64.7万件",
       "previous": "67.6万件",
       "url": "https://nikkei225jp.com/schedule/"
@@ -251,7 +184,7 @@
       "country": "米国",
       "importance": 3,
       "title": "11/14 - 11/20 原油在庫[前週比]",
-      "result": "",
+      "result": "110.9万バレル",
       "forecast": "",
       "previous": "338.0万バレル",
       "url": "https://nikkei225jp.com/schedule/"
@@ -264,7 +197,7 @@
       "country": "米国",
       "importance": 3,
       "title": "11/14 - 11/20 ガソリン在庫[前週比]",
-      "result": "",
+      "result": "173.3万バレル",
       "forecast": "",
       "previous": "519.2万バレル",
       "url": "https://nikkei225jp.com/schedule/"
@@ -277,9 +210,24 @@
       "country": "米国",
       "importance": 3,
       "title": "11/14 - 11/20 留出油在庫[前週比]",
-      "result": "",
+      "result": "71.5万バレル",
       "forecast": "",
       "previous": "157.1万バレル",
+      "url": "https://nikkei225jp.com/schedule/"
+    }
+  ],
+  "upcomingIndicators": [
+    {
+      "scheduledAt": "2026-11-27T22:30:00+09:00",
+      "dateLabel": "11/27",
+      "timeLabel": "22:30",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 3,
+      "title": "10月 卸売在庫[前月比]",
+      "result": "",
+      "forecast": "",
+      "previous": "0.7%",
       "url": "https://nikkei225jp.com/schedule/"
     },
     {
@@ -322,41 +270,73 @@
       "url": "https://nikkei225jp.com/schedule/"
     },
     {
-      "scheduledAt": "2026-12-02T00:00:00+09:00",
+      "scheduledAt": "2026-12-02T22:15:00+09:00",
       "dateLabel": "12/2",
+      "timeLabel": "22:15",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 4,
+      "title": "11月 ADP雇用統計[前月比]",
+      "result": "",
+      "forecast": "",
+      "previous": "8.6万人",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-12-04T00:00:00+09:00",
+      "dateLabel": "12/4",
       "timeLabel": "00:00",
       "countryCode": "us",
       "country": "米国",
       "importance": 5,
-      "title": "11月 ISM製造業景気指数",
+      "title": "11月 ISM非製造業景気指数",
       "result": "",
       "forecast": "",
-      "previous": "55.5",
+      "previous": "54.5",
       "url": "https://nikkei225jp.com/schedule/"
     },
     {
-      "scheduledAt": "2026-12-02T00:00:00+09:00",
-      "dateLabel": "12/2",
+      "scheduledAt": "2026-12-04T00:00:00+09:00",
+      "dateLabel": "12/4",
       "timeLabel": "00:00",
       "countryCode": "us",
       "country": "米国",
       "importance": 4,
-      "title": "10月 JOLTS求人件数",
+      "title": "10月 耐久財受注（確報値） [前月比]",
       "result": "",
       "forecast": "",
-      "previous": "752.3万人",
+      "previous": "",
+      "url": "https://nikkei225jp.com/schedule/"
+    },
+    {
+      "scheduledAt": "2026-12-04T00:00:00+09:00",
+      "dateLabel": "12/4",
+      "timeLabel": "00:00",
+      "countryCode": "us",
+      "country": "米国",
+      "importance": 4,
+      "title": "10月 耐久財受注(確報値) [輸送除くコア・前月比]",
+      "result": "",
+      "forecast": "",
+      "previous": "",
       "url": "https://nikkei225jp.com/schedule/"
     }
   ],
   "fundamental": {
-    "score": 0,
-    "label": "材料は拮抗",
-    "upFactors": [],
+    "score": 5,
+    "label": "ドル高・円安材料が優勢",
+    "upFactors": [
+      "【NY為替オープニング】ベージュブックや7年債入札に注目、米コアPCEで12月FOMCでの利上げより確実に",
+      "米国 11/15 - 11/21 新規失業保険申請件数：結果 18.9万件／予想 20.1万件",
+      "米国 10月 コアPCE価格指数[前年比]：結果 3.3%／予想 3.2%",
+      "米国 第3四半期 実質GDP[前期比年率]：結果 4.3%／予想 3.4%",
+      "米国 11/08 - 11/14 失業保険継続受給者数：結果 169.7万件／予想 176.1万件"
+    ],
     "downFactors": [],
     "neutralFactors": [
-      "【日銀ETF売却益の財源化】政府、経済安全保障への投資を前倒し、つなぎ国債で資金確保へ",
-      "欧州為替:ドル・円は伸び悩み、米インフレ指標待ち",
-      "欧州外国為替市場概況・20時 ドル円、神経質な値動き継続"
+      "ニューヨーク外国為替市場概況・25日 ドル円、3日ぶり小反落",
+      "ニューヨーク外国為替市場概況・4時 ドル円、買い戻し",
+      "NY外為:ドル売り後退、米7年債入札は弱い"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
