@@ -1,93 +1,93 @@
 {
-  "updatedAt": "2026-11-26T13:27:25+09:00",
+  "updatedAt": "2026-11-26T23:30:20+09:00",
   "sources": [
     "nikkei225jp.com 為替ニュース",
     "Google ニュース"
   ],
   "items": [
     {
-      "title": "東京為替：ドル・円は小動き、材料難で(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOam9zZU9YUmVrM1dCWGFYcGVuZFk4b0s5SUdjRWVETDhCV0V6OG9EOGk2SDFoUlhNbi1hb1VPZGIzNjkwZVQyNTZrX05oOWFob0dRWDYyQVZWLWoxUTYzWVVzOU4xWjJHNkJSZVlqMUE4QTRDQWlNdFV3NV9XYTViMzBEZnF4WUE?oc=5",
-      "pubDate": "2026-11-26T13:15:14+09:00",
-      "source": "Yahoo!ファイナンス"
-    },
-    {
-      "title": "東京為替:ドル・円は小動き、材料難で",
-      "link": "https://www.zaikei.co.jp/article/20261126/879269.html",
-      "pubDate": "2026-11-26T13:15:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "ドル・円：ドル・円は下げ渋り、ドルに買戻し｜FX・為替ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3dDFzTTRRdWM2bHdyWm0xUEJIUHotNElBbE9zdEtnT0l0S0V4eVRrVHJwMVNpMU96S3pmbll2TXdMRWJJRk5Zc1FpbDBmbmlKNkE?oc=5",
-      "pubDate": "2026-11-26T12:56:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "円相場、159円台で下げ渋り 日銀タカ派発言と米金利が綱引き",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mUHY4VDBNbHZJTXlzWnhBcmtRdVdfWXZlSTczbTZ0ZEhaZnNfMG05X2NIWkVFZHNNWWxwSGJXZmxETHBrRm1jNEZsS0hLOWktaUc0bUF0LU1IWWxiMExlcW9VTkNwejQyeGtrMlBRNzEzcFJ6?oc=5",
-      "pubDate": "2026-11-26T12:55:00+09:00",
+      "title": "ドル円159円台で動意薄、感謝祭休場のNY市場をにらみ欧州時間も小動き",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yQWNWbkV5YWcxSXl0Sk1XVDd1eHVDa3g4VkZVbWJvek5EaGNWZGNZVUR2MXA4a1BSQkZmNFdaSm9ZUVYxMmdiV0xoaVJPd2hxQXFEWlNTa1l3ZXVtX0hsQkYzZnVpMmxqOHRhMFZmZ08zQnNI?oc=5",
+      "pubDate": "2026-11-26T22:25:00+09:00",
       "source": "BigGo ファイナンス"
     },
     {
-      "title": "東京為替：ドル・円は下げ渋り、ドルに買戻し(フィスコ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcGNkRDByUmwwRnd0bGsycXM0Y1U5LUs0SkYwNjZEbTY2WHpURWJzX05rVTZrM0JwSkhRNVN3dTRBQWliS3dDZzlGYlFnSDYtbFhPTVE3LWxwRWdOeEdLS3lOcXNrSE51MnlBd3NoNjhNdG9zVENuajNhX05LRzYzRTFybDducUk?oc=5",
-      "pubDate": "2026-11-26T12:24:21+09:00",
+      "title": "欧州外国為替市場概況・22時 ドル円、動意薄",
+      "link": "https://zai.diamond.jp/articles/-/499763",
+      "pubDate": "2026-11-26T22:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "防衛費50兆円台は「実質減額」 装備品分割払いや円安を考慮すると現行計画下回る水準に",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4X0pXdGJUM2FfaHF0djhqZS14WlhBYmxaOWpLSjdpcnY1b2JUeEtFZFB1U0ItRk5PaWdqUHlQcTBmU19PM1FyNE1ISXM1X2hSVWhrekEwVmhFa3FSTEtqemxxTzV3NHdfRnB4YjJPYXllZTdsdXc?oc=5",
+      "pubDate": "2026-11-26T21:18:57+09:00",
+      "source": "産経ニュース"
+    },
+    {
+      "title": "欧州外国為替市場概況・20時 ドル円、小高い(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZzRBY0dObXZhUjgxSmhCNW5uVVFId0RMa0w1UjQ5UWVwZFZoWmhVOFFtZU9RdWlBak1DVEhsZkJsQTJOZHR5WHBJNmVvMmVvV250RkIwZ2l4RVY4OXhsdFhJNkFRQkd0clVoR19ZbFpUWlFpYkxKT1JTNTBlbjUxUWg4SWZJYW8?oc=5",
+      "pubDate": "2026-11-26T20:06:04+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "東京為替:ドル・円は下げ渋り、ドルに買戻し",
-      "link": "https://www.zaikei.co.jp/article/20261126/879251.html",
-      "pubDate": "2026-11-26T12:24:00+09:00",
-      "source": "財経新聞"
+      "title": "欧州外国為替市場概況・20時 ドル円、小高い",
+      "link": "https://zai.diamond.jp/articles/-/499762",
+      "pubDate": "2026-11-26T20:06:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "テクニカルポイント ドル円 10日線と200日線に挟まれても見合い",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fNXJDYW9OQ1cwOE50aTBoUUFqbXpIdTgtODFaT1BSd2xSVFRpYWZRSGxJTjl2b2NxVUVKUWhPSW5OR1ZTTTMtag?oc=5",
-      "pubDate": "2026-11-26T12:10:16+09:00",
+      "title": "ドル円、小高い 159.30円台に上値を伸ばす",
+      "link": "https://zai.diamond.jp/articles/-/499761",
+      "pubDate": "2026-11-26T19:44:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、クロス円がやや円安方向に傾斜＝ロンドン為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kR3c1OS02dWlNSGdKQWQzY1FvNkNhczNWNlRLdUFHVlNEZldSVlJ0a29SbWVfdGIwYTlUTnJNeTg0bUlwNUxoaw?oc=5",
+      "pubDate": "2026-11-26T19:37:14+09:00",
       "source": "みんかぶ FX/為替"
     },
     {
-      "title": "東京外国為替市場概況・12時 ドル円 下げ渋る(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQclIzVUhLNHJqUnlZN1hocFNQOWVRdDZ1SXJaWFAxUXdScTlXMWx6cGtEWEhBVlBILUxOQlNIcWdlT1NOTkdJdU1QODJhWmVaaU50cFl5MDFrQzMyZDBYSGFzYUVmTGdRLWNQNC1UVlp5ZDlCdnFvUzR3UFdmSmpPSlZ3Unhtb0k?oc=5",
-      "pubDate": "2026-11-26T12:06:04+09:00",
+      "title": "NY為替見通し＝ドル円、感謝祭休場で動意薄も相場の急変に要警戒(トレーダーズ・ウェブ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYUtQVXl1R2Z0M2s3NExIVmVQdE15RWJTcExSdzV4cWFnNThmV0FJMm9GMzZQWUJzblRlUkdjSWdvSW9CdTNZMDZIR2ExRUhTQU9xU1pUaGdIemhjeGpFNmRTclcycWtBcjFKakdlTUlMV2pCVmI2T18tVXdsNnpwNERxVzBJNU0?oc=5",
+      "pubDate": "2026-11-26T19:32:04+09:00",
       "source": "Yahoo!ファイナンス"
     },
     {
-      "title": "円相場、159円16~17銭 26日正午現在",
-      "link": "https://www.jiji.com/jc/article?k=2026112600575&g=eco",
-      "pubDate": "2026-11-26T12:06:00+09:00",
-      "source": "時事ドットコム"
+      "title": "NY為替見通し=ドル円、感謝祭休場で動意薄も相場の急変に要警戒",
+      "link": "https://zai.diamond.jp/articles/-/499760",
+      "pubDate": "2026-11-26T19:32:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "円相場、１５９円１６～１７銭＝２６日正午現在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tQldiM0xNeVhhMm5Deks0TU95ZG1Vb0MtbVllWWdDb1RaZ0FsTXUzbzZXVkYwVnhSMXdjcXlhbWxQM21TWFFlNVF5cnAwRUNtWUNLdA?oc=5",
-      "pubDate": "2026-11-26T12:06:00+09:00",
-      "source": "時事通信ニュース"
+      "title": "生保大手の為替ヘッジ比率が過去最低に－円安阻止図る政府に逆風",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mTGUxNzJUaTFCQ3haWmg2VlBRWDJwNWlTbUpkRnFtcjdHM282MzBLcnlqQWQ2cURaZE1ib1ZhdVJDSVdobENHZVpGajNUNW5rMnJPeXY1aHUzWFhEdUVGMjBmdFEwVFNUQlFuN2Fxb1d4OWpw?oc=5",
+      "pubDate": "2026-11-26T19:06:00+09:00",
+      "source": "TBS NEWS DIG"
     },
     {
-      "title": "外為：1ドル159円17銭前後と小幅なドル安・円高で推移(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHVMakxLbHVFYXZURFQwZkgwMTl6UXhCay01YzIxY3pydHhDUGt2dFJxODdiMmlfMlJqc3I3LTlzeFNLNHZsazBPNjdUNm1tMDNkM29WNFZUeXBzS2hjRGlVYWoxWTJVOV8zcmEyWnZ6WHhpRVBPUU5qV2lSWDRsMXNrMnNJU2c?oc=5",
-      "pubDate": "2026-11-26T12:01:39+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "ドル・円、159円台前半で上値重く 米長期金利の低下が重し",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fTy1WX3ZVVGFXWkJLS3lubmpYcXdJZ2JJbDZTS2RIdUZKd0g0RzMtLWd3YWZ6R0pkelpqRHkxb1ZrWWk5VXJsVlRXTWtWSkRSSjNnUWlyVG1hd3paeHVDUjFhbHlhaDBMaU04V2pSbFp1Y3hZ?oc=5",
+      "pubDate": "2026-11-26T18:56:00+09:00",
+      "source": "BigGo ファイナンス"
     },
     {
-      "title": "ドル円動意薄、今晩のＮＹ市場は感謝祭で休場＝東京為替前場概況",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42NjhqWDZRLVA1aHlXNC0yZ1QtQXo2bk8xN1hVZFlTWW56aTNnWndjU2dxd2Q1VjhELUFxTkpmaFZvaTZYanNsMA?oc=5",
-      "pubDate": "2026-11-26T11:49:13+09:00",
-      "source": "みんかぶ FX/為替"
+      "title": "円相場 小幅な値動き 取引材料も乏しく",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1akFBd1pJUENfekxGQVVlZ3RaenBGMXJBanpxWXd6RkRtMEpWeTl5T3ZmamQzNkxqMTBFQjhkZmozSVFTTjBUNnY1dzdIOUR6RXZsVmk3ZDRfTE5jWWY4?oc=5",
+      "pubDate": "2026-11-26T18:27:22+09:00",
+      "source": "NHKニュース"
     },
     {
-      "title": "【FX】11/26 ドル円159円台で膠着！米国は感謝祭 ｜為替市場ニュースの振り返り、今日の見通し",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QZm9kLUVHS2xYRWQza3NtbENjUzRmazVVS0llVXgwR0UxT0o0alVzVUV2TTRWem1XcU51a2NteENsYVdQaUd3OTUxX2pMRlptS0N3eEZIYUFRMl9mbWROeFVJbw?oc=5",
-      "pubDate": "2026-11-26T11:30:00+09:00",
-      "source": "外為どっとコム"
+      "title": "ドル・円はやや失速、米金利の小幅低下で｜FX・為替ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SU2xqT2Z5NDdMZWtxQVhmb0xWLThOWnhiN3ZTZGIwSXpaOFFHRWJCY1pvRUE2LUxzRzA4WWwzMnBheUlqb0VybnRMc01QZUpPZkE?oc=5",
+      "pubDate": "2026-11-26T18:10:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "〔JPX貴金属〕金、NY上げ一服と円高で伸び悩み＝白金は堅調（26日午前）(時事通信)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmRfUXdTc3FLWktwT05Yd2w4VS1QaTBDcU4zTENHTlBfUDhkVjk2YTM2cExBcGg3N1RyaEJadk9PQVp1NEdUYWYxeGZ2Wl9aMExMT3ZpZFQ2eU00bEo2dEJJWnJjWV9fMjdsMlhBNlRzX3ZORHJuZDFKVWxYX2tFUzlnMnQ1VG8?oc=5",
-      "pubDate": "2026-11-26T11:14:11+09:00",
-      "source": "Yahoo!ファイナンス"
+      "title": "【ドル円予想2026/11/25】PCEデフレーターでドル円上昇?追加利上げ期待を後押しするか★分かり易いFX情報番組",
+      "link": "https://www.youtube.com/watch?v=HPZTqayoOcU",
+      "pubDate": "2026-11-26T18:07:00+09:00",
+      "source": "ひまわり証券"
     }
   ]
 }
