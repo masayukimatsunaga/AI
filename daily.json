@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T03:41:44+09:00",
+  "updatedAt": "2026-11-26T13:02:22+09:00",
   "source": {
     "name": "外為どっとコム マネ育チャンネル",
     "categoryUrl": "https://www.gaitame.com/media/archive/category/%E5%A4%96%E7%82%BA%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4",
@@ -9,48 +9,36 @@
     "orderDataUrl": "https://www.gaitame.com/markets/order/"
   },
   "report": {
-    "headline": "連続利上げを7割織り込む 160円の壁は堅い",
-    "sourceTitle": "FX/為替「ドル/円今日の見通し｜連続利上げを7割織り込む 160円の壁は堅い」 外為どっとコム トゥデイ 2026年11月25日号",
-    "url": "https://www.gaitame.com/media/entry/2026/11/25/083511",
-    "publishedAt": "2026-11-25T08:35:11+09:00",
-    "createdAt": "2026-11-25T08:30:00+09:00",
+    "headline": "159円挟みのもみ合い継続",
+    "sourceTitle": "FX/為替「ドル/円今日の見通し｜159円挟みのもみ合い継続」 外為どっとコム トゥデイ 2026年11月26日号",
+    "url": "https://www.gaitame.com/media/entry/2026/11/26/084121",
+    "publishedAt": "2026-11-26T08:41:21+09:00",
+    "createdAt": "2026-11-26T08:30:00+09:00",
     "forecastRange": {
-      "low": 158.5,
-      "high": 159.9
+      "low": 158.6,
+      "high": 159.5
     },
-    "outlook": "160円手前が上値抵抗",
+    "outlook": "159円挟みのもみ合い",
     "factors": [
-      "独IFO企業景況感指数 上昇",
-      "「米政府 新たな関税引き上げ準備」報道",
-      "米消費者信頼感指数 2025年1月以来の高水準"
+      "豪CPI 伸びが加速",
+      "米通商代表部 追加関税案発表",
+      "米PCEデフレーター 伸びが加速"
     ],
     "events": [
       {
-        "text": "22:30 ◎ (米) 10月個人所得",
-        "importance": "high"
-      },
-      {
-        "text": "22:30 ◎ (米) 10月個人消費支出",
-        "importance": "high"
-      },
-      {
-        "text": "22:30 ◎ (米) 10月PCEデフレーター",
-        "importance": "high"
-      },
-      {
-        "text": "22:30 ◎ (米) 10月PCEコア・デフレーター",
-        "importance": "high"
-      },
-      {
-        "text": "22:30 〇 (米) 新規失業保険申請件数",
+        "text": "21:30 〇 (ユーロ圏) ECB議事録",
         "importance": "medium"
       },
       {
-        "text": "22:30 〇 (米) 10月耐久財受注",
+        "text": "08:30 〇 (日) 11月東京都区部消費者物価指数",
         "importance": "medium"
+      },
+      {
+        "text": "※時間は日本時間での表示になります。 ※「注目の経済指標」「注目のイベント」は注目度が高い順に「◎」「○」「無印」で表示しております。 ※発表時刻は予告なく変更される場合があります。また、予定一覧は信憑性の高いと思われる情報を元にまとめておりますが、内容の正確性を保証するものではございませんので、事前にご留意くださいますようお願いいたします。",
+        "importance": "high"
       }
     ],
-    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261125/20261125083050.png",
+    "orderBookImage": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gaitamesk/20261126/20261126083127.png",
     "orderBookGuideUrl": "https://www.gaitame.com/markets/order/det/"
   },
   "orderReport": {
