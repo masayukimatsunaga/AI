@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T07:35:05+09:00",
+  "updatedAt": "2026-11-26T13:27:25+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,76 +12,76 @@
   },
   "news": [
     {
-      "title": "ニューヨーク外国為替市場概況・25日 ドル円、3日ぶり小反落",
-      "link": "https://zai.diamond.jp/articles/-/499718",
-      "publishedAt": "2026-11-26T07:03:00+09:00",
+      "title": "東京為替:ドル・円は小動き、材料難で",
+      "link": "https://www.zaikei.co.jp/article/20261126/879269.html",
+      "publishedAt": "2026-11-26T13:15:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "後場の日経平均は798円高でスタート、ソフトバンクGや古河電工などが上昇",
+      "link": "https://www.zaikei.co.jp/article/20261126/879267.html",
+      "publishedAt": "2026-11-26T12:56:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "日経平均後場寄り付き:前日比798.74円高の57810.36円",
+      "link": "https://zai.diamond.jp/articles/-/499737",
+      "publishedAt": "2026-11-26T12:30:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・4時 ドル円、買い戻し",
-      "link": "https://zai.diamond.jp/articles/-/499706",
-      "publishedAt": "2026-11-26T04:04:00+09:00",
+      "title": "東京為替:ドル・円は下げ渋り、ドルに買戻し",
+      "link": "https://www.zaikei.co.jp/article/20261126/879251.html",
+      "publishedAt": "2026-11-26T12:24:00+09:00",
+      "source": "財経新聞"
+    },
+    {
+      "title": "円相場、159円16~17銭 26日正午現在",
+      "link": "https://www.jiji.com/jc/article?k=2026112600575&g=eco",
+      "publishedAt": "2026-11-26T12:06:00+09:00",
+      "source": "時事ドットコム"
+    },
+    {
+      "title": "日経平均、午前終値875円高 AI売り一巡期待に配当再投資の追い風",
+      "link": "https://www.nikkei.com/article/DGXZQOUB260IZTW6A121C2000000/",
+      "publishedAt": "2026-11-26T11:55:00+09:00",
+      "source": "日経新聞"
+    },
+    {
+      "title": "【株式市場・前引け】日経平均は875円高、前日の下落幅の半分超を取り戻す、アドバンテストは6.38%高",
+      "link": "https://kabu-ir.com/article/522127390.html",
+      "publishedAt": "2026-11-26T11:53:00+09:00",
+      "source": "日本インタビュ新聞"
+    },
+    {
+      "title": "東証前引け 日経平均は反発 一時1200円高、AI・半導体株に買い戻し",
+      "link": "https://www.nikkei.com/article/DGXZQOFL262630W6A121C2000000/",
+      "publishedAt": "2026-11-26T11:47:00+09:00",
+      "source": "日経新聞"
+    },
+    {
+      "title": "875円高の5万7886円95銭 26日午前の平均株価",
+      "link": "https://www.jiji.com/jc/article?k=2026112600552&g=eco",
+      "publishedAt": "2026-11-26T11:45:00+09:00",
+      "source": "時事ドットコム"
+    },
+    {
+      "title": "日経平均前場引け:前日比875.33円高の57886.95円",
+      "link": "https://zai.diamond.jp/articles/-/499735",
+      "publishedAt": "2026-11-26T11:36:00+09:00",
       "source": "ザイFX！"
     },
     {
-      "title": "NY外為:ドル売り後退、米7年債入札は弱い",
-      "link": "https://zai.diamond.jp/articles/-/499702",
-      "publishedAt": "2026-11-26T02:30:00+09:00",
-      "source": "ザイFX！"
+      "title": "東京為替:ドル・円は159円09銭付近に持ち直す、10時台後半に上昇",
+      "link": "https://www.zaikei.co.jp/article/20261126/879237.html",
+      "publishedAt": "2026-11-26T11:02:00+09:00",
+      "source": "財経新聞"
     },
     {
-      "title": "ニューヨーク外国為替市場概況・2時 ドル円、軟調",
-      "link": "https://zai.diamond.jp/articles/-/499699",
-      "publishedAt": "2026-11-26T02:06:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "NY外為:円やスイスフランは堅調、リスク回避や安全資産買い再燃、米は新関税提案",
-      "link": "https://zai.diamond.jp/articles/-/499698",
-      "publishedAt": "2026-11-26T01:41:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、159円割れ 一時158.94円まで下げる",
-      "link": "https://zai.diamond.jp/articles/-/499697",
-      "publishedAt": "2026-11-26T01:38:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ニューヨーク外国為替市場概況・24時 ドル円、頭重い",
-      "link": "https://zai.diamond.jp/articles/-/499693",
-      "publishedAt": "2026-11-26T00:07:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【NY為替オープニング】ベージュブックや7年債入札に注目、米コアPCEで12月FOMCでの利上げより確実に",
-      "link": "https://zai.diamond.jp/articles/-/499692",
-      "publishedAt": "2026-11-26T00:06:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【速報】ドル・円159.27円、ドル買い先行、米・10月新築住宅販売件数は予想上回る",
-      "link": "https://zai.diamond.jp/articles/-/499691",
-      "publishedAt": "2026-11-26T00:02:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、弱含み 一時159.04円付近まで下押し",
-      "link": "https://zai.diamond.jp/articles/-/499689",
-      "publishedAt": "2026-11-25T23:49:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【市場反応】米10月コアPCE価格指数/7-9月期GDP改定値は予想上回る、失業保険申請件数は57年ぶり低水準でドル売り",
-      "link": "https://zai.diamond.jp/articles/-/499687",
-      "publishedAt": "2026-11-25T23:39:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "【速報】ドル・円159.18円、リスクオフで円堅調、米コアPCEは予想上回る",
-      "link": "https://zai.diamond.jp/articles/-/499686",
-      "publishedAt": "2026-11-25T22:39:00+09:00",
-      "source": "ザイFX！"
+      "title": "外為10時 円相場、上げ幅拡大 158円台後半 中値「ドル売り優勢」の声",
+      "link": "https://www.nikkei.com/article/DGXZQOFL2616B0W6A121C2000000/",
+      "publishedAt": "2026-11-26T10:24:00+09:00",
+      "source": "日経新聞"
     }
   ],
   "recentIndicators": [
@@ -323,20 +323,25 @@
     }
   ],
   "fundamental": {
-    "score": 5,
-    "label": "ドル高・円安材料が優勢",
+    "score": -1,
+    "label": "材料は拮抗",
     "upFactors": [
-      "【NY為替オープニング】ベージュブックや7年債入札に注目、米コアPCEで12月FOMCでの利上げより確実に",
       "米国 11/15 - 11/21 新規失業保険申請件数：結果 18.9万件／予想 20.1万件",
       "米国 10月 コアPCE価格指数[前年比]：結果 3.3%／予想 3.2%",
       "米国 第3四半期 実質GDP[前期比年率]：結果 4.3%／予想 3.4%",
       "米国 11/08 - 11/14 失業保険継続受給者数：結果 169.7万件／予想 176.1万件"
     ],
-    "downFactors": [],
+    "downFactors": [
+      "後場の日経平均は798円高でスタート、ソフトバンクGや古河電工などが上昇",
+      "日経平均後場寄り付き:前日比798.74円高の57810.36円",
+      "日経平均、午前終値875円高 AI売り一巡期待に配当再投資の追い風",
+      "【株式市場・前引け】日経平均は875円高、前日の下落幅の半分超を取り戻す、アドバンテストは6.38%高",
+      "東証前引け 日経平均は反発 一時1200円高、AI・半導体株に買い戻し"
+    ],
     "neutralFactors": [
-      "ニューヨーク外国為替市場概況・25日 ドル円、3日ぶり小反落",
-      "ニューヨーク外国為替市場概況・4時 ドル円、買い戻し",
-      "NY外為:ドル売り後退、米7年債入札は弱い"
+      "東京為替:ドル・円は小動き、材料難で",
+      "東京為替:ドル・円は下げ渋り、ドルに買戻し",
+      "円相場、159円16~17銭 26日正午現在"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
