@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T14:23:53+09:00",
+  "updatedAt": "2026-11-28T00:37:24+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -12,80 +12,79 @@
   },
   "news": [
     {
-      "title": "東京為替:ドル・円は小高い、米株高期待で",
-      "link": "https://www.zaikei.co.jp/article/20261127/879471.html",
-      "publishedAt": "2026-11-27T14:07:00+09:00",
+      "title": "NY外為:ドル買い強まる、米長期金利が上昇、原油高や安全資産買い後退で",
+      "link": "https://www.zaikei.co.jp/article/20261128/879542.html",
+      "publishedAt": "2026-11-28T00:27:00+09:00",
       "source": "財経新聞"
     },
     {
-      "title": "日経平均は1107円高、韓国KOSPI堅調で東京市場の株価支援要因に",
-      "link": "https://www.zaikei.co.jp/article/20261127/879467.html",
-      "publishedAt": "2026-11-27T13:52:00+09:00",
+      "title": "ニューヨーク外国為替市場概況・24時 ユーロドル、弱含み",
+      "link": "https://zai.diamond.jp/articles/-/499822",
+      "publishedAt": "2026-11-28T00:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "【NY為替オープニング】リスクオフ後退や原油高で米金利上昇、ドル続伸",
+      "link": "https://zai.diamond.jp/articles/-/499821",
+      "publishedAt": "2026-11-27T23:49:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "ドル円、じり高 日通し高値を更新",
+      "link": "https://zai.diamond.jp/articles/-/499817",
+      "publishedAt": "2026-11-27T22:21:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "欧州外国為替市場概況・22時 ドル円、下げ渋り",
+      "link": "https://zai.diamond.jp/articles/-/499815",
+      "publishedAt": "2026-11-27T22:06:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "米FRB発言が緩和寄りに転じなければ週末に仮想通貨売りの可能性=アーサー・ヘイズ予測",
+      "link": "https://coinpost.jp/?p=749684",
+      "publishedAt": "2026-11-27T21:00:00+09:00",
+      "source": "CoinPost"
+    },
+    {
+      "title": "欧州株高でリスク選好地合い継続、ドル円は一時159円台半ば超えに=ロンドン為替概況 - - みんかぶ FX/為替",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02dS1seXFjM2oxc3lrQWdNT05sMzJfYVhvTmtTZHIzMVVyX3E5dmdCaDVTdU05dEdRWXFkUzBiY1BialVERHFETA?oc=5",
+      "publishedAt": "2026-11-27T20:58:00+09:00",
+      "source": "Google"
+    },
+    {
+      "title": "欧州為替:ドル・円は伸び悩み、欧米株高で円売りは継続",
+      "link": "https://www.zaikei.co.jp/article/20261127/879540.html",
+      "publishedAt": "2026-11-27T20:13:00+09:00",
       "source": "財経新聞"
     },
     {
-      "title": "三菱UFJFGなど銀行株が高い 12月の日銀利上げ観測で見直し買い",
-      "link": "https://www.nikkei.com/article/DGXZQOFL273HY0X21C26A1000000/",
-      "publishedAt": "2026-11-27T13:17:00+09:00",
-      "source": "日経新聞"
+      "title": "欧州外国為替市場概況・20時 ドル円、じり高",
+      "link": "https://zai.diamond.jp/articles/-/499813",
+      "publishedAt": "2026-11-27T20:06:00+09:00",
+      "source": "ザイFX！"
     },
     {
-      "title": "東京為替:ドル・円は小動き、材料難で",
-      "link": "https://www.zaikei.co.jp/article/20261127/879455.html",
-      "publishedAt": "2026-11-27T13:16:00+09:00",
+      "title": "BTC(ビットコイン)は米雇用統計で利上げ観測に変化か、エヌビディア調査にも注目【マネックス証券】",
+      "link": "https://www.nadanews.com/393283/",
+      "publishedAt": "2026-11-27T20:00:00+09:00",
+      "source": "NADANEWS"
+    },
+    {
+      "title": "NY為替見通し=ドル円、株高の裏に潜むバブルの反動とブラックフライデーの薄商いに警戒",
+      "link": "https://zai.diamond.jp/articles/-/499812",
+      "publishedAt": "2026-11-27T19:37:00+09:00",
+      "source": "ザイFX！"
+    },
+    {
+      "title": "欧州為替:ドル・円は小高い、クロス円は堅調維持",
+      "link": "https://www.zaikei.co.jp/article/20261127/879534.html",
+      "publishedAt": "2026-11-27T19:06:00+09:00",
       "source": "財経新聞"
-    },
-    {
-      "title": "後場の日経平均は984円高でスタート、マイクロニクスやメイコーなどが上昇",
-      "link": "https://www.zaikei.co.jp/article/20261127/879454.html",
-      "publishedAt": "2026-11-27T13:04:00+09:00",
-      "source": "財経新聞"
-    },
-    {
-      "title": "外為12時 円相場、横ばい圏 159円台前半 商い乏しく",
-      "link": "https://www.nikkei.com/article/DGXZQOFL271G20X21C26A1000000/",
-      "publishedAt": "2026-11-27T12:39:00+09:00",
-      "source": "日経新聞"
-    },
-    {
-      "title": "日経平均後場寄り付き:前日比984.98円高の58484.14円",
-      "link": "https://zai.diamond.jp/articles/-/499791",
-      "publishedAt": "2026-11-27T12:34:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "円相場、159円19~19銭 27日正午現在",
-      "link": "https://www.jiji.com/jc/article?k=2026112700480&g=eco",
-      "publishedAt": "2026-11-27T12:12:00+09:00",
-      "source": "時事ドットコム"
-    },
-    {
-      "title": "ドル円、159.14円までじり安 対ユーロなどでドル売り強まる",
-      "link": "https://zai.diamond.jp/articles/-/499788",
-      "publishedAt": "2026-11-27T11:51:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "日経平均前場引け:前日比672.88円高の58172.04円",
-      "link": "https://zai.diamond.jp/articles/-/499786",
-      "publishedAt": "2026-11-27T11:33:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "外為10時 円相場、下げ幅拡大 159円台前半 中値「ドル買い優勢」の声",
-      "link": "https://www.nikkei.com/article/DGXZQOFL2714X0X21C26A1000000/",
-      "publishedAt": "2026-11-27T10:32:00+09:00",
-      "source": "日経新聞"
-    },
-    {
-      "title": "ドル円、一時159.37円まで上昇 昨日高値上抜け",
-      "link": "https://zai.diamond.jp/articles/-/499779",
-      "publishedAt": "2026-11-27T09:22:00+09:00",
-      "source": "ザイFX！"
     }
   ],
-  "recentIndicators": [],
-  "upcomingIndicators": [
+  "recentIndicators": [
     {
       "scheduledAt": "2026-11-27T22:30:00+09:00",
       "dateLabel": "11/27",
@@ -94,11 +93,13 @@
       "country": "米国",
       "importance": 3,
       "title": "10月 卸売在庫[前月比]",
-      "result": "",
+      "result": "0.9%",
       "forecast": "",
       "previous": "0.7%",
       "url": "https://nikkei225jp.com/schedule/"
-    },
+    }
+  ],
+  "upcomingIndicators": [
     {
       "scheduledAt": "2026-11-30T08:50:00+09:00",
       "dateLabel": "11/30",
@@ -217,71 +218,6 @@
       "url": "https://nikkei225jp.com/schedule/"
     },
     {
-      "scheduledAt": "2026-12-04T00:00:00+09:00",
-      "dateLabel": "12/4",
-      "timeLabel": "00:00",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 5,
-      "title": "11月 ISM非製造業景気指数",
-      "result": "",
-      "forecast": "54.6",
-      "previous": "54.5",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-12-04T00:00:00+09:00",
-      "dateLabel": "12/4",
-      "timeLabel": "00:00",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 4,
-      "title": "10月 耐久財受注（確報値） [前月比]",
-      "result": "",
-      "forecast": "0.2%",
-      "previous": "0.2%",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-12-04T00:00:00+09:00",
-      "dateLabel": "12/4",
-      "timeLabel": "00:00",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 4,
-      "title": "10月 耐久財受注(確報値) [輸送除くコア・前月比]",
-      "result": "",
-      "forecast": "",
-      "previous": "",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-12-04T22:30:00+09:00",
-      "dateLabel": "12/4",
-      "timeLabel": "22:30",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 5,
-      "title": "11月 雇用統計 [非農業部門雇用者数・前月比]",
-      "result": "",
-      "forecast": "",
-      "previous": "16.5万人",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
-      "scheduledAt": "2026-12-04T22:30:00+09:00",
-      "dateLabel": "12/4",
-      "timeLabel": "22:30",
-      "countryCode": "us",
-      "country": "米国",
-      "importance": 5,
-      "title": "11月 雇用統計 [雇用統計（失業率）]",
-      "result": "",
-      "forecast": "",
-      "previous": "4.1%",
-      "url": "https://nikkei225jp.com/schedule/"
-    },
-    {
       "scheduledAt": "2026-12-05T00:00:00+09:00",
       "dateLabel": "12/5",
       "timeLabel": "00:00",
@@ -296,19 +232,16 @@
     }
   ],
   "fundamental": {
-    "score": -4,
-    "label": "ドル安・円高材料が優勢",
-    "upFactors": [],
-    "downFactors": [
-      "日経平均は1107円高、韓国KOSPI堅調で東京市場の株価支援要因に",
-      "三菱UFJFGなど銀行株が高い 12月の日銀利上げ観測で見直し買い",
-      "後場の日経平均は984円高でスタート、マイクロニクスやメイコーなどが上昇",
-      "日経平均後場寄り付き:前日比984.98円高の58484.14円"
+    "score": 1,
+    "label": "材料は拮抗",
+    "upFactors": [
+      "【NY為替オープニング】リスクオフ後退や原油高で米金利上昇、ドル続伸"
     ],
+    "downFactors": [],
     "neutralFactors": [
-      "東京為替:ドル・円は小高い、米株高期待で",
-      "東京為替:ドル・円は小動き、材料難で",
-      "外為12時 円相場、横ばい圏 159円台前半 商い乏しく"
+      "NY外為:ドル買い強まる、米長期金利が上昇、原油高や安全資産買い後退で",
+      "ニューヨーク外国為替市場概況・24時 ユーロドル、弱含み",
+      "ドル円、じり高 日通し高値を更新"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
