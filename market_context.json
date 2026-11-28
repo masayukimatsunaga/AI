@@ -1,27 +1,26 @@
 {
-  "updatedAt": "2026-11-28T14:00:54+09:00",
+  "updatedAt": "2026-11-28T23:15:31+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
     "fxUrl": "https://225225.jp/4fx/",
     "scheduleUrl": "https://nikkei225jp.com/schedule/",
     "feeds": [
-      "https://nikkei225jp.com/_data/_nfsDATA/rss/News_9.js",
-      "https://nikkei225jp.com/_data/_nfsDATA/rss/News_ALL1.js"
+      "https://nikkei225jp.com/_data/_nfsDATA/rss/News_9.js"
     ]
   },
   "news": [
     {
-      "title": "円安でビットコインの円キャリーは一息|焦点は2年債入札へ",
-      "link": "https://crypto-times.jp/news-yen-carry-bitcoin-2y-jgb/",
-      "publishedAt": "2026-11-28T13:20:00+09:00",
-      "source": "CRYPTO TIMES"
+      "title": "【ドル円予想2026/11/26】ドル円は方向感に欠ける?感謝祭の薄商いに警戒!★分かり易いFX情報番組",
+      "link": "https://www.youtube.com/watch?v=-0FXM5j9oiM",
+      "publishedAt": "2026-11-28T22:24:00+09:00",
+      "source": "ひまわり証券"
     },
     {
-      "title": "国内外の注目経済指標:米景気の底堅さと雇用情勢の見極めへ、欧州インフレとカナダ雇用にも注目",
-      "link": "https://www.zaikei.co.jp/article/20261128/879559.html",
-      "publishedAt": "2026-11-28T12:25:00+09:00",
-      "source": "財経新聞"
+      "title": "【ドル円予想2026/11/27】1ドル=160円手前の攻防!円高が進みにくい理由は?★分かり易いFX情報番組",
+      "link": "https://www.youtube.com/watch?v=CwX-B4Me9VE",
+      "publishedAt": "2026-11-28T17:28:00+09:00",
+      "source": "ひまわり証券"
     },
     {
       "title": "ニューヨーク外国為替市場概況・27日 ユーロドル、続落",
@@ -284,19 +283,21 @@
     }
   ],
   "fundamental": {
-    "score": 1,
+    "score": -1,
     "label": "材料は拮抗",
-    "upFactors": [
-      "円安でビットコインの円キャリーは一息|焦点は2年債入札へ"
+    "upFactors": [],
+    "downFactors": [
+      "【ドル円予想2026/11/27】1ドル=160円手前の攻防!円高が進みにくい理由は?★分かり易いFX情報番組"
     ],
-    "downFactors": [],
     "neutralFactors": [
-      "国内外の注目経済指標:米景気の底堅さと雇用情勢の見極めへ、欧州インフレとカナダ雇用にも注目",
+      "【ドル円予想2026/11/26】ドル円は方向感に欠ける?感謝祭の薄商いに警戒!★分かり易いFX情報番組",
       "ニューヨーク外国為替市場概況・27日 ユーロドル、続落",
       "【来週の注目イベント】OECD経済見通し、各国PMI、米雇用統計、ISM製造業・非製造業景況指数、ADP、JOLTなど"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
-  "warnings": [],
+  "warnings": [
+    "ニュース取得失敗: Could not fetch https://nikkei225jp.com/_data/_nfsDATA/rss/News_ALL1.js: HTTP Error 404: Not Found"
+  ],
   "disclaimer": "公開情報の機械整理であり、売買推奨や将来の価格保証ではありません。"
 }
