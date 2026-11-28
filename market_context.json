@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T08:44:58+09:00",
+  "updatedAt": "2026-11-28T14:00:54+09:00",
   "source": {
     "name": "225225.jp / 日経225先物 リアルタイムCME SGX",
     "newsUrl": "https://nikkei225jp.com/news/",
@@ -11,6 +11,18 @@
     ]
   },
   "news": [
+    {
+      "title": "円安でビットコインの円キャリーは一息|焦点は2年債入札へ",
+      "link": "https://crypto-times.jp/news-yen-carry-bitcoin-2y-jgb/",
+      "publishedAt": "2026-11-28T13:20:00+09:00",
+      "source": "CRYPTO TIMES"
+    },
+    {
+      "title": "国内外の注目経済指標:米景気の底堅さと雇用情勢の見極めへ、欧州インフレとカナダ雇用にも注目",
+      "link": "https://www.zaikei.co.jp/article/20261128/879559.html",
+      "publishedAt": "2026-11-28T12:25:00+09:00",
+      "source": "財経新聞"
+    },
     {
       "title": "ニューヨーク外国為替市場概況・27日 ユーロドル、続落",
       "link": "https://zai.diamond.jp/articles/-/499838",
@@ -60,12 +72,6 @@
       "source": "ザイFX！"
     },
     {
-      "title": "NY外為:ドル買い強まる、米長期金利が上昇、原油高や安全資産買い後退で",
-      "link": "https://zai.diamond.jp/articles/-/499825",
-      "publishedAt": "2026-11-28T00:37:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
       "title": "ニューヨーク外国為替市場概況・24時 ユーロドル、弱含み",
       "link": "https://zai.diamond.jp/articles/-/499822",
       "publishedAt": "2026-11-28T00:06:00+09:00",
@@ -75,12 +81,6 @@
       "title": "【NY為替オープニング】リスクオフ後退や原油高で米金利上昇、ドル続伸",
       "link": "https://zai.diamond.jp/articles/-/499821",
       "publishedAt": "2026-11-27T23:49:00+09:00",
-      "source": "ザイFX！"
-    },
-    {
-      "title": "ドル円、じり高 日通し高値を更新",
-      "link": "https://zai.diamond.jp/articles/-/499817",
-      "publishedAt": "2026-11-27T22:21:00+09:00",
       "source": "ザイFX！"
     }
   ],
@@ -284,14 +284,16 @@
     }
   ],
   "fundamental": {
-    "score": 0,
+    "score": 1,
     "label": "材料は拮抗",
-    "upFactors": [],
+    "upFactors": [
+      "円安でビットコインの円キャリーは一息|焦点は2年債入札へ"
+    ],
     "downFactors": [],
     "neutralFactors": [
+      "国内外の注目経済指標:米景気の底堅さと雇用情勢の見極めへ、欧州インフレとカナダ雇用にも注目",
       "ニューヨーク外国為替市場概況・27日 ユーロドル、続落",
-      "【来週の注目イベント】OECD経済見通し、各国PMI、米雇用統計、ISM製造業・非製造業景況指数、ADP、JOLTなど",
-      "ニューヨーク外国為替市場概況・4時 ユーロドル、弱含み"
+      "【来週の注目イベント】OECD経済見通し、各国PMI、米雇用統計、ISM製造業・非製造業景況指数、ADP、JOLTなど"
     ],
     "method": "225225.jp掲載ニュースの政策・金利語句と、日米主要指標の結果対市場予想を機械整理"
   },
